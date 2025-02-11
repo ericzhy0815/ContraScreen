@@ -3,7 +3,7 @@
 ## Backend
 
 ```bash
-cp backend
+cd backend
 # On Mac/Linux
 source venv/bin/activate
 # On Windows
