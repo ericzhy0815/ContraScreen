@@ -1,6 +1,6 @@
-## Installation
+# Installation
 
-# Backend
+## Backend
 
 ```bash
 cp backend
@@ -11,7 +11,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-# Frontend
+## Frontend
 
 ```bash
 cd frontend
@@ -19,4 +19,4 @@ npm install
 npm run dev
 ```
 
-## File Structure
+# File Structure
