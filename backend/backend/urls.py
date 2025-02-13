@@ -15,8 +15,15 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
+
+from .views import google_auth_callback
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path("accounts/", include("allauth.urls")),  # Allauth
+    path('api/auth/', include('dj_rest_auth.urls')),  # Auth endpoints
+    path('api/auth/google/', include('allauth.urls')),  # Google Auth
+    path("api/auth/google/callback/", google_auth_callback, name="google_auth_callback"),
 ]
+
