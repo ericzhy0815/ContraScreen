@@ -1,0 +1,2119 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009635871478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635871478","","DevOps Engineer","Caveon","United States","2025-02-12","","","","","","",False,"","","sponsored","","The DevOps engineer will work with the IT teams and development teams to oversee code releases of our software solutions, measure performance metrics to ensure that user expected performance goals are being met, deploying code, software, and firmware updates feature planning and resource technology planning, monthly audits and testing, end user support as needed, as well as aide in the implementation and maintenance of Caveon’s InfoSec and ISO 27001 programs.
+
+**Knowledge / Skills / Ability:**
+
+* Identify hardware and software problems and solutions
+* Troubleshooting technical issues
+* Translate development needs into scalable, secure infrastructure deployments.
+* Ability to understand Python, Flask, Node.js, React, Vue.js, and Angular.js
+* Ability to write SQL scripts to identify, troubleshoot, and correct data issues.
+* Strong knowledge of deployment pipelines and the effective implementation of Jenkins
+* Familiarity with Kubernetes environment setup, maintenance, and security, including associated management tools.
+* Familiarity with automated penetration testing solutions and processes.
+* Talking to technology users, and in some cases remoting into computers, and performing a series of actions to resolve problems
+* Participate in daily meetings with the IT team and operate independently.
+* Ability to understand multiple application technologies and provide troubleshooting and guidance to co\\-workers
+* Supporting the roll\\-out of new applications and features
+* Ability to perform security monitoring and hardening
+* Ability to establish and ensure adherence to security and process protocols
+* Collaborative team spirit
+
+**Preferred Education and Experience:**
+
+* Bachelor’s degree in IT, computer science, information systems, or a related field
+* 3\\+ years of experience working in a DevOps role or high\\-level system administration
+* Knowledge of Windows, Mac, and Linux operating systems and kernels
+* Excellent interpersonal skills
+* Excellent understanding of computer systems, security, network and systems administration, databases and data storage systems, and telecommunications systems
+
+**Other Responsibilities:**
+
+* Other duties and tasks as assigned
+* Maintain confidentiality at all times
+* Caveon takes information security seriously and requires that all employees adhere to all established policies and communicate any information system/information security concern immediately to Senior Management so it can promptly be investigated.
+
+**Miscellaneous:**
+
+* Must be eligible to work in the United States.
+* Ability to work from home with minimal direction
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Caveon is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+
+Job Type: Full\\-time
+
+Pay: $10\\.00 \\- $11\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Compensation Package:
+
+* Profit sharing
+* Yearly pay
+
+Work Location: Remote","","https://www.glassdoor.com/Overview/W-EI_IE303916.htm","https://media.glassdoor.com/sql/303916/caveon-squarelogo-1638881330042.png","","","","",""
+"gd-1009634953767","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634953767","","Principal Software Engineer IV","Raytheon","Tucson, AZ","2025-02-12","","direct_data","yearly",101000.0,203000.0,"USD",False,"","","organic","","**Date Posted:**
+
+
+2025\\-02\\-11**Country:**
+
+
+United States of America**Location:**
+
+
+AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA**Position Role Type:**
+
+
+Onsite
+At Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.
+
+
+Raytheon Industry 4\\.0 \\- Connected Factory Intelligence and Automation (CFI\\&A) has an immediate career\\-growth opportunity for an enthusiastic, highly motivated, and innovative Software Systems Engineer team member to join our Team. As a Connected Factory developer, you will be a key contributor to design, development, integration, testing and deployment of advanced IIoT / Industry 4\\.0 technologies based in Ignition. Additionally, this role will perform root cause corrective action (RCCA) for any hardware and software issues identified in the SDF\\&A products in the manufacturing factory while supporting data analytics and data visualization efforts. The role will work in close collaboration with digital factory engineering, chief engineers / architects, front end of the business, and SDF\\&A / factory leadership and will include all aspects of the product development lifecycle \\- planning, requirements, design, development, test, deployment, and sustainment.
+
+**What You Will Do**
+
+* Lead and execute projects involving Ignition application development.
+* Contribute to IIoT continued growth and deployment by working with sensors, gateways, connectivity solutions, APIs, and data analytic platforms.
+* Provide recommendations and execution on methods to connect manufacturing equipment to IIoT/OT layer network
+* Set communication protocols and network configurations on network devices (EIP, Modbus/TCP, MQTT, etc).
+* Contribute to major team projects as well as work with minimal oversight to solve complex problems supporting SDF\\&A Engineering Systems.
+* Analyze and correlate large, complex data sets; support digital thread implementation; develop and execute analytics reports and visualization toolsets while ensuring data integrity.
+* Expected to Travel 10% of the time.
+
+**What You Will Learn**
+
+* You will gain technical leadership experience, mentorship opportunities, and exposure to very influential individuals across Raytheon that will help advance your career.
+* You will obtain invaluable experience working with our I4\\.0 subject matter experts in addition to Digital Technologies specialists, our customer base, and cross\\-functional team.
+* You will manage system integration projects and provide reliable data to the Customer enabling them to make informed decisions in their product area.
+
+**Qualifications You Must Have**
+
+* Typically requires Technical University degree in Engineering, Math or similar with 8\\+ years related experience, to include **significant Ignition SCADA** development using combination of tools such as: SQL, Python, C\\#/.NET, HTML5, JSON
+* Experience with scripting and dashboarding
+* Experience with Azure DevOps services framework
+* The ability to obtain and maintain a U.S. government issued Secret security clearance and who is eligible to obtain any required Export Authorization. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+* Experience using industrial communication protocols such as Modbus/TCP, MQTT, EIP, SECS/GEM, etc.
+* Experience with data analytics with skills that demonstrate ability to prepare, process, analyze, and visualize significant amounts of information from multiple data sources.
+
+**Qualifications We Prefer**
+
+* Ignition gold certification or willingness to achieve within first year
+* Experience with Splunk!, PowerBI, GraphQL, Tableau, SQL Server, SAP, Eyelit, Windows Task Scheduler Automation, SQL Server job agent automation, SQL Server SSIS
+* Experience with Industry 4\\.0 key concepts – connectivity, data collection, IIoT, systems integration, AI, machine learning, ISA\\-95, Pub/Sub.
+* Strong communication, project management and collaboration skills; experience working across organization boundaries
+* Experience building APIs and creating web applications
+* Experience with big data and data mining
+* Experience in distributed controls, cyber security, IT infrastructure integration or other related fields
+* Experience working in a manufacturing environment and familiarity with MES (Manufacturing Execution Systems)
+* Understanding of automation systems (robots, vision systems, PLCs, etc.) deployment and integration
+
+**What We Offer**
+
+
+Our Values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.
+
+**Not Relocation Eligible – Relocation assistance not available**
+
+**Learn More \\& Apply Now!**
+
+
+This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978\\.htm
+
+**This position is an onsite role at the Tucson, AZ site**
+
+
+The salary range for this role is 101,000 USD \\- 203,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short\\-term disability, long\\-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective\\-bargaining agreement.
+Hired applicants may be eligible for annual short\\-term and/or long\\-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective\\-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+This role is a U.S.\\-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.*RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.*
+
+
+**Privacy Policy and Terms:**
+
+
+Click on this link to read the Policy and Terms","","https://www.glassdoor.com/Overview/W-EI_IE561.htm","https://media.glassdoor.com/sql/561/rtx-squareLogo-1697547260138.png","","","","",""
+"gd-1009634790242","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634790242","","Senior Data Analyst","Cox Communications","Tucson, AZ","2025-02-12","","direct_data","yearly",79400.0,119000.0,"USD",False,"","","organic","","Prepares transactional analyses and reports for the Cox Communications Sales \\& Service Department and related stakeholders. Gathers and synthesizes data from multiple sources to identify opportunities, risks, and ongoing problems. Evaluates transactional data, analyzes trends, and prepares forecasts. Translates complex data into cogent information for the Sales department and partners. Displays strong communication skills in developing actionable recommendations for leadership.  
+
+  
+
+**What You'll Do**  
+
+  
+
+* Conducts analysis at multiple levels of complexity (including those that are highly technical and complex) which may include trend recognition, explanation of variances, development of forecasts, calculation of performance metrics, and the creation of business cases
+* Communicates results effectively. Utilizes Microsoft PowerPoint, Excel, written, and verbal mediums to convey analysis in a logical sequence
+* Locates and retrieves data from company data systems and can identify when other relevant data is needed and is able to collect data from other sources including employees and within the industry to generate a comprehensive data set
+* Collaborates across company departments to produce analysis related to specific sales channels, product lines, revenue, or expenses
+* Conducts research and analysis using sales, operations, and financial data as requested by supervisors, mid\\-level sales leadership and senior sales leadership
+* Proactively pursues self\\-generated opportunities to identify value
+* Utilizes Microsoft Excel to organize, parse, and display data in tabular and graphical formats
+* Ensures quality checks are built into work to prevent errors and maintain data integrity
+* Demonstrates proficiency in Microsoft PowerPoint to communicate analytical results
+* Recommends specific actions that can be clearly reached because of following an organized, logical, analytical process
+* Contributes to departmental understanding of results post\\-production, by proactively and reactively communicating with internal clients
+May provide cross\\-functional guidance to lower\\-level analysts.  
+* 
+
+  
+
+  
+
+**What's In It For You**  
+
+  
+
+At Cox, we reward your hard work with meaningful benefits.  
+
+  
+
+First, we offer a highly competitive compensation package, 401(k) with a generous company match, comprehensive healthcare, life, and disability benefits, plus numerous other benefits, including adoption assistance, pet insurance, and discounts on travel and cars!  
+
+  
+
+We value people more than technology. That means you'll work within a culture and with a team that values your leadership, your experience, your contributions, and you \\- yes, you \\- as a person. We believe recognition is important, and Cox strives to celebrate those who help make us successful every day. We also encourage diversity and support inclusion; we want you to do you and feel comfortable doing so.  
+
+  
+
+We also offer boundless opportunities for growth; you can sharpen your skills, learn a new talent, join a mentoring program, even earn an advanced degree. You'll find the potential for lateral or upward career growth within the Cox family businesses, including the innovative startups in transportation mobility, clean tech and more.  
+
+  
+
+**Who You Are**  
+
+  
+
+**Minimum**  
+
+  
+
+* Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and up to 1 year of experience; or 8 years' experience in a related field
+* Demonstrated problem solving and analytical thinking skills
+* Requires strong knowledge of Microsoft Word, Excel, PowerPoint
+Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization  
+* 
+
+  
+
+  
+
+**Preferred**  
+
+  
+
+Master's degree in a related discipline strongly preferred  
+
+* 
+
+  
+
+  
+
+USD 79,400\\.00 \\- 119,000\\.00 per year  
+
+  
+
+**Compensation:**  
+
+  
+
+Compensation includes a base salary of $79,400\\.00 \\- $119,000\\.00\\. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.  
+
+  
+
+**Benefits:**  
+
+  
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.  
+
+  
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.  
+
+  
+
+**About Cox Communications**  
+
+  
+
+Cox Communications is the largest private telecom company in America, serving six million homes and businesses. That's a lot, but we also proudly serve our employees. Our benefits and our award\\-winning culture are just two of the things that make Cox a coveted place to work. If you're interested in bringing people closer through broadband, smart home tech and more, join Cox Communications today!  
+
+  
+
+**About Cox**  
+
+  
+
+Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses \\- which includes Cox Automotive and Cox Communications \\- is forging a better future for us all. Ready to make your mark? Join us today!  
+
+  
+
+Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .  
+
+  
+
+Cox is an Equal Employment Opportunity employer \\- All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.  
+
+  
+
+Statement to ALL Third\\-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.","","https://www.glassdoor.com/Overview/W-EI_IE4063.htm","https://media.glassdoor.com/sql/4063/cox-communications-squarelogo-1617775906639.png","","","","",""
+"go-LqGpVzgMfoOZGqMcAAAAAA==","google","https://us.bebee.com/job/a7d4cb57c363597e43bdbea8ffe9cdfa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist Lead","Komatsu","Tucson, AZ","2025-01-26","","","","","","",False,"","","","","About the Job:
+Komatsu Mining Technology Solutions is seeking a talented Data Scientist to join its Applied Sciences Team. As a Data Scientist, you will play a crucial role in designing and developing real-time optimization engines for automated and manned systems across the mining value stream, with a special focus on load & haul operation.
+
+Responsibilities:
+• Design and develop real-time optimization engines for automated and manned systems
+• Provide predictive tools to enable development teams, consulting teams, and customers to make informed decisions
+• Develop analytical tools that use historical and real-time data to predict the behavior of assets
+
+Requirements:
+• M.Sc. in Data Science or related field with 1+ years' experience or B.Sc. in Data Science or related field with 3+ years' experience
+• Proficient in at least one major programming language (Python, Scala, Java, C#, C/C++, Kotlin)
+• Hands-on experience with Git (handling branching and merging)
+• Solid knowledge of data structures, algorithm design, problem solving, and complexity analysis
+• Understanding of database theory and experience in at least one relational DBMS like SQL Server, PostgreSQL, and MySQL
+• Expertise in data manipulation and statistics","","","","","","","",""
+"go-jAJbrHi4CAUVzloiAAAAAA==","google","https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-tmt-manager-consulting-location-open-at-ey-4148190681?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","AI & Machine Learning Engineer - TMT - Manager - Consulting - Location OPEN","EY","Tucson, AZ","2025-01-20","","","","","","",False,"","","","ssc.customersupport@ey.com","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The exceptional EY experience. It's yours to build.
+
+EY focuses on high-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+
+AI/Machine Learning Engineer – TMT – Manager - Consulting
+
+The opportunity
+
+Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side-by-side with clients and diverse teams from EY to create a well-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+
+Your Key Responsibilities
+
+You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+
+You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+
+Skills And Attributes For Success
+
+This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+
+To qualify for the role you must have
+• Bachelor's degree and 6-10 years of full-time working experience in AI, Data Science, and/or Machine Learning
+• 2-4 years of experience directly managing technical teams
+• Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends.
+• Strong skills in Python.
+• Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG).
+• Experience working with popular ML packages such as scikit-learn, Pytorch and ONNX, or related ML libraries.
+• Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases.
+• Proven ability to design and implement machine learning solutions that enhance network performance and customer experience.
+• Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science.
+• Experience analyzing large-scale datasets from telecommunications networks, including call detail records and performance metrics.
+• Knowledge of streaming video and audio technologies, including analytics and content recommendation systems.
+• Experience with multi-modal models, including vision-language models.
+• Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications.
+• Knowledge of regulatory and compliance considerations specific to the TMT sector.
+• Experience with real-time data processing frameworks (e.g., Apache Kafka).
+• Familiarity with cloud-based telecommunications solutions (e.g., AWS, Azure).
+• Experience with network optimization algorithms and techniques.
+• Knowledge of emerging technologies such as edge computing and IoT.
+• A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions.
+• Experience with MLOps methods and platforms such as MLFlow.
+• Experience with CI/CD and test-driven development.
+• Experience designing, building, and maintaining ML models, frameworks, and pipelines.
+• Experience designing and deploying end to end ML workflows on at least one major cloud computing platform.
+• Understanding of data structures, data modelling and software engineering best practices.
+• Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark.
+• Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions.
+• Experience with containerization and scaling models.
+• Integrating models and feedback from downstream consumption systems - reporting and dashboards, AI driven applications.
+• Strong mathematical and quantitative skills including calculus, linear algebra, and statistics.
+• Willingness to travel to meet client obligations.
+
+Ideally, you'll also have
+• A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them.
+• Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field.
+• Experience working with diverse teams to deliver complex solutions.
+• Strong skills in languages beyond Python: R, JavaScript, Java, C++, C.
+• Experience fine-tuning Generative AI models.
+
+What We Look For
+• You have an agile, growth-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.
+• You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.
+• You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.
+
+What We Offer
+
+We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team-led and leader-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+EY accepts applications for this position on an on-going basis. If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+For those living in California, please click here for additional information.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+
+EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1-800-EY-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com","","","","","","","",""
+"go-Auj7O2knd55l3PCIAAAAAA==","google","https://us.bebee.com/job/84c526677af4e0d8ab0654da32b7d4f5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Analyst - Own Brand Reporting and Analysis","Jobsultant Solutions","Tucson, AZ","2025-01-20","contract","","","","","",True,"","","","","Job Title: Remote Data Analyst
+
+We are seeking a skilled Data Analyst to join our team at Jobsultant Solutions. As a Data Analyst in our Merchandise Planning Analytics team, you will be responsible for managing reporting, analysis, and tool building for the Walgreens Merchandising team.
+
+Responsibilities:
+• Own Brand reporting, recapping, tracking, and analysis, including ad-hoc analysis based on business needs
+• Item level historical analysis and recapping
+• Item level future looking forecast
+• Complex Excel formulas and ability to synthesize large data sets into meaningful executive recaps
+
+Requirements:
+• Bachelors Degree and at least 3-5 year of experience in one or more of the following: analytics, data science, finance, financial analysis, assortment planning, retail, procurement/purchasing, merchandising
+• Minimum 3 years experience in data analytics or other related field with strong understanding of retail merchandising basics (i.e. category management) and merchandising organization structures and processes
+• Outstanding analytical and problem-solving skills partnered with storytelling finesse
+• Ability to conduct complex quantitative analysis and build analytical models using Microsoft Excel
+• Ability to communicate effectively and succinctly both verbally and in writing via Microsoft PowerPoint
+• Ability to manage and prioritize multiple assignments and meet tight deadlines
+• Ability to develop effective working relationships with Merchandising, Planning, Finance and other stakeholders
+• Ability to work independently and adapt to changing work priorities
+• Retail math background; skills such as item level forecasting based on demand patterns or sell through/ sales/ profit goals, knowledge of sales by type and AUR impacts, all inventory and sales metrics
+• Intermediate/Advanced level skill in Microsoft Excel (for example: using SUM/SUMIFS, Subtotals, VLOOKUP, HLOOKUP, Macros, Pivot tables)
+
+Nice-to-Have Skills:
+• MBA preferred; Science, Technology, Engineering, Mathematics and/or other quantitative analytical degree a plus
+• Data science experience
+• Retail experience
+• SQL Coding, Microsoft Access, Macro building
+
+About the Job:
+
+The Walgreens Merchandise Planning Analytics team manages reporting, analysis, and tool building for the Walgreens Merchandising team. They support a team of 100+ merchants and 40+ planners to optimize performance of the Walgreens Front End (non-Pharmacy) businesses.
+
+Work Environment:
+
+100% remote - must work in CST
+
+8am-5pm (9 hour day with one hour lunch break 12pm-1pm)
+
+The hours can be flexible per above but minimally need 30 hours a week in order to fulfill the business needs
+
+Equal Opportunities:
+
+Optimere is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Optimere does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age or any other basis protected by applicable
+
+PLEASE NOTE:
+
+Optimere is unable to sponsor visas at this time. You must be a US Citizen or Permanent Resident authorized to work in the US
+
+About Optimere:
+
+Optimere is the 2nd largest Technical Staffing and Services Firm in the nation
+
+Job Type: Full-time
+
+Location: Remote
+
+Contract: 6-month contract with opportunity for extension or conversion
+
+Contact: Email: [no email provided], Phone: [no phone number provided]","","","","","","","",""
+"in-86de1b20a7471d4c","indeed","https://www.indeed.com/viewjob?jk=86de1b20a7471d4c","https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01751623&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01751623%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D225623%26rx_job%3D01751623%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20250212T200229Z%26rx_vp%3Dcpc","Principal Software Engineer IV","Raytheon","Tucson, AZ, US","2025-02-11","fulltime","direct_data","yearly",101000.0,203000.0,"USD",False,"","","","","**Date Posted:**
+
+
+2025\\-02\\-11**Country:**
+
+
+United States of America**Location:**
+
+
+AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA**Position Role Type:**
+
+
+Onsite
+At Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.
+
+
+Raytheon Industry 4\\.0 \\- Connected Factory Intelligence and Automation (CFI\\&A) has an immediate career\\-growth opportunity for an enthusiastic, highly motivated, and innovative Software Systems Engineer team member to join our Team. As a Connected Factory developer, you will be a key contributor to design, development, integration, testing and deployment of advanced IIoT / Industry 4\\.0 technologies based in Ignition. Additionally, this role will perform root cause corrective action (RCCA) for any hardware and software issues identified in the SDF\\&A products in the manufacturing factory while supporting data analytics and data visualization efforts. The role will work in close collaboration with digital factory engineering, chief engineers / architects, front end of the business, and SDF\\&A / factory leadership and will include all aspects of the product development lifecycle \\- planning, requirements, design, development, test, deployment, and sustainment.
+
+**What You Will Do**
+
+* Lead and execute projects involving Ignition application development.
+* Contribute to IIoT continued growth and deployment by working with sensors, gateways, connectivity solutions, APIs, and data analytic platforms.
+* Provide recommendations and execution on methods to connect manufacturing equipment to IIoT/OT layer network
+* Set communication protocols and network configurations on network devices (EIP, Modbus/TCP, MQTT, etc).
+* Contribute to major team projects as well as work with minimal oversight to solve complex problems supporting SDF\\&A Engineering Systems.
+* Analyze and correlate large, complex data sets; support digital thread implementation; develop and execute analytics reports and visualization toolsets while ensuring data integrity.
+* Expected to Travel 10% of the time.
+
+**What You Will Learn**
+
+* You will gain technical leadership experience, mentorship opportunities, and exposure to very influential individuals across Raytheon that will help advance your career.
+* You will obtain invaluable experience working with our I4\\.0 subject matter experts in addition to Digital Technologies specialists, our customer base, and cross\\-functional team.
+* You will manage system integration projects and provide reliable data to the Customer enabling them to make informed decisions in their product area.
+
+**Qualifications You Must Have**
+
+* Typically requires Technical University degree in Engineering, Math or similar with 8\\+ years related experience, to include **significant Ignition SCADA** development using combination of tools such as: SQL, Python, C\\#/.NET, HTML5, JSON
+* Experience with scripting and dashboarding
+* Experience with Azure DevOps services framework
+* The ability to obtain and maintain a U.S. government issued Secret security clearance and who is eligible to obtain any required Export Authorization. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+* Experience using industrial communication protocols such as Modbus/TCP, MQTT, EIP, SECS/GEM, etc.
+* Experience with data analytics with skills that demonstrate ability to prepare, process, analyze, and visualize significant amounts of information from multiple data sources.
+
+**Qualifications We Prefer**
+
+* Ignition gold certification or willingness to achieve within first year
+* Experience with Splunk!, PowerBI, GraphQL, Tableau, SQL Server, SAP, Eyelit, Windows Task Scheduler Automation, SQL Server job agent automation, SQL Server SSIS
+* Experience with Industry 4\\.0 key concepts – connectivity, data collection, IIoT, systems integration, AI, machine learning, ISA\\-95, Pub/Sub.
+* Strong communication, project management and collaboration skills; experience working across organization boundaries
+* Experience building APIs and creating web applications
+* Experience with big data and data mining
+* Experience in distributed controls, cyber security, IT infrastructure integration or other related fields
+* Experience working in a manufacturing environment and familiarity with MES (Manufacturing Execution Systems)
+* Understanding of automation systems (robots, vision systems, PLCs, etc.) deployment and integration
+
+**What We Offer**
+
+
+Our Values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.
+
+**Not Relocation Eligible – Relocation assistance not available**
+
+**Learn More \\& Apply Now!**
+
+
+This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978\\.htm
+
+**This position is an onsite role at the Tucson, AZ site**
+
+
+The salary range for this role is 101,000 USD \\- 203,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short\\-term disability, long\\-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective\\-bargaining agreement.
+Hired applicants may be eligible for annual short\\-term and/or long\\-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective\\-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+This role is a U.S.\\-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.*RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.*
+
+
+**Privacy Policy and Terms:**
+
+
+Click on this link to read the Policy and Terms","Aerospace And Defense","https://www.indeed.com/cmp/Raytheon","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9d37779ba08862de15d9853b90c89b0c","https://www.rtx.com/raytheon","1000 Wilson Blvd. 
+Arlington, VA 22209","10,000+","more than $10B (USD)","Raytheon, an RTX business, creates next-generation defense solutions that are smarter, faster and better than previously thought possible."
+"in-67a503098d5a84ed","indeed","https://www.indeed.com/viewjob?jk=67a503098d5a84ed","https://click.appcast.io/track/lvt957n-org?cs=5c","Senior Data Analyst","Cox Communications Inc.","Tucson, AZ, US","2025-02-11","fulltime","direct_data","yearly",79400.0,119000.0,"USD",False,"","","","","Prepares transactional analyses and reports for the Cox Communications Sales \\& Service Department and related stakeholders. Gathers and synthesizes data from multiple sources to identify opportunities, risks, and ongoing problems. Evaluates transactional data, analyzes trends, and prepares forecasts. Translates complex data into cogent information for the Sales department and partners. Displays strong communication skills in developing actionable recommendations for leadership.  
+
+  
+
+**What You'll Do**  
+
+  
+
+* Conducts analysis at multiple levels of complexity (including those that are highly technical and complex) which may include trend recognition, explanation of variances, development of forecasts, calculation of performance metrics, and the creation of business cases
+* Communicates results effectively. Utilizes Microsoft PowerPoint, Excel, written, and verbal mediums to convey analysis in a logical sequence
+* Locates and retrieves data from company data systems and can identify when other relevant data is needed and is able to collect data from other sources including employees and within the industry to generate a comprehensive data set
+* Collaborates across company departments to produce analysis related to specific sales channels, product lines, revenue, or expenses
+* Conducts research and analysis using sales, operations, and financial data as requested by supervisors, mid\\-level sales leadership and senior sales leadership
+* Proactively pursues self\\-generated opportunities to identify value
+* Utilizes Microsoft Excel to organize, parse, and display data in tabular and graphical formats
+* Ensures quality checks are built into work to prevent errors and maintain data integrity
+* Demonstrates proficiency in Microsoft PowerPoint to communicate analytical results
+* Recommends specific actions that can be clearly reached because of following an organized, logical, analytical process
+* Contributes to departmental understanding of results post\\-production, by proactively and reactively communicating with internal clients
+May provide cross\\-functional guidance to lower\\-level analysts.  
+* 
+
+  
+
+  
+
+**What's In It For You**  
+
+  
+
+At Cox, we reward your hard work with meaningful benefits.  
+
+  
+
+First, we offer a highly competitive compensation package, 401(k) with a generous company match, comprehensive healthcare, life, and disability benefits, plus numerous other benefits, including adoption assistance, pet insurance, and discounts on travel and cars!  
+
+  
+
+We value people more than technology. That means you'll work within a culture and with a team that values your leadership, your experience, your contributions, and you \\- yes, you \\- as a person. We believe recognition is important, and Cox strives to celebrate those who help make us successful every day. We also encourage diversity and support inclusion; we want you to do you and feel comfortable doing so.  
+
+  
+
+We also offer boundless opportunities for growth; you can sharpen your skills, learn a new talent, join a mentoring program, even earn an advanced degree. You'll find the potential for lateral or upward career growth within the Cox family businesses, including the innovative startups in transportation mobility, clean tech and more.  
+
+  
+
+**Who You Are**  
+
+  
+
+**Minimum**  
+
+  
+
+* Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and up to 1 year of experience; or 8 years' experience in a related field
+* Demonstrated problem solving and analytical thinking skills
+* Requires strong knowledge of Microsoft Word, Excel, PowerPoint
+Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization  
+* 
+
+  
+
+  
+
+**Preferred**  
+
+  
+
+Master's degree in a related discipline strongly preferred  
+
+* 
+
+  
+
+  
+
+USD 79,400\\.00 \\- 119,000\\.00 per year  
+
+  
+
+**Compensation:**  
+
+  
+
+Compensation includes a base salary of $79,400\\.00 \\- $119,000\\.00\\. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.  
+
+  
+
+**Benefits:**  
+
+  
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.  
+
+  
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.  
+
+  
+
+**About Cox Communications**  
+
+  
+
+Cox Communications is the largest private telecom company in America, serving six million homes and businesses. That's a lot, but we also proudly serve our employees. Our benefits and our award\\-winning culture are just two of the things that make Cox a coveted place to work. If you're interested in bringing people closer through broadband, smart home tech and more, join Cox Communications today!  
+
+  
+
+**About Cox**  
+
+  
+
+Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses \\- which includes Cox Automotive and Cox Communications \\- is forging a better future for us all. Ready to make your mark? Join us today!  
+
+  
+
+Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .  
+
+  
+
+Cox is an Equal Employment Opportunity employer \\- All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.  
+
+  
+
+Statement to ALL Third\\-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.","","https://www.indeed.com/cmp/Cox-Communications-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4437604392e00801332e7c2965803d7c","http://jobs.coxenterprises.com","Atlanta, GA","10,000+","more than $10B (USD)","At Cox Communications (part of the Cox family of businesses), we are committed to creating more moments of real human connection."
+"li-4148908932","linkedin","https://www.linkedin.com/jobs/view/4148908932","https://grnh.se/8e2777671us&urlHash=V-ZG","Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","Canonical","Tucson, AZ","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing. We are hiring
+ **Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions** 
+ to join our teams building open source solutions for public cloud and private infrastructure.
+   
+
+  
+
+ As a software engineer on the team, you'll collaborate on an end\\-to\\-end data analytics and mlops solution composed of popular, open\\-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end\\-to\\-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+   
+
+  
+
+ We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+   
+
+  
+
+**Location:** 
+ This initiative spans many teams that are home\\-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+   
+
+  
+
+**What your day will look like**
+* Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+* Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+* Master distributed systems concepts such as observability, identity, tracing
+* Work with both Kubernetes and machine\\-oriented open source applications
+* Collaborate proactively with a distributed team of engineers, designers and product managers
+* Debug issues and interact in public with upstream and Ubuntu communities
+* Generate and discuss ideas, and collaborate on finding good solutions
+
+
+**What we are looking for in you**
+* Professional or academic software delivery using Python
+* Exceptional academic track record from both high school and university
+* Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+* Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+* Track record of going above\\-and\\-beyond expectations to achieve outstanding results
+* Passion for technology evidenced by personal projects and initiatives
+* The work ethic and confidence to shine alongside motivated colleagues
+* Professional written and spoken English with excellent presentation skills
+* Experience with Linux (Debian or Ubuntu preferred)
+* Excellent interpersonal skills, curiosity, flexibility, and accountability
+* Appreciative of diversity, polite and effective in a multi\\-cultural, multi\\-national organisation
+* Thoughtfulness and self\\-motivation
+* Result\\-oriented, with a personal drive to meet commitments
+* Ability to travel twice a year, for company events up to two weeks long
+
+
+**Additional Skills That Would Be Nice To Have**
+ The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+   
+
+  
+
+* Hands\\-on experience with machine learning libraries, or tools.
+* Proven track record of building highly automated machine learning solutions for the cloud.
+* Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+* Experience with public clouds (AWS, Azure, Google Cloud)
+* Working knowledge of cloud computing
+* Passionate about software quality and testing
+* Experience working on an open source project
+
+
+ What we offer colleagues
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+**Canonical is an equal opportunity employer**
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Technology, Information and Internet","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","",""
+"li-4149955997","linkedin","https://www.linkedin.com/jobs/view/4149955997","https://careers.rtx.com/global/en/job/RAYTGLOBAL01751623EXTERNALENGLOBAL/Principal-Software-Engineer-IV?utm_source=linkedin&utm_medium=phenom-feeds&urlHash=KpvB","Principal Software Engineer IV","Raytheon","Tucson, AZ","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","**Date Posted:**
+ 2025\\-02\\-11
+   
+
+  
+
+**Country:**
+ United States of America
+   
+
+  
+
+**Location:**
+ AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA
+   
+
+  
+
+**Position Role Type:**
+ Onsite
+   
+
+  
+
+ At Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.
+   
+
+  
+
+ Raytheon Industry 4\\.0 \\- Connected Factory Intelligence and Automation (CFI\\&A) has an immediate career\\-growth opportunity for an enthusiastic, highly motivated, and innovative Software Systems Engineer team member to join our Team. As a Connected Factory developer, you will be a key contributor to design, development, integration, testing and deployment of advanced IIoT / Industry 4\\.0 technologies based in Ignition. Additionally, this role will perform root cause corrective action (RCCA) for any hardware and software issues identified in the SDF\\&A products in the manufacturing factory while supporting data analytics and data visualization efforts. The role will work in close collaboration with digital factory engineering, chief engineers / architects, front end of the business, and SDF\\&A / factory leadership and will include all aspects of the product development lifecycle \\- planning, requirements, design, development, test, deployment, and sustainment.
+   
+
+  
+
+**What You Will Do**
+* Lead and execute projects involving Ignition application development.
+* Contribute to IIoT continued growth and deployment by working with sensors, gateways, connectivity solutions, APIs, and data analytic platforms.
+* Provide recommendations and execution on methods to connect manufacturing equipment to IIoT/OT layer network
+* Set communication protocols and network configurations on network devices (EIP, Modbus/TCP, MQTT, etc).
+* Contribute to major team projects as well as work with minimal oversight to solve complex problems supporting SDF\\&A Engineering Systems.
+* Analyze and correlate large, complex data sets; support digital thread implementation; develop and execute analytics reports and visualization toolsets while ensuring data integrity.
+* Expected to Travel 10% of the time.
+
+
+**What You Will Learn**
+* You will gain technical leadership experience, mentorship opportunities, and exposure to very influential individuals across Raytheon that will help advance your career.
+* You will obtain invaluable experience working with our I4\\.0 subject matter experts in addition to Digital Technologies specialists, our customer base, and cross\\-functional team.
+* You will manage system integration projects and provide reliable data to the Customer enabling them to make informed decisions in their product area.
+
+
+**Qualifications You Must Have**
+* Typically requires Technical University degree in Engineering, Math or similar with 8\\+ years related experience, to include significant Ignition SCADA development using combination of tools such as: SQL, Python, C\\#/.NET, HTML5, JSON
+* Experience with scripting and dashboarding
+* Experience with Azure DevOps services framework
+* The ability to obtain and maintain a U.S. government issued Secret security clearance and who is eligible to obtain any required Export Authorization. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+* Experience using industrial communication protocols such as Modbus/TCP, MQTT, EIP, SECS/GEM, etc.
+* Experience with data analytics with skills that demonstrate ability to prepare, process, analyze, and visualize significant amounts of information from multiple data sources.
+
+
+**Qualifications We Prefer**
+* Ignition gold certification or willingness to achieve within first year
+* Experience with Splunk!, PowerBI, GraphQL, Tableau, SQL Server, SAP, Eyelit, Windows Task Scheduler Automation, SQL Server job agent automation, SQL Server SSIS
+* Experience with Industry 4\\.0 key concepts – connectivity, data collection, IIoT, systems integration, AI, machine learning, ISA\\-95, Pub/Sub.
+* Strong communication, project management and collaboration skills; experience working across organization boundaries
+* Experience building APIs and creating web applications
+* Experience with big data and data mining
+* Experience in distributed controls, cyber security, IT infrastructure integration or other related fields
+* Experience working in a manufacturing environment and familiarity with MES (Manufacturing Execution Systems)
+* Understanding of automation systems (robots, vision systems, PLCs, etc.) deployment and integration
+
+
+**What We Offer**
+ Our Values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.
+   
+
+  
+
+**Not Relocation Eligible – Relocation assistance not available**
+**Learn More \\& Apply Now!**
+ This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978\\.htm
+   
+
+  
+
+**This position is an onsite role at the Tucson, AZ site**
+ The salary range for this role is 101,000 USD \\- 203,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+   
+
+  
+
+ Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short\\-term disability, long\\-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective\\-bargaining agreement.
+   
+
+  
+
+ Hired applicants may be eligible for annual short\\-term and/or long\\-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective\\-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+   
+
+  
+
+ This role is a U.S.\\-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+   
+
+  
+
+ RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.
+   
+
+  
+
+*RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.*
+**Privacy Policy and Terms:**
+ Click on this link to read the Policy and Terms","Defense and Space Manufacturing","https://www.linkedin.com/company/raytheon","https://media.licdn.com/dms/image/v2/D560BAQEJrjIh_xsiKg/company-logo_100_100/company-logo_100_100/0/1687168982390/raytheon_logo?e=2147483647&v=beta&t=oLiLB9i8PHsWpbYi5rTOAjoUkcH2xMXKRJeIdIggheI","","","","",""
+"li-4117187094","linkedin","https://www.linkedin.com/jobs/view/4117187094","https://www.avanade.com/en/career/job-details/6800?src=LinkedIn&urlHash=XRS5","Sr AI Architect","Avanade","Tucson, AZ","","fulltime","","","","","","","mid-senior level","Design, Art/Creative, and Information Technology","","","The Sr. AI Architect is responsible for designing and developing scalable AI solutions aligned to a business strategy and benefits case as well as supporting as an AI technical advisor and SME to help our clients scale their AI programs. The AI Architect will need to understand how various parts of the business processes, operating systems, and application architectures work together to design a specific AI solution that fits a client’s environmental requirements. The AI Architect takes ownership of technology related aspects of AI across the Microsoft ecosystem.
+   
+
+  
+
+**Come join us**
+ The AI Architect will adhere to Avanade’s AI methodologies and industry best practices and will be accountable for recommending appropriate technology solutions, delivering architectural/technical solution designs, and client proposals. To be successful in this role you will need to be confident in leveraging our global network (across Accenture, Microsoft, \\& our Partners), working together and openly sharing ideas, knowledge, and resources. You are proficient in creating AI solutions that enable clients to see the whole picture and provide insightful and accurate analysis that helps to build successful businesses.
+   
+
+  
+
+**Skills And Experiences**
+ You’re an organized problem\\-solver with a talent for business, whose knowledge and experience helps turn business needs into solutions. You guide and support your team, whether at home or around the globe, to provide successful and accessible GenAI solutions that solve client problems.Management Consulting \\& SI Experience is strongly preferred.Experience with AI (algorithms, AI\\-on\\-chip, AI hardware accelerators), Machine Learning (frameworks such as TensorFlow, CUDA, ONNX, Caffe, etc. preferred), Computer Vision and other Azure Data and AI services.Applying data and analytics to business use casesEngineering background preferred in related areas – programming, custom software development, app dev.Data profiling, cataloging and mapping to enable the design and build of technical data flowsUse validated methods to solve business problems using Azure Data and Analytics services in combination with building data pipelines, data streams, and system integration.Experience in preparing data for consumption.Net (Software Engineering)Python (Analytics/Software Engineering)LLM solution architecture \\& solution development (Generative AI / Azure OpenAI)Time\\-Series Analytics (Analytics)Real\\-time or near real\\-time streaming data analytics (Analytics)Understanding of data science and machine learning principles (Analytics)DevOps, MLOps, SDLC, Agile Development
+   
+
+  
+
+**About You**
+* You probably have a master’s degree or Ph.D. in a quantitative field such as computer science, applied mathematics, statistics or machine learning – or an equivalent combination of education and experience. You’re likely to be a MSFT Certified Data Science Associate and you have been in a similar professional position for around five to seven years.
+* Cross talent community skillset, one resource that has all these skills.
+* Strong management consultant
+* Strong software or engineer/architect
+* Decent data scientist
+* Decent infrastructure architect
+* Enterprise Architect
+* Can talk openly and easily about AI use cases in multiple industries (Manufacturing, Healthcare, Retail, Resources, etc.)
+* Strong communication and customer facing skills.
+* Capable of writing solid code
+* Comfortable in a hands\\-on position
+* Capable of seeing the big picture, and breaking it down to it’s discreet components (being a good architect)
+* Travel as needed.
+
+
+ Compensation for roles at Avanade varies depending on a wide array of factors including but not limited to the specific office location, role, skill set and level of experience. As required by local law, Avanade provides a reasonable range of compensation for roles that may be hired in California, Colorado, Arizona, and Washington as set forth below.
+   
+
+  
+
+**Range Of Starting Pay For Role**
+ Seattle, WA: 168,800 to 200,450
+   
+
+  
+
+ Los Angeles, San Diego, Sacramento, CA: 168,800 to 200,450
+   
+
+  
+
+ Arizona, Colorado, Idaho, Oregon: 151,200 to 179,500
+   
+
+  
+
+**What You'll Do**
+**Day to day, you will:**
+* Facilitate team, client meetings and pre\\-sales presentations.
+* Partner closely with our AI, IoT, and Intelligent Automation team and Solution Architects to translate the customer's business requirements to define AI \\& IoT value proposition and solution scope.
+* Analyze client processes, identify AI opportunities, and recommend approach based on analysis and client maturity.
+* Estimate, solution, design, and help drive and deliver AI deals.
+* Help build AI assets and enable internal and external stakeholders while growing capability and delivering high\\-quality solutions for clients.
+* Assist in delivery as AI SME, Solution Architect, or Technical Architect
+* Provide continuous advice, best practices, and quality assurance to AI project teams related to delivery approach and strategy.
+
+
+**Learn more**
+ Avanade is the leading global provider of digital, cloud, AI and advisory services, industry solutions and design\\-led experiences across the Microsoft ecosystem. Founded in 2000 as a joint venture between Accenture LLP and Microsoft Corporation, Avanade has more certifications, Gold\\-level competencies and most valued professionals (MVPs) than any other Microsoft partner. Every day, our 60,000 professionals in 26 countries innovate responsibly to make a genuine human impact for our clients, their employees and their customers.
+   
+
+  
+
+ To learn more about the types of projects our Analytics team works on check out this information
+   
+
+  
+
+ thyssenkrupp Materials Services uses data to help strike a delicate operational balance https://www.avanade.com/en\\-gb/clients/thyssenkrupp
+   
+
+  
+
+ What matters to SSE Renewables is innovating for a sustainable future https://www.avanade.com/en\\-gb/clients/sse\\-renewables\\-ai
+   
+
+  
+
+ Hachette UK enables employees with machine learning\\-driven contract searches https://www.avanade.com/en\\-gb/clients/hachette\\-automated\\-identification
+   
+
+  
+
+ Marston Holdings identifies significant cloud savings https://www.avanade.com/en\\-gb/clients/marston\\-holdings
+   
+
+  
+
+ Interested in knowing what’s going on inside Avanade? Check out our blogs:
+   
+
+  
+
+ Avanade Insights – exchange ideas that drive tomorrow’s innovation https://www.avanade.com/en/blogs/avanade\\-insights
+   
+
+  
+
+ Inside Avanade – explore what life is like working at Avanade https://www.avanade.com/en/blogs/inside\\-avanade
+   
+
+  
+
+**Enjoy your career**
+ Some of the best things about working at Avanade
+   
+
+  
+
+ Opportunity to work for Microsoft’s Global Alliance Partner of the Year, with exceptional development and training (minimum 80 hours per year for training and paid certifications)
+   
+
+  
+
+ Real\\-time access to technical and skilled resources globally
+   
+
+  
+
+ Dedicated career advisor to encourage your growth
+   
+
+  
+
+ Engaged and helpful coworkers genuinely interested in you
+   
+
+  
+
+ Find out more about some of our benefits Employee Benefits at Avanade https://www.avanade.com/en/career/benefits
+   
+
+  
+
+**A great place to work**
+ As you bring your skills and abilities to Avanade, you will get distinctive experiences, limitless learning, and ambitious growth in return. As we continue to build our diverse and inclusive culture, we become even more innovative and creative, helping us better serve our clients and communities. You’ll join a community of smart, supportive collaborators to lift, mentor, and guide you, and to lean on your expertise. You get a company purpose\\-built for business\\-critical, leading\\-edge technology solutions, committed to improving the way humans work, interact, and live. It’s all here, so take a closer look!
+   
+
+  
+
+ We work hard to provide an inclusive, diverse culture with a deep sense of belonging for all our employees. Visit our Inclusion \\& Diversity page
+   
+
+  
+
+ Create a future for our people that focuses on
+   
+
+  
+
+* Expanding your thinking
+* Experimenting courageously
+* Learning and pivoting
+
+
+ Inspire greatness in our people by
+   
+
+  
+
+* Empowering every voice
+* Encouraging boldness
+* Celebrating progress
+
+
+ Accelerate the impact of our people by
+   
+
+  
+
+* Amazing the client
+* Prioritizing what matters
+* Acting as one
+
+
+ We work hard to provide an inclusive, diverse culture with a deep sense of belonging for all our employees. Avanade believes that all persons are entitled to equal employment opportunities, and we do not discriminate against our employees, applicants, or job seekers because of their race, color, gender, religion, national origin, disability, veteran status, age, marital status, sexual orientation, genetic information, gender identity, or any other protect group status as defined by law.","IT Services and IT Consulting","https://www.linkedin.com/company/avanade","https://media.licdn.com/dms/image/v2/D560BAQGmlDR0g_2XIg/company-logo_100_100/company-logo_100_100/0/1688575032847/avanade_logo?e=2147483647&v=beta&t=ZLUlwCV8JKTG5DucAPOQKL41RSYjiTArqmc0cbTqeog","","","","",""
+"li-4148190681","linkedin","https://www.linkedin.com/jobs/view/4148190681","https://careers.ey.com/ey/job/New-York-AI-&-Machine-Learning-Engineer-TMT-Manager-Consulting-Location-OPEN-NY-10001-8604/1170728801/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin&urlHash=AhUk","AI & Machine Learning Engineer - TMT - Manager - Consulting - Location OPEN","EY","Tucson, AZ","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","ssc.customersupport@ey.com","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+   
+
+  
+
+ The exceptional EY experience. It's yours to build.
+   
+
+  
+
+ EY focuses on high\\-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+   
+
+  
+
+**AI/Machine Learning Engineer – TMT – Manager \\- Consulting**
+**The opportunity**
+ Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side\\-by\\-side with clients and diverse teams from EY to create a well\\-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast\\-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+   
+
+  
+
+**Your Key Responsibilities**
+ You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+   
+
+  
+
+ You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+   
+
+  
+
+**Skills And Attributes For Success**
+ This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+   
+
+  
+
+**To qualify for the role you must have**
+* Bachelor's degree and 6\\-10 years of full\\-time working experience in AI, Data Science, and/or Machine Learning
+* 2\\-4 years of experience directly managing technical teams
+* Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends.
+* Strong skills in Python.
+* Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall\\-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG).
+* Experience working with popular ML packages such as scikit\\-learn, Pytorch and ONNX, or related ML libraries.
+* Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases.
+* Proven ability to design and implement machine learning solutions that enhance network performance and customer experience.
+* Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science.
+* Experience analyzing large\\-scale datasets from telecommunications networks, including call detail records and performance metrics.
+* Knowledge of streaming video and audio technologies, including analytics and content recommendation systems.
+* Experience with multi\\-modal models, including vision\\-language models.
+* Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications.
+* Knowledge of regulatory and compliance considerations specific to the TMT sector.
+* Experience with real\\-time data processing frameworks (e.g., Apache Kafka).
+* Familiarity with cloud\\-based telecommunications solutions (e.g., AWS, Azure).
+* Experience with network optimization algorithms and techniques.
+* Knowledge of emerging technologies such as edge computing and IoT.
+* A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions.
+* Experience with MLOps methods and platforms such as MLFlow.
+* Experience with CI/CD and test\\-driven development.
+* Experience designing, building, and maintaining ML models, frameworks, and pipelines.
+* Experience designing and deploying end to end ML workflows on at least one major cloud computing platform.
+* Understanding of data structures, data modelling and software engineering best practices.
+* Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark.
+* Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions.
+* Experience with containerization and scaling models.
+* Integrating models and feedback from downstream consumption systems \\- reporting and dashboards, AI driven applications.
+* Strong mathematical and quantitative skills including calculus, linear algebra, and statistics.
+* Willingness to travel to meet client obligations.
+
+
+**Ideally, you'll also have**
+* A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them.
+* Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field.
+* Experience working with diverse teams to deliver complex solutions.
+* Strong skills in languages beyond Python: R, JavaScript, Java, C\\+\\+, C.
+* Experience fine\\-tuning Generative AI models.
+
+
+**What We Look For**
+* You have an agile, growth\\-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.
+* You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.
+* You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.
+
+
+**What We Offer**
+ We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200\\. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600\\. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team\\-led and leader\\-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40\\-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well\\-being.
+   
+
+  
+
+* Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+* Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+* Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+* Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+
+ EY accepts applications for this position on an on\\-going basis.
+ **If you can demonstrate that you meet the criteria above, please contact us as soon as possible.**
+ EY exists to build a better working world, helping to create long\\-term value for clients, people and society and build trust in the capital markets.
+   
+
+  
+
+ Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+   
+
+  
+
+ Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+   
+
+  
+
+ For those living in California, please click here for additional information.
+   
+
+  
+
+ EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+   
+
+  
+
+ EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1\\-800\\-EY\\-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com","IT Services and IT Consulting","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","",""
+"zr-4SSgdI5I8EAhFloPG1K9UA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=4SSgdI5I8EAhFloPG1K9UA","","TRANSPORTATION ENGINEERING SPECIALIST","The State of Arizona","Tucson, AZ, USA","2025-02-13","","","","","","","","","","organic","","TRANSPORTATION ENGINEERING SPECIALIST
+ 
+ Apply now
+ **Job No:** 
+ 531822
+   
+
+**Work Type:** 
+ Full\\-time
+   
+
+**Location:** 
+ TUCSON
+   
+
+**Categories:** 
+ Engineering/Architecture/Surveying/Planning
+   
+
+
+
+
+
+
+ DEPT OF TRANSPORTATION
+ *Driving the future of transportation with a diverse and innovative team
+   
+
+ To learn more about the ADOT team CLICK HERE*
+
+**TRANSPORTATION ENGINEERING SPECIALIST** 
+
+ Job Location:
+ 
+
+ Address: REGIONAL TRAFFIC \\- SOUTHERN REGION
+   
+
+ 1221 S 2nd Ave
+   
+
+ Tucson AZ 85713
+ 
+
+ Posting Details:
+ 
+
+ Salary: $ 61,477\\.84 \\- $ 66,477\\.84 
+   
+
+ Grade: 22
+   
+
+ Closing Date: 02/22/2025
+ 
+
+ Job Summary:
+ 
+
+
+ This Traffic Engineering Specialist reports to the Assistant Regional Traffic Engineer. This position performs essential functions within the field of traffic engineering, including signing, striping, signals, lighting, and traffic control plan review, traffic impact study review, work orders, data collection and analysis, and other duties as assigned.
+   
+
+  
+
+ This position represents the Regional Traffic Engineer and sometimes the District Engineers while corresponding with internal and external customers, including members of the general public and local government staff.
+   
+
+  
+
+ This position initiates solutions to complex traffic engineering problems and has major responsibilities related to every aspect of traffic engineering, including intersection and roadway safety, maintenance, and operations.
+ 
+
+
+
+*This position may offer the ability to work remotely, within Arizona, based upon the department's business needs and continual meeting of expected performance measures.* 
+
+
+
+
+*The State of Arizona strives for a work culture that affords employees flexibility, autonomy, and trust. Across our many agencies, boards, and commissions, many State employees participate in the State's Remote Work Program and are able to work remotely in their homes, in offices, and in hoteling spaces. All work, including remote work, should be performed within Arizona unless an exception is properly authorized in advance.* 
+
+
+
+
+
+ Job Duties:
+ 
+
+
+ Review traffic control plans related to encroachment permits.
+   
+
+  
+
+ Prepare work orders for signing, striping, signals, lighting, and maintenance crews, and perform related field\\-reviews.
+   
+
+  
+
+ Review traffic impact statements and analyses, and review off\\-site improvement plans for proposed developments.
+   
+
+  
+
+ Review signing, striping, and maintenance of traffic plan sheets for construction projects, and attend project field reviews and partnering/pre\\-construction meetings.
+   
+
+  
+
+ Collect traffic engineering data, such as speed samples, turning movement count data, etc., make observations regarding traffic safety and operations, analyze the data, and prepare memorandums or formal traffic engineering studies as needed.
+   
+
+  
+
+ Meet with various stakeholders, including members of the general public, federal or local agency officials, and/or employees internal to the department to resolve traffic safety and operations issues. Prepare related written correspondence.
+   
+
+  
+
+ Other duties as assigned as related to the position.
+ 
+
+
+
+
+ Knowledge, Skills \\& Abilities (KSAs):
+ 
+
+
+ Knowledge:
+   
+
+ \\-ADOT Traffic Guidelines \\& Processes.
+   
+
+ \\-Manual on Uniform Traffic Control Devices (MUTCD).
+   
+
+ \\-ADOT Temporary Traffic Control Design Guidelines.
+   
+
+ \\-ADOT Signing \\& Marking Standard Drawings.
+   
+
+ \\-ITE Trip Generation.
+   
+
+ \\-AASHTO Green Book and ADOT Roadway Design Guidelines.
+   
+
+ \\-ADOT Construction Standards.
+   
+
+ \\-ADOT Standard Specifications.
+   
+
+ \\-Arizona Traffic Law (Title 28\\).
+   
+
+ \\-Knowledge of Google Suite.
+   
+
+  
+
+ Skills:
+   
+
+ \\-Computer software, including Microsoft Word, Excel, and PowerPoint, Google Docs, Sheets, and Slides, and Adobe Acrobat.
+   
+
+ \\-Operating traffic counting equipment and radar speed data collection equipment.
+   
+
+ \\-Oral and Written Communication.
+   
+
+ \\-Problem Solving.
+   
+
+  
+
+ Ability:
+   
+
+ \\-Operate a state vehicle.
+   
+
+ \\-Carry out assignments without direct supervision.
+   
+
+ \\-Teamwork \\& Collaboration.
+   
+
+ \\-Eagerness \\& willingness to learn new skills.
+   
+
+ \\-Team\\-oriented and proactive.
+   
+
+  
+
+
+
+
+
+
+ Selective Preference(s):
+ 
+
+
+ Background and/or work experience in traffic engineering, traffic control, roadway construction or maintenance, signing and striping, and/or signals and lighting.
+   
+
+  
+
+ American Traffic Safety Services Association (ATSSA) Certification(s).
+   
+
+
+
+
+
+
+ Pre\\-Employment Requirements:
+ 
+
+
+ This position requires driving or the use of a vehicle as an essential function of the job and the following requirements apply. Any employee operating a motor vehicle on State business must possess and retain a current, valid class\\-appropriate driver's license, complete all required training, and successfully pass all necessary driver's license record checks. The license must be current, unexpired, and neither revoked nor suspended. Employees who drive on state business are subject to driver's license record checks, must maintain acceptable driving records, and must complete all required driver training. An employee who operates a personally owned vehicle on state business shall maintain the statutorily required liability insurance (see Arizona Administrative Code (A.A.C.) R2\\-10\\-207\\.11\\).
+   
+
+  
+
+ Valid Arizona driver's license.
+   
+
+  
+
+ High school diploma or high school diploma equivalent.
+ 
+
+
+
+*All newly hired State employees are subject to and must successfully complete the Electronic Employment Eligibility Verification Program (E\\-Verify).* 
+
+
+
+
+
+ Benefits:
+ 
+
+
+ The Arizona Department of Administration offers a comprehensive benefits package to include:
+   
+
+ Sick leave
+   
+
+ Vacation with 10 paid holidays per year
+   
+
+ Paid Parental Leave\\-Up to 12 weeks per year paid leave for newborn or newly\\-placed foster/adopted child (pilot program).
+   
+
+ Health and dental insurance
+   
+
+ Retirement plan
+   
+
+ Life insurance and long\\-term disability insurance
+   
+
+ Optional employee benefits include short\\-term disability insurance, deferred compensation plans, and supplemental life insurance
+   
+
+
+
+
+
+*By providing the option of a full\\-time or part\\-time remote work schedule, employees enjoy improved work/life balance, report higher job satisfaction, and are more productive. Remote work is a management option and not an employee entitlement or right. An agency may terminate a remote work agreement at its discretion.* 
+
+
+
+
+*Learn more about the Paid Parental Leave pilot program here. For a complete list of benefits provided by The State of Arizona, please visit our benefits page* 
+
+
+
+
+
+ Retirement:
+ 
+
+
+ Mandatory participation in the Arizona Retirement System (ASRS) is required.
+   
+
+
+
+
+
+
+ Contact Us:
+ 
+
+
+ For questions about this career opportunity, please contact ADOT Human Resources Recruitment via email at srecruitment@azdot.gov or phone call at (602\\) 712\\-7279\\.
+   
+
+  
+
+ The State of Arizona is an Equal Opportunity/Reasonable Accommodation Employer. Persons with a disability may request a reasonable accommodation such as a sign language interpreter or an alternative format by calling (602\\) 712\\-8188 option 3\\. Requests should be made as early as possible to allow sufficient time to arrange the accommodation. ADOT is an Equal Employment Opportunity Employer.
+   
+
+
+
+
+
+
+
+**Advertised:** 
+ 12 Feb 2025 US Mountain Standard Time
+   
+
+**Applications close:** 
+ 22 Feb 2025 US Mountain Standard Time
+ 
+
+
+
+ Back to search results Apply now Refer a friend","","","","","","","",""
+"zr-S8x5N32KvmQfNQcqyUqjrA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=S8x5N32KvmQfNQcqyUqjrA","","TruScan Technician","Boart Longyear","Tucson, AZ, USA","2025-02-12","","","","","","","","","","organic","","At Veracio, we're unlocking the value and utility of scarce resources, and it all starts with the orebody. Whether that's unlocking hard\\-to\\-find minerals that are critical for a sustainable future. Or liberating time through the automation workflows from exploration through to production geoscience. Or the workforce, with cloud connected systems keeping the world's brightest minds at your fingertips. It's through a fusion of science and technology that we're helping miners leverage their orebody knowledge to realize more opportunities while mitigating the social and environmental impact of their decisions.
+   
+
+  
+
+  
+
+ We are currently seeking a Truscan Field Technician to join our team in Tucson, AZ. This position is a travelling ""on the road"" role, with a Fly In, Fly Out, schedule rotation.
+   
+
+  
+
+ This role is a key technical resource in rolling out, running and supporting our field\\-deployable XRF\\-analysis, hyperspectral and core photography systems. Platforms include Veracio's Truscan and Minalyzer scanner units and support for supporting software.  
+   
+
+  
+
+**Minimum Qualifications** 
+* Must be authorized to work in USA
+* Field experience working on a drill rig; mining or exploration core facility (highly desirable)
+* Understanding of handling and logging core samples (desirable)
+* Excellent customer service orientation and ability to maintain relationships with key account customers and internal team.
+* Demonstrated interest in digital technologies and new innovations
+* Excellent communication skills \\- oral and written
+* Attention to detail and strong initiative
+* Proficient in MS Office suite
+* A current drivers' license
+* Basic electrical and mechanical skills (desirable)
+* 4WD and Senior First Aid (desirable)
+* Ability to work on a varied roster
+
+
+**Primary Duties:** 
+  
+ * Trouble shooting and fault finding of technical and practical use issues tied to proprietary analytical equipment
+
+
+* Understanding how to operate and trouble shoot our field\\-deployable electronic equipment and supporting software
+
+
+* Conduct field and workshop scanning activities
+
+
+* Logistical support for field scanning operations
+
+
+* Escalate and document incidents in line with company Issue Management System
+
+
+* Escalates issue of moderate complexity to senior staff.
+
+
+* Travel regularly, including on short notice, to fulfil the above responsibilities.
+
+
+**Additional Responsibilities** 
+  
+ * Performs hands\\-on troubleshooting, service and repairs.
+
+
+* **Contribute to** 
+  creations of SWP's and training documentation
+
+
+* Provide material support to Product Development teams through testing and reporting activities, and operational rollout.
+
+
+* Training of client field technicians to safely and efficiently operate our field deployable analytical technologies
+
+
+* Travel to field and other Veracio operational sites to perform duties where required.
+
+
+* Comply with EHS Policy and KPIs.
+
+
+  
+
+**Compensation, Benefits and Perks** 
+  
+
+ Talented people are attracted to companies with long\\-term success and a supportive workplace culture that encourages work\\-life balance. Veracio offers competitive pay, comprehensive benefits, and career advancement opportunities. If hired, you can expect: 
+ * a strong compensation plan
+* medical, vision, and dental program
+* paid time off (PTO)
+* retirement program
+* employee recognition rewards program (BRAVO)
+* employee assistance program
+
+
+  
+
+**Company Overview** 
+  
+
+ Veracio is a wholly owned subsidiary of Boart Longyear with a principal focus on orebody knowledge and technologies for mining. Veracio leverages artificial intelligence and advanced analytics to accelerate real\\-time decision making and significantly lower the cost of mineral exploration. Bringing together over 100 years of heritage in mining equipment, tooling and services with a passion for cutting\\-edge science and technology. A passion that's purpose\\-built to challenge the status\\-quo and encourage miners all over the world to think with a bigger vision, work with smarter data and strive to achieve a smaller footprint.
+   
+
+  
+
+ Veracio welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process as per the guidelines of the Accessibilities for Ontarians with Disabilities Act (AODA).","","","","","","","",""
+"zr-kThIZ-Z_1T2-hISdqa4Qog","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=kThIZ-Z_1T2-hISdqa4Qog","","Configuration Manager","Arete Associates","Tucson, AZ, USA","2025-02-12","fulltime","direct_data","yearly",92000.0,120000.0,"USD","","","","organic","","At Areté, we are on the forefront of utilizing innovative solutions, with great minds from all backgrounds, to help solve the nation’s most complex security challenges. We strive for an inclusive, collaborative team environment that approaches differences as opportunities for innovation and excellence. As an employee\\- owned company, we foster an atmosphere that propels diverse career opportunities and professional growth.
+ 
+
+
+
+**Discover your future with us.** 
+
+
+
+
+ This position provides support and ownership to the document control processes and training throughout the product life cycle, including development, sustaining and end\\-of\\-life. The candidate must be a self\\-starter, team builder, and excellent communicator. This position requires coordination and collaboration of activities with other functional groups and project managers within a matrix development environment. The Configuration Manager/Data Manager will be responsible for providing and ensuring consistent and accurate configuration control in accordance with SAE EIA 649, and our ISO 9001 Quality Management System. This person will be process oriented and can review current processes and look to streamline and standardize according to best practices. This is an exempt, non\\-supervisory, full\\-time role based in our
+ **Tucson, AZ** 
+ or
+ **Niwot, CO** 
+ office.
+ 
+
+
+
+**Primary Responsibilities:** 
+
+
+
++ Will provide Configuration Management (CM) and Data Management (DM) support to the Systems Engineering Integration \\& Test (SEIT) Lead, Engineering Manager (EM) and Program Manager (PM).
++ Supporting and executing configuration control through system documentation, software, and drawing release, revision, and archival
++ Develop and optimize the process for releasing product configurations into the CM system.
++ Tracking and delivering project data(documentation, software, drawing packages)
++ Drafting Engineering Change Notices (ECNs) and Engineering Change Proposals (ECPs)
++ Drafting deviations and waivers; maintaining Bills of Materials (BOMs)
++ This position requires coordination and collaboration of activities with other functional groups and project managers within a matrix development environment operational, production\\-ready system.
+
+
+
+**We have an impressive range of benefits, programs, and perks that we offer:** 
+
+
+
+
+**Generous PTO and Leave Times** 
+
+
+
+* Flextime Scheduling
+* Bereavement
+* Paid Time Off (PTO)
+* Paid Parental Leave
+
+
+
+**Financial Benefits** 
+
+
+
+* 401K Retirement Plan Contribution
+* Employee Stock Ownership Plan
+* Continuing Education Funds
+
+
+
+**Health, Medical, and Wellness Benefits** 
+
+
+
+* Medical Insurance
+* Dental \\& Vision Insurance
+* Life Insurance and Long\\-Term Disability (LTD)
+* Vision Reimbursement
+
+
+
+**Qualities We Look For** 
+
+
+
+* Creativity
+* Integrity
+* Passion
+* Responsiveness
+* Collaboration
+
+
+
+**Experiences and Background We Look For:** 
+
+
+
+* Degree background Engineering or related field
+* 5\\+ yrs. of relative experience with BS/BA
+
+
+
+**Nice to Have:**
+
+
+
+* Knowledge of relevant industry standards and regulations, such as MIL\\-STD, MIL\\-HDBK, ISO, ASME
+* Candidate should be familiar with SAE\\-GEIA\\-859 and MIL\\-STD\\-963\\.
+
+
+
+ The salary range for this role is
+ **$92,000 to $120,000** 
+ ; however, Arete considers several factors when extending an offer of employment, including but not limited to: the position and associated responsibilities, a candidate’s work experience, education/training, and key skills
+ **.** 
+
+
+
+
+**Other Requirements** 
+
+
+
+
+ U.S. citizenship is required to meet position eligibility.
+ 
+
+
+
+ Selected applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Successful passage of a criminal background screen is required to meet position eligibility. Areté will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring.
+ 
+
+
+
+ Successful passage of a Department of Transportation (DOT) drug test is required to meet position eligibility.
+ 
+
+
+
+**Other Considerations** 
+
+
+
+
+ Areté is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.
+ 
+
+
+
+ If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access our website because of your disability. To request an accommodation, please contact Areté Human Resources at 818\\-885\\-2200 for assistance.","","","","","","","",""
+"zr--_4x2T7G3x9nJJ1H4da6Cw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=-_4x2T7G3x9nJJ1H4da6Cw","","Coyote Operations Lead","Raytheon","Tucson, AZ, USA","2025-02-12","","","","","","","","","","organic","","**Date Posted:** 
+
+
+
+ 2025\\-02\\-12
+ 
+**Country:** 
+
+
+
+ United States of America
+ 
+**Location:** 
+
+
+
+ AZ202: 3350 EHemisphere Loop Bldg M09 3350 EHemisphere Loop Bldg M09 Building M09, Tucson, AZ, 85706 USA
+ 
+**Position Role Type:** 
+
+
+
+ Onsite
+ 
+
+
+
+
+
+
+
+
+ At Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.
+ 
+
+
+
+  
+
+ The Coyote Program is seeking an Operations Lead to assist in the sustainment of 15\\+ CONUS/OCONUS sites regarding inventory, status of systems, and maintenance actions of both effector and platform for CUAS deployed. In addition, the Ops lead will work on program enhancing partnerships with internal functional organizations including, but not limited to Engineering, Manufacturing/Operations, Mission Assurance, Logistics, and administrative functions.
+ 
+
+
+
+
+
+
+
+ What You Will Do
+ 
+
+
+* Capture and track program action items and works with action owners to ensure timely satisfactorily closure of actions.
+* Identify and implement key OCONUS assessments and metrics for situational awareness charts and performance assessments that enable a quick OCONUS overview for program leadership teams.
+* Travel domestic travel as needed.
+* Analyzes and gathers data for the preventative and corrective maintenance for systems deployed CONUS and OCONUS.
+* Maintenance of technical documentation for Coyote CUAS support equipment used by the FSR’s in theater.
+* Develops reports and procedures for inventory control and coordinates inventory data collection reports for equipment.
+* Review, analyze, and resolve MX trends/failures; investigates and presents to management for reconciliation.
+* Manages all Coyote CUAS deployment configurations, spare material, and support equipment at each individual site.
+* Oversees the software/IAVA updates on all Coyote systems (AUR’s, MILDEF’s, ground systems).
+* Travels to engineering test events to provide support to maintain and enhance the development of engineering rapid development programs.
+* Develops reports, dashboards and metrics which display data into actionable insights.
+* Displays leadership skills with capability of motivating the team. Result orientation, analytical thinking, planning and collaboration skills.
+* Assists Field Service Representative (FSR) Lead to successfully provide ongoing.
+* sustainment support to the customer, FSR team, and leadership in the Coyote CUAS program.
+
+
+
+
+
+
+
+ Qualifications You Must Have
+ 
+
+
+* Typically requires a Bachelor’s in Science, Technology, Engineering, or Mathematics (STEM preferred) and a minimum of 5 years of prior engineering experience.
+* Active and transferable U.S. government issued Secret security clearance is required prior to start date. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+* Experience interfacing and collaborating with multiple functions.
+* Experience in analyzing complex task components to enable excellent decision\\-making skills in a rapid development and engineering environment.
+* Experience working with Software Updates.
+
+
+
+
+
+
+
+ Qualifications We Prefer
+ 
+
+
+* Great Written and Oral Communication skills.
+* Prior Military Experience.
+
+
+
+
+
+
+
+ What We Offer
+ 
+
+
+* Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.
+* Not Relocation Eligible.
+* Not eligible for employee referral.
+
+
+
+
+
+
+
+ This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSACAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978\\.htm
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The salary range for this role is 82,000 USD \\- 164,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+ 
+
+
+
+
+
+
+
+
+
+
+
+ Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short\\-term disability, long\\-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective\\-bargaining agreement.
+ 
+
+
+
+
+
+
+
+ Hired applicants may be eligible for annual short\\-term and/or long\\-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective\\-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+ 
+
+
+
+
+
+
+
+ This role is a U.S.\\-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+ 
+
+
+
+
+
+
+
+ RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.
+ 
+
+
+
+
+
+
+
+
+*RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.* 
+
+
+
+
+
+
+
+
+
+
+
+
+**Privacy Policy and Terms:** 
+
+
+
+
+ Click on this link to read the Policy and Terms","","","","","","","",""
+"zr-ZW8_AM7vk-O3SO7dmLqIug","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=ZW8_AM7vk-O3SO7dmLqIug","","Full time New Grad Engineering Opportunities (FULLT005197)","Sargent Aerospace & Defense, LLC","Tucson, AZ, USA","2025-02-12","","","","","","","","","","organic","","**Join the Sargent Legacy in Securing our Future** 
+
+
+
+
+ With continual growth comes opportunity and Sargent has immediate openings for
+ **Design, Manufacturing, \\& Automation Engineers!** 
+
+
+
+
+
+
+
+
+
+**Minimum Qualifications** 
+
+
+
+* Bachelor’s degree in relevant Engineering discipline
+* Must be a U.S. Citizen
+* Ability to read and interpret engineering drawings
+* Ability to use MS Office applications (email, Excel, Word and Power Point)
+* Ability to investigate, diagnose and resolve complex technical problems and communicate in clear simple terms
+* Good verbal and written communication skills
+* Ability to work collaboratively with colleagues with minimal direct supervision
+
+
+
+
+
+
+
+**Design Engineer Responsibilities:** 
+
+
+
+* Perform engineering analysis (stress, FEA, fatigue) and apply problem\\-solving methods to support new product development and/or sustaining production of existing designs
+* Assist in the creation \\& review new designs for conformance to customer requirements \\& and proper application of engineering principles
+* Apply, evaluate, and optimize Geometric Dimensioning and Tolerancing (GD\\&T) to facilitate inspection and manufacturing
+* Write test plans and test reports in support of new programs to demonstrate compliance to customer specifications
+* Interact with customers to clarify design intent and technical requirements
+* Maintain accurate, orderly project records, including design and test data, customer specifications, directives, etc.
+* Provide assistance in the development technical proposals, cost estimates \\& schedules for non\\-recurring engineering activities
+* Direct designers \\& drafters in design concepts and optimization to meet strict deadlines
+* Provide assistance on development and qualification test programs
+* Provide assistance in the form of engineering analysis to engineering representatives on the Material Review Board (MRB) to facilitate disposition of non\\-conforming products
+
+
+
+
+
+
+
+
+
+**Automation Engineer Responsibilities:** 
+
+
+
+* Support the Automation and Software Group with any required technical needs
+* Work within Microsoft Excel to perform data analysis and visualization
+* Document new or improved processes
+* Review standard work for completeness and ease of understanding
+* Coordinate with IT to ensure full communication and support for all ASG projects
+* Take lead on projects to see through to completion
+* Build an understanding of manufacturing processes
+* Research best practices and IIoT capabilities
+* Possibility to work hands\\-on with electronics, sensors, and robotics
+* Assist with analyzing current systems to identify gaps or possible improvement
+
+
+
+
+
+
+
+**Manufacturing** 
+**Engineer Responsibilities:** 
+
+
+
+* Support manufacturing production processes with all required technical needs.
+* Develop and improve manufacturing processes by deploying product and manufacturing method enhancements.
+* Determine product and process manufacturing flow and sequences, material and labor requirements, and quality inspection points.
+* Create and maintain manufacturing routers and processes
+* Must be able and willing to work extra time as necessary to ensure completion of assigned tasks
+
+
+
+
+
+
+
+**Join the Sargent Legacy in Securing Our Future** 
+
+
+
+
+
+ Founded in 1919, RBC Bearings (Nasdaq: ROLL) has a long, successful history of quality craftsmanship and innovation in highly technical bearing products that require sophisticated design solutions and manufacturing capabilities for Industrial, Aerospace and Defense applications around the world. In 2015, RBC acquired Sargent Aerospace and Defense.
+ 
+
+
+
+ Founded in 1920, Sargent Aerospace \\& Defense leverages 100 years of expertise as a premier global supplier of precision engineered customized components that directly contributes to the safe operation of countless commercial and military aircraft, rotorcraft, submarines and land based vehicles.
+ 
+
+
+
+ At Sargent, our mission is to secure our future by making the challenging a reality. We achieve this by delivering high quality products and services that meet customer requirements and exceed customer expectations through employee development, customer focus and continual improvement.
+ 
+
+
+
+ Sargent’s continuing investment in people, assets, technology, and process quality ensures excellence and is integral to the company’s commitment to customers and their end\\-users. As we grow, we will continue to root our culture through our core values of Integrity, Respects \\& Values People, Customer Focus, Teamwork, Results Focus and Continual Improvement.
+ 
+
+
+
+**Company Benefits Include:** 
+
+
+
+* Competitive Compensation
+* Bonus platforms
+* Holidays/Vacation/Sick Time
+* 401k Savings \\& Investment Plan
+
+
+
+
+
+
+* Tuition Reimbursement
+* Medical/Dental/Vision Plans
+* HSA/FSA
+* Life \\& Disability Insurance
+* Accident/Hospital/Critical Care Plans
+* Pet Insurance
+
+
+
+
+
+
+* Gym \\& Rideshare Incentives
+* Legal Insurance/Identity Theft
+* ½ day Fridays
+
+
+
+**Dedication to our core values. Our must haves…** 
+
+
+
+* **Integrity** 
+ \\- We do the right thing the right way. Our ideal candidate is ethical, honest in all interactions, delivers good news and bad, and follows through on commitments. Key Skills \\& Abilities: is fair, credible, confidential, fiscally responsible and accountable for decisions and actions.
+* **Respects and Values People** 
+ \\- We encourage and bring out the potential of others. Our ideal candidate embraces diversity, recognizes and supports the accomplishments, talents and development of others. Key Skills \\& Abilities: is committed to the building of strong relationships and creates an environment of trust and mutual respect.
+* **Customer Focus** 
+ \\- We act with excellence in each and every interaction. Our ideal candidate builds strong internal/external customer relationships, and goes above and beyond to deliver high quality products and services on time, every time. Key Skills \\& Abilities: is responsive with strong customer service skills, product and job knowledge to provide excellent customer satisfaction.
+* **Teamwork** 
+ \\- We are better together. Our ideal candidate is inclusive, engaged and collaborative, sharing information, ideas and experiences to accomplish goals, improve decision making and leverage capabilities. Key Skills \\& Abilities: is a dependable team player, demonstrated through attendance and punctuality, works well with others and has strong communication skills (both oral \\& written) to keep all stakeholders informed.
+* **Results Focus** 
+ \\- We focus on the outcome, not the obstacle. Our ideal candidate must have a strong work ethic with a results/performance driven track record in a fast paced, changing and challenging environment. Key Skills \\& Abilities: is adaptable, works with a sense of urgency and high level of initiative and demonstrates a commitment to quality with attention to detail.
+* **Continual Improvement** 
+ \\- We encourage and drive innovation. Our ideal candidate must be naturally curious, passionate and never satisfied with the status quo. Key Skills \\& Abilities: is innovative and has a problem solving mindset that provides and implements CI ideas.
+
+
+
+
+
+
+
+ EEO/AA/F/M/Vet/Disabled","","","","","","","",""

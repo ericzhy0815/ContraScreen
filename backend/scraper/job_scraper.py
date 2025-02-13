@@ -2,6 +2,7 @@ import csv
 from jobspy import scrape_jobs
 from apscheduler.schedulers.background import BackgroundScheduler
 import time
+import random
 
 # list of all major cities in the US
 major_cities = ["San Francisco, CA", "New York, NY", "Los Angeles, CA", "Chicago, IL", "Houston, TX", "Phoenix, AZ", 
@@ -21,27 +22,39 @@ major_cities = ["San Francisco, CA", "New York, NY", "Los Angeles, CA", "Chicago
 
 
 def get_jobs(location):
-    jobs = scrape_jobs(
-        site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google"],
-        search_term="software engineer, data science, ",
-        google_search_term="",
-        location=location,
-        results_wanted=200,
-        hours_old=72, # 72
-        country_indeed='USA',
-        # linkedin_fetch_description=True # gets more info such as description, direct job url (slower)
-        # proxies=["208.195.175.46:65095", "208.195.175.45:65095", "localhost"],
-    )
-    print(f"Found {len(jobs)} jobs")
-    print(jobs.head())
-    file_name = "csv/jobs" + location + ".csv"
-    jobs.to_csv(file_name, quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
+    try:
+        jobs = scrape_jobs(
+            site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google"],
+            search_term="software engineer, data science",
+            google_search_term="",
+            location=location,
+            results_wanted=20000,
+            hours_old=24,
+            country_indeed='USA',
+            linkedin_fetch_description=True
+        )
+        if jobs is None or jobs.empty:
+            print(f"No jobs found for {location}. Skipping...")
+            return
+        
+        print(f"Found {len(jobs)} jobs in {location}")
+        print(jobs.head())
+
+        file_name = f"csv/jobs_{location.replace(',', '').replace(' ', '_')}.csv"
+        jobs.to_csv(file_name, quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False)
+
+    except Exception as e:
+        print(f"Error while scraping {location}: {e}")
+
 
 # scheduler = BackgroundScheduler()
 
 for city in major_cities:
     get_jobs(city)
-    print(f"Finished scraping {city}")
+    sleep_time = random.uniform(2, 5)  # Random delay between 2-5 seconds
+    print(f"Finished scraping {city}. Sleeping for {sleep_time:.2f} seconds...")
+    time.sleep(sleep_time)
+
 
 # # Start the scheduler
 # scheduler.start()

@@ -1,0 +1,1462 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009636073809","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009636073809","","Staff Software Engineer - Warehouse Management Applications","Williams-Sonoma, Inc.","Olive Branch, MS","2025-02-12","","direct_data","yearly",61479.0,100787.0,"USD",False,"","","organic","","The Staff Software Engineer will be part of our Enterprise Support \\& Reliability Engineering (ESRE) Team focused on Warehouse Management Applications.
+
+
+**Responsibilities**
+
+* **Architect \\& Enhance Systems** : Work with Engineering and Architecture teams to design scalable, high\\-performing solutions for WMS and final mile .
+* **Incident Resolution \\& Stability** : Lead root cause analysis and resolution for critical system issues, ensuring high availability and operational reliability.
+* **Monitoring \\& Automation** : Build and enhance proactive monitoring, logging, and alerting mechanisms (e.g., ELK, AppDynamics) for improved system observability.
+* **Cross\\-Team Collaboration** : Partner with Engineering, Product, and Operations teams to prioritize and implement critical system improvements.
+* **Operational Excellence** : Define and implement SOPs, automated workflows, and reporting frameworks to optimize daily operations.
+* **Inventory \\& Data Integrity** : Ensure seamless inventory movement across DCs, resolving transfer discrepancies, EDI issues, and ASN challenges.
+* **Technology Leadership** : Mentor engineers, lead technical discussions, and drive best practices for monitoring, troubleshooting, and performance tuning.
+* **Vendor \\& Stakeholder Engagement** : Work closely with vendors (e.g., Manhattan, Savoye) to diagnose and resolve platform\\-related issues efficiently.
+* **Capacity Planning \\& Performance Optimization** : Strategically plan and allocate system resources across OMS, WMS, and microservices to support business growth and peak readiness.
+* **Disaster Recovery \\& Compliance** : Plan and execute DR drills for critical applications (TIBCO, Kafka, WMOS, OMS) while ensuring compliance with IT standards.
+
+**Criteria**
+
+* **10\\+ years of experience** in software development and/or application production support , with expertise in **OMS, WMS, and Supply Chain systems** .
+* Strong knowledge of **enterprise integration patterns, middleware technologies (TIBCO, Kafka), and API\\-driven architectures** .
+* Proficiency in monitoring and logging tools such as **ELK, AppDynamics, Prometheus, Grafana** .
+* Hands\\-on experience in **automation, alerting, and incident management** to enhance system stability.
+* Proven ability to **analyze, diagnose, and resolve critical production issues** in a high\\-volume, distributed system environment.
+* Expertise in **inventory movement, EDI transactions, DC operations, and order fulfillment workflows** .
+* Strong leadership skills with a **servant leadership approach** , mentoring and guiding teams to success.
+* Experience leading **large\\-scale system migrations (e.g., PKMS to WMOS), performance tuning, and capacity planning** .
+* Effective communicator, able to collaborate with **engineering teams, operations, business stakeholders, and vendors** .
+* Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).
+
+**Additional Skills \\& Expertise**
+
+* **Material Handling Equipment (MHE) Integrations** : 8\\+ years of experience with **third\\-party MHE applications** , including **Reddwerks Pick to Light, Tompkins, Wynright, Cubiscan, ETON, Pulse, Veristich, OPEX, Savoye, Integrated Solutions, iWarehouse, Print and Apply Panda Machines** .
+* **Manhattan Integrations** : 5\\+ years of experience in designing and supporting integrations between **Manhattan Labor Management (LM), Transportation Lifecycle Management (TLM), WMi, and WMOS** .
+* **3PL Delivery Network Support** : Expertise in handling **EDI\\-related scheduling exceptions, research, and fixes** , collaborating with major **3PL carriers (Ryder, Fidelitone, Werner, AMJT etc)** to ensure uninterrupted business operations.
+* **WMS System Analysis** : Deep knowledge of **Order Fulfillment Lifecycle (Pick/Pack/Ship), Inventory Control, Receiving \\& Putaway, Tasking, Waving, Parcel \\& Furniture Labels, and Third\\-Party Carrier Integrations** .
+* **EDI \\& Order Management** : Experience working with **EDI forms** , including **Invoice (810\\), Purchase Orders (850\\), Ship Notice/Manifest (856\\), Shipment Delivery Status Updates (214\\), and Order Change/Updates (860\\)** .
+* **Rate Shopping \\& Proship Integrations** : Extensive knowledge of **Proship configuration** , including **routing updates, shipping upgrades, cutoffs, ring \\& run configs, regional biasing rules, ship via overrides** , and supporting **ship\\-from\\-store functionalities** with store registration, tracking configuration, and store close\\-out updates.
+
+  
+Our Company
+  
+
+  
+
+Founded in 1956, Williams\\-Sonoma, Inc. is the premier specialty retailer of high\\-quality products for the kitchen and home in the United States. Our family of brands are Williams Sonoma, Williams Sonoma Home, Pottery Barn, Pottery Barn teen, pottery barn kids, Rejuvenation, Mark \\& Graham, west elm, or Outward. These brands are among the best known and most respected in the industry. We offer beautifully\\-designed, stylish and functional products for every area of the home, including the kitchen, living room, bedroom, home office, closet, laundry room and even outdoor spaces. We've seen some big changes since our first brick\\-and\\-mortar store opened more than half of a century ago. What hasn't changed is our passion for high\\-quality products, functional design, outstanding customer service, and enhancing the lives of our customers and the communities where we operate. Today, we're a multi\\-brand, multi\\-channel, global enterprise supported by state\\-of\\-the\\-art technology and some of the most talented teams in retailing \\- and we're always looking for new energy and ideas.","","https://www.glassdoor.com/Overview/W-EI_IE2043.htm","https://media.glassdoor.com/sql/2043/williams-sonoma-squarelogo-1554837276999.png","","","","",""
+"gd-1009635871478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635871478","","DevOps Engineer","Caveon","United States","2025-02-12","","","","","","",False,"","","sponsored","","The DevOps engineer will work with the IT teams and development teams to oversee code releases of our software solutions, measure performance metrics to ensure that user expected performance goals are being met, deploying code, software, and firmware updates feature planning and resource technology planning, monthly audits and testing, end user support as needed, as well as aide in the implementation and maintenance of Caveon’s InfoSec and ISO 27001 programs.
+
+**Knowledge / Skills / Ability:**
+
+* Identify hardware and software problems and solutions
+* Troubleshooting technical issues
+* Translate development needs into scalable, secure infrastructure deployments.
+* Ability to understand Python, Flask, Node.js, React, Vue.js, and Angular.js
+* Ability to write SQL scripts to identify, troubleshoot, and correct data issues.
+* Strong knowledge of deployment pipelines and the effective implementation of Jenkins
+* Familiarity with Kubernetes environment setup, maintenance, and security, including associated management tools.
+* Familiarity with automated penetration testing solutions and processes.
+* Talking to technology users, and in some cases remoting into computers, and performing a series of actions to resolve problems
+* Participate in daily meetings with the IT team and operate independently.
+* Ability to understand multiple application technologies and provide troubleshooting and guidance to co\\-workers
+* Supporting the roll\\-out of new applications and features
+* Ability to perform security monitoring and hardening
+* Ability to establish and ensure adherence to security and process protocols
+* Collaborative team spirit
+
+**Preferred Education and Experience:**
+
+* Bachelor’s degree in IT, computer science, information systems, or a related field
+* 3\\+ years of experience working in a DevOps role or high\\-level system administration
+* Knowledge of Windows, Mac, and Linux operating systems and kernels
+* Excellent interpersonal skills
+* Excellent understanding of computer systems, security, network and systems administration, databases and data storage systems, and telecommunications systems
+
+**Other Responsibilities:**
+
+* Other duties and tasks as assigned
+* Maintain confidentiality at all times
+* Caveon takes information security seriously and requires that all employees adhere to all established policies and communicate any information system/information security concern immediately to Senior Management so it can promptly be investigated.
+
+**Miscellaneous:**
+
+* Must be eligible to work in the United States.
+* Ability to work from home with minimal direction
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Caveon is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+
+Job Type: Full\\-time
+
+Pay: $10\\.00 \\- $11\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Compensation Package:
+
+* Profit sharing
+* Yearly pay
+
+Work Location: Remote","","https://www.glassdoor.com/Overview/W-EI_IE303916.htm","https://media.glassdoor.com/sql/303916/caveon-squarelogo-1638881330042.png","","","","",""
+"go-zhzZoQf24kt2-B0wAAAAAA==","google","https://us.bebee.com/job/02f0045ca282248ce1337185047bb203?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Data Analyst Position","Monogram Foods","Memphis, TN","2025-02-01","","","","","","",False,"","","","","Job Summary
+We are looking for a skilled Data Engineer to build data processing pipelines and analytics solutions using Azure cloud tools. In this role, you will transform data, detect changes, create models for business insights, and collaborate with stakeholders to meet their data needs. If you have expertise in Azure tools, programming languages such as SQL, Python, or Scala, and a drive for excellence, we encourage you to apply.
+
+The selected candidate will be responsible for ingesting data from various sources, transforming data visually with data flows, monitoring and optimizing ETL processes, writing complex SQL queries, and migrating data to Microsoft Fabric.","","","","","","","",""
+"go-6Y3MS4haJeeYeufnAAAAAA==","google","https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-tmt-manager-consulting-location-open-at-ey-4148192631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","AI & Machine Learning Engineer - TMT - Manager - Consulting - Location OPEN","EY","Memphis, TN","2025-01-20","","","","","","",False,"","","","ssc.customersupport@ey.com","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The exceptional EY experience. It's yours to build.
+
+EY focuses on high-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+
+AI/Machine Learning Engineer – TMT – Manager - Consulting
+
+The opportunity
+
+Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side-by-side with clients and diverse teams from EY to create a well-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+
+Your Key Responsibilities
+
+You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+
+You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+
+Skills And Attributes For Success
+
+This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+
+To qualify for the role you must have
+• Bachelor's degree and 6-10 years of full-time working experience in AI, Data Science, and/or Machine Learning
+• 2-4 years of experience directly managing technical teams
+• Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends.
+• Strong skills in Python.
+• Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG).
+• Experience working with popular ML packages such as scikit-learn, Pytorch and ONNX, or related ML libraries.
+• Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases.
+• Proven ability to design and implement machine learning solutions that enhance network performance and customer experience.
+• Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science.
+• Experience analyzing large-scale datasets from telecommunications networks, including call detail records and performance metrics.
+• Knowledge of streaming video and audio technologies, including analytics and content recommendation systems.
+• Experience with multi-modal models, including vision-language models.
+• Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications.
+• Knowledge of regulatory and compliance considerations specific to the TMT sector.
+• Experience with real-time data processing frameworks (e.g., Apache Kafka).
+• Familiarity with cloud-based telecommunications solutions (e.g., AWS, Azure).
+• Experience with network optimization algorithms and techniques.
+• Knowledge of emerging technologies such as edge computing and IoT.
+• A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions.
+• Experience with MLOps methods and platforms such as MLFlow.
+• Experience with CI/CD and test-driven development.
+• Experience designing, building, and maintaining ML models, frameworks, and pipelines.
+• Experience designing and deploying end to end ML workflows on at least one major cloud computing platform.
+• Understanding of data structures, data modelling and software engineering best practices.
+• Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark.
+• Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions.
+• Experience with containerization and scaling models.
+• Integrating models and feedback from downstream consumption systems - reporting and dashboards, AI driven applications.
+• Strong mathematical and quantitative skills including calculus, linear algebra, and statistics.
+• Willingness to travel to meet client obligations.
+
+Ideally, you'll also have
+• A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them.
+• Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field.
+• Experience working with diverse teams to deliver complex solutions.
+• Strong skills in languages beyond Python: R, JavaScript, Java, C++, C.
+• Experience fine-tuning Generative AI models.
+
+What We Look For
+• You have an agile, growth-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.
+• You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.
+• You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.
+
+What We Offer
+
+We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team-led and leader-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+EY accepts applications for this position on an on-going basis. If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+For those living in California, please click here for additional information.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+
+EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1-800-EY-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com","","","","","","","",""
+"go-ptE6LHuaIgB55f4TAAAAAA==","google","https://us.bebee.com/job/0bb6da9dbf1e56b04f1f8f3c0794609a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Business Data Engineering Lead","Sonata Software North America Inc.","Memphis, TN","2025-01-20","","","","","","",False,"","","","","Key Responsibilities
+• Develop and maintain a comprehensive data strategy aligned with business goals.
+• Identify data sources, assess data quality, and define data standards.
+• Collaborate with business stakeholders to understand their data needs and requirements.
+• Design and develop logical and physical data models, including ER diagrams and data flows.
+• Ensure data models are optimized for performance and scalability.
+
+Required Skills and Qualifications
+• Azure / Fabric expertise (preferable Certifications)
+• Proven track record of Data Modernization and Digital Transformation experience – Would like to see in 2 or 3 engagements highlighted in the profile
+• Strong Data Engineering, Data Management and Data Governance Experience
+• Data Modeling experience – Logical and Physical
+• Strong BI/Analytics experience
+• Experience in implementing complex Data Transformations and Data Quality frameworks as part of the Data Engineering
+• Hands-on SQL, Azure/Fabric Data Factory, PySpark and Power BI.","","","","","","","",""
+"in-f59ee1e42e4bf44b","indeed","https://www.indeed.com/viewjob?jk=f59ee1e42e4bf44b","https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13912","Staff Software Engineer - Warehouse Management Applications","Williams-Sonoma, Inc.","Olive Branch, MS, US","2025-02-12","fulltime","direct_data","yearly",124962.0,149657.0,"USD",False,"","","","","The Staff Software Engineer will be part of our Enterprise Support \\& Reliability Engineering (ESRE) Team focused on Warehouse Management Applications.
+
+
+**Responsibilities**
+
+* **Architect \\& Enhance Systems** : Work with Engineering and Architecture teams to design scalable, high\\-performing solutions for WMS and final mile .
+* **Incident Resolution \\& Stability** : Lead root cause analysis and resolution for critical system issues, ensuring high availability and operational reliability.
+* **Monitoring \\& Automation** : Build and enhance proactive monitoring, logging, and alerting mechanisms (e.g., ELK, AppDynamics) for improved system observability.
+* **Cross\\-Team Collaboration** : Partner with Engineering, Product, and Operations teams to prioritize and implement critical system improvements.
+* **Operational Excellence** : Define and implement SOPs, automated workflows, and reporting frameworks to optimize daily operations.
+* **Inventory \\& Data Integrity** : Ensure seamless inventory movement across DCs, resolving transfer discrepancies, EDI issues, and ASN challenges.
+* **Technology Leadership** : Mentor engineers, lead technical discussions, and drive best practices for monitoring, troubleshooting, and performance tuning.
+* **Vendor \\& Stakeholder Engagement** : Work closely with vendors (e.g., Manhattan, Savoye) to diagnose and resolve platform\\-related issues efficiently.
+* **Capacity Planning \\& Performance Optimization** : Strategically plan and allocate system resources across OMS, WMS, and microservices to support business growth and peak readiness.
+* **Disaster Recovery \\& Compliance** : Plan and execute DR drills for critical applications (TIBCO, Kafka, WMOS, OMS) while ensuring compliance with IT standards.
+
+**Criteria**
+
+* **10\\+ years of experience** in software development and/or application production support , with expertise in **OMS, WMS, and Supply Chain systems** .
+* Strong knowledge of **enterprise integration patterns, middleware technologies (TIBCO, Kafka), and API\\-driven architectures** .
+* Proficiency in monitoring and logging tools such as **ELK, AppDynamics, Prometheus, Grafana** .
+* Hands\\-on experience in **automation, alerting, and incident management** to enhance system stability.
+* Proven ability to **analyze, diagnose, and resolve critical production issues** in a high\\-volume, distributed system environment.
+* Expertise in **inventory movement, EDI transactions, DC operations, and order fulfillment workflows** .
+* Strong leadership skills with a **servant leadership approach** , mentoring and guiding teams to success.
+* Experience leading **large\\-scale system migrations (e.g., PKMS to WMOS), performance tuning, and capacity planning** .
+* Effective communicator, able to collaborate with **engineering teams, operations, business stakeholders, and vendors** .
+* Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).
+
+**Additional Skills \\& Expertise**
+
+* **Material Handling Equipment (MHE) Integrations** : 8\\+ years of experience with **third\\-party MHE applications** , including **Reddwerks Pick to Light, Tompkins, Wynright, Cubiscan, ETON, Pulse, Veristich, OPEX, Savoye, Integrated Solutions, iWarehouse, Print and Apply Panda Machines** .
+* **Manhattan Integrations** : 5\\+ years of experience in designing and supporting integrations between **Manhattan Labor Management (LM), Transportation Lifecycle Management (TLM), WMi, and WMOS** .
+* **3PL Delivery Network Support** : Expertise in handling **EDI\\-related scheduling exceptions, research, and fixes** , collaborating with major **3PL carriers (Ryder, Fidelitone, Werner, AMJT etc)** to ensure uninterrupted business operations.
+* **WMS System Analysis** : Deep knowledge of **Order Fulfillment Lifecycle (Pick/Pack/Ship), Inventory Control, Receiving \\& Putaway, Tasking, Waving, Parcel \\& Furniture Labels, and Third\\-Party Carrier Integrations** .
+* **EDI \\& Order Management** : Experience working with **EDI forms** , including **Invoice (810\\), Purchase Orders (850\\), Ship Notice/Manifest (856\\), Shipment Delivery Status Updates (214\\), and Order Change/Updates (860\\)** .
+* **Rate Shopping \\& Proship Integrations** : Extensive knowledge of **Proship configuration** , including **routing updates, shipping upgrades, cutoffs, ring \\& run configs, regional biasing rules, ship via overrides** , and supporting **ship\\-from\\-store functionalities** with store registration, tracking configuration, and store close\\-out updates.
+
+  
+Our Company
+  
+
+  
+
+Founded in 1956, Williams\\-Sonoma, Inc. is the premier specialty retailer of high\\-quality products for the kitchen and home in the United States. Our family of brands are Williams Sonoma, Williams Sonoma Home, Pottery Barn, Pottery Barn teen, pottery barn kids, Rejuvenation, Mark \\& Graham, west elm, or Outward. These brands are among the best known and most respected in the industry. We offer beautifully\\-designed, stylish and functional products for every area of the home, including the kitchen, living room, bedroom, home office, closet, laundry room and even outdoor spaces. We've seen some big changes since our first brick\\-and\\-mortar store opened more than half of a century ago. What hasn't changed is our passion for high\\-quality products, functional design, outstanding customer service, and enhancing the lives of our customers and the communities where we operate. Today, we're a multi\\-brand, multi\\-channel, global enterprise supported by state\\-of\\-the\\-art technology and some of the most talented teams in retailing \\- and we're always looking for new energy and ideas.","Retail","https://www.indeed.com/cmp/Williams--sonoma,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4fb035b20e3358262a3db41c8950e62d","https://www.williams-sonomainc.com/","3250 Van Ness Ave.
+San Francisco, CA 94109","10,000+","$5B to $10B (USD)","Founded in 1956, Williams-Sonoma, Inc. is the premier specialty retailer of high-quality products for the home."
+"li-4081324333","linkedin","https://www.linkedin.com/jobs/view/4081324333","https://talent.stjude.org/jobs/JR4161?lang=en-us&urlHash=awsC","Senior Staff / Principal Software Engineer, Rust Genomics","St. Jude Children's Research Hospital","Memphis, TN","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","St. Jude is seeking a seasoned Rust developer to lead the development of software to facilitate genomics analysis at scale. Foundationally, this position will work on writing (or rewriting) tools that underpin the genomics ecosystem in Rust. This position requires a deep understanding of the Rust programming language and agility working with the core concepts therein, proficiency in algorithm development with a focus on optimization via profiling, and a track record of developing software with strong documentation and testing. A portion of this position’s time will be dedicated to open\\-source software development: for these projects, active community management and engagement are vital to ensuring adoption of these tools. Beyond engineering, both synchronous and asynchronous communication skills—particularly in the areas of ideating on project direction, tracking project progress, and overall engagement with the community of these tools—are critical to ensuring success of the project. Of note, specific experience with bioinformatics and genomics is not required; we’re targeting talented software engineers who want to expand into the fields of bioinformatics and genomics (visit https://learngenomics.dev/ to learn more about genomics in the context of software engineering).
+   
+
+  
+
+ This position will be located in Memphis, TN. This position may be eligible for the possibility of remote work.
+   
+
+  
+
+**Job Responsibilities:**
+* Anticipate problems and opportunities in the scientific domain; advocate for strategic plans based on deep technical and scientific knowledge
+* Independently perform deep analysis of scientific data to identify problems and opportunities for improvement.
+* Mentor junior staff in technical and scientific concepts and actively contribute to local body of knowledge.
+* As part of a multi\\-disciplinary team, identify technical solutions to complex scientific problems and lead the implementation of those solutions.
+* Serve as a technology advocate and technical thought leader within the assigned area, inspiring productive change through technology solutions, guiding application strategy, and providing recommendations for future development.
+* Prepare scientific manuscripts and presentations.
+* Perform other duties as assigned to meet the goals and objectives of the department and institution.
+* Maintains regular and predictable attendance.
+
+
+**Minimum Education and/or Training:**
+* Bachelor's degree in computer science, data science, information science, business, or related field required.
+* Master's degree preferred.
+
+
+**Minimum Experience:**
+* Minimum Requirement: Bachelor's degree with 12\\+ years of relevant experience.
+* Experience Exception: Master's degree with 10\\+ years of relevant experience.
+* Experience with programming languages, databases, and software development lifecycle.
+* Significant experience within the technical and/or scientific domain required.
+* Proven leadership in earlier role/comparable role.
+* Anticipate problems and opportunities in the scientific domain; advocate for strategic plans based on deep technical and scientific knowledge
+* Independently perform deep analysis of scientific data to identify problems and opportunities for improvement.
+* Mentor junior staff in technical and scientific concepts and actively contribute to local body of knowledge.
+* As part of a multi\\-disciplinary team, identify technical solutions to complex scientific problems and lead the implementation of those solutions.
+* Serve as a technology advocate and technical thought leader within the assigned area, inspiring productive change through technology solutions, guiding application strategy, and providing recommendations for future development.
+* Prepare scientific manuscripts and presentations.
+* Perform other duties as assigned to meet the goals and objectives of the department and institution.
+* Maintains regular and predictable attendance.
+
+
+ The Senior Staff Software Engineer manages assigned software systems through strategic direction, technical design, implementation, and operational health.
+   
+
+  
+
+**Job Responsibilities:**
+* Independently manage software systems within an area of responsibility, providing strategic direction, technical design, implementation, and operational health, coordinating efforts with other staff as necessary
+* Serve as a technology advocate and technical thought leader within the assigned area, inspiring productive change through technology solutions, guiding application strategy, and providing recommendations for future development
+* Architect, design, and develop “best\\-in\\-class” solutions to all but the most complex problems in the scientific domain
+* Use scientific domain knowledge to perform data analysis and identify problems and areas for improvement and generate strategic leads
+* Stay educated on existing and state\\-of\\-the\\-art technologies, and evaluate technology fits for effective delivery
+* Engage with and influence senior leadership and other decision\\-makers
+* Participate in the preparation of scientific manuscripts and presentations
+* Drive processes for continuous learning and development across teams, mentoring and guiding when required to ensure quality and productivity
+* Perform other duties as assigned to meet the goals and objectives of the department and institution.
+* Maintains regular and predictable attendance.
+
+
+**Minimum Education and/or Training:**
+* Bachelor's degree in computer science, data science, information science, business, or related field.
+* Master's degree preferred.
+
+
+**Minimum Experience:**
+* Minimum Requirement: Bachelor's degree with 8\\+ years of experience in computer science, data science, information science, business, or related field.
+* Experience Exception: Master's degree with 6\\+ years of experience in computer science, data science, information science, business, or related field.
+* Experience with programming languages, databases, and software development lifecycle.
+* Substantial experience within the technical and/or scientific domain.
+* Proven performance in earlier role/comparable role.
+
+
+**This position will be located in Memphis, TN. This position may be eligible for the possibility of remote work.**
+**Compensation**
+ In recognition of certain U.S. state and municipal pay transparency laws, St. Jude is including a reasonable estimate of the compensation range for this role. This is an estimate offered in good faith and a specific salary offer takes into account factors that are considered in making compensation decisions including but not limited to skill sets, experience and training, licensure and certifications, and other business and organizational needs. It is not typical for an individual to be hired at or near the top of the salary range and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current salary range is $125,840 \\- $238,160 per year for the role of Senior Staff / Principal Software Engineer, Rust Genomics.
+   
+
+  
+
+ Explore our exceptional benefits!
+   
+
+  
+
+**Diversity, Equity and Inclusion**
+ St. Jude Children’s Research Hospital has a diverse, global patient population and workforce, built on the principles of diversity, equity and inclusion. Our founder Danny Thomas envisioned a hospital that would treat children of the world—regardless of race, religion or a family’s ability to pay. Learn more about our history and commitment.
+   
+
+  
+
+ Today, we continue the mission to advance cures and means of prevention for pediatric catastrophic diseases through research and treatment. As we accelerate this progress globally, we believe our legacy of diversity, equity and inclusion is foundational to success. With the commitment of leaders at all levels of the organization, we strive to ensure the St. Jude culture, leadership approaches and talent processes are equitable and culturally responsive. View our Diversity, Equity and Inclusion Report to learn about the hospital’s roots in diversity, equity and inclusion, where we are today and our aspirations for an even better future.
+   
+
+  
+
+ St. Jude is an Equal Opportunity Employer
+   
+
+  
+
+**No Search Firms**
+ St. Jude Children's Research Hospital does not accept unsolicited assistance from search firms for employment opportunities. Please do not call or email. All resumes submitted by search firms to any employee or other representative at St. Jude via email, the internet or in any form and/or method without a valid written search agreement in place and approved by HR will result in no fee being paid in the event the candidate is hired by St. Jude.","Hospitals and Health Care","https://www.linkedin.com/company/st-jude-childrens-research-hospital","https://media.licdn.com/dms/image/v2/C560BAQHxUlnzTw-4fg/company-logo_100_100/company-logo_100_100/0/1653341738714/st_jude_childrens_research_hospital_logo?e=2147483647&v=beta&t=PY1_tCbyRzz7BC0YguSHIt7f_YVSM1rwegOoYN9KdZw","","","","",""
+"li-4150559101","linkedin","https://www.linkedin.com/jobs/view/4150559101","","Senior AWS Data Engineer - Glue, Lambda, Redshift","Vaco","Memphis, TN","","fulltime","","","","","","","mid-senior level","Information Technology","","","Vaco is actively seeking a
+ **Senior AWS Data Engineer** 
+ for a direct\\-hire position with our client in Memphis.
+   
+
+  
+
+ This is a permanent opportunity to join a highly respected national organization that is a proven leader in their field!
+   
+
+  
+
+  
+
+**PLEASE NOTE** 
+ : Employment authorization / sponsorship of any kind is not being considered.
+   
+
+  
+
+  
+
+**Data Engineer Summary**
+ As an AWS Data Engineer, you will be responsible for designing, implementing, and maintaining scalable data pipelines and solutions on the AWS enterprise platform. You will collaborate closely with cross\\-functional teams to gather requirements, architect data solutions, and ensure data integrity, availability, and performance.
+   
+
+  
+
+  
+
+**Primary AWS Tools Utilized:** 
+ Glue, Lambda, Redshift Event Bridge
+   
+
+  
+
+  
+
+**Key Responsibilities:**
+* Design and Develop Data Pipelines: Design, develop, and implement scalable and efficient data pipelines using AWS services such as AWS Glue, AWS Data Pipeline, AWS Lambda, and other relevant technologies.
+
+
+* Data Modeling and Architecture: Architect data models and data flows to support the organization's analytical and reporting needs. Implement data structures optimized for performance and scalability.
+
+
+* Data Integration: Integrate data from various sources including databases, APIs, and streaming data sources. Ensure seamless data flow and consistency across different systems.
+
+
+* Data Transformation and ETL: Develop ETL processes to transform raw data into usable formats for analytics and reporting. Optimize data transformation processes for performance and efficiency.
+
+
+* Data Quality and Governance: Implement data quality checks and governance processes to ensure data accuracy, consistency, and compliance with regulatory requirements.
+
+
+* Monitoring and Optimization: Monitor data pipelines and systems for performance and reliability. Implement optimizations and improvements to enhance efficiency and scalability.
+
+
+* Collaboration and Communication: Collaborate closely with data scientists, analysts, and business stakeholders to understand data requirements and deliver solutions that meet business needs. Communicate effectively with technical and non\\-technical stakeholders.
+
+
+* Documentation and Best Practices: Document data pipelines, data models, and technical specifications. Promote best practices for data engineering and ensure adherence to standards and guidelines.
+
+
+**Additional Details** 
+**:**
+* Employment Type: Direct\\-Hire Position
+* Start Date: Immediate
+* Location: Memphis
+* Total Compensation: $120k \\- $160k plus bonus and relocation assistance as needed
+* Employment Status: Employment sponsorship is not being considered
+
+
+**Interested Candidates are Encouraged to Apply for Immediate Consideration!**
+**Desired Skills and Experience**
+ AWS, Glue, Redshift, Lambda, SQL","Data Infrastructure and Analytics","https://www.linkedin.com/company/vaco","https://media.licdn.com/dms/image/v2/D4E0BAQETVFSdIzK4cw/company-logo_100_100/company-logo_100_100/0/1688588535509/vaco_logo?e=2147483647&v=beta&t=Nzj0ySlh7vU19A5KjkfQRbXdtHBi1-h74hskU7cp_RM","","","","",""
+"li-4148192631","linkedin","https://www.linkedin.com/jobs/view/4148192631","https://careers.ey.com/ey/job/New-York-AI-&-Machine-Learning-Engineer-TMT-Manager-Consulting-Location-OPEN-NY-10001-8604/1170728801/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin&urlHash=AhUk","AI & Machine Learning Engineer - TMT - Manager - Consulting - Location OPEN","EY","Memphis, TN","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","ssc.customersupport@ey.com","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+   
+
+  
+
+ The exceptional EY experience. It's yours to build.
+   
+
+  
+
+ EY focuses on high\\-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+   
+
+  
+
+**AI/Machine Learning Engineer – TMT – Manager \\- Consulting**
+**The opportunity**
+ Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side\\-by\\-side with clients and diverse teams from EY to create a well\\-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast\\-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+   
+
+  
+
+**Your Key Responsibilities**
+ You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+   
+
+  
+
+ You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+   
+
+  
+
+**Skills And Attributes For Success**
+ This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+   
+
+  
+
+**To qualify for the role you must have**
+* Bachelor's degree and 6\\-10 years of full\\-time working experience in AI, Data Science, and/or Machine Learning
+* 2\\-4 years of experience directly managing technical teams
+* Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends.
+* Strong skills in Python.
+* Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall\\-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG).
+* Experience working with popular ML packages such as scikit\\-learn, Pytorch and ONNX, or related ML libraries.
+* Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases.
+* Proven ability to design and implement machine learning solutions that enhance network performance and customer experience.
+* Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science.
+* Experience analyzing large\\-scale datasets from telecommunications networks, including call detail records and performance metrics.
+* Knowledge of streaming video and audio technologies, including analytics and content recommendation systems.
+* Experience with multi\\-modal models, including vision\\-language models.
+* Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications.
+* Knowledge of regulatory and compliance considerations specific to the TMT sector.
+* Experience with real\\-time data processing frameworks (e.g., Apache Kafka).
+* Familiarity with cloud\\-based telecommunications solutions (e.g., AWS, Azure).
+* Experience with network optimization algorithms and techniques.
+* Knowledge of emerging technologies such as edge computing and IoT.
+* A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions.
+* Experience with MLOps methods and platforms such as MLFlow.
+* Experience with CI/CD and test\\-driven development.
+* Experience designing, building, and maintaining ML models, frameworks, and pipelines.
+* Experience designing and deploying end to end ML workflows on at least one major cloud computing platform.
+* Understanding of data structures, data modelling and software engineering best practices.
+* Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark.
+* Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions.
+* Experience with containerization and scaling models.
+* Integrating models and feedback from downstream consumption systems \\- reporting and dashboards, AI driven applications.
+* Strong mathematical and quantitative skills including calculus, linear algebra, and statistics.
+* Willingness to travel to meet client obligations.
+
+
+**Ideally, you'll also have**
+* A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them.
+* Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field.
+* Experience working with diverse teams to deliver complex solutions.
+* Strong skills in languages beyond Python: R, JavaScript, Java, C\\+\\+, C.
+* Experience fine\\-tuning Generative AI models.
+
+
+**What We Look For**
+* You have an agile, growth\\-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.
+* You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.
+* You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.
+
+
+**What We Offer**
+ We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200\\. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600\\. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team\\-led and leader\\-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40\\-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well\\-being.
+   
+
+  
+
+* Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+* Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+* Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+* Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+
+ EY accepts applications for this position on an on\\-going basis.
+ **If you can demonstrate that you meet the criteria above, please contact us as soon as possible.**
+ EY exists to build a better working world, helping to create long\\-term value for clients, people and society and build trust in the capital markets.
+   
+
+  
+
+ Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+   
+
+  
+
+ Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+   
+
+  
+
+ For those living in California, please click here for additional information.
+   
+
+  
+
+ EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+   
+
+  
+
+ EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1\\-800\\-EY\\-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com","IT Services and IT Consulting","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","",""
+"zr-hs9cs-EJm3d56LbQYgc5vA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=hs9cs-EJm3d56LbQYgc5vA","","Cloud Engineer III","FedEx","Memphis, TN, USA","2025-02-12","","","","","","","","","","organic","DataworksTalentAcquisition@corp.ds.fedex.com","**About FedEx Dataworks:** 
+  
+
+  
+
+ Born out of FedEx, a pioneer that ships nearly 20 million packages a day and manages endless threads of information, FedEx Dataworks is an organization rooted in connecting the physical and digital sides of our network to meet today's needs and address tomorrow's challenges.
+   
+
+  
+
+ We are creating opportunities for FedEx, our customers, and the world at large by:
+ * Exploring and harnessing data to define and solve true problems
+* Removing barriers between data sets to create new avenues of insight
+* Building and iterating on solutions that generate value
+* Acting as a change agent to advance curiosity and performance
+
+
+ At FedEx Dataworks, we are making supply chains work smarter for everyone.
+   
+
+  
+
+**Summary:** 
+  
+
+  
+
+ As a Cloud Engineer III, you will be responsible for the design, build, deployment, integration, and management of private, public, and/or hybrid cloud platform services supporting the development of complex applications at enterprise scale. In this role the candidate must be able to demonstrate their networking and security protocol knowledge to ensure safe and scalable environment provisioning while protecting accessibility to data assets residing within. The candidate will be developing infrastructure as code using scripts, templates, blueprints, workflows, CI/CD orchestration tools, and other automation technologies in the spirit of speed and consistency. Continuous collaboration will be an important aspect of this role working with a variety of architects and peer engineering teams ensuring deployed services meet the highest levels of scalability, reliability, and performance while balancing security, maintainability, reliability, and operational excellence.
+   
+
+  
+
+**Job Description / Responsibilities** 
+* Develop, deploy, monitor and maintain the cloud infrastructure, primarily Azure
+* Under limited supervision, works very closely with Application Architects, Leads, Cloud Infrastructure Architects team to build Infrastructure for the applications and integrations following the FedEx Platform Guidelines and Principles
+* Participate in AGILE Process to plan, design, build and ensure infrastructure is available and ready for the software engineers in a timely manner
+* Ensure cloud\\-based applications and services run efficiently, securely and reliably
+* Collaborate with FedEx Reliability team to for monitoring and alerting for the application infrastructure and software components efficiently
+* Performance of the infrastructure, cost optimization of the infrastructure and scalability of the infrastructure are responsibilities of this role.
+* It's very important for this role to work in junction with other applications in FedEx to ensure all non\\-prod environments are available for development, testing, integration, demos.
+* Provide guidance to the Leads and Engineers with solutions to problems that may arise during the SDLC
+* Respond to cloud service outage or degradation, identify and fix root causes
+* Automate cloud operations to streamline deployment, scaling and other repetitive tasks using Infrastructure as Code
+* Collaborate with DevOps and development teams, support CICD pipelines
+* Develop and maintain documentation on cloud infrastructure, share best practices
+* Optimize cloud costs, plan for cloud capacity, implement scaling strategies
+* Implement security policies for cloud environments, monitor for vulnerabilities, ensure compliance
+
+
+  
+
+**Skills / Abilities** 
+* Strong oral and written communication skills
+* Azure cloud platform experience
+* Demonstrable understanding of the 7 layers of the OSI Network Mode
+* Conversant in system administration skills and tasks that a well\\-rounded technologist may need to perform
+* Infrastructure as Code
+* Experience with one or more programming languages
+* Automation and scripting in Powershell and Bash
+* DevOps and CICD pipelines specifically terraform
+* Kubernetes experience either with AKS or managing your own Kubernetes cluster
+* Experience in making alerting manageable but catching problems
+* Experiencing in completing difficult projects, e.g. programming project, system admin, large deployment or migration projects
+
+
+  
+
+**Minimum Education** 
+  
+
+  
+
+ Bachelor's Degree/equivalent in computer science, engineering, or information systems and/or equivalent formal training or work experience.
+   
+
+  
+
+**Minimum Experience** 
+  
+
+  
+
+ Three to four (3\\-4\\) years' experience in cloud engineering or related field. Experience providing leadership in a general planning or consulting setting. Some experience as a leader or a senior member of multi\\-function project teams. A related advanced degree may offset the related experience requirements.
+   
+
+  
+
+ Knolwedge, Skills and Abilities
+   
+
+  
+
+ Strong oral and written communication skills
+   
+
+  
+
+**DomicileInformation:** 
+  
+
+  
+
+ ThispositioncanbedomiciledanywhereintheUnitedStates.TheabilitytoworkremotelywithintheUnitedStatesmaybeavailablebasedonbusinessneed.
+   
+
+  
+
+**Preferred Qualifications:** 
+  
+
+  
+
+**Pay Transparency:** 
+ This compensation range is provided as a reasonable estimate of the current starting salary range for this role across all potential locations. If this opportunity includes multiple job levels, the range is a reasonable estimate of the current starting salary for the lowest level to the current starting salary of the highest level. Actual starting pay would be determined by experience relative to the job, market level, pay at the location for this job and other job\\-related factors permitted by law. An employee may be eligible for additional pay, premiums, or bonus potential. The Company offers eligible employees health, vision and dental insurance, retirement, and tuition reimbursement.
+   
+
+  
+
+**Pay:** 
+ U.S. Annual Pay Range: $104,960 to $157,440
+   
+
+  
+
+**Additional Details:** 
+ Application Criteria: Upload current copy of Resume (Microsoft Word or PDF format only) and answer job screening questionnaire by 5pm EST on 2/14/25\\.
+   
+
+  
+
+ FedEx Dataworks is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+   
+
+  
+
+ Dataworks does not discriminate against qualified individuals with disabilities in regard to job application procedures, hiring, and other terms and conditions of employment. Further, Dataworks is prepared to make reasonable accommodations for the known physical or mental limitations of an otherwise qualified applicant or employee to enable the applicant or employee to be considered for the desired position, to perform the essential functions of the position in question, or to enjoy equal benefits and privileges of employment as are enjoyed by other similarly situated employees without disabilities, unless the accommodation will impose an undue hardship. If a reasonable accommodation is needed, please contact DataworksTalentAcquisition@corp.ds.fedex.com.","","","","","","","",""
+"zr-lOCEwuEtab6VBjFIWytdVg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=lOCEwuEtab6VBjFIWytdVg","","Pharmacy Automation Analyst","1200 MH-Memphis Hospitals","Memphis, TN, USA","2025-02-12","","","","","","","","","","organic","","If you are looking to make an impact on a meaningful scale, come join us as we
+ **embrace the Power of One!** 
+  
+
+
+
+
+
+ We strive to be an employer of choice and establish a reputation for being a talent rich organization where Associates can grow their career caring for others. For over a century, we've served the health care needs of the people of Memphis and the Mid\\-South.
+   
+
+
+
+
+ The Pharmacy Automation Analyst is responsible for providing information system support, database management, and technical troubleshooting for pharmacy automated systems at Methodist Healthcare. Coordinates the development, implementation and management of automation and technology that impacts the Department of Pharmacy and the medication use process. Models appropriate behavior as exemplified in MLH Mission, Vision and Values.
+ 
+  
+
+
+
+
+
+ Working at MLH means carrying the mission forward of caring for our community and impacting the lives of patients in every way through compassion, a deliberate focus on service expectations and a consistent thriving for excellence.
+   
+
+  
+
+**A Brief Overview** 
+  
+
+ The Pharmacy Automation Analyst is responsible for providing information system support, database management, and technical troubleshooting for pharmacy automated systems at Methodist Healthcare. Coordinates the development, implementation and management of automation and technology that impacts the Department of Pharmacy and the medication use process. Models appropriate behavior as exemplified in MLH Mission, Vision and Values.
+   
+
+  
+
+  
+
+**What you will do** 
+
+
+
+* Coordinates and supports implementation, integration, and maintenance of pharmacy automation and technology to optimize medication use processes.
+* Configures, maintains, troubleshoots, and supports a variety of automated technologies such as automated dispensing cabinets, medication carousels, and narcotic systems to enhance the safety and quality of pharmaceutical care provided.
+* Promotes effective communication concerning pharmacy automation applications.
+* Develops, conducts, and/or coordinates training programs on appropriate use of information technology for clinical departments, medical staff, and others as required.
+* Follows established procedures for medication safety, ensures compliance with regulatory requirements, quality standards, compliance activities, and policies and procedures.
+
+
+
+  
+
+**Education/Formal Training Requirements** 
+
+
+
+
+
+
+
+* Associate's Degree Healthcare Science
+* Associate's Degree Information Systems
+* Associate's Degree Computer sciences
+* Associate's Degree Allied Health
+* Bachelor's Degree Healthcare Science
+* Bachelor's Degree Information Systems
+* Bachelor's Degree Computer sciences
+* Bachelor's Degree Allied Health
+
+
+
+  
+
+**Work Experience Requirements** 
+
+
+
+* 3\\-5 years Pharmacy (clinical, hospital, outpatient, or specialty)
+
+
+
+  
+
+**Licenses and Certifications Requirements** 
+
+
+
+* Certified Pharmacy Technician \\- Pharmacy Technician Certification Board or
+* Certified Pharmacy Technician\\- National Healthcareer Association required
+* Pharmacy Technician \\- Mississippi \\- Mississippi Board of Pharmacy
+* Pharmacy Technician \\- Tennessee \\- Tennessee Board of Pharmacy
+
+
+
+  
+
+**Knowledge, Skills and Abilities** 
+
+
+
+* Must have demonstrated knowledge of the overall workflow of the pharmacy department.
+* Experience with automated workflow redesign and process improvement associated with automated and/or patient care systems required.
+* Demonstrated ability to work independently and to consistently exercise sound judgment and initiative in a wide range of circumstances.
+* Demonstrates the ability to operate pharmacy automated devices.
+* Ability to read, comprehend and prepare moderately complex written materials such as software documentation.
+* Ability to communicate verbally and in writing information management concepts and methods to non\\-technical users.
+* Ability to understand the relationship between multiple pharmacy databases and the impact each component has on the operating workflow.
+* Knowledge of and experience with Microsoft Office required.
+* Demonstrated success in the mentoring, coaching and teaching of others.
+* Demonstrated success in facilitating and leading teams and projects.
+
+
+
+  
+
+**Supervision Provided by this Position** 
+
+
+
+* There are no lead responsibilities assigned to the job.
+
+
+
+  
+
+**Physical Demands** 
+
+
+
+* The physical activities of this position may include climbing, pushing, standing, hearing, walking, reaching, grasping, kneeling, stooping, and repetitive motion.
+* Must have good balance and coordination.
+* The physical requirements of this position are: light work \\- exerting up to 25 lbs. of force occasionally and/or up to 10 lbs. of force frequently.
+* The Associate is required to have close visual acuity to perform an activity, such as preparing and analyzing data and figures; transcribing; viewing a computer terminal; or extensive reading.
+* The conditions to which the Associate will be subject in this position: The Associate is not substantially exposed to adverse environmental conditions; job functions are typically performed under conditions such as those found in general office or administrative work.
+
+
+
+  
+
+ Our Associates are passionate about what they do, the service they provide and the patients they serve. We value family, team and a Power of One culture that requires commitment to the highest standards of care and unity.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***Education:***
+
+
+
+ Associates Degree: Allied Health, Associates Degree: Computer sciences, Associates Degree: Healthcare Science (Required), Associates Degree: Information Systems, Bachelor's Degree: Allied Health, Bachelor's Degree: Computer sciences, Bachelor's Degree: Healthcare Science, Bachelor's Degree: Information Systems
+ 
+
+
+
+
+
+
+
+
+***Work Experience:***
+
+
+
+ Pharmacy (clinical, hospital, outpatient, or specialty)
+ 
+
+
+
+
+
+
+
+
+***Certifications:***
+
+
+
+ Certified Pharmacy Technician \\- National Healthcareer Association, Certified Pharmacy Technician \\- Pharmacy Technician Certification Board, Pharmacy Technician \\- Mississippi \\- Mississippi Board of Pharmacy, Pharmacy Technician \\- Tennessee \\- Tennessee Board of Pharmacy
+ 
+
+
+
+
+
+
+
+
+  
+
+ Boasting one of the South's largest medical centers, Memphis blends a friendly community, a thriving and growing downtown, and a low cost of living. We see each day as a new opportunity to make a difference in the lives of the people in our community.","","","","","","","",""
+"zr-qIIf08K0Qjc4N-0n0wGD6w","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=qIIf08K0Qjc4N-0n0wGD6w","","Network Specialist (Nutrition Services)","Memphis Shelby County Schools","Memphis, TN, USA","2025-02-12","","","","","","","","","","organic","","Purpose and Scope
+ 
+ Assists in the analysis, installation, testing, implementation and management of District Point of Service (POS), inventory management systems and Central Office operation support and the network application infrastructure.  The position is responsible for assisting as a team member with food services network and technical design and implementation projects, providing on\\-site technical support and training of customers, performing system maintenance and upgrades, and performing related work as assigned.  The position works under general supervision independently developing work methods and sequences.
+ 
+
+
+ Essential Job Functions
+ - Installs, configures and upgrades computer hardware, software, network systems, telephone systems, peripheral equipment and necessary wiring and cabling.
+
+- Assists in project planning, presentation and implementation; prepares and recommends network specifications to satisfy customer requirements; prepares technical drawings as needed; assists in developing installation schedules in coordination with department staff and staff in affected areas.
+
+- Provides remote and on\\-site software analysis, support and training to customers in both administrative and cafeteria settings.
+
+- Monitors performance of computer systems; performs routine maintenance; troubleshoots and resolves computer network, hardware, software and peripheral equipment problems; documents problems and resolutions.
+
+- Assists in performing maintenance upgrades to ensure the currency of network and point of service components.
+
+- Communicates with vendors to secure assistance in resolving problems, obtain quotes on new products and expedite delivery.
+
+- Restores deleted or damaged files and folders due to system failures; assists in ensuring system integrity and connectivity.
+
+- Analyzes, develops and implements ideas for overall improvement of the business operation and workplace efficiency and effectiveness.
+
+- Serves as liaison between end\\-users, software vendors and Central Office management in resolving complex technical problems.
+
+- Ensures the prompt and professional completion of all work orders received, with minimal downtime for system users; documents all assigned projects.
+
+- Assists in maintaining equipment inventory and tracking equipment location.
+
+- Performs all duties in accordance with established policies, procedures, specifications, applicable codes and ordinances, and standards of quality and safety.
+
+- Performs general clerical tasks as necessary, including preparing reports and records, entering and retrieving computer data, preparing spreadsheets, copying and filing documents, receiving and responding to e\\-mails and faxes, answering the telephone with proficient customer service skills
+
+- Attends staff, committee and other meetings to exchange information; attends technical workshops, seminars or training to enhance job knowledge and skills.
+
+- Performs other related duties as assigned or directed.
+
+ Minimum Qualifications
+ 
+ Graduation from an accredited college or university with a Bachelor's Degree in Computer Science, Information Technology, Engineering, Business, or other related field plus an additional 2 years related experience, or equivalent, for a total education/experience of 6 years.
+ **(PROOF OF EDUCATION, TRAINING, AND/OR EXPERIENCE IS REQUIRED)** 
+ .
+ 
+
+
+
+  
+ 
+
+
+
+ Degree Equivalency Formula:
+ 
+
+
+
+  
+ 
+
+
+
+ Bachelor's Degree\\= 4 years plus required years of experience.
+ 
+
+
+
+ Master's Degree\\= 2 years plus required years of experience. Where Master's degrees are required, years for Bachelor's Degrees must be included. 
+ 
+
+
+ Employment Type: FULL\\_TIME","","","","","","","",""
+"zr-3u-2brAnNHTSh2paVC4zoQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=3u-2brAnNHTSh2paVC4zoQ","","Senior Formulation Chemist","Trisian-Global Consulting LLC","Collierville, TN, USA","2025-02-12","","","","","","","","","","organic","",", Permanent
+ 
+
+
+
+**Position: Senior Formulation Chemist** 
+
+
+
+
+ Trisian\\-Global Consulting LLC is a leading consulting firm in the pharmaceutical industry, specializing in formulation development and manufacturing. We are seeking a highly skilled and experienced Senior Formulation Chemist to join our team in Collierville, TN.
+ 
+
+
+
+ Responsibilities:
+ 
+
+
+1. Lead formulation development projects from concept to commercialization, focusing on solid dosage forms (tablets and capsules)
+2. \\- Conduct pre\\-formulation studies and develop formulation strategies to optimize drug product performance
+3. \\- Design and execute experimental plans to develop and optimize formulation and manufacturing processes
+4. \\- Analyze and interpret data to make informed decisions on formulation development
+5. \\- Collaborate with cross\\-functional teams including analytical development, quality control, and manufacturing to ensure successful product development and scale\\-up
+
+
+
+ \\- Write technical reports, development protocols, and batch records in compliance with regulatory guidelines
+ 
+
+
+
+ \\- Stay current with industry trends and developments in formulation technology and apply knowledge to enhance product development processes
+ 
+
+
+
+ \\- Mentor and train junior formulation chemists on formulation development techniques and processes
+ 
+
+
+
+ Qualifications:
+ 
+
+
+
+ \\- PhD in Pharmaceutical Sciences, Chemistry, or related field with 5\\+ years of experience in formulation development in the pharmaceutical industry OR Master's degree with 8\\+ years of experience OR Bachelor's degree with 10\\+ years of experience
+ 
+
+
+
+ \\- Extensive knowledge of formulation development, solid dosage forms, and manufacturing processes
+ 
+
+
+
+ \\- Experience with pre\\-formulation studies, formulation optimization, and scale\\-up activities
+ 
+
+
+
+ \\- Strong understanding of regulatory guidelines and requirements for drug product development
+ 
+
+
+
+ \\- Excellent analytical and problem\\-solving skills
+ 
+
+
+
+ \\- Strong written and verbal communication skills
+ 
+
+
+
+ \\- Ability to work independently and in a team environment
+ 
+
+
+
+ \\- Prior experience in mentoring and training junior scientists
+ 
+
+
+
+ \\- Flexibility to adapt to changing project priorities and timelines
+ 
+
+
+
+ \\- Proficient in Microsoft Office and other relevant software applications
+ 
+
+
+
+ At Trisian\\-Global Consulting LLC, we value diversity and are committed to equal employment opportunities for all individuals. We offer competitive compensation and benefits packages, as well as opportunities for professional growth and development.
+ 
+
+
+
+ If you are a highly motivated and experienced Senior Formulation Chemist looking for a challenging and rewarding opportunity, we encourage you to apply for this position. Join our dynamic team and contribute to the development of innovative drug products that improve the lives of patients worldwide.","","","","","","","",""
+"zr-LaOxcOnVsl4-5wa8XoOd0g","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=LaOxcOnVsl4-5wa8XoOd0g","","Product Analyst","Evolve Bank & Trust","Memphis, TN, USA","2025-02-12","","","","","","","","","","organic","","The Product Analyst is expected to meet the highest standard of record keeping and maintain a functional understanding of the latest technology and software in the market. Eligible candidates are expected to have experience managing Banking as a Service (BaaS) products, Software as a Service (SaaS) equivalent, or relevant experience functioning as a business analyst in a similar capacity.
+ 
+
+
+
+**Main Job Tasks and Responsibilities:** 
+
+
+
+
+ • Serve as the voice of our internal stakeholders
+   
+
+ • Collect and analyze product feedback from internal stakeholders
+   
+
+ • Monitor the product ticketing system and provide timely feedback to the requestor as additional details are gathered
+   
+
+ • Identify antipatterns and issues and present written breakdowns to the product and development teams for review
+   
+
+ • Support product updates across the organization, answer questions from key stakeholders, and work with the product team to update documentation
+   
+
+ • Support agile initiatives by completing assigned tasks while managing shifting priorities and projects.
+ 
+
+
+
+**Education and Experience:** 
+
+
+
+
+ • Bachelor’s degree in finance, business, computer science, or related field
+   
+
+ • Two \\+ years working as a product analyst or business analyst equivalent
+   
+
+ • Two \\+ years supporting Software as a Service (SaaS) product in a financially related industry
+ 
+
+
+
+**Key Competencies:** 
+
+
+
+
+ • Strong written skills, especially in terms of technical writing, business requirement documents, and reporting
+   
+
+ • Experience in agile and sprint development methodologies
+   
+
+ • Familiarity with internal financial services constraints and requirements
+   
+
+ • Ability to research new topics and develop a deep understanding while maintaining a strong attention to detail
+   
+
+ • Deeply analytical with the ability to review data in various formats and then write a clear explanation of the story the data tells
+   
+
+ • Demonstrate the ability to follow logical problem\\-solving methodologies to find solutions to business needs
+   
+
+ • Propose and implement solutions that solve client requests while operating within the constraints of time, resources, and defined product requirements","","","","","","","",""
+"zr-7ouXGge3td0hlsOl7Nenqw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=7ouXGge3td0hlsOl7Nenqw","","Senior Credit Analyst/Underwriter","Centennial Bank","Memphis, TN, USA","2025-02-12","","","","","","","","","","organic","","**GENERAL DESCRIPTION OF POSITION** 
+
+
+
+
+ The Senior Credit Analyst/Underwriter performs financial based analysis and underwriting of credits which is used by the bank to assess risk and monitor existing credits to entities or individuals. This position performs analysis on the largest and most complex loans or relationships with a Region or Industry. This role engages with Analyst I or II, as appropriate, to assist in the analysis of the credits or relationships and as directed by their manager.
+ 
+
+
+
+**ESSENTIAL DUTIES AND RESPONSIBILITIES** 
+
+
+
+
+ 1\\. Generate financial spreads, or oversee and review spreads prepared by Analyst I or II within the bank lending operating system (nCino) using financial statements to find and review trends. This duty is performed daily, about 20% of the time.
+ 
+
+
+
+ 2\\. Create spreadsheets designed to quantify borrower's personal, global, and real estate cash flows/project analysis on an accurate and timely basis. This duty is performed daily, about 20% of the time.
+ 
+
+
+
+ 3\\. Create credit memos and annual reviews, as defined in current department procedures. This duty is performed as needed, about 35% of the time.
+ 
+
+
+
+ 4\\. Attend loan committee meetings when directed by management. This duty is performed daily, about 10% of the time.
+ 
+
+
+
+ 5\\. Provide guidance and assistance in mentoring Analyst I \\& II as directed by Regional Manager. This duty is performed weekly, about 10% of the time.
+ 
+
+
+
+ 6\\. Engage Analyst I or II to assist in tasks related to analysis of the credits or relationships and provide oversight of work product to ensure work product is accurate and delivered within necessary time frame to complete overall analysis. This duty is performed weekly, about 5% of the time.
+ 
+
+
+
+ 7\\. Act as back up the Regional Manager or other CA leader in the review of work product performed by other Analyst's on the team. This duty is performed as needed.
+ 
+
+
+
+ 8\\. The ability to work in a constant state of alertness and in a safe manner. This duty is performed daily.
+ 
+
+
+
+ 9\\. Complete required BSA/AML training and other compliance training as assigned. This duty is performed quarterly.
+ 
+
+
+
+ 10\\. Perform any other related duties as required or assigned.
+ 
+
+
+
+**QUALIFICATIONS** 
+
+
+
+
+ To perform this job successfully, an individual must be able to perform each essential duty mentioned satisfactorily.  The requirements listed below are representative of the knowledge, skill, and/or ability required.
+ 
+
+
+
+**EDUCATION AND EXPERIENCE** 
+
+
+
+
+ Broad knowledge of such fields as accounting, marketing, business administration, finance, etc. Equivalent to a four year college degree, plus 7 years related experience and/or training, and 4 years related management experience, or equivalent combination of education and experience.
+ 
+
+
+
+**COMMUNICATION SKILLS** 
+
+
+
+
+ Ability to write reports, business correspondence, and policy/procedure manuals; ability to effectively present information and respond to questions from groups of managers, clients, customers, and the general public. Ability to read, analyze, and understand common scientific and technical journals, financial reports, and legal documents; ability to respond to complex or difficult inquiries or complaints from customers, regulatory agencies, or members of the business community.
+ 
+
+
+
+**MATHEMATICAL SKILLS** 
+
+
+
+
+ Ability to work with mathematical concepts such as probability and statistical inference, and fundamentals of plane, algebra, solid geometry and trigonometry.
+ 
+
+
+
+**CRITICAL THINKING SKILLS** 
+
+
+
+
+ Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.
+ 
+
+
+
+**REQUIRED CERTIFICATES, LICENSES, REGISTRATIONS** 
+
+
+
+
+ Not indicated.
+ 
+
+
+
+**PREFERRED CERTIFICATES, LICENSES, REGISTRATIONS** 
+
+
+
+
+ Not indicated.
+ 
+
+
+
+**SOFTWARE SKILLS REQUIRED** 
+
+
+
+
+ Advanced: 10\\-Key, Accounting, Spreadsheet, Word Processing/Typing
+ 
+
+
+
+ Intermediate: Alphanumeric Data Entry
+ 
+
+
+
+ Basic: Human Resources Systems, Presentation/PowerPoint
+ 
+
+
+
+**RESPONSIBILITY FOR WORK OF OTHERS** 
+
+
+
+
+ Carries out supervisory responsibilities in accordance with the organization's policies and applicable laws.  Responsibilities may include but not limited to interviewing, hiring and training employees; planning, assigning and directing work; appraising performance, rewarding and disciplining employees; addressing complaints and resolving problems.
+ 
+
+
+
+ Supervises a small group (3\\-7\\) of employees, usually of lower classifications. Assigns and checks work; assists and instructs as required and performs same work as those supervised, or closely related work, a portion of the time. Content of the work supervised is of non\\-technical nature, but presents numerous situations to which policies and precedents must be interpreted and applied.
+ 
+
+
+
+ Supervises the following departments: Credit Analysts and Underwriters
+ 
+
+
+
+**WORKING CONDITIONS** 
+
+
+
+
+ Periodically exposed to such elements as noise, intermittent standing, walking, pushing, carrying, or lifting; but none are present to the extent of being disagreeable.
+ 
+
+
+
+**ENVIRONMENTAL CONDITIONS** 
+
+
+
+
+ The following work environment characteristics described here are representative of those an employee encounters while performing essential functions of this job.  Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+ 
+
+
+
+  The noise level in the work environment is usually moderate.
+ 
+
+
+
+**PHYSICAL ACTIVITIES** 
+
+
+
+
+ The following physical activities described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.  Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions and expectations.
+ 
+
+
+
+ Semi\\-repetitive, low physical. Semi\\-repetitive type work which requires periods of concentration for varied time cycles as prescribed by the tasks.
+ 
+
+
+
+ While performing the functions of this job, the employee is frequently required to sit, use hands to finger, handle, or feel, talk or hear; and occasionally required to stand, walk, reach with hands and arms, stoop, kneel, crouch, or crawl. The employee must occasionally lift and/or move up to 10 pounds. Specific vision abilities required by this job include close vision.
+ 
+
+
+
+**ADDITIONAL INFORMATION** 
+
+
+
+
+ \\-Seven (7\\) or more years of related experience and/or training
+ 
+
+
+
+ \\-Analytically minded and possess good judgment.
+ 
+
+
+
+ \\-Ability to mentor others or delegate and oversee quality and accuracy of work product given to others
+ 
+
+
+
+ \\-Proficient in Microsoft Word and Excel.","","","","","","","",""
+"zr-fHCzc0nPaKPn-CaNcodmIw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=fHCzc0nPaKPn-CaNcodmIw","","Supply Chain Manager","Vanguard Soap","Memphis, TN, USA","2025-02-12","","","","","","","","","","organic","","Would you love to spend your day working alongside a supportive team that drives for success and has a continuous improvement mindset?
+ 
+
+
+
+ Are you fueled by an entrepreneurial spirit that drives you to try and test new ideas?
+ 
+
+
+
+ Are you motivated by the desire to be elite at your craft?
+ 
+
+
+
+ If you are already a star supply chain/strategic sourcing leader but possess the ambition to take your skills to the next level, you can stop searching. Just smash that apply button!
+ 
+
+
+
+ Vanguard, a leading player in the personal care industry, is looking for a new Supply Chain Manager (Manufacturing) to take our world class supply chain capabilities to new levels that enable us to knock it out of the park with growing consumer brands.
+ 
+
+
+  
+
+
+**Supply Chain Manager \\- Manufacturing** 
+
+
+
+
+**GENERAL DESCRIPTION OF POSITION:** 
+ The Manufacturing Supply Chain Leader serves as the single point of contact for all aspects of Supply Chain activities. This position will be responsible for establishing an effective, integrated supply chain process and identifying, defining, and implementing improvements across the supply chain. This position will manage and direct all warehouse operations, the supply chain function, customer program management personnel and be the plant process owner for sourcing \\& material planning, production scheduling and inventory management. This position includes situational analysis, strategy development, guidance, and implementation for the functional disciplines of supply chain development. These strategies should support the individual program needs and be complementary to Vanguard Soap's overall supply chain management goals.
+ 
+
+
+
+**SPECIFIC FUNCTIONS OF POSITION:** 
+ The Manufacturing Supply Chain Leader plays a pivotal role in overseeing and optimizing various facets of the supply chain to ensure operational efficiency, customer satisfaction and cost effectiveness. This multifaceted role involves strategic sourcing, production scheduling, customer program management, warehousing, inventory control, and continuous improvement. This is a ""hands\\-on"" leadership role. Here's a comprehensive job description:
+ 
+
+
+* **Strategic Planning \\& Execution**
+* **Team Leadership \\& Development**
+* **Strategic Sourcing \\& Materials Management**
+* **Warehousing \\& Inventory Optimization**
+* **Production Scheduling \\& Coordination**
+* **Customer Program Management**
+* **Cost Management \\& Continuous Improvement**
+* **Risk Management and Mitigation**
+* **Cross\\-functional Collaboration**
+* **Performance Monitoring and Reporting**
+
+
+
+ In summary, as a leader in supply chain, your role is essential in orchestrating strategic sourcing activities, optimizing inventory levels, ensuring timely production, and delivering exceptional customer satisfaction through effective program management and strategic collaboration across the organization.
+ 
+
+
+
+**REQUIREMENTS:** 
+
+
+
+* Minimum bachelor's degree in business administration, Supply Chain Management, Engineering, or related field. Advanced degree preferred.
+* APICS. CPIM, and/or CSCP certification are a plus.
+* Lean Six Sigma certification a plus, continuous improvement experience desired.
+* Minimum of ten combined years of proven experience in supply chain, strategic sourcing \\& materials management, warehouse operations, production scheduling.
+* Minimum of five years of experience in a leadership capacity. Strong leadership and communication skills, with the ability to collaborate cross\\-functionally and influence change.
+* Advanced knowledge of computer software systems including Microsoft Office and ERP systems (QAD is a plus).
+* Strong analytical, data analysis and problem\\-solving skills
+* Strong negotiation and influential capabilities.
+* Strong contract management expertise
+* Warehouse and inventory management experience.
+* Manufacturing experience preferred.
+* Ability to engage and influence the organization
+
+
+ Employment Type: FULL\\_TIME","","","","","","","",""

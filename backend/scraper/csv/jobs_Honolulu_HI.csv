@@ -1,0 +1,813 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"go-NtlS3nslh9RawC09AAAAAA==","google","https://us.bebee.com/job/9f91a11221799a99b81c7a8480d58a0c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Science Engineer","Axient LLC","Honolulu, HI","2025-01-31","","","","","","",False,"","","","","Job Overview
+
+Axient LLC is seeking a highly skilled Intelligence Data Analyst/Scientist to support the Office of the Under Secretary of Defense for Research and Engineering (OUSD(R&E)) in a joint initiative.","","","","","","","",""
+"go-Vmyd_u3G2_7KSEsxAAAAAA==","google","https://us.bebee.com/job/a5ff7443a046213521f0427fa445e349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist Developer","Jobleads-US","Honolulu, HI","2025-01-30","","","","","","",False,"","","","","Job Overview
+
+Cymertek is a cutting-edge technology company that specializes in developing intelligent systems. We are seeking a talented Machine Learning Engineer to join our team and contribute to the design, development, and deployment of machine learning models.
+
+This role requires strong understanding of machine learning algorithms, including supervised, unsupervised, and reinforcement learning. You will work with large, complex datasets, applying knowledge of data preprocessing and feature engineering.
+
+As a key member of our team, you will collaborate with data scientists, engineers, and product teams to turn data into actionable insights. You will also be responsible for designing, implementing, and optimizing machine learning models and workflows.","","","","","","","",""
+"li-4148914166","linkedin","https://www.linkedin.com/jobs/view/4148914166","https://grnh.se/a3dc071a1us&urlHash=i6Hx","Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","Canonical","Honolulu, HI","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing. We are hiring
+ **Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions** 
+ to join our teams building open source solutions for public cloud and private infrastructure.
+   
+
+  
+
+ As a software engineer on the team, you'll collaborate on an end\\-to\\-end data analytics and mlops solution composed of popular, open\\-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end\\-to\\-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+   
+
+  
+
+ We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+   
+
+  
+
+**Location:** 
+ This initiative spans many teams that are home\\-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+   
+
+  
+
+**What your day will look like**
+* Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+* Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+* Master distributed systems concepts such as observability, identity, tracing
+* Work with both Kubernetes and machine\\-oriented open source applications
+* Collaborate proactively with a distributed team of engineers, designers and product managers
+* Debug issues and interact in public with upstream and Ubuntu communities
+* Generate and discuss ideas, and collaborate on finding good solutions
+
+
+**What we are looking for in you**
+* Professional or academic software delivery using Python
+* Exceptional academic track record from both high school and university
+* Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+* Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+* Track record of going above\\-and\\-beyond expectations to achieve outstanding results
+* Passion for technology evidenced by personal projects and initiatives
+* The work ethic and confidence to shine alongside motivated colleagues
+* Professional written and spoken English with excellent presentation skills
+* Experience with Linux (Debian or Ubuntu preferred)
+* Excellent interpersonal skills, curiosity, flexibility, and accountability
+* Appreciative of diversity, polite and effective in a multi\\-cultural, multi\\-national organisation
+* Thoughtfulness and self\\-motivation
+* Result\\-oriented, with a personal drive to meet commitments
+* Ability to travel twice a year, for company events up to two weeks long
+
+
+**Additional Skills That Would Be Nice To Have**
+ The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+   
+
+  
+
+* Hands\\-on experience with machine learning libraries, or tools.
+* Proven track record of building highly automated machine learning solutions for the cloud.
+* Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+* Experience with public clouds (AWS, Azure, Google Cloud)
+* Working knowledge of cloud computing
+* Passionate about software quality and testing
+* Experience working on an open source project
+
+
+ What we offer colleagues
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+**Canonical is an equal opportunity employer**
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Technology, Information and Internet","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","",""
+"li-4150451070","linkedin","https://www.linkedin.com/jobs/view/4150451070","https://jsv3.recruitics.com/redirect?rx_cid=3435&rx_jobId=JP-005060203&rx_url=https%3A%2F%2Fars2.equest.com%2F%3Ficid%3Dlinkedin_recruitics%26response_id%3D42f26a576c891df33e6724db1342b384%26rx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D123600%26rx_job%3DJP-005060203%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20250213T001206Z%26rx_vp%3Dslots&urlHash=KRvR","Application / Data Developer","TEKsystems","Honolulu, HI","","fulltime","","","","","","","mid-senior level","Information Technology","","","ALOHA!!
+   
+
+  
+
+*Application/ Data Developer in Honolulu, Hawaii.* 
+  
+
+  
+
+ 6\\-month contract to hire FTE work employment.
+   
+
+  
+
+ Full\\-Time opportunity, Monday\\-Friday, 8:00 am\\- 5:00 pm.
+   
+
+  
+
+ Fully Remote: MUST LIVE AND RESIDE ON OAHU!!!
+   
+
+  
+
+ Description
+   
+
+  
+
+ Provides support for integrated applications of moderate complexity. Works on multiple projects as a project team member. Responsible for analysis, design, development, maintenance and support of applications, working within standard guidelines.
+   
+
+  
+
+ Minimum Qualifications
+   
+
+  
+
+ Associate's degree or technical institute degree/certificate and one (1\\) year of related experience; or equivalent combination of education and work experience.
+   
+
+  
+
+ Basic knowledge of one segment of the business.
+   
+
+  
+
+ Proficiency in one programming language.
+   
+
+  
+
+ Knowledge in end\\-user development tools.
+   
+
+  
+
+ Basic working knowledge of Microsoft Office applications, including but not limited to Word, Excel, Outlook, and PowerPoint.
+   
+
+  
+
+ Duties and Responsibilities
+   
+
+  
+
+ Participates in the project planning process with team members, sometimes with clients and business analysts.
+   
+
+  
+
+ Assists in the development of work plan timelines. Manage workflows to meet sub\\-project timeframes.
+   
+
+  
+
+ Participate in the identification of system requirements.
+   
+
+  
+
+ Complies with architecture processes, principles, policies and standards.
+   
+
+  
+
+ Complies with quality standards and procedures.
+   
+
+  
+
+ Designs components for small solutions.
+   
+
+  
+
+ Develop technical specifications for applications. Makes recommendations for the development of new code or reuse of existing code.
+   
+
+  
+
+ Extract data from multiple sources. May design and implement data transformations. May load transformed data into information management system.
+   
+
+  
+
+ Utilizes current data guidelines.
+   
+
+  
+
+ Utilizes middleware tools for designing and developing solutions when required.
+   
+
+  
+
+ Develops or modifies application components using disciplined software development processes.
+   
+
+  
+
+ Conducts unit testing to ensure application meets specifications. Participates in integration testing.
+   
+
+  
+
+ Documents new or modified components and testing activities/results.
+   
+
+  
+
+ Provides ongoing maintenance of applications.
+   
+
+  
+
+ May analyze existing applications to identify and document opportunities for improvements.
+   
+
+  
+
+ Makes components production ready by moving them to libraries, completing forms, following procedures, completing version control documents, etc.
+   
+
+  
+
+ Assists in providing Tier II (application) support.
+   
+
+  
+
+ Performs all other miscellaneous responsibilities and duties as assigned or directed.
+   
+
+  
+
+ Skills
+   
+
+  
+
+ data modeling, data integration
+   
+
+  
+
+ Additional Skills \\& Qualifications
+   
+
+  
+
+ Critical thinking and curiosity to figure out if data asked for is foundational or a presentation piece, understanding if something needs to be merged as a foundational piece or repeatable process
+   
+
+  
+
+ Experience Level
+   
+
+  
+
+ Intermediate Level
+   
+
+  
+
+ Pay And Benefits
+   
+
+  
+
+ The pay range for this position is $28\\.85 \\- $43\\.00/hr.
+   
+
+  
+
+ Requirements
+   
+
+  
+
+ Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to specific elections, plan, or program terms. If eligible, the benefits available for this temporary role may include the following:
+   
+
+  
+
+* Medical, dental \\& vision
+* Critical Illness, Accident, and Hospital
+* 401(k) Retirement Plan – Pre\\-tax and Roth post\\-tax contributions available
+* Life Insurance (Voluntary Life \\& AD\\&D for the employee and dependents)
+* Short and long\\-term disability
+* Health Spending Account (HSA)
+* Transportation benefits
+* Employee Assistance Program
+* Time Off/Leave (PTO, Vacation or Sick Leave)
+
+
+ Workplace Type
+   
+
+  
+
+ This is a fully remote position.
+   
+
+  
+
+ Application Deadline
+   
+
+  
+
+ This position is anticipated to close on Feb 25, 2025\\.
+   
+
+  
+
+ About TEKsystems
+   
+
+  
+
+ We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full\\-Stack Technology Services, Talent Services, and real\\-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+   
+
+  
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.","IT Services and IT Consulting","https://www.linkedin.com/company/teksystems","https://media.licdn.com/dms/image/v2/D4D0BAQEGWkPukExqDw/company-logo_100_100/company-logo_100_100/0/1737653799738/teksystems_logo?e=2147483647&v=beta&t=6Aj5tOBwMkVRPnms-moOgOPbFeomS_wF6qJGNSl9F4M","","","","",""
+"li-4151461861","linkedin","https://www.linkedin.com/jobs/view/4151461861","https://click.appcast.io/track/lvzvewr?cs=ivj&sjg=3073&urlHash=xHk0","Application / Data Developer","Jobs via Dice","Honolulu, HI","","fulltime","","","","","","","mid-senior level","Information Technology","","","**ALOHA!!**
+**Application/ Data Developer in Honolulu, Hawaii.**
+ 6\\-month contract to hire FTE work employment.
+   
+
+  
+
+**Full\\-Time opportunity, Monday\\-Friday, 8:00 am\\- 5:00 pm.**
+**Fully Remote: MUST LIVE AND RESIDE ON OAHU!!!**
+**Description**
+ Provides support for integrated applications of moderate complexity. Works on multiple projects as a project team member. Responsible for analysis, design, development, maintenance and support of applications, working within standard guidelines.
+   
+
+  
+
+**Minimum Qualifications**
+ Associate's degree or technical institute degree/certificate and one (1\\) year of related experience; or equivalent combination of education and work experience.
+   
+
+  
+
+ Basic knowledge of one segment of the business.
+   
+
+  
+
+ Proficiency in one programming language.
+   
+
+  
+
+ Knowledge in end\\-user development tools.
+   
+
+  
+
+ Basic working knowledge of Microsoft Office applications, including but not limited to Word, Excel, Outlook, and PowerPoint.
+   
+
+  
+
+ Duties and Responsibilities
+   
+
+  
+
+ Participates in the project planning process with team members, sometimes with clients and business analysts.
+   
+
+  
+
+ Assists in the development of work plan timelines. Manage workflows to meet sub\\-project timeframes.
+   
+
+  
+
+ Participate in the identification of system requirements.
+   
+
+  
+
+ Complies with architecture processes, principles, policies and standards.
+   
+
+  
+
+ Complies with quality standards and procedures.
+   
+
+  
+
+ Designs components for small solutions.
+   
+
+  
+
+ Develop technical specifications for applications. Makes recommendations for the development of new code or reuse of existing code.
+   
+
+  
+
+ Extract data from multiple sources. May design and implement data transformations. May load transformed data into information management system.
+   
+
+  
+
+ Utilizes current data guidelines.
+   
+
+  
+
+ Utilizes middleware tools for designing and developing solutions when required.
+   
+
+  
+
+ Develops or modifies application components using disciplined software development processes.
+   
+
+  
+
+ Conducts unit testing to ensure application meets specifications. Participates in integration testing.
+   
+
+  
+
+ Documents new or modified components and testing activities/results.
+   
+
+  
+
+ Provides ongoing maintenance of applications.
+   
+
+  
+
+ May analyze existing applications to identify and document opportunities for improvements.
+   
+
+  
+
+ Makes components production ready by moving them to libraries, completing forms, following procedures, completing version control documents, etc.
+   
+
+  
+
+ Assists in providing Tier II (application) support.
+   
+
+  
+
+ Performs all other miscellaneous responsibilities and duties as assigned or directed.
+   
+
+  
+
+**Skills**
+ data modeling, data integration
+   
+
+  
+
+**Additional Skills \\& Qualifications**
+ Critical thinking and curiosity to figure out if data asked for is foundational or a presentation piece, understanding if something needs to be merged as a foundational piece or repeatable process
+   
+
+  
+
+**Experience Level**
+ Intermediate Level
+   
+
+  
+
+**Pay And Benefits**
+ The pay range for this position is $28\\.85 \\- $43\\.00/hr.
+   
+
+  
+
+ Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to specific elections, plan, or program terms. If eligible, the benefits available for this temporary role may include the following:
+   
+
+  
+
+ Medical, dental \\& vision
+   
+
+  
+
+ Critical Illness, Accident, and Hospital
+   
+
+  
+
+ 401(k) Retirement Plan \\- Pre\\-tax and Roth post\\-tax contributions available
+   
+
+  
+
+ Life Insurance (Voluntary Life \\& AD\\&D for the employee and dependents)
+   
+
+  
+
+ Short and long\\-term disability
+   
+
+  
+
+ Health Spending Account (HSA)
+   
+
+  
+
+ Transportation benefits
+   
+
+  
+
+ Employee Assistance Program
+   
+
+  
+
+ Time Off/Leave (PTO, Vacation or Sick Leave)
+   
+
+  
+
+**Workplace Type**
+ This is a fully remote position.
+   
+
+  
+
+**Application Deadline**
+ This position is anticipated to close on Feb 25, 2025\\.
+   
+
+  
+
+**About TEKsystems:**
+ We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full\\-Stack Technology Services, Talent Services, and real\\-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+   
+
+  
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.","Software Development","https://www.linkedin.com/company/jobs-via-dice","https://media.licdn.com/dms/image/v2/D560BAQFiy_7toPvozQ/company-logo_100_100/company-logo_100_100/0/1724692422635/jobs_via_dice_logo?e=2147483647&v=beta&t=GJuj9VJQadmUShaMCjdbEJfywtwYtxJmYZJrUmiGQ34","","","","",""
+"zr-qFKDXR_CYT2oqmN5SpRkXA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=qFKDXR_CYT2oqmN5SpRkXA","","Software Engineer","Iron EagleX","Honolulu, HI, USA","2025-02-12","","","","","","","","","","organic","","Iron EagleX (IEX), a wholly owned subsidiary of General Dynamics Information Technology, delivers agile IT and Intelligence solutions. Combining small\\-team flexibility with global scale, IEX leverages emerging technologies to provide innovative, user\\-focused solutions that empower organizations and end users to operate smarter, faster, and more securely in dynamic environments.
+ 
+
+
+  
+
+
+**Contract Overview:** 
+
+
+
+
+  
+ 
+
+
+
+ The Data Technical Support (DTS) contract provides data science professionals to the United States Special Operations Command’s (USSOCOM) Intelligence Data Support Team (IDST) and Special Operations Forces Acquisitions, Technology \\& Logistics (SOF AT\\&L). 
+ 
+
+
+
+  
+ 
+
+
+
+ The IDST is a government\\-led team focused on data analytics efforts within the USSOCOM Directorate of Intelligence (J2\\) and its subordinate command’s intelligence lines of effort. The IDST helps USSOCOM intelligence analysts by turning the Command’s data into actionable information. The IDST team may also engage with the USSOCOM Chief Digital and Artificial Intelligence Office (CDAO), Knowledge Management (KM), and other HQ entities.
+ 
+
+
+
+  
+ 
+
+
+
+ The DTS contract provides permanently assigned data science professionals to the USSOCOM Headquarters, Theater Special Operations Commands, and Component Commands. Additionally, the DTS contract may provide temporary support (Temporary Duty / deployment) to worldwide Special Operations Joint Task Forces, Combined Joint Special Operations Task Forces, Special Operations Task Forces, and Special Operations Command Forward Elements.
+ 
+
+
+
+  
+ 
+
+
+
+**:** 
+
+
+
+
+  
+ 
+
+
+
+ Front End Developer/Software Engineer \\- Front End Developer/Software Engineers are responsible for creating web\\-based and desktop applications designed to enhance user interface with IDST tools.
+ 
+
+
+
+  
+ 
+
+
+
+  
+ 
+
+
+
+ This position is at Camp Smith in Hawaii
+ 
+
+
+
+  
+ 
+
+
+
+**Job Duties Include (but not limited to):** 
+
+
+
+* Design, prototype, develop, and implement applications using Web programming technologies including JavaScript, HTML, HTMLS, and CSS.
+* Create, troubleshoot, and recommend appropriate user interface capabilities
+* Enhance user experience and implementation requirements.
+
+
+  
+
+
+**Required Skills \\& Experience:** 
+
+
+
+
+
+
+
+
+* Seven years’ experience with modern Web technology stack
+* Four years’ experience with web application development using JavaScript frameworks, HTML, C5S, and similar web programming technologies
+* Experience with Restful APls, relational databases, and cross browser compatibility troubleshooting techniques
+* **Due to US Government Contract Requirements, only US Citizens are eligible for this role.**
+
+
+
+
+
+
+
+
+**Education \\& Certifications:** 
+
+
+
+* Possess a minimum of a bachelor's degree.
+
+
+
+**Security Clearance:** 
+
+
+
+* **Current Top\\-Secret clearance with SCI eligibility is required**
+
+
+
+  
+ 
+
+
+
+**Benefits:** 
+
+
+
+* National health, vision, and dental plans
+* 20 days of PTO and 11 paid holidays
+* Life Insurance
+* Short\\- and long\\-term disability plans
+* 401(K) retirement plan
+* Incentive and recognition programs
+* Relocation opportunities
+
+
+
+  
+ 
+
+
+
+*Iron EagleX is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, among other things, or status as a qualified individual with disability.*","","","","","","","",""
+"zr-Cbz0BV5Wjdnbn4k67zsYSw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=Cbz0BV5Wjdnbn4k67zsYSw","","Educational Specialist (Coffee Leaf Rust Project) (0079759T)","University of Hawaii","Honolulu, HI, USA","2025-02-12","","","","","","","","","","organic","","Description Title: Educational Specialist Position Number: 0079759T Hiring Unit: C OF TA \\& HR, TROP PLANT\\&SOIL SCI, TROP PLANT\\&SOIL SCI Location: Kona, Hawaii Date Posted: 2/11/2025 Closing Date: 2/26/2025 11:59 PM HST Band: A Salary : salary schedules and placement information Full Time/Part Time: Full\\-time Month: 11\\-month Temporary/Permanent: Temporary Other conditions: To begin March 1, 2025 or soon thereafter. Renewal dependent upon satisfactory performance and availability of funds. Duties and Responsibilities \\*Provides programmatic educational support for the Coordinated Approach to Coffee Leaf Rust Project (CLR).
+ 
+
+
+
+ \\*Coordinates data compilation, collection, and analysis for the CLR project. \\*Assists with production and preparation of educational materials, such as reports, posters, videos, publications, workshop materials and presentations, etc. \\*Organizes, promotes, executes, and evaluates applied field trial activities and extension events, including but not limited to meetings, workshops, field days, and conferences on all main Hawaiian Islands.
+ 
+
+
+
+ Including interacting with commodity associations, agricultural organizations, and government agencies. \\*Attends industry meetings and works with stakeholders, which may involve some meetings that occur after normal working hours and/or weekends at off\\-site locations. \\*Disseminates information using various means such as workshop and training development materials, presentations, exhibits, on\\-farm demonstrations.
+ 
+
+
+
+ \\*Publishes scholarly information that address industry needs through appropriate media methods such as hard copy publications, web\\-based publications, social media and other communication and media alternatives. Assists in planning, development and upkeep of educational demonstration field plots; and conducts applied field trials based on project and clientele needs. Conducts small group and one\\-on\\-one consultation with producers, including farm visits.
+ 
+
+
+
+ Other duties as assigned \\*Denotes Essential Functions Minimum Qualifications Possession of a baccalaureate degree in entomology, plant pathology, agriculture, tropical plant and soil sciences or related field and 1 year(s) of progressively responsible professional experience with responsibilities for business, agriculture, sciences, research or related field; or any equivalent combination of education and/or professional work experience which provides the required education, knowledge, skills and abilities as indicated. Functional knowledge of principles, practices and techniques in the area of coffee leaf rust integrated pest management and extension delivery demonstrated by knowledge, understanding and ability to apply concepts, terminology. Functional knowledge and understanding of principles, theories, federal and state laws, rules, regulations and systems associated with pesticide use and the Federal Worker Protection Standard.
+ 
+
+
+
+ Demonstrated ability to recognize problems, identify possible causes and resolve the full range of problems that may commonly occur in the area of coffee production and coffee leaf rust management. Demonstrated ability to understand oral and written documentation, write reports and procedures, and communicate effectively in a variety of situations. Demonstrated ability to establish and maintain effective working relationships with internal and external organizations, groups, team members and individuals.
+ 
+
+
+
+ Demonstrated ability to operate a personal computer, apply word processing software, and Excel, PowerPoint. Ability to travel independently to various geographical locations in a timely manner. This requirement may be fulfilled by possession of a valid State of Hawai\\`i Driver's License (Class 3\\), valid comparable driver's license, or use of other means of transportation which meets position needs.
+ 
+
+
+
+ Ability to be flexible on hours due to outreach activities that may be held in the late afternoons and on weekends Desirable Qualifications Some knowledge or experience of coffee and orchard crops. Experience in conducting field trials and in data collection and analysis. Familiarity with agricultural organizations, particularly with coffee and orchard crops, and ag\\-related government agencies.
+ 
+
+
+
+ Ability to apply extension teaching methods in organizing and conducting workshops, including preparation of videos, presentations, handouts, event notices and mailings. Demonstrated ability to interpret and present information and ideas clearly and accurately in writing, verbally and by preparation of reports and other materials, using traditional educational tools. Experience with developing education materials for websites and using social media such as Facebook, Twitter, and YouTube for educational purposes.
+ 
+
+
+
+ To Apply: Please submit the following online through NeoGov: Cover letter indicating how you satisfy the minimum and desirable qualifications; Resume; Names and contact information for at least three professional references; Official transcripts (copies accepted, however official transcripts will be required upon hire). Failure to submit all required documents shall deem an application to be incomplete. Incomplete applications will not be considered.
+ 
+
+
+
+ Note: If you have not applied for a position before using NeoGov, you will need to create an account. Inquiries: Andrea Kawabata; andreak@hawaii.edu EEO, Clery Act, ADA The University of Hawai'i is an Equal Opportunity Institution and is committed to a policy of nondiscrimination on the basis of race, sex, gender identity and expression, age, religion, color, national origin, ancestry, citizenship, disability, genetic information, marital status, breastfeeding, income assignment for child support, arrest and court record (except as permissible under State law), sexual orientation, domestic or sexual violence victim status, national guard absence, or status as a covered veteran. For more information or inquiries regarding these policies, please refer to the following link: http://www.hawaii.edu/offices/eeo/eeo\\-coordinators/ Employment is contingent on satisfying employment eligibility verification requirements of the Immigration Reform and Control Act of 1986; reference checks of previous employers; and for certain positions, criminal history record checks
+ 
+
+
+
+ In accordance with the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, annual campus crime statistics for the University of Hawai'i may be viewed at: https://www.hawaii.edu/titleix/help/campus\\-security/, or a paper copy may be obtained upon request from the respective UH Campus Security or Administrative Services Office. In accordance with Article 10 of the unit 08 collective bargaining agreement, bargaining unit members receive priority consideration for APT job vacancies. As a result, external or non BU 08 applicants may not be considered for some APT vacancies
+ 
+
+
+
+ BU 08 members with re\\-employment rights or priority status are responsible for informing the hiring unit of their status. Accommodation Request: The University of Hawai'i complies with the provisions of the Americans with Disabilities Act (ADA). Applicants requiring a reasonable accommodation for any part of the application and hiring process should contact the EEO coordinator directly.
+ 
+
+
+
+ Determination on requests for reasonable accommodation will be made on a case\\-by\\-case basis. For further information, please refer to the following link: https://www.hawaii.edu/offices/eeo/accommodation\\-request/","","","","","","","",""

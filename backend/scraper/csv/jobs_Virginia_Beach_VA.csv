@@ -1,0 +1,3358 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009635891189","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635891189","","Software Development T5","Tamayo Federal Solutions LLC","Norfolk, VA","2025-02-12","","direct_data","yearly",96335.0,155858.0,"USD",False,"","","organic","","Description:
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Software Development T5 to support the customer and provide system administration services to the Government for both physical and virtual hosted applications. We are seeking a Software Development T5 that will be part of an energetic, results\\-driven team. In this role, you will be responsible for supporting the need for advanced analytical, troubleshooting, and design skills. The ability to communicate with technical and non\\-technical users is also essential. Participation in working groups, design reviews, and system tests is required. Candidates will help generate assessments, as well as develop and implement actionable recommendations based on reviews. Candidates require extensive knowledge of the development process, including specification, documentation, and quality assurance.
+
+**Responsibilities include but are not limited to:**
+
+* Familiar with a variety of the field’s concepts, practices, and procedures.
+* Relies on extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks.
+* May provide consultation on complex projects and is considered to be the top\\-level contributor/specialist.
+* May lead and direct the work of others.
+* Analyzes functional business applications and design specifications for functional activities.
+* Applies test\\-first practices including Test\\-Driven Development (TDD) for unit tests and Behavior\\-Driven Development (BDD) for automated acceptance tests.
+* Develops block diagrams and logic flow charts.
+* Translates detailed design into computer software code.
+* Tests, debugs and refines the computer software to produce the required product.
+* Prepares required documentation, including both program\\-level and user\\-level documentation.
+* Enhances software to reduce operating time or improve efficiency.
+* Provides technical direction to programmers to ensure program deadlines are met.
+
+
+Requirements:
+**Education/Experience Requirements:**
+
+* BACHELOR’S DEGREE PREFERRED
+* 12 years of experience in the field or in a related area
+
+**SECURITY REQUIREMENTS:**
+
+* U.S. Citizenship required.
+* Candidate must have active Secret Clearance
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.glassdoor.com/Overview/W-EI_IE5006527.htm","","","","","",""
+"gd-1009634844201","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634844201","","Systems/Software Engineering - IT T3","Tamayo Federal Solutions LLC","Norfolk, VA","2025-02-12","","direct_data","yearly",87805.0,129297.0,"USD",False,"","","organic","","Description:  
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Systems/Software Engineering \\- IT T3 to support the customer and shall provide system administration services to the Government for both physical and virtual hosted applications. You will provide all services necessary to ensure the efficient operation of all physical and virtual servers. You will support Government requirements to maintain data center computing, storage, and networking capabilities at Government data centers and within associated commercial cloud environments.
+
+
+We are seeking a Systems/Software Engineering \\- IT T3 who will be part of an energetic, results\\-driven team. In this role, you will be responsible for working on advanced, complex technical projects or business issues requiring state of the art technical or industry knowledge.
+
+
+Responsibilities include but are not limited to:
+
+* Being familiar with a variety of the field’s concepts, practices, and procedures
+* Reliable extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks
+* Possibly providing consultation on complex projects and is considered to be the top\\-level contributor/specialist
+* May lead and direct the work of others
+* Design, build and maintain a stable and efficient infrastructure to optimize service delivery across production, QA, and development environments throughout the development lifecycle
+* Monitor, troubleshoot, maintain, and continuously improve building, packaging, and deployment processes
+* Implement automated infrastructure capabilities like backups, security tools, monitoring
+* Utilize a consistent DevOps approach to improve all phases of the process and ensure end\\-to\\-end quality across functions
+* Knowledge of deployment/configuration management tools like Jenkins, Maven, Puppet, or Ansible
+* Utilize version control tools like GIT, Bitbucket, SVN, or CVS
+* Goals generally communicated in ""solution"" or project goal terms
+* May provide a leadership role for the work group through knowledge in the area of specialization
+* Work is highly independent
+* May assume a team lead role for the work group
+* A specialist on complex technical and business matters
+
+
+Requirements:
+
+Experience Requirements:
+
+* 5 years of experience in the field or in a related area
+* Bachelor's degree in the field or in a related area
+* Experienced with network infrastructure, database, cloud and data center operations, and security protocols
+* Strong knowledge of Linux and/or Windows OS
+* Understands AWS and other services
+* Experience with programming and scripting with languages like Python, Perl, Bash, PHP, Java, SQL, or C\\+\\+
+* Work autonomously
+
+
+Security Requirements:
+
+* U.S. Citizenship required
+* Candidate must be Secret Clearance Eligible
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.glassdoor.com/Overview/W-EI_IE5006527.htm","","","","","",""
+"gd-1009635871478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635871478","","DevOps Engineer","Caveon","United States","2025-02-12","","","","","","",False,"","","sponsored","","The DevOps engineer will work with the IT teams and development teams to oversee code releases of our software solutions, measure performance metrics to ensure that user expected performance goals are being met, deploying code, software, and firmware updates feature planning and resource technology planning, monthly audits and testing, end user support as needed, as well as aide in the implementation and maintenance of Caveon’s InfoSec and ISO 27001 programs.
+
+**Knowledge / Skills / Ability:**
+
+* Identify hardware and software problems and solutions
+* Troubleshooting technical issues
+* Translate development needs into scalable, secure infrastructure deployments.
+* Ability to understand Python, Flask, Node.js, React, Vue.js, and Angular.js
+* Ability to write SQL scripts to identify, troubleshoot, and correct data issues.
+* Strong knowledge of deployment pipelines and the effective implementation of Jenkins
+* Familiarity with Kubernetes environment setup, maintenance, and security, including associated management tools.
+* Familiarity with automated penetration testing solutions and processes.
+* Talking to technology users, and in some cases remoting into computers, and performing a series of actions to resolve problems
+* Participate in daily meetings with the IT team and operate independently.
+* Ability to understand multiple application technologies and provide troubleshooting and guidance to co\\-workers
+* Supporting the roll\\-out of new applications and features
+* Ability to perform security monitoring and hardening
+* Ability to establish and ensure adherence to security and process protocols
+* Collaborative team spirit
+
+**Preferred Education and Experience:**
+
+* Bachelor’s degree in IT, computer science, information systems, or a related field
+* 3\\+ years of experience working in a DevOps role or high\\-level system administration
+* Knowledge of Windows, Mac, and Linux operating systems and kernels
+* Excellent interpersonal skills
+* Excellent understanding of computer systems, security, network and systems administration, databases and data storage systems, and telecommunications systems
+
+**Other Responsibilities:**
+
+* Other duties and tasks as assigned
+* Maintain confidentiality at all times
+* Caveon takes information security seriously and requires that all employees adhere to all established policies and communicate any information system/information security concern immediately to Senior Management so it can promptly be investigated.
+
+**Miscellaneous:**
+
+* Must be eligible to work in the United States.
+* Ability to work from home with minimal direction
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Caveon is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+
+Job Type: Full\\-time
+
+Pay: $10\\.00 \\- $11\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Compensation Package:
+
+* Profit sharing
+* Yearly pay
+
+Work Location: Remote","","https://www.glassdoor.com/Overview/W-EI_IE303916.htm","https://media.glassdoor.com/sql/303916/caveon-squarelogo-1638881330042.png","","","","",""
+"gd-1009634790278","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634790278","","Senior Data Analyst","Cox Communications","Chesapeake, VA","2025-02-12","","direct_data","yearly",79400.0,119000.0,"USD",False,"","","organic","","Prepares transactional analyses and reports for the Cox Communications Sales \\& Service Department and related stakeholders. Gathers and synthesizes data from multiple sources to identify opportunities, risks, and ongoing problems. Evaluates transactional data, analyzes trends, and prepares forecasts. Translates complex data into cogent information for the Sales department and partners. Displays strong communication skills in developing actionable recommendations for leadership.  
+
+  
+
+**What You'll Do**  
+
+  
+
+* Conducts analysis at multiple levels of complexity (including those that are highly technical and complex) which may include trend recognition, explanation of variances, development of forecasts, calculation of performance metrics, and the creation of business cases
+* Communicates results effectively. Utilizes Microsoft PowerPoint, Excel, written, and verbal mediums to convey analysis in a logical sequence
+* Locates and retrieves data from company data systems and can identify when other relevant data is needed and is able to collect data from other sources including employees and within the industry to generate a comprehensive data set
+* Collaborates across company departments to produce analysis related to specific sales channels, product lines, revenue, or expenses
+* Conducts research and analysis using sales, operations, and financial data as requested by supervisors, mid\\-level sales leadership and senior sales leadership
+* Proactively pursues self\\-generated opportunities to identify value
+* Utilizes Microsoft Excel to organize, parse, and display data in tabular and graphical formats
+* Ensures quality checks are built into work to prevent errors and maintain data integrity
+* Demonstrates proficiency in Microsoft PowerPoint to communicate analytical results
+* Recommends specific actions that can be clearly reached because of following an organized, logical, analytical process
+* Contributes to departmental understanding of results post\\-production, by proactively and reactively communicating with internal clients
+May provide cross\\-functional guidance to lower\\-level analysts.  
+* 
+
+  
+
+  
+
+**What's In It For You**  
+
+  
+
+At Cox, we reward your hard work with meaningful benefits.  
+
+  
+
+First, we offer a highly competitive compensation package, 401(k) with a generous company match, comprehensive healthcare, life, and disability benefits, plus numerous other benefits, including adoption assistance, pet insurance, and discounts on travel and cars!  
+
+  
+
+We value people more than technology. That means you'll work within a culture and with a team that values your leadership, your experience, your contributions, and you \\- yes, you \\- as a person. We believe recognition is important, and Cox strives to celebrate those who help make us successful every day. We also encourage diversity and support inclusion; we want you to do you and feel comfortable doing so.  
+
+  
+
+We also offer boundless opportunities for growth; you can sharpen your skills, learn a new talent, join a mentoring program, even earn an advanced degree. You'll find the potential for lateral or upward career growth within the Cox family businesses, including the innovative startups in transportation mobility, clean tech and more.  
+
+  
+
+**Who You Are**  
+
+  
+
+**Minimum**  
+
+  
+
+* Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and up to 1 year of experience; or 8 years' experience in a related field
+* Demonstrated problem solving and analytical thinking skills
+* Requires strong knowledge of Microsoft Word, Excel, PowerPoint
+Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization  
+* 
+
+  
+
+  
+
+**Preferred**  
+
+  
+
+Master's degree in a related discipline strongly preferred  
+
+* 
+
+  
+
+  
+
+USD 79,400\\.00 \\- 119,000\\.00 per year  
+
+  
+
+**Compensation:**  
+
+  
+
+Compensation includes a base salary of $79,400\\.00 \\- $119,000\\.00\\. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.  
+
+  
+
+**Benefits:**  
+
+  
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.  
+
+  
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.  
+
+  
+
+**About Cox Communications**  
+
+  
+
+Cox Communications is the largest private telecom company in America, serving six million homes and businesses. That's a lot, but we also proudly serve our employees. Our benefits and our award\\-winning culture are just two of the things that make Cox a coveted place to work. If you're interested in bringing people closer through broadband, smart home tech and more, join Cox Communications today!  
+
+  
+
+**About Cox**  
+
+  
+
+Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses \\- which includes Cox Automotive and Cox Communications \\- is forging a better future for us all. Ready to make your mark? Join us today!  
+
+  
+
+Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .  
+
+  
+
+Cox is an Equal Employment Opportunity employer \\- All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.  
+
+  
+
+Statement to ALL Third\\-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.","","https://www.glassdoor.com/Overview/W-EI_IE4063.htm","https://media.glassdoor.com/sql/4063/cox-communications-squarelogo-1617775906639.png","","","","",""
+"gd-1009635891223","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635891223","","Software Development- T1","Tamayo Federal Solutions LLC","Norfolk, VA","2025-02-12","","direct_data","yearly",81552.0,129139.0,"USD",False,"","","organic","","Description:
+
+ Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Software Development T1 to support the customer and provide system administration services to the Government for both physical and virtual hosted applications. We are seeking a Software Development T1 that will be part of an energetic, results\\-driven team. In this role, you will be responsible for supporting the need for advanced analytical, troubleshooting, and design skills. The ability to communicate with technical and non\\-technical users is also essential. Participation in working groups, design reviews, and system tests is required. Candidates will help generate assessments, as well as develop and implement actionable recommendations based on reviews. Candidates require extensive knowledge of the development process, including specification, documentation, and quality assurance.
+
+**Responsibilities include but are not limited to:**
+
+* Familiar with a variety of the field’s concepts, practices, and procedures.
+* Relies on extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks.
+* May provide consultation on complex projects and is considered to be the top\\-level contributor/specialist.
+* May lead and direct the work of others.
+* Analyzes functional business applications and design specifications for functional activities.
+* Applies test\\-first practices including Test\\-Driven Development (TDD) for unit tests and Behavior\\-Driven Development (BDD) for automated acceptance tests.
+* Develops block diagrams and logic flow charts.
+* Translates detailed design into computer software code.
+* Tests, debugs and refines the computer software to produce the required product.
+* Prepares required documentation, including both program\\-level and user\\-level documentation.
+* Enhances software to reduce operating time or improve efficiency.
+* Provides technical direction to programmers to ensure program deadlines are met.
+
+
+Requirements:
+
+Education/Experience Requirements:
+
+* BACHELOR’S DEGREE PREFERRED
+* Entry to 5 years of experience in the field or in a related area
+
+
+SECURITY REQUIREMENTS:
+
+* U.S. Citizenship required.
+* Candidate must have active Secret Clearance
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.glassdoor.com/Overview/W-EI_IE5006527.htm","","","","","",""
+"gd-1009634844204","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634844204","","Systems/Software Engineering - IT T4","Tamayo Federal Solutions LLC","Norfolk, VA","2025-02-12","","direct_data","yearly",100970.0,144983.0,"USD",False,"","","organic","","Description:  
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Systems/Software Engineering \\- IT T4 to support the customer and shall provide system administration services to the Government for both physical and virtual hosted applications. You will provide all services necessary to ensure the efficient operation of all physical and virtual servers. You will support Government requirements to maintain data center computing, storage, and networking capabilities at Government data centers and within associated commercial cloud environments.
+
+
+We are seeking a Systems/Software Engineering \\- IT T4 who will be part of an energetic, results\\-driven team. In this role, you will be responsible for working on advanced, complex technical projects or business issues requiring state of the art technical or industry knowledge.
+
+
+Responsibilities include but are not limited to:
+
+* Being familiar with a variety of the field’s concepts, practices, and procedures
+* Reliable extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks
+* Possibly providing consultation on complex projects and is considered to be the top\\-level contributor/specialist
+* May lead and direct the work of others
+* Design, build and maintain a stable and efficient infrastructure to optimize service delivery across production, QA, and development environments throughout the development lifecycle
+* Monitor, troubleshoot, maintain, and continuously improve building, packaging, and deployment processes
+* Implement automated infrastructure capabilities like backups, security tools, monitoring
+* Utilize a consistent DevOps approach to improve all phases of the process and ensure end\\-to\\-end quality across functions
+* Knowledge of deployment/configuration management tools like Jenkins, Maven, Puppet, or Ansible
+* Utilize version control tools like GIT, Bitbucket, SVN, or CVS
+* Goals generally communicated in ""solution"" or project goal terms
+* May provide a leadership role for the work group through knowledge in the area of specialization
+* Work is highly independent
+* May assume a team lead role for the work group
+* A specialist on complex technical and business matters
+
+
+Requirements:  
+
+Experience Requirements:
+
+* 7 years of experience in the field or in a related area
+* Bachelor's degree in the field or in a related area
+* Experienced with network infrastructure, database, cloud and data center operations, and security protocols
+* Strong knowledge of Linux and/or Windows OS
+* Understands AWS and other services
+* Experience with programming and scripting with languages like Python, Perl, Bash, PHP, Java, SQL, or C\\+\\+
+* Work autonomously
+
+
+Security Requirements:
+
+* U.S. Citizenship required
+* Candidate must be Secret Clearance Eligible
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+
+EEO/AA Employer.
+
+
+Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.glassdoor.com/Overview/W-EI_IE5006527.htm","","","","","",""
+"gd-1009635259502","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635259502","","Software Developer","STRATASCORP","Norfolk, VA","2025-02-12","","direct_data","yearly",65675.0,95844.0,"USD",False,"","","organic","","Job Description:  
+
+StratasCorp Technologies has a Software Developer position opening in Norfolk, VA. We are looking for a Software Developer with demonstrated experience in .Net programming MVC, Structured Query Language (SQL), Oracle PL/SQL, and Blazor. We are looking for someone who is excited about taking on technical challenges, enjoys working as part of a team, and who can also take on a solo challenge should the need arise. This software developer position requires on\\-site support, remote work is not available. Duties include:
+
+
+* Subject Matter Expertise in software application/database design to support development and maintenance of Customer associated applications and data products. This role will utilize SQL, PL/SQL, MVC, and Blazor to build software and database solutions supported by a back\\-end Oracle Enterprise RDBMS
+* Support current programming languages (i.e., C\\#, JQuery, Javascript, JSON, Python) and propose new technologies based upon industry trends
+* Support conversion of existing data elements to conform to customer Database Design Description (DBDD) and Entity Relation Diagrams (ERDs) to ensure complete and accurate data fills of product
+* Support maintenance, security, and documentation of existing and newly developed software code
+* Liaise with National and Service Organizations to incorporate new database formats into the Navy’s authoritative database
+* Support testing, verification, and validation of data products and data management applications
+* Develop of Plan of Action and Milestones (POAM) and related documentation to support Fleet requirements and related IO capabilities
+* Utilize Azure DevOps to manage Kanban boards, repositories, testing, and pipelines in two\\-week sprints
+
+  
+
+  
+
+  
+
+**Job Requirements:*** 5\\+ years demonstrated experience in the field of software development with preferred prior performance in Oracle Relational Database Management System (RDBMS) development and SQL development/maintenance
+* 2\\+ years demonstrated experience in the field of software development with specific prior performance in MS .NET Application development/maintenance
+* 2\\+ years demonstrated experience in the field of software development with specific prior performance eXtensable Markup Language (XML) including the use of XML schemas and eXtensible (XSLT) Stylesheet Language (XSLT) to support parsing and import of external data products to an Oracle Relational Database Management System (RDBMS)
+* Must possess DOD 8570 CSWF certification: Security\\+ CE
+* Must be able to attain a MS .NET Framework certification within 6 Months
+* Experience with Electronic Warfare data is desired but not required","","https://www.glassdoor.com/Overview/W-EI_IE1883049.htm","https://media.glassdoor.com/sql/1883049/stratas-squarelogo-1538589024347.png","","","","",""
+"go-ZUefUNoi-mJZwekQAAAAAA==","google","https://us.bebee.com/job/0693edf1baf1da4aa8cc506a023d1c42?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Frontend and Backend Software Developer","GeoSpark Analytics","Virginia Beach, VA","2025-02-02","","","","","","",False,"","","","","Why Join Us?
+
+At GeoSpark Analytics, we offer a dynamic and fast-paced work environment that fosters innovation and growth. As a member of our Development team, you will have the opportunity to work on cutting-edge projects, collaborating with talented professionals who share your passion for technology. Our competitive compensation package, including a bonus plan, 401(k) matching, and equity potential, will provide you with financial security and opportunities for advancement. We also offer a comprehensive benefits package, including healthcare, dental, vision, and life insurance, as well as paid time off and parental leave. Additionally, you will have access to professional development stipends and tuition reimbursement programs.
+
+Our Culture
+
+At GeoSpark Analytics, we value a strong, results-oriented culture that encourages collaboration, creativity, and innovation. We believe in empowering our employees to take ownership of their work and contribute to the success of our organization. Our hybrid work environment allows for flexibility and work-life balance, while our commitment to diversity and inclusion ensures that everyone feels welcome and valued. If you are passionate about technology and eager to join a dynamic team, we encourage you to apply for this exciting opportunity.","","","","","","","",""
+"go-LCQl6HMUbyGgMm6mAAAAAA==","google","https://us.bebee.com/job/bf774f312f4610ec49c753ad9b980cf7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Program Director - Army Data and Analytics","UICGS and Bowhead Family of Companies","Virginia Beach, VA","2025-01-27","","","","","","",False,"","","","","Key Responsibilities
+Program Manager Job Description
+
+Bowhead is seeking a highly skilled Program Manager for the upcomming Army Data and Analytics Platform (ARDAP) effort located in Virginia Beach, VA.
+• Management of subject matter experts and IT professionals who advise executive level personnel on financial, technical, and other high-level policy areas will be a key responsibility.
+• Operational planning, establishment, execution, and evaluation of a multifaceted program/project typically consisting of a set of closely related subprograms or associated activities will be overseen.
+
+Fiscal, operational, administrative, and human resources management of the program will be handled by this role. Additionally, outside funding sources will be sought and developed, serving as principal point of representation and liaison with external constituencies on operational matters.
+
+The ability to easily communicate recommendations and issues to high-level commanders/executives to influence decisions that support the organization's overall strategic plan is essential.
+
+Strong interpersonal skills and good judgment to work alone or as part of a team are crucial.
+Requirements
+
+A Master's degree in addition to ten (10+) years' of experience is required, along with PMP or equivalent certification. Intermediate to advanced level skills in Microsoft Office software suite - Word, Excel, Outlook, PowerPoint are necessary.
+
+Must be able to lift up to 25 pounds, stand and walk for prolonged amounts of time, twist, bend and squat periodically.
+
+Security clearance at the Secret level is required. US Citizenship is a requirement for Secret clearance at this location.","","","","","","","",""
+"go-DKaevyhzTNhVCVbLAAAAAA==","google","https://us.bebee.com/job/8c1e029b714f67669c841bab6adad0e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Online Adjunct Professor for Computer Science","ECPI University","Virginia Beach, VA","2025-01-27","","","","","","",False,"","","","","Required Skills and Qualifications:
+• Masters degree in Computer Science with 18 graduate semester hours in the discipline from a regionally accredited educational institution.
+• 3-5 years industry experience required within the last 5 years.
+• Expert skill level in Microsoft Suite, including Word, PowerPoint, and Excel.
+• Knowledge of Windows operating systems and common business applications.
+
+In addition to these qualifications, we are looking for individuals who possess strong verbal and written communication skills, the ability to work in a fast-paced environment, and a commitment to academic excellence.","","","","","","","",""
+"go-9kuEijntQjlRcxpSAAAAAA==","google","https://us.bebee.com/job/8c341bdb18913a0a204d16894b66973f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Cloud Data Engineer, Specialist","Stride","Virginia Beach, VA","2025-01-26","","description","yearly",66379.0,170037.0,"USD",True,"","","","","Cloud Data Engineer, Specialist
+At Stride, we're looking for a talented Cloud Data Engineer to join our remote team. This role involves designing and maintaining robust and scalable integrations and data pipelines that connect our core systems and drive critical automations for online K-12 learning and school management.
+
+Key Responsibilities:
+• Lead the development of data integration solutions as the technical lead of a small development pod.
+• Develop modular data integrations following an event-based architecture.
+• Create robust unit testing and drive integration, end-to-end, and performance testing to ensure each data integration is reliable and scalable.
+• Demonstrate developed integrations through a CI/CD process.
+• Communicate and demo developed data integration solutions with stakeholders.
+• Maintain deployed data integrations and resolve issues as they arise.
+Requirements:
+• Bachelor's degree in Computer Science or equivalent training.
+• 5 years of experience working with AWS cloud services.
+• Proficiency in Python development and SQL.
+• Familiarity with pub/sub event-based architecture and ETL data pipeline patterns.
+• Excellent verbal and written communication skills.
+Benefits:We offer a competitive salary range of $66,379 - $170,037.60, as well as a comprehensive benefits package including health benefits, retirement contributions, and paid time off.
+
+This position is virtual and open to residents of the 50 states, D.C.","","","","","","","",""
+"go-haysd0U0xvGcAXk9AAAAAA==","google","https://us.bebee.com/job/5f3b89342722eaf7ec08996f8c4eb847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Software Application Developer","GeoSpark Analytics","Virginia Beach, VA","2025-01-25","","","","","","",False,"","","","","Job Description
+
+As a key member of our Development team, you will play a vital role in shaping the future of GeoSpark Analytics. Your expertise in cloud native technologies, including Node/JavaScript, Vue, Elasticsearch, and AWS, will enable us to provide innovative solutions to our clients. You will work closely with our Head of Product and Tech Lead to develop and maintain our cloud-based applications.
+
+Key Responsibilities
+• Develop and maintain cloud-based applications using Node/JavaScript, Vue, Elasticsearch, and AWS
+• Collaborate with the Head of Product and Tech Lead to design and implement new features and functionalities
+• Work in an Agile environment to deliver high-quality solutions
+• Participate in code reviews to ensure adherence to best practices
+• Contribute to the development of our DevOps pipelines for automated testing and deployment
+
+Requirements
+• Possess a Bachelor's degree or higher in Computer Science or related experience (at least 5 years)
+• At least 1 year of experience with Node.js and javascript based frontends
+• Experience building cloud native REST based microservice APIs
+• Coding knowledge and experience with several languages such as: Node, JavaScript, Vue, python, Java
+• Experience in building Web Applications multi-tenant SaaS preferred
+• Experience working in an Agile environment
+• Experience in building DevOps pipelines for automated testing and deployment
+• Strong problem-solving skills with an emphasis on product development
+• Excellent written and verbal communication skills for coordinating across teams
+• Strong interpersonal skills and the ability to work as part of a team
+• Demonstrated success in working proactively and collaboratively on multiple projects with simultaneous deadlines under fast-paced conditions; must be able to perform duties in high tempo environments
+• Ability to clearly and concisely communicate work status, methods, instructions, problems, requirements, options, and concerns with team members, managers, and customers
+• TDD / Extreme Programming Experience
+• Experience working with web based mapping technologies
+• Strong ability to plan, lead, and implement the successful completion of major project initiatives and efforts, as required","","","","","","","",""
+"go--UgfOy98xBFuez-AAAAAAA==","google","https://us.bebee.com/job/8a69d63908972d7f38d4987ee21b55da?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Software Developer/Engineer with Advanced Technologies","Scientific Research Corporation","Virginia Beach, VA","2025-01-22","","","","","","",False,"","","","","Scientific Research Corporation is an information technology and engineering company that provides innovative products and services to government and private industry. Our team of skilled engineers and scientists have multidisciplinary backgrounds, enabling us to provide cutting-edge technology solutions.
+
+We offer a comprehensive benefit package, including medical, dental, and vision plans, 401(k) with a company match, life insurance, vacation and sick paid time off accruals, 11 paid holidays, tuition reimbursement, and a work environment that encourages excellence.
+
+The ideal candidate will have a Bachelor's degree in Computer Science or equivalent experience, five+ years of experience in network computer equipment and routine computer programming, minimum certification as 621 (or similar), and demonstrated proficiency maintaining and modifying existing code and operating systems configurations.
+
+Key Responsibilities:
+• Designing, developing, writing, and implementing software programming applications
+• Maintaining and modifying existing software code and operating system configurations
+• Establishing and designing new code and implementing enhancements to system capabilities
+• Providing software engineering support for the development, maintenance, testing, and certification-accreditation of software and operating system modifications
+• Ensuring compliance with Department of Navy (DoN), Department of Defense (DoD), and Intelligence Community cybersecurity directives, policies, and procedures","","","","","","","",""
+"go-pZhyp88d0bFmUhLhAAAAAA==","google","https://us.bebee.com/job/785b574e7cf57e3cec7a9d7654ef2d35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Integrator with Top Secret Clearance","CASTALIA SYSTEMS LLC","Virginia Beach, VA","2025-01-22","","","","","","",False,"","","","","About the Role:
+
+Castalia Systems LLC is seeking a highly skilled Data Integrator to support the US Special Operations Command-s (USSOCOM) Intelligence Data Support Team (IDST) and Special Operations Forces Acquisitions, Technology & Logistics (SOFT AT&L).
+
+The ideal candidate will possess a strong understanding of data integration and visualization, as well as excellent communication skills. This role offers an exciting opportunity to work directly with intelligence analysts, applying expertise to support the ops/intelligence fusion process.
+• Key Responsibilities:
+• Work closely with intelligence analysts to develop methodologies, generate software requirements, and conduct tool testing.
+• Discover, aggregate, and visualize disparate data sources to provide actionable information.
+• Collaborate with the IDST team to identify trends, patterns, and relationships within data experiments.
+• Communicate effectively both orally and in writing.
+
+Requirements:
+• Bachelor's degree in computer science or a related field.
+• 8+ years of experience providing similar services.
+• 6+ years of experience in special operations intelligence community, providing similar services.
+• Strong knowledge of SOF intelligence analysis tools, data sources, and tradecraft.
+
+About Castalia Systems LLC:
+
+We are a proven business partner providing mission-critical solutions to the Federal Government. Our expertise spans Securing and Managing Data, Systems Engineering and Development, Artificial Intelligence Design, and Application. We pride ourselves on delivering premium IT solutions and platforms using cutting-edge technology.","","","","","","","",""
+"go-1HI42SyEsvoq-gYjAAAAAA==","google","https://us.bebee.com/job/68930f7a5248f1f48d8f8ef6ed856c6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Cloud Software Engineer","GeoSpark Analytics","Virginia Beach, VA","2025-01-21","","","","","","",False,"","","","","Company Overview
+
+GeoSpark Analytics is a cutting-edge threat intelligence business that integrates leading-edge AI technology with expert human analysis. Our mission is to help organizations proactively predict potential threats impacting their people, operations, and assets. We strive to make quicker, more strategic decisions through our innovative approach.
+
+About the Role
+
+As a Backend Development Specialist, you will work on a wide range of problems creating new capabilities and enhancing existing ones in an Agile software environment. You will collaborate with the Head of Product and Tech Lead in solving customer problems, deliver iterative solutions, and assist in Code Reviews. Additionally, you will participate in discovery sessions aimed at solving though problems and translating solutions into software.
+
+Responsibilities
+• Collaborate with the Head of Product and Tech Lead in solving customer problems
+• Work in an Agile software environment delivering iterative solutions and assisting in Code Reviews
+• Participate in discovery sessions aimed at solving though problems and translating solutions into software
+• Utilize TDD / XP best practices
+• Clearly and concisely communicate work status, methods, instructions, problems, requirements, options, and concerns with team members, managers, and customers through various means
+
+Technologies We Currently Use
+• Primary: Node/JavaScript, Vue (front end), Elasticsearch, AWS
+• Additional: Python, Docker, Postgres, Atlassian Suite (Jira, Confluence, Bamboo, BitBucket)
+
+Required Qualifications
+• Possess a Bachelor's degree or higher in Computer Science or related experience (at least 5 years)
+• At least 1 year of experience with Node.js and javascript based frontends
+• Experience building cloud native REST based microservice APIs
+• Coding knowledge and experience with several languages such as: Node, JavaScript, Vue, python, Java
+• Experience in building Web Applications multi-tenant SaaS preferred
+• Experience working in an Agile environment
+• Experience in building DevOps pipelines for automated testing and deployment
+• Strong problem-solving skills with an emphasis on product development
+• Excellent written and verbal communication skills for coordinating across teams
+• Strong interpersonal skills and the ability to work as part of a team
+• Demonstrated success in working proactively and collaboratively on multiple projects with simultaneous deadlines under fast-paced conditions; must be available to perform duties in high tempo environments
+• Ability to clearly and concisely communicate work status, methods, instructions, problems, requirements, options, and concerns with team members, managers, and customers
+• TDD / Extreme Programming Experience
+• Experience working with web based mapping technologies
+• Strong ability to plan, lead, and implement the successful completion of major project initiatives and efforts, as required
+
+Desired Qualifications
+• At least 1 year of experience with CloudFormation, ElasticSearch / Open Search, Vue, AWS, Lambda, Step Functions, and API Gateway
+• Other desirable technological experience: Elasticsearch, Docker, Machine Learning, NLP
+
+Compensation & Benefits
+• Competitive salary, bonus plan, 401(k) matching, and equity potential
+• Healthcare, dental, vision and life plans
+• Opportunity to work in a fast-moving, high-growth SaaS company
+• Strong, results-oriented culture
+• Hybrid work environment
+• Paid time off
+• Paid Parental Leave (16 Weeks Primary, 8 Secondary)
+• Tuition Reimbursement
+• Professional Development Stipend","","","","","","","",""
+"go-N_Z3CR_WJSvnIStUAAAAAA==","google","https://www.linkedin.com/jobs/view/data-developer-at-endurance-it-services-4149989985?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Developer","Endurance IT Services","Chesapeake, VA","2025-01-20","","","","","","",False,"","","","","We are seeking a skilled Data Developer/Data Analyst to join our team. The ideal candidate will focus on developing and maintaining SSIS and SSRS packages, integrating data between systems, assisting DBAs, and supporting our Master Data Management (MDM) project. A strong understanding of C# is a must.
+• Employees may be expected to work hours in excess of their normally scheduled hours in response to short-term department needs and/or emergencies.
+
+Responsibilities:
+• Design, develop, and maintain SQL Server Integration Services (SSIS) packages.
+• Optimize ETL processes to ensure efficient data flow and processing.
+• Troubleshoot and resolve issues with SSIS packages and data integrations.
+• Design and develop SQL Server Reporting Services (SSRS) reports.
+• Ensure reports are accurate, comprehensive, and meet business requirements.
+• Perform ongoing maintenance and enhancements to existing reports.
+• Integrate data between various systems, ensuring seamless data flow.
+• Develop and maintain data mapping and transformation rules.
+• Collaborate with other teams to understand data requirements and ensure accurate data integration.
+• Provide support to the Database Administrators in managing and optimizing databases.
+• Assist in database performance tuning and query optimization.
+• Support database maintenance tasks, including backups, indexing, and security.
+• Coding skills in languages such as C#, SQL, ASP.NET, and/or JavaScript.
+• Assist in developing in-house web applications.
+• Participate in the Master Data Management project to ensure data consistency and accuracy.
+• Assist in defining and implementing data governance policies and procedures.
+• Work on data quality initiatives to cleanse and standardize master data.
+
+Qualifications:
+• Requires a bachelor’s degree or any equivalent combination of education and experience in computer science or a closely related field.
+• A minimum of two years experience in software development and engineering.
+• Coding skills in languages such as SQL, Python, C#, and/or JavaScript.
+• Analytical and problem-solving skills.
+• Experience with statistical software (e.g., Stata, SPSS).
+• Knowledge of data gathering, cleaning, and transforming techniques.
+• Reporting and data visualization skills using software like Power BI, Tableau, or other BI tools.
+• Understanding of data warehousing and ETL techniques.
+• Proficiency in Microsoft Excel.
+• Ability to QA and troubleshoot data.","","","","","","","",""
+"go-_sHT8F59-W1Fbf-2AAAAAA==","google","https://us.bebee.com/job/165360b66956236423fb1fc6c9f75090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Head of Data Engineering","Triumph","Virginia Beach, VA","2025-01-20","","","","","","",False,"","","","","Enterprise Data Solutions Manager
+
+We are seeking an experienced Enterprise Data Solutions Manager to join our team at Triumph. The successful candidate will be responsible for leading the development and implementation of data engineering solutions that drive business growth and innovation. This role involves designing and implementing data architectures leveraging Microsoft Azure and Fabric to integrate data sources, enable data sharing, and streamline analytics processes.
+
+You will work closely with cross-functional teams to deliver high-quality data solutions that meet business requirements. Familiarity with insurance and reinsurance processes is a significant advantage.
+
+Key Responsibilities:
+• Design and implement data architectures leveraging Microsoft Azure and Fabric.
+• Develop and maintain data models, data flows, and architecture blueprints.
+• Establish data quality controls and standards to ensure data accuracy and consistency.
+• Monitor data architecture performance and identify opportunities to optimize and scale data infrastructure.
+• Collaborate with key stakeholders to understand business requirements and translate them into data solutions.
+
+This position requires strong analytical, communication, and problem-solving skills, as well as the ability to work across cultures and regions. A strategic vision with a practical approach to data management is essential.
+
+What We Offer:
+• A competitive salary with an annual performance-based target bonus.
+• A comprehensive benefits package, including hybrid working, matching 401K plan, medical, dental, vision, life, disability, and generous time off.
+• Ongoing support for professional development and training opportunities.","","","","","","","",""
+"in-faa26589b2226d90","indeed","https://www.indeed.com/viewjob?jk=faa26589b2226d90","https://recruiting.paylocity.com/recruiting/jobs/Details/3017232/Tamayo-Federal-Solutions-LLC/Software-Development--T1?source=Indeed_Feed","Software Development- T1","Tamayo Federal Solutions","Norfolk, VA, US","2025-02-12","fulltime","direct_data","yearly",86931.0,125227.0,"USD",False,"","","","","Description:
+
+ Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Software Development T1 to support the customer and provide system administration services to the Government for both physical and virtual hosted applications. We are seeking a Software Development T1 that will be part of an energetic, results\\-driven team. In this role, you will be responsible for supporting the need for advanced analytical, troubleshooting, and design skills. The ability to communicate with technical and non\\-technical users is also essential. Participation in working groups, design reviews, and system tests is required. Candidates will help generate assessments, as well as develop and implement actionable recommendations based on reviews. Candidates require extensive knowledge of the development process, including specification, documentation, and quality assurance.
+
+**Responsibilities include but are not limited to:**
+
+* Familiar with a variety of the field’s concepts, practices, and procedures.
+* Relies on extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks.
+* May provide consultation on complex projects and is considered to be the top\\-level contributor/specialist.
+* May lead and direct the work of others.
+* Analyzes functional business applications and design specifications for functional activities.
+* Applies test\\-first practices including Test\\-Driven Development (TDD) for unit tests and Behavior\\-Driven Development (BDD) for automated acceptance tests.
+* Develops block diagrams and logic flow charts.
+* Translates detailed design into computer software code.
+* Tests, debugs and refines the computer software to produce the required product.
+* Prepares required documentation, including both program\\-level and user\\-level documentation.
+* Enhances software to reduce operating time or improve efficiency.
+* Provides technical direction to programmers to ensure program deadlines are met.
+
+
+Requirements:
+
+Education/Experience Requirements:
+
+* BACHELOR’S DEGREE PREFERRED
+* Entry to 5 years of experience in the field or in a related area
+
+
+SECURITY REQUIREMENTS:
+
+* U.S. Citizenship required.
+* Candidate must have active Secret Clearance
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.indeed.com/cmp/Tamayo-Federal-Solutions","","","","","",""
+"in-19c3f9b443e537d4","indeed","https://www.indeed.com/viewjob?jk=19c3f9b443e537d4","https://stratascorp.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=1635&site_id=148","Software Developer","STRATASCORP","Norfolk, VA, US","2025-02-12","fulltime","direct_data","yearly",86444.0,112288.0,"USD",True,"","","","","Job Description:  
+
+StratasCorp Technologies has a Software Developer position opening in Norfolk, VA. We are looking for a Software Developer with demonstrated experience in .Net programming MVC, Structured Query Language (SQL), Oracle PL/SQL, and Blazor. We are looking for someone who is excited about taking on technical challenges, enjoys working as part of a team, and who can also take on a solo challenge should the need arise. This software developer position requires on\\-site support, remote work is not available. Duties include:
+
+
+* Subject Matter Expertise in software application/database design to support development and maintenance of Customer associated applications and data products. This role will utilize SQL, PL/SQL, MVC, and Blazor to build software and database solutions supported by a back\\-end Oracle Enterprise RDBMS
+* Support current programming languages (i.e., C\\#, JQuery, Javascript, JSON, Python) and propose new technologies based upon industry trends
+* Support conversion of existing data elements to conform to customer Database Design Description (DBDD) and Entity Relation Diagrams (ERDs) to ensure complete and accurate data fills of product
+* Support maintenance, security, and documentation of existing and newly developed software code
+* Liaise with National and Service Organizations to incorporate new database formats into the Navy’s authoritative database
+* Support testing, verification, and validation of data products and data management applications
+* Develop of Plan of Action and Milestones (POAM) and related documentation to support Fleet requirements and related IO capabilities
+* Utilize Azure DevOps to manage Kanban boards, repositories, testing, and pipelines in two\\-week sprints
+
+  
+
+  
+
+  
+
+**Job Requirements:*** 5\\+ years demonstrated experience in the field of software development with preferred prior performance in Oracle Relational Database Management System (RDBMS) development and SQL development/maintenance
+* 2\\+ years demonstrated experience in the field of software development with specific prior performance in MS .NET Application development/maintenance
+* 2\\+ years demonstrated experience in the field of software development with specific prior performance eXtensable Markup Language (XML) including the use of XML schemas and eXtensible (XSLT) Stylesheet Language (XSLT) to support parsing and import of external data products to an Oracle Relational Database Management System (RDBMS)
+* Must possess DOD 8570 CSWF certification: Security\\+ CE
+* Must be able to attain a MS .NET Framework certification within 6 Months
+* Experience with Electronic Warfare data is desired but not required","","https://www.indeed.com/cmp/Stratascorp","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/96446960539448f1c8719d4bc0304396","https://www.stratascorp.com","3351 Stoneshore Rd Suite 203, Virginia Beach, VA 23452","51 to 200","","We are a global business that represents vigilance, quality, and the pursuit of excellence. Our global multicultural community is comprised of diverse, passionate, and exceptional people providing inf"
+"in-52f670d2a2b4ecf1","indeed","https://www.indeed.com/viewjob?jk=52f670d2a2b4ecf1","https://recruiting.paylocity.com/recruiting/jobs/Details/3017288/Tamayo-Federal-Solutions-LLC/Software-Development-T2?source=Indeed_Feed","Software Development T2","Tamayo Federal Solutions","Norfolk, VA, US","2025-02-12","fulltime","direct_data","yearly",86931.0,125227.0,"USD",False,"","","","","Description:  
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Software Development T2 to support the customer and provide system administration services to the Government for both physical and virtual hosted applications. We are seeking a Software Development T2 that will be part of an energetic, results\\-driven team. In this role, you will be responsible for supporting the need for advanced analytical, troubleshooting, and design skills. The ability to communicate with technical and non\\-technical users is also essential. Participation in working groups, design reviews, and system tests is required. Candidates will help generate assessments, as well as develop and implement actionable recommendations based on reviews. Candidates require extensive knowledge of the development process, including specification, documentation, and quality assurance.
+
+**Responsibilities include but are not limited to:**
+
+* Familiar with a variety of the field’s concepts, practices, and procedures.
+* Relies on extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks.
+* May provide consultation on complex projects and is considered to be the top\\-level contributor/specialist.
+* May lead and direct the work of others.
+* Analyzes functional business applications and design specifications for functional activities.
+* Applies test\\-first practices including Test\\-Driven Development (TDD) for unit tests and Behavior\\-Driven Development (BDD) for automated acceptance tests.
+* Develops block diagrams and logic flow charts.
+* Translates detailed design into computer software code.
+* Tests, debugs and refines the computer software to produce the required product.
+* Prepares required documentation, including both program\\-level and user\\-level documentation.
+* Enhances software to reduce operating time or improve efficiency.
+* Provides technical direction to programmers to ensure program deadlines are met.
+
+
+Requirements:
+
+Education/Experience Requirements:
+
+* BACHELOR’S DEGREE PREFERRED
+* 5 years of experience in the field or in a related area
+
+
+SECURITY REQUIREMENTS:
+
+* U.S. Citizenship required.
+* Candidate must have active Secret Clearance
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.indeed.com/cmp/Tamayo-Federal-Solutions","","","","","",""
+"in-5fed403290a44f8e","indeed","https://www.indeed.com/viewjob?jk=5fed403290a44f8e","https://recruiting.paylocity.com/recruiting/jobs/Details/3017318/Tamayo-Federal-Solutions-LLC/Software-Development-T5?source=Indeed_Feed","Software Development T5","Tamayo Federal Solutions","Norfolk, VA, US","2025-02-12","fulltime","direct_data","yearly",116941.0,148074.0,"USD",False,"","","","","Description:
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Software Development T5 to support the customer and provide system administration services to the Government for both physical and virtual hosted applications. We are seeking a Software Development T5 that will be part of an energetic, results\\-driven team. In this role, you will be responsible for supporting the need for advanced analytical, troubleshooting, and design skills. The ability to communicate with technical and non\\-technical users is also essential. Participation in working groups, design reviews, and system tests is required. Candidates will help generate assessments, as well as develop and implement actionable recommendations based on reviews. Candidates require extensive knowledge of the development process, including specification, documentation, and quality assurance.
+
+**Responsibilities include but are not limited to:**
+
+* Familiar with a variety of the field’s concepts, practices, and procedures.
+* Relies on extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks.
+* May provide consultation on complex projects and is considered to be the top\\-level contributor/specialist.
+* May lead and direct the work of others.
+* Analyzes functional business applications and design specifications for functional activities.
+* Applies test\\-first practices including Test\\-Driven Development (TDD) for unit tests and Behavior\\-Driven Development (BDD) for automated acceptance tests.
+* Develops block diagrams and logic flow charts.
+* Translates detailed design into computer software code.
+* Tests, debugs and refines the computer software to produce the required product.
+* Prepares required documentation, including both program\\-level and user\\-level documentation.
+* Enhances software to reduce operating time or improve efficiency.
+* Provides technical direction to programmers to ensure program deadlines are met.
+
+
+Requirements:
+**Education/Experience Requirements:**
+
+* BACHELOR’S DEGREE PREFERRED
+* 12 years of experience in the field or in a related area
+
+**SECURITY REQUIREMENTS:**
+
+* U.S. Citizenship required.
+* Candidate must have active Secret Clearance
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.indeed.com/cmp/Tamayo-Federal-Solutions","","","","","",""
+"in-fd2710ad78776fde","indeed","https://www.indeed.com/viewjob?jk=fd2710ad78776fde","https://recruiting.paylocity.com/recruiting/jobs/Details/3019315/Tamayo-Federal-Solutions-LLC/SystemsSoftware-Engineering---IT-T4?source=Indeed_Feed","Systems/Software Engineering - IT T4","Tamayo Federal Solutions","Norfolk, VA, US","2025-02-11","fulltime","direct_data","yearly",90058.0,128553.0,"USD",False,"","","","","Description:  
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Systems/Software Engineering \\- IT T4 to support the customer and shall provide system administration services to the Government for both physical and virtual hosted applications. You will provide all services necessary to ensure the efficient operation of all physical and virtual servers. You will support Government requirements to maintain data center computing, storage, and networking capabilities at Government data centers and within associated commercial cloud environments.
+
+
+We are seeking a Systems/Software Engineering \\- IT T4 who will be part of an energetic, results\\-driven team. In this role, you will be responsible for working on advanced, complex technical projects or business issues requiring state of the art technical or industry knowledge.
+
+
+Responsibilities include but are not limited to:
+
+* Being familiar with a variety of the field’s concepts, practices, and procedures
+* Reliable extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks
+* Possibly providing consultation on complex projects and is considered to be the top\\-level contributor/specialist
+* May lead and direct the work of others
+* Design, build and maintain a stable and efficient infrastructure to optimize service delivery across production, QA, and development environments throughout the development lifecycle
+* Monitor, troubleshoot, maintain, and continuously improve building, packaging, and deployment processes
+* Implement automated infrastructure capabilities like backups, security tools, monitoring
+* Utilize a consistent DevOps approach to improve all phases of the process and ensure end\\-to\\-end quality across functions
+* Knowledge of deployment/configuration management tools like Jenkins, Maven, Puppet, or Ansible
+* Utilize version control tools like GIT, Bitbucket, SVN, or CVS
+* Goals generally communicated in ""solution"" or project goal terms
+* May provide a leadership role for the work group through knowledge in the area of specialization
+* Work is highly independent
+* May assume a team lead role for the work group
+* A specialist on complex technical and business matters
+
+
+Requirements:  
+
+Experience Requirements:
+
+* 7 years of experience in the field or in a related area
+* Bachelor's degree in the field or in a related area
+* Experienced with network infrastructure, database, cloud and data center operations, and security protocols
+* Strong knowledge of Linux and/or Windows OS
+* Understands AWS and other services
+* Experience with programming and scripting with languages like Python, Perl, Bash, PHP, Java, SQL, or C\\+\\+
+* Work autonomously
+
+
+Security Requirements:
+
+* U.S. Citizenship required
+* Candidate must be Secret Clearance Eligible
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+
+EEO/AA Employer.
+
+
+Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.indeed.com/cmp/Tamayo-Federal-Solutions","","","","","",""
+"in-e830c955fc981a8d","indeed","https://www.indeed.com/viewjob?jk=e830c955fc981a8d","https://recruiting.paylocity.com/recruiting/jobs/Details/3019305/Tamayo-Federal-Solutions-LLC/SystemsSoftware-Engineering---IT-T3?source=Indeed_Feed","Systems/Software Engineering - IT T3","Tamayo Federal Solutions","Norfolk, VA, US","2025-02-11","fulltime","direct_data","yearly",86029.0,123647.0,"USD",False,"","","","","Description:  
+
+Tamayo Federal Solutions, LLC, a Department of Defense contractor, is now hiring a Systems/Software Engineering \\- IT T3 to support the customer and shall provide system administration services to the Government for both physical and virtual hosted applications. You will provide all services necessary to ensure the efficient operation of all physical and virtual servers. You will support Government requirements to maintain data center computing, storage, and networking capabilities at Government data centers and within associated commercial cloud environments.
+
+
+We are seeking a Systems/Software Engineering \\- IT T3 who will be part of an energetic, results\\-driven team. In this role, you will be responsible for working on advanced, complex technical projects or business issues requiring state of the art technical or industry knowledge.
+
+
+Responsibilities include but are not limited to:
+
+* Being familiar with a variety of the field’s concepts, practices, and procedures
+* Reliable extensive experience and judgment to plan and accomplish goals and independently performs a wide variety of complicated tasks
+* Possibly providing consultation on complex projects and is considered to be the top\\-level contributor/specialist
+* May lead and direct the work of others
+* Design, build and maintain a stable and efficient infrastructure to optimize service delivery across production, QA, and development environments throughout the development lifecycle
+* Monitor, troubleshoot, maintain, and continuously improve building, packaging, and deployment processes
+* Implement automated infrastructure capabilities like backups, security tools, monitoring
+* Utilize a consistent DevOps approach to improve all phases of the process and ensure end\\-to\\-end quality across functions
+* Knowledge of deployment/configuration management tools like Jenkins, Maven, Puppet, or Ansible
+* Utilize version control tools like GIT, Bitbucket, SVN, or CVS
+* Goals generally communicated in ""solution"" or project goal terms
+* May provide a leadership role for the work group through knowledge in the area of specialization
+* Work is highly independent
+* May assume a team lead role for the work group
+* A specialist on complex technical and business matters
+
+
+Requirements:
+
+Experience Requirements:
+
+* 5 years of experience in the field or in a related area
+* Bachelor's degree in the field or in a related area
+* Experienced with network infrastructure, database, cloud and data center operations, and security protocols
+* Strong knowledge of Linux and/or Windows OS
+* Understands AWS and other services
+* Experience with programming and scripting with languages like Python, Perl, Bash, PHP, Java, SQL, or C\\+\\+
+* Work autonomously
+
+
+Security Requirements:
+
+* U.S. Citizenship required
+* Candidate must be Secret Clearance Eligible
+
+
+Tamayo Federal Solutions, LLC offers a full package of benefits and competitive salary, excellent group medical, vision, and dental programs; 401(k); tuition reimbursement; employee training, development, and education programs; advancement opportunities; and much more!
+
+  
+
+EEO/AA Employer. Protected Veterans and individuals with disabilities are encouraged to apply.
+
+
+Please NO RECRUITERS – Job Applicants ONLY","","https://www.indeed.com/cmp/Tamayo-Federal-Solutions","","","","","",""
+"in-78dda4047c73cfc3","indeed","https://www.indeed.com/viewjob?jk=78dda4047c73cfc3","https://click.appcast.io/track/lvt957g-org?cs=5c","Senior Data Analyst","Cox Communications Inc.","Chesapeake, VA, US","2025-02-11","fulltime","direct_data","yearly",79400.0,119000.0,"USD",False,"","","","","Prepares transactional analyses and reports for the Cox Communications Sales \\& Service Department and related stakeholders. Gathers and synthesizes data from multiple sources to identify opportunities, risks, and ongoing problems. Evaluates transactional data, analyzes trends, and prepares forecasts. Translates complex data into cogent information for the Sales department and partners. Displays strong communication skills in developing actionable recommendations for leadership.  
+
+  
+
+**What You'll Do**  
+
+  
+
+* Conducts analysis at multiple levels of complexity (including those that are highly technical and complex) which may include trend recognition, explanation of variances, development of forecasts, calculation of performance metrics, and the creation of business cases
+* Communicates results effectively. Utilizes Microsoft PowerPoint, Excel, written, and verbal mediums to convey analysis in a logical sequence
+* Locates and retrieves data from company data systems and can identify when other relevant data is needed and is able to collect data from other sources including employees and within the industry to generate a comprehensive data set
+* Collaborates across company departments to produce analysis related to specific sales channels, product lines, revenue, or expenses
+* Conducts research and analysis using sales, operations, and financial data as requested by supervisors, mid\\-level sales leadership and senior sales leadership
+* Proactively pursues self\\-generated opportunities to identify value
+* Utilizes Microsoft Excel to organize, parse, and display data in tabular and graphical formats
+* Ensures quality checks are built into work to prevent errors and maintain data integrity
+* Demonstrates proficiency in Microsoft PowerPoint to communicate analytical results
+* Recommends specific actions that can be clearly reached because of following an organized, logical, analytical process
+* Contributes to departmental understanding of results post\\-production, by proactively and reactively communicating with internal clients
+May provide cross\\-functional guidance to lower\\-level analysts.  
+* 
+
+  
+
+  
+
+**What's In It For You**  
+
+  
+
+At Cox, we reward your hard work with meaningful benefits.  
+
+  
+
+First, we offer a highly competitive compensation package, 401(k) with a generous company match, comprehensive healthcare, life, and disability benefits, plus numerous other benefits, including adoption assistance, pet insurance, and discounts on travel and cars!  
+
+  
+
+We value people more than technology. That means you'll work within a culture and with a team that values your leadership, your experience, your contributions, and you \\- yes, you \\- as a person. We believe recognition is important, and Cox strives to celebrate those who help make us successful every day. We also encourage diversity and support inclusion; we want you to do you and feel comfortable doing so.  
+
+  
+
+We also offer boundless opportunities for growth; you can sharpen your skills, learn a new talent, join a mentoring program, even earn an advanced degree. You'll find the potential for lateral or upward career growth within the Cox family businesses, including the innovative startups in transportation mobility, clean tech and more.  
+
+  
+
+**Who You Are**  
+
+  
+
+**Minimum**  
+
+  
+
+* Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and up to 1 year of experience; or 8 years' experience in a related field
+* Demonstrated problem solving and analytical thinking skills
+* Requires strong knowledge of Microsoft Word, Excel, PowerPoint
+Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization  
+* 
+
+  
+
+  
+
+**Preferred**  
+
+  
+
+Master's degree in a related discipline strongly preferred  
+
+* 
+
+  
+
+  
+
+USD 79,400\\.00 \\- 119,000\\.00 per year  
+
+  
+
+**Compensation:**  
+
+  
+
+Compensation includes a base salary of $79,400\\.00 \\- $119,000\\.00\\. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.  
+
+  
+
+**Benefits:**  
+
+  
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.  
+
+  
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.  
+
+  
+
+**About Cox Communications**  
+
+  
+
+Cox Communications is the largest private telecom company in America, serving six million homes and businesses. That's a lot, but we also proudly serve our employees. Our benefits and our award\\-winning culture are just two of the things that make Cox a coveted place to work. If you're interested in bringing people closer through broadband, smart home tech and more, join Cox Communications today!  
+
+  
+
+**About Cox**  
+
+  
+
+Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses \\- which includes Cox Automotive and Cox Communications \\- is forging a better future for us all. Ready to make your mark? Join us today!  
+
+  
+
+Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .  
+
+  
+
+Cox is an Equal Employment Opportunity employer \\- All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.  
+
+  
+
+Statement to ALL Third\\-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.","","https://www.indeed.com/cmp/Cox-Communications-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4437604392e00801332e7c2965803d7c","http://jobs.coxenterprises.com","Atlanta, GA","10,000+","more than $10B (USD)","At Cox Communications (part of the Cox family of businesses), we are committed to creating more moments of real human connection."
+"li-4149989985","linkedin","https://www.linkedin.com/jobs/view/4149989985","https://endurance-it.zohorecruit.com/jobs/Careers/644473000006449001/Data-Developer?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings&urlHash=gPtp","Data Developer","Endurance IT Services","Chesapeake, VA","","fulltime","","","","","","","entry level","Information Technology","","","We are seeking a skilled Data Developer/Data Analyst to join our team. The ideal candidate will focus on developing and maintaining SSIS and SSRS packages, integrating data between systems, assisting DBAs, and supporting our Master Data Management (MDM) project. A strong understanding of C\\# is a must.
+   
+
+  
+
+* Employees may be expected to work hours in excess of their normally scheduled hours in response to short\\-term department needs and/or emergencies.
+
+
+**Responsibilities:**
+* Design, develop, and maintain SQL Server Integration Services (SSIS) packages.
+* Optimize ETL processes to ensure efficient data flow and processing.
+* Troubleshoot and resolve issues with SSIS packages and data integrations.
+* Design and develop SQL Server Reporting Services (SSRS) reports.
+* Ensure reports are accurate, comprehensive, and meet business requirements.
+* Perform ongoing maintenance and enhancements to existing reports.
+* Integrate data between various systems, ensuring seamless data flow.
+* Develop and maintain data mapping and transformation rules.
+* Collaborate with other teams to understand data requirements and ensure accurate data integration.
+* Provide support to the Database Administrators in managing and optimizing databases.
+* Assist in database performance tuning and query optimization.
+* Support database maintenance tasks, including backups, indexing, and security.
+* Coding skills in languages such as C\\#, SQL, ASP.NET, and/or JavaScript.
+* Assist in developing in\\-house web applications.
+* Participate in the Master Data Management project to ensure data consistency and accuracy.
+* Assist in defining and implementing data governance policies and procedures.
+* Work on data quality initiatives to cleanse and standardize master data.
+
+
+**Qualifications:**
+* Requires a bachelor’s degree or any equivalent combination of education and experience in computer science or a closely related field.
+* A minimum of two years experience in software development and engineering.
+* Coding skills in languages such as SQL, Python, C\\#, and/or JavaScript.
+* Analytical and problem\\-solving skills.
+* Experience with statistical software (e.g., Stata, SPSS).
+* Knowledge of data gathering, cleaning, and transforming techniques.
+* Reporting and data visualization skills using software like Power BI, Tableau, or other BI tools.
+* Understanding of data warehousing and ETL techniques.
+* Proficiency in Microsoft Excel.
+* Ability to QA and troubleshoot data.","IT Services and IT Consulting","https://www.linkedin.com/company/endurance-it-services","https://media.licdn.com/dms/image/v2/D4D0BAQFJ_kCAWgJHIw/company-logo_100_100/company-logo_100_100/0/1704737606965/endurance_it_services_logo?e=2147483647&v=beta&t=1KqJkMDQR-EIJcIU9JlIRMgI5JgZjL4ndcDjjNhgWbg","","","","",""
+"li-4064746117","linkedin","https://www.linkedin.com/jobs/view/4064746117","https://epic.avature.net/Careers/RegisterMethod?folderId=22296&source=LinkedIn&urlHash=24uK","Splunk Engineer","Epic","Chesapeake, VA","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+ Splunk is one of the key technologies Epic relies on to improve healthcare delivery to over 70% of patients in the US, and around the world. As a Splunk Engineer, you'll optimize and maintain our cloud installation and help teams realize the potential of the Splunk platform. Our deployment serves critical areas including IT operations, Security, R\\&D, and Business Intelligence. You'll have the freedom to flex your creativity as well as identify and implement new and impactful use cases for Splunk.
+   
+
+  
+
+**Desired Skills and Knowledge Areas:**
+* Bachelor's Degree
+* 1\\+ year of Splunk Administration experience. Cribl experience is a plus.
+* Experience with CI/CD concepts and technologies. GitLab experience is a plus.
+* Familiarity with Infrastructure as Code concepts and technologies. Experience with Ansible and Terraform is a plus.
+* Strong troubleshooting and customer service skills.
+
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's Degree
+* Relocation to the Madison, WI area (reimbursed).
+* A history of academic and professional success
+* Eligible to work in the U.S. without visa sponsorship.
+* COVID\\-19 vaccination","Information Services, Software Development, and Hospitals and Health Care","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","",""
+"zr-gvAoJiP6XAzFpnzjLjG1cg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=gvAoJiP6XAzFpnzjLjG1cg","","Junior System Engineer with Security Clearance","Warrant Technologies, LLC","Virginia Beach, VA, USA","2025-02-12","","","","","","","","","","job_board","","About Us: Warrant Technologies specializes in system and software engineering, training, and product support logistics. Position Overview: We are seeking a motivated and detail\\-oriented Junior System Engineer with a strong software background to join our dynamic team. This is an entry\\-level position designed for individuals with a degree in software engineering, computer science, or a related field who are eager to grow their skills in systems engineering. The ideal candidate will have a passion for learning and a desire to contribute to the development of complex systems. Key Responsibilities:
+   
+
+ Collaborate with senior engineers to design, develop, and maintain system models and architectures.
+   
+
+ Assist in the creation and analysis of system requirements and specifications.
+   
+
+ Support the development of Unified Modeling Language (UML) and/or Systems Modeling Language (SysML) diagrams to represent system designs.
+   
+
+ Work with tools such as CAMEO Systems Modeler or Enterprise Architect to create and manage system models.
+   
+
+ Participate in system integration, testing, and validation activities.
+   
+
+ Document system designs, processes, and test results to ensure traceability and compliance with project requirements.
+   
+
+ Communicate effectively with cross\\-functional teams to ensure alignment on project goals and deliverables. Qualifications: Bachelor’s degree in Software Engineering, Computer Science, or a related field. Strong understanding of software development principles and practices.
+   
+
+ Familiarity with UML and/or SysML is highly desired.
+   
+
+ Experience or exposure to modeling tools such as CAMEO Systems Modeler or Enterprise Architect is a plus.
+   
+
+ Excellent problem\\-solving skills and attention to detail.
+   
+
+ Strong written and verbal communication skills.
+   
+
+ Ability to work collaboratively in a team environment and adapt to a fast\\-paced work setting. Why Join Us? Opportunity to work on exciting and challenging projects. Mentorship and professional development opportunities to help you grow in your career. Collaborative and inclusive work culture. Competitive salary and benefits package.","","","","","","","",""
+"zr-laJS2a9-epEdKh4X_xBULg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=laJS2a9-epEdKh4X_xBULg","","K96/X11 FOREMAN-MULTIPLE SHIFTS-$5,000 SIGN-ON BONUS","HII","Newport News, VA, USA","2025-02-12","","","","","","","","","","direct","","**K96/X11 FOREMAN\\-MULTIPLE SHIFTS\\-$5,000 SIGN\\-ON BONUS** 
+  
+
+  
+
+ Location:
+   
+
+ Newport News, Virginia, United States
+   
+
+  
+
+ Date: Feb 11, 2025
+   
+
+  
+
+ Req ID: 40763
+   
+
+ Team: K96 Columbia Production Trades
+   
+
+ Entity: Newport News Shipbuilding
+   
+
+  
+
+ US Citizenship Required for this Position: Yes
+   
+
+  
+
+ Full\\-Time
+   
+
+ Shift: Multiple
+   
+
+ Relocation: No relocation assistance available
+   
+
+ Virtual/Telework Opportunity: No \\- Not eligible for telework
+   
+
+  
+
+ Travel Requirement: No
+   
+
+  
+
+ Clearance Required: No \\- Clearance Not Required to Start
+   
+
+  
+
+**Meet HII's Newport News Shipbuilding** 
+  
+
+ With more than 25,000 employees \\- including third\\-, fourth\\- and even fifth\\-generation shipbuilders \\- HII's Newport News Shipbuilding (NNS) division is the largest industrial employer in Virginia. We're the sole designer, builder and refueler of U.S. Navy nuclear aircraft carriers and one of two providers of U.S. Navy nuclear submarines. Our diverse and innovative team of professionals ranges from skilled trades to project managers, engineers and software developers to solution architects, technical subject matter experts, and system users. Anchored in our rich, 135\\-year history, we collaborate together at the forefront of technology, manufacturing, and integration of the most powerful and survivable naval ships in the world. Want to be part of the team? Apply today! We look forward to meeting you.
+   
+
+  
+
+****The Role****
+  
+
+  
+
+ Supervises, assigns, coordinates and evaluates semi\\-skilled and skilled trades personnel according to their skill, experience and job knowledge. Supervises and trains employees to improve quality and quantity of work performed. Recommends training to enhance skill and productivity of employees, and assists in development of training procedures. Breaks broad strategies down to practical action plans and ensures employees are trained to perform these plans. Responsible for complying with all technical aspects of the job including adherence to all drawings, procedures, etc. Responsible for manufacturing, installation, operation, testing, and process operations that have a significant financial impact on the company's performance. Supervises qualified trades staff; monitoring job and budget performance for all shifts.
+   
+
+  
+
+ Newport News Shipbuilding, a division of Huntington Ingalls Industries, is offering a $5,000 sign\\-on bonus to Foreman new hires. Job seekers who apply on qualifying requisitions are eligible for the sign\\-on bonus. The sign\\-on bonus is for all Foreman new hires, current Newport News Shipbuilding employees are eligible.
+   
+
+  
+
+**\\*\\*UPDATE\\*\\*Use of Gallup Foreman Assessment tool has been suspended, effective June 6th, 2024, with the approval of Director of TA, Legal, and EEO while the tool's benefits and impact can be evaluated** 
+  
+
+ Candidates selected to move forward in the hiring process will take and complete a 20\\-30 minute assessment. This one\\-time assessment will be applied to all Newport News Shipbuilding Foreman positions for a period of 365 days. For internal applicants, the assessment should be completed on the employee's own time.
+   
+
+  
+
+ Please click the link to review the Frequently Asked Questions \\- https://www.huntingtoningalls.com/hii\\-careers/gallupforeman/
+   
+
+  
+
+****Must Have****
+  
+
+  
+
+ BS/Apprentice OR High School and 6 years related Trade experience.
+   
+
+  
+
+**Why HII** 
+  
+
+ We build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. HII's diverse workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.
+   
+
+  
+
+ Recognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well\\-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.
+   
+
+  
+
+ Working at HII is more than a job \\- it's an opportunity to build a future. We offer comprehensive benefits including: medical, prescription drug, dental and vision plan choices, on\\-site health centers, tele\\-medicine, wellness resources, employee assistance programs, savings plan options (401K), financial education and planning tools, life insurance, tuition reimbursement, employee discounts, early childhood and post\\-secondary education scholarships, and more. Some benefits may vary depending on your specific division or work location.
+   
+
+  
+
+**Together we are working to ensure a future where everyone can be free and thrive.** 
+  
+
+  
+
+ Today's challenges are bigger than ever, and the nation needs the best of us. It's why we're focused on hiring, developing and nurturing our diversity. We believe that diversity among our workforce strengthens the organization, stimulates creativity, promotes the exchange of ideas and enriches the work lives of all our employees.
+   
+
+  
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law. U.S. Citizenship may be required for certain positions.
+   
+
+  
+
+**Do You Need Assistance?** 
+  
+
+ If you need a reasonable accommodation for any part of the employment process, please send an e\\-mail to buildyourcareer@hii\\-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case\\-by\\-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e\\-mail address.
+   
+
+  
+
+ Additionally, you may also call
+ **1\\-844\\-849\\-8463** 
+ for assistance. Press \\#2 for Newport News Shipbuilding.","","","","","","","",""
+"zr-6META_EF3hteIDPVDh5FPw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=6META_EF3hteIDPVDh5FPw","","Software Developer Mid-Level","Goldbelt","Virginia Beach, VA, USA","2025-02-12","","","","","","","","","","job_board","","Overview
+   
+
+  
+
+ Goldbelt Taku Health Services, LLC is a wholly owned subsidiary of the Alaskan Native Corporationaccelerating the delivery of healthcare and providing superior force health readiness across the Military,Federal, and Civilian landscapes. Goldbelt Taku is committed to providing transformative and comprehensive health operational capabilities to support customers across scientific, clinical, technological, and program management areas.
+   
+
+  
+
+**Summary:** 
+  
+
+ Goldbelt Taku is currently seeking an experienced Mid\\-level Software Developer to create code and assist with development and maintenance of .NET solutions within the DoD and Federal marketspace for our government client. As the Mid\\-level Software Developer, you will assist with the execution of software planning, requirements, design, development, architecture, modeling, estimation, configuration management, quality, security, and tests using software development methodologies, architectural structures, viewpoints, styles, design decisions, and frameworks across all lifecycle phases.
+   
+
+  
+
+ Responsibilities
+   
+
+  
+
+**Essential Job Functions:** 
+  
+
+
+
+
+* Assist the Senior Developer with the DevSecOps pipeline technology stack and business processes,
+* Architect and create .NET solutions that comply with DoD Zero\\-Trust and DevSecOps strategies,
+* Oversee continuous vulnerability assessments and remediations and keep leaders and management team updated on software development and technology best practices.
+* Perform analysis of software requirements.
+* Define and organize projects on an ongoing basis.
+* Design, develop, test, deploy, and maintain .NET applications and SQL databases.
+* Perform cybersecurity remediation and big fixes for the application and underlying software.
+* Ensure uninterrupted day\\-to\\-day operations.
+* Identify and handle technical risks and issues.
+* Triage support for operational issues.
+* Troubleshooting operational and development issues.
+* Support upgrades, patches, and migrations.
+* Create and update required documentation.
+* Manage code, database, script, and documentation baselines.
+* Actively collaborate regularly with teammates, management, and customers.
+* Report on project statuses and developments to senior team members.
+* Recommend and follow best practices.
+* Maintain and safeguard Common Access Card (CAC) and Government Furnished Equipment(GFE).
+* In the near\\-term (0\\-12 months), the developer will prioritize remediation and stabilization of existing applications. In the following 12\\-24 months, the developer will lead the transformation of existing applications to greater utilization of cloud\\-native services such as containers.
+* This position is 100% virtual / telework with potential for two trips to the DC area per year.
+* Active participation via Microsoft Teams is essential to success.
+
+
+ Qualifications
+   
+
+  
+
+**Necessary Skills and Knowledge:** 
+* Support the full software development lifecycle.
+* Perform analysis of software requirements.
+* Define and organize projects on an ongoing basis.
+* Design, develop, test, deploy, and maintain .NET applications and SQL databases.
+* Perform cybersecurity remediation and big fixes for the application and underlying software.
+* Ensure uninterrupted day\\-to\\-day operations.
+* Identify and handle technical risks and issues.
+* Triage support for operational issues.
+* Troubleshooting operational and development issues.
+* Support upgrades, patches, and migrations.
+* Create and update required documentation.
+* Manage code, database, script, and documentation baselines.
+* Actively collaborate regularly with teammates, management, and customers.
+* Report on project statuses and developments to senior team members.
+* Recommend and follow best practices.
+* Maintain and safeguard Common Access Card (CAC) and Government Furnished Equipment(GFE).
+* Ability to speak fluent English with strong interpersonal skills.
+* Excellent written and verbal communication skills.
+* Outstanding analytical and problem\\-solving capabilities.
+* Ability to work independently and complete projects with minimal supervision.
+* Sound understanding of coding and development processes.
+* Ability to write clean, easy to understand code.
+* Well\\-versed in technologies such as C\\#, JavaScript, and SQL databases.
+* Capability to collaborate with a group of developers.
+* Ability to adapt quickly to a multicultural environment.
+* Demonstrated knowledge and experience with the following technology stack:
+   
+
+ \\- .NET Framework version 4\\.7 or greater
+   
+
+ \\- Git
+   
+
+ \\- NPM
+   
+
+ \\- Windows Server 2019 or greater
+   
+
+ \\- Microsoft Internet Information System (IIS) 10\\.0
+   
+
+ \\- Microsoft SQL Server 2016 or greater and SQL database schema creation
+   
+
+ \\- AWS GovCloud service offerings
+* Demonstrated knowledge of the following coding technologies:
+   
+
+ \\- Asp.NET
+   
+
+ \\- C\\#, TSQL, HTML, CSS
+   
+
+ \\- Angular 4 or greater
+   
+
+ \\- Angular JavaScript
+   
+
+ \\- Bootstrap
+* Demonstrated knowledge of the following software applications and tools:
+   
+
+ \\- Microsoft Azure DevOps Server 2020 or greater
+   
+
+ \\- Microsoft Visual Studio 2019 or greater
+   
+
+ \\- Octopus Deploy or similar tools
+   
+
+ \\- Microfocus Fortify Secure Code Analyzer (SCA) / Software Security Center (SSC)
+   
+
+ \\- Sonatype
+   
+
+ \\- Portswigger Burp Suite
+* Demonstrated knowledge of the following frameworks:
+   
+
+ \\- Secure Cloud Computing Architecture (SCCA)
+   
+
+ \\- Zero\\-Trust principles
+   
+
+ \\- DevSecOps principles
+   
+
+ \\- Open Worldwide Application Security Project (OWASP) Top 10
+
+
+**Minimum Qualifications:** 
+* Must be a US Citizen.
+* Must be able to obtain and maintain DoD Tier\\-3 / National Agency Check with Law and Credit(NACLC) background investigation in accordance with DODI 5200\\.02\\-DoD Personnel Security Program (PSP).
+* Bachelor's Degree in Computer Science, Cyber Security, Information Technology, Software Engineering, Information Systems, or Computer Engineering degree from an accredited college or university.
+* Minimum 2\\+ years of demonstrated hands\\-on experience developing C\\# / .NET solutions.
+* Experience with working in an agile environment.
+* Experience with full\\-stack development.
+
+
+**Preferred Qualifications:** 
+* Current Certified Information Systems Security Professional \\- Information Systems Security Architecture Professional (CISSP\\-ISSAP) certification.
+* Microsoft Certified Systems Engineer (MCSE) certification applicable to Windows Server and/or SQL Server.
+* Experience in the following:
+   
+
+ \\- TypeScript
+   
+
+ \\- RxJS
+   
+
+ \\- SCSS or Sass
+   
+
+ \\- jQuery
+   
+
+ \\- js
+   
+
+ \\- NSwagStudio
+
+
+  
+
+**Pay and Benefits** 
+  
+
+  
+
+ The salary range for this position is $95,000 \\- $100,000 annually.
+   
+
+  
+
+ At Goldbelt, we value and reward our team's dedication and hard work. We provide a competitive base salary commensurate with your qualifications and experience. As an employee, you'll enjoy a comprehensive benefits package, including medical, dental, and vision insurance, a 401(k) plan with company matching, tax\\-deferred savings options, supplementary benefits, paid time off, and professional development opportunities.","","","","","","","",""
+"zr-wHeTMGW_K_rcldOV9j20Cg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=wHeTMGW_K_rcldOV9j20Cg","","Compliance Administrative Assistant","Green Run Homes Association","Virginia Beach, VA, USA","2025-02-12","fulltime","direct_data","hourly",17.0,17.0,"USD","","","","subs_fulfillment","","**Title: Compliance Administrative Assistant – Entry Level Position**
+  
+
+
+
+**Summary: This position is responsible to assist the compliance inspector in**
+  
+
+
+
+**Duties and Responsibilities** 
+ include the following. Other duties may be assigned.
+   
+
+  
+
+
+
+ · Learns the communities Covenants, Conditions and Restrictions and the Architectural Rules and Regulations to properly apply enforcement..
+   
+
+  
+
+
+
+ · Closes out violations that have been corrected and passes to the Compliance Manager any violation that has not complied.
+   
+
+  
+
+
+
+ · Receives and returns calls to residents to assist them in complying with compliance violations and complaints.
+   
+
+  
+
+
+
+ · Directs residents to the proper city division for complaints that are not handled by the association.
+   
+
+  
+
+
+
+ · Generates and mails various letters.
+   
+
+  
+
+
+
+ · Responsible for preparing all letters and notices generated by this position. Responsible for all filing, logging, documenting and closing of all violations.
+   
+
+  
+
+
+
+ · Interacts professionally with the members, real estate agents, builders, etc.). Respond to customer calls timely and follow up where applicable to ensure issues are resolved. Coordinate with volunteer groups as applicable (Architectural Review Committee, Due Process Hearing Panel)
+   
+
+  
+
+
+
+ · Assists with issuing and maintaining parking decals on areas that are maintained by the association.
+   
+
+  
+
+
+
+ · Assists office staff with answering phone calls and resident accounts.
+   
+
+  
+
+
+
+ · Work will include occasional Saturdays or evenings to assist with association events.
+   
+
+  
+
+
+
+ · Must have exceptional customer service skills.
+   
+
+  
+
+
+
+ · Performs other duties as need to ensure the smooth operation of the association.
+   
+
+  
+
+
+
+ ·
+ **Qualifications:**
+  
+
+
+
+ · To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+   
+
+  
+
+
+
+ · Ability to operate standard office equipment
+   
+
+  
+
+
+
+ · Ability to interact with all types of individuals
+   
+
+  
+
+
+
+ · Detail\\-oriented
+   
+
+  
+
+
+
+ · Exercise good judgment
+   
+
+  
+
+
+
+**Physical Requirements/Work Environment**
+  
+
+
+
+ 90% of the work is conducted inside. Must be able to walk, sit and stand for long periods. Fulltime position, employee is expected to work 40 hours a week.
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+**Language Ability:**
+  
+
+
+
+ Ability to read, analyze, and interpret common scientific and technical journals, financial reports, and legal documents. Ability to respond to common inquiries or complaints from customers, regulatory agencies, or members of the business community. Ability to effectively present information to management.
+   
+
+  
+
+
+
+**Math Ability:**
+  
+
+
+
+ Ability to calculate figures using addition and subtraction.
+   
+
+  
+
+
+
+**Reasoning Ability:**
+  
+
+
+
+ Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.
+   
+
+  
+
+
+
+**Computer Skills:**
+  
+
+
+
+ To perform this job successfully, an individual must have knowledge of Microsoft Office Suite, email, spreadsheet software and database software.
+   
+
+  
+
+
+
+**Education/Experience:**
+  
+
+
+
+ High school diploma or general education degree (GED); or one to two years related experience and/or training; or equivalent combination of education and experience.
+   
+
+  
+
+
+
+**Certificates and Licenses:**
+  
+
+
+
+ Valid driver's license with ability to be placed on company insurance.
+   
+
+  
+
+
+
+**Additional Information:**
+  
+
+
+
+ This job description does not list all the duties of the position, just the highlights. Additional duties may be assigned. This job description may be revised at any time.
+   
+
+  
+
+
+
+ This job description is not a contract from employment and either you or the employer may terminate employment at any time.","","","","","","","",""
+"zr-LhbxvyMlo4TfRdH3u42NDg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=LhbxvyMlo4TfRdH3u42NDg","","Test Engineer","Total Systems Technologies","Norfolk, VA, USA","2025-02-12","","","","","","","","","","organic","","**WHO ARE WE?** 
+ Total Systems Technologies Corporation (TSTC) is an award\\-winning provider of full lifecycle program, investment, and security management consulting services that enable United States civilian, defense, intelligence, and law enforcement communities to streamline, effectively manage, and defend their programs and operations.
+ 
+
+
+
+**OK, WHO ARE WE.... REALLY???** 
+ TSTC is a Woman Owned, HUBZone certified Small Business (WOW, we are different already!) comprised of individuals who want more \\- to live more, laugh more, produce more \\- be more! Built upon our Total Service \\- Total Commitment® cornerstone, TSTC takes pride in our commitment to delivering excellence. Total Service \\- Total Commitment® is our commitment to our employees, to our teams, and to our clients.
+ 
+
+  
+
+
+
+**WHAT WE'RE LOOKING FOR:** 
+ Total Systems Technologies Corporations is seeking a Test Engineer to support the Program Executive Office (PEO) Manpower, Logistics, and Business Solutions (MLB) which manages the Logistics (LOG) Information Technology (IT) portfolio. This portfolio is composed of 300\\+ afloat and ashore IT systems/applications with 150,000\\+ users across all Naval Systems Commands (SYSCOMs) and Naval Operational Forces (NOF) to include ships, carriers, submarines, USN/USMC aviation squadrons, and Naval Expeditionary Forces. The United States Coast Guard (USCG) is a joint user of LOG IT capabilities and is part of the program requirements. LOG IT enables essential business operations for various capability groups.
+ 
+ WHAT YOU'LL DO:
+ * Working with business analysts to provide identification and insight into Supply policies and processes.
+* Decomposing Naval Supply Requirements.
+* Providing in\\-depth knowledge of, and ability to troubleshoot issues within, complex information systems used to implement supply management systems utilized by the DON to manage Operational Supply activities.
+* Providing in\\-depth understanding of interface requirements and relationships with other Naval Supply automated information systems.
+* Providing in\\-depth knowledge of associated naval supply readiness as outline in the NAVSUP P485\\.
+* Author and maintain software test cases and procedures in accordance with organizational policies and procedures.
+* Conduct test design activities to identify and create test cases(positive and negative) traceable to system requirements.
+* Conduct static and dynamic testing at all software testing levels to include integration, functional, system, and acceptance.
+* Accurately record and report defects found during test events and trace to resolution.
+* Work closely with stakeholders, sponsors, and customers to determine acceptance criteria and coordinate certification test events with end user
+
+
+ BASIC QUALIFICATIONS:
+ * Bachelor's degree in Computer Science.
+* Must be able to qualify as a DoD Cybersecurity Workforce member and maintain a SECRET clearance.
+* Knowledge of testing business application and enterprise information systems.
+* Possess in\\-depth knowledge of Naval Supply policies and procedures.
+* Possess in\\-depth knowledge of Relational Supply, Barcode Supply and Integrated Barcode Supply. This knowledge must include the ability to identify and troubleshoot application and data driven anomalies causing failures.
+* Knowledge of naval Financial and Quality controls used by the Operational Forces.
+* Ability to capture test data, analyze test results and clearly communicate (orally and written) findings and/or deficiencies.
+* Ability to coordinate and Collaborate with members of a software development or systems engineering team to accomplish project team goals and objectives.
+
+
+ SECURITY CLEARANCE AND WHERE YOU'LL WORK
+ * MUST have Current US DoD Interim OR Secret level clearance.
+* Work is currently remote with intermittent meetings on site. Must live within commutable distance to tidewater area.
+
+
+
+  
+
+
+ WHY TSTC?
+ * Competitive salary
+* Personal and team merit bonuses
+* 401(k) with 3% gross salary matching regardless of your personal contribution amount
+* Multiple Medical, Dental and Vision plans to choose from
+* Health Savings Accounts (HSA) for High Deductible Health Plans with TSTC contribution
+* Health Care and Dependent care Flexible savings accounts (FSA)
+* Paid Time Off and Flexible Holiday schedules
+* Flexible work schedules and opportunity to telework (client permitting)
+* 100% TSTC paid Life and Disability insurance; Short\\-term and Long\\-term disability plans
+* Pre\\-Tax Commuter benefits
+* Educational Assistance
+* Completely confidential Employee Assistance Program (EAP)
+* Voluntary benefits to include identity theft, home and auto insurance, and a company favorite – Pet Insurance
+* And more ……
+
+
+
+ All TSTC employees operate according to the terms of the specific contract under which they work. They are responsible for fulfilling the duties of the specific job and are accountable for complying with the terms and conditions of their employment, the TSTC Code of Conduct, and with applicable federal, state and local laws.
+ 
+
+  
+
+
+
+ TSTC is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment due to race, color, national origin, ancestry, nationality, citizenship, religion, creed, age, sex, marital or familial status, sexual orientation, disability, veteran status and liability for service in the U.S. Armed Forces or any other characteristic protected by applicable law.
+ 
+
+  
+
+
+
+ If you need assistance or an accommodation due to a disability, please email us at HR@totalsystech.com or call us at 276\\-496\\-7575
+ 
+  
+
+  
+
+  
+
+  
+
+
+ PI261971328","","","","","","","",""
+"zr-ROwytP9Z88051d0-yywUbQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=ROwytP9Z88051d0-yywUbQ","","Cost Analyst","National Steel and Shipbuilding Com","Norfolk, VA, USA","2025-02-12","fulltime","direct_data","yearly",56000.0,56000.0,"USD","","","","organic","","Cost Analyst
+ 
+ Apply now
+ 
+
+
+**Date:** 
+ Sep 15, 2024
+ 
+
+
+
+**Location:** 
+ Norfolk, VA, US, 23523
+ 
+
+
+
+**Company:** 
+ National Steel and Shipbuilding Com
+ 
+
+
+
+
+ General Dynamics NASSCO is a proud member of the General Dynamics Marine Systems business unit.In addition to ship construction, our capabilities include advanced ship repair, conversion, and maintenance for both commercial and national defense assets. We encourage you to learn moreabout our open positions and how you can become part of the important and exciting work we do here at NASSCO.Come join our team!
+ 
+
+
+
+ We currently have an
+ *exciting opportunity* 
+ in our Contracts department. This position specifically islocated in Norfolk, Virginia. We are looking for a Cost Analyst, the hours are 7am \\- 4pm.
+ 
+
+
+
+**Shift:** 
+ ALL
+ 
+
+
+
+**ESSENTIAL FUNCTIONS AND PURPOSE (Job Description)** 
+
+
+
+
+
+
+
+* Costs Analyst must be able to create \\& maintain databases for the purpose of overseeing the financial health of ongoing ship repair contracts. To do so, the analyst must be fluent in Excel, and trainable in multiple Data Base Management Systems.
+
+
+
+
+
+
+
+**POSITION DEMANDS (Education/Training)** 
+
+
+
+
+
+
+
+* BA/BS in Business Administration or a related academic field of study plus 2 years directly related experience or AA/AS plus 4 years directly related experience or 5\\-8 years
+
+
+
+ directly related experience.
+ 
+
+
+* Basic knowledge of contract requirements including Contract Data Requirement List, (CDRL), Federal Acquisition Regulations (FAR) and Defense FAR Supplement (DFARS) and Cost Accounting Standards (CAS).
+
+
+
+
+
+
+
+**POSITION DEMANDS (REQUIRED EXPERIENCE)** 
+
+
+
+
+
+
+
+
+**In depth knowledge of:** 
+
+
+
+
+
+
+
+* Strong math / accounting skills.
+* While a degree in accounting is not required, a familiarity with accounting practices and guidelines is required.
+
+
+
+
+
+
+
+**PHYSICAL REQUIREMENTS** 
+
+
+
+
+ X
+ 
+
+
+
+ Carrying
+ 
+
+
+
+
+
+
+
+ Lifting
+ 
+
+
+
+ X
+ 
+
+
+
+ Walking
+ 
+
+
+
+ X
+ 
+
+
+
+ Climbing
+ 
+
+
+
+
+
+
+
+ Pulling
+ 
+
+
+
+ X
+ 
+
+
+
+ Must be able to go on vessels
+ 
+
+
+
+
+
+
+
+ Crawling
+ 
+
+
+
+ X
+ 
+
+
+
+ Sitting
+ 
+
+
+
+ X
+ 
+
+
+
+ Visual Requirements:
+ 
+
+
+
+ X
+ 
+
+
+
+ Crouching
+ 
+
+
+
+ X
+ 
+
+
+
+ Standing
+ 
+
+
+
+ X
+ 
+
+
+
+ Hearing
+ 
+
+
+
+
+
+
+
+ Stooping
+ 
+
+
+
+ Other:
+ 
+
+
+
+ X
+ 
+
+
+
+ Kneeling
+ 
+
+
+
+ X
+ 
+
+
+
+ Talking
+ 
+
+
+
+
+
+
+
+
+**WORKING RELATIONSHIPS** 
+
+
+
+* The position of Cost Analyst reports to the Contract Manager and Senior Cost Analysts.
+* The position requires a close working relationship with Program Managers, Planners, Production Managers, Estimators, and NSSA Personnel.
+* Have the ability to work independently with minimal supervision.
+
+
+
+
+
+
+
+**PRINCIPAL RESPONSIBILITIES** 
+
+
+
+* Create database files in appropriate software application and ensure accuracy.
+* Maintain database files by:
+	+ Appending appropriate change order budgets to database
+	+ Update actual costs with weekly labor and material downloads
+	+ Update schedule and progress information
+* Create weekly in\\-house Cost Schedule Status Reports, (CSSR), for Program Engineers.
+* Work with Program Superintendents to develop an analysis of cost variances outside the contractual thresholds.
+* Prepare cost and funding data to support the Programs and Production Departments, for internal customers, and teaming partners.
+* Assist Advanced Planning Department in submission of Reports.
+* Other responsibilities and duties as assigned.
+
+
+
+**ACCOUNTABILITY** 
+
+
+
+* Accountable for the quality of financial reports, providing accurate Estimate at Completions (EACs), and alerting Contract Manager, Program and Project Managers of cost overruns or cost underruns in sufficient time to obtain additional funding or deobligation.
+
+
+
+**STANDARD EQUIPMENT ISSUE** 
+
+
+
+* Desktop Computer, CAC or Smart Card Reader.
+
+
+
+**UNIQUE/ADDITIONAL REQUIREMENTS** 
+
+
+
+* Regular, reliable attendance on\\-site is an essential function of this job.
+* Work may require assignment to offsite locations.
+* Work will mostly be performed in an air conditioned office, but the incumbent must be able to commute about the yard and on the ships undergoing repair.
+* Must be willing to travel and have reliable transportation.
+
+
+* Must be a U.S. citizen and qualify for a Common Access Card (CAC) and a security clearance.
+* Regularly required to sit, use hands and fingers, handle or feel objects or controls, and to talk and hear.
+* Must have good eye/hand coordination.
+* The noise level in the work environment is usually moderate.
+* Must be familiar with working in a naval\\-ship\\-work\\-environment and be able to go aboard marine vessels and the dry\\-dock, climb ladders, work in tanks and confined spaces, and wear personal protective equipment.
+* These areas can be dirty, dusty, hot or cold, and noisy.
+
+
+
+ General Dynamics NASSCO is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other basis protected by local, state, or federal law.
+ 
+
+
+
+ To learn more about applicant rights under federal law, click here:
+ 
+
+
+
+ EEO is the Law Poster
+ 
+
+
+
+ EEO is the Law Supplement
+ 
+
+
+
+ Pay Transparency
+ 
+
+
+
+ If you have a disability that impacts your ability to complete the job application process and would like to request an accommodation, please contact our Human Resources Department.
+ 
+
+
+
+ For Norfolk, call (757\\) 543\\-6801\\. This contact information is for accommodation requests only, not to inquire about the status of applications
+ 
+
+
+
+  
+
+**Nearest Major Market:** 
+ Hampton Roads
+   
+
+**Job Segment:** 
+ Accounting, Security Clearance, QA, Finance, Government, Quality
+ 
+
+
+
+
+
+ Apply now
+ 
+
+
+
+
+
+
+ By applying, you consent to your information being transmitted by ZipRecruiter to the Employer, as data controller, through the Employer’s data processor SonicJobs.
+   
+
+ See National Steel and Shipbuilding Com Privacy Policy at https://nassco.com/privacy\\-policy/ and SonicJobs Privacy Policy at https://www.sonicjobs.com/us/privacy\\-policy and Terms of Use at https://www.sonicjobs.com/us/terms\\-conditions","","","","","","","",""
+"zr-IV-bBR9W5O_hC-L1zR-mCg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=IV-bBR9W5O_hC-L1zR-mCg","","Qlik Technical Trainer","Grey Matters Defense Solutions","Norfolk, VA, USA","2025-02-12","fulltime","","","","","","","","","organic","jenny.rosenberg@greymattersdefense.com","**Position:** 
+ Qlik Technical Trainer
+   
+
+**Location: Norfolk, VA** 
+  
+
+**Clearance:** 
+ TS/SCI (required)
+   
+
+  
+
+ Grey Matters Defense Solutions stands at the forefront of developing advanced software solutions tailored to support the mission of the U.S. warfighter. With a commitment to excellence, we foster a culture grounded in a growth mindset, empowering our team to drive progress through bold actions, integrity, collaboration, and innovation. Our employees are dedicated to these core values, and together, we create impactful, mission\\-critical solutions that redefine the cutting\\-edge of defense technology. Join us at Grey Matters Defense Solutions, where your work has purpose, and your contributions fuel the future of national security.
+   
+
+  
+
+ Grey Matters Defense Solutions is seeking a talented and dedicated
+ **Qlik Technical Trainer** 
+  
+
+  
+
+**About the job:** 
+  
+
+ We are looking for a Qlik Technical Trainer. You will be responsible for designing, developing, and delivering comprehensive training programs on the Qlik data analytics platform, equipping individuals with the skills to effectively utilize Qlik Sense and other Qlik tools for data visualization, analysis, and reporting, covering foundational concepts through advanced functionalities, while tailoring the curriculum to different learner levels and business needs within an organization; often including hands\\-on exercises, case studies, and assessments to ensure practical application and competency development. 
+   
+
+  
+
+**Key Responsibilities:** 
+* **Curriculum Development:**
+
+
+ Create structured training materials, including presentations, courseware, and practice exercises, covering all aspects of Qlik functionality, from data loading and transformation to advanced visualizations and dashboard design. 
+ * **Technical Expertise:**
+
+
+ Possess in\\-depth knowledge of Qlik Sense interface, data modeling, data load script, expressions, visualizations, security settings, and administration functions. 
+ * **Delivery of Training Sessions:**
+
+
+ Lead live, instructor\\-led training sessions, both in\\-person and online, effectively explaining complex concepts, demonstrating features, and facilitating interactive learning experiences. 
+ * **Adapting to Audience Needs:**
+
+
+ Tailor training content and delivery style to cater to diverse learner levels, from beginner to advanced users, considering their specific business roles and data analysis requirements. 
+ * **Hands\\-on Exercises and Assessments:**
+
+
+ Design practical, real\\-world scenarios and exercises to enable participants to apply learned skills in a hands\\-on environment, incorporating assessments to gauge progress and comprehension. 
+ * **Staying Updated:**
+
+
+ Continuously monitor new Qlik features, updates, and best practices to ensure training content remains relevant and aligned with the latest technology advancements. 
+ * **Collaboration with Stakeholders:**
+
+
+ Work closely with internal teams in an Agile environment, implementation consultants, and subject matter experts, to understand client needs and incorporate appropriate training elements. 
+   
+
+  
+
+**Preferred skills:** 
+* **Technical Skills:**
+
+
+ Proficient in Qlik Sense, or another Business Intelligence tool (Tableau, Power BI, MicroStrategy, etc.), strong understanding of data analysis concepts, data manipulation techniques, SQL knowledge, and familiarity with various data sources. 
+ * **Training Delivery Skills:**
+
+
+ Excellent presentation and communication skills, ability to engage learners, facilitate discussions, and answer technical questions effectively. 
+ * **Instructional Design:**
+
+
+ Experience in developing training materials, creating engaging course structure, and incorporating effective learning methodologies. 
+ * **Problem\\-solving:**
+
+
+ Capability to diagnose and troubleshoot learners' technical issues during training sessions, providing clear explanations and solutions. 
+   
+
+  
+
+**About you:** 
+* **Security Clearance:**
+
+
+ Must have a Secret Security Clearance 
+ * **Travel:**
+
+
+ Travel required 25% of the time.
+   
+
+  
+
+ Join our team of exceptional developers, architects, and data scientists!
+   
+
+  
+
+*All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.* 
+  
+
+  
+
+***Salary Range: $115,000 \\- $150,000***
+  
+
+  
+
+ Grey Matters Defense Solutions offer a comprehensive benefits package including
+ **medical, dental, vision, life insurance, short\\-term and long\\-term disability.** 
+  
+
+  
+
+**Additional Benefits:** 
+* **SEP IRA 25% of base salary**
+* **PTO Six weeks**
+* **IBA 12\\.5%**
+* Employee assistance program
+* Employee discount
+* Flexible spending account
+* Health savings account
+* Referral program
+
+
+  
+
+ Grey Matters Defense Solutions’ most valuable assets are the more than 60 employees, consisting of data scientists, custom software developers, and analysts/subject matter experts, with senior\\-level personnel formerly from DIA, NRO, NSA and the US Armed Forces. Our employees have a depth of analytical knowledge which provides them with deep understanding of managing and delivering products within government systems. Grey Matters Defense Solutions provides transformational leadership building award\\-winning teams and products.
+   
+
+  
+
+**Join our team of exceptional developers, architects and data scientists!** 
+  
+
+*Visit us at www.greymattersdefense.com* 
+  
+
+*https://www.linkedin.com/company/grey\\-matters\\-defense\\-solutions/* 
+  
+
+ “Know Your Rights: Workplace Discrimination is Illegal”
+   
+
+ Questions contact: jenny.rosenberg@greymattersdefense.com
+   
+
+  
+ 
+ Powered by JazzHR
+ 
+
+
+
+ NtWkjCPqLk","","","","","","","",""
+"zr-CAousMF_jGHCtc35C94yHQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=CAousMF_jGHCtc35C94yHQ","","NCIS Field Computer Specialist | Active Top Secret clearance","General Dynamics","Norfolk, VA, USA","2025-02-12","","","","","","","","","","organic","","Transform technology into opportunity as a Field Computer Specialist with GDIT. A career in enterprise IT means connecting and enhancing the systems that matter most. At GDIT you’ll be at the forefront of innovation and play a meaningful part in improving how agencies operate.
+ 
+
+
+
+ At GDIT, people are our differentiator. Our work depends on a Field Computer Specialist joining our NCIS team onsite in Norfolk, VA. The Naval Criminal Investigative Service (NCIS) is an organization of over 2,200 personnel of which 700 serve at HQ and the remaining staff serve at offices worldwide.
+ 
+
+
+
+ NCIS is the Department of Navy (DON) component with primary responsibility for criminal investigation, law enforcement (LE), counter\\-terrorism (CT), counterintelligence (CI), and cyber matters. NCIS not only has primary responsibility for all criminal investigative, CI, CT, and cyber matters within the DON, but it also has exclusive investigative jurisdiction in non\\-combat matters involving actual, potential, or suspected criminal, terrorism, sabotage, espionage, and subversive activities. HOW OUR FIELD COMPUTER SPECIALIST WILL MAKE AN IMPACT:Provides technical advice and guidance on installation, adaptation, configuration, and/or enhancement of company technical products, programs, and systems.
+ 
+
+
+
+ On\\-site engineering technicians who utilize analytical and critical thinking to troubleshoot issues and problems with equipment or systems. Applies theories and write reports to outline issues and solutions.Provide IT support throughout area of responsibilityUtilize ServiceNow for change management, ticketing system and asset inventoryCoordinate troubleshooting efforts for resolution of network outagesPerform Trusted Agent functions for SIPR Token programAssist users in the region with VTC system deployment and maintenanceSupport various admin duties, ex. Audits, inspections, create SOP, various data calls, training requirements, etc.Support NMCI by gathering requirements, ordering equipment, and coordinating with the Contract Technical Representative (CTR).Maintain accurate inventory of IT assets, configure equipment out\\-of\\-the\\-box, and support troubleshootingHelps diagnose and resolve computer\\-related problems as requested by employees and contractors, either in person or by using remote control softwareResponds to telephone calls and email requests for technical supportAnalyzes, troubleshoots, and resolves problems with business applications and hardware on all enclavesPerforms general maintenance tasks and resolves fewer complex problems immediately, while more complex issues are communicated to a higher level of supportAccurately documents all work in appropriate problem\\-tracking softwareBrief Senior Leadership on all IT issues affecting the AORAccurately documents all work, inventory, and system changes in ServiceNowTravel (primarily local – government vehicle provided) is required for this position.
+ 
+
+
+
+ Locations: Naval Station \\- Norfolk, VANaval Air Station Oceana \\- Virginia Beach, VAJoint Expeditionary Base \\- Little Creek Virginia Beach, VANorfolk Naval Shipyard \\- Portsmouth, VAPortsmouth Naval HospitalNaval Weapons Station \\- Yorktown, VANCDOC \\- Suffolk, VAVirginia Beach Town CenterChesapeake, VARichmond, VA (rare)Roanoke, VA (rare) WHAT YOU’LL NEED TO SUCCEED:Security Clearance Level: Active Top\\-Secret clearance.Required Experience: 5\\+ years of experience with network administration and user support; Experience in a military environment is a plusExperience with installation, operation, configuration, and maintenance of multiple types of business and end user\\-specific application software in a large government installationFamiliarity with a variety of technical support applications, concepts, practices and proceduresRequired Certifications: Security\\+ CE and GSEC, MCSA, SSCP or CCNA\\-Security.Education: AAS Degree or equivalent work experience.Work Location: Onsite in Norfolk, VA.US Citizenship requiredGDIT IS YOUR PLACE:401K with company matchComprehensive health and wellness packagesInternal mobility team dedicated to helping you own your careerProfessional growth opportunities including paid education and certificationsCutting\\-edge technology you can learn fromRest and recharge with paid vacation and holidays \\#NCIScareers","","","","","","","",""
+"zr-p8tVTRy-mQDsEcKDs3iy_A","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=p8tVTRy-mQDsEcKDs3iy_A","","Information System Security Engineer","631 Booz Allen Hamilton_United States","Suffolk, VA, USA","2025-02-12","","direct_data","yearly",193000.0,193000.0,"USD","","","","organic","","Information System Security Engineer
+ 
+**The Opportunity:** 
+
+
+
+
+ You know that the user is the last frontier for cyber security. It's where the perimeter is drawn, and securing identities is pivotal in the fight against cybercriminals. As an IAM specialist, you have the skills and experience to keep hackers from taking data and breaking processes. We're looking for someone like you to help our clients meet their missions without disruption.
+ 
+
+
+
+
+
+
+
+ As an Information Assurance Specialist at Booz Allen, you'll play a critical role in the world of identity and access management and zero trust. In this role, you'll support large\\-scale IAM projects for our government clients. You'll interface with stakeholders and engineering teams to delve into the details and dependencies of critical processes and users' roles within them.
+ 
+
+
+
+
+
+
+
+ You'll analyze the identity life cycle, articulating access requirements and defining enterprise identity records. You'll use your experience in IAM to design, deploy, and support systems that verify appropriate user privileges and manage credentials for accessing our clients' most valuable assets. From single sign\\-on to privileged access systems, you'll have the chance to implement enterprise\\-class solutions and stop adversaries in their tracks.
+ 
+
+
+
+
+
+
+
+ Apply today to help us as we keep the warfighter safe and support national security.
+ 
+
+
+
+
+
+
+
+ Join us. The world can't wait.
+ 
+
+
+
+
+
+
+
+**You Have:** 
+
+
+
+* 6\\+ years of experience leading and implementing the Assessment and Authorization process under Risk Management Framework for new and existing information systems
+* 3\\+ years of experience reviewing assessment reports and assisting projects in identifying security risks, including technical and non\\-technical, and developing effective mitigation strategies, including Plan of Action and Milestones
+* Knowledge of supporting the development or modification of System Security Plans, security requirements, and supporting documentation for the Assessment and Authorization process
+* Ability to ensure all products and administrative documentation are completed and maintained, including for continuity and historical reference
+* Ability to design, develop,and implement network security measures that provide confidentiality, integrity, availability, authentication, and non\\-repudiation
+* TS/SCI clearance
+* Bachelor's degree 8\\+ years of experience in engineering or 12\\+ years of experience in engineering lieu of a degree
+* IAT Level 3 or IAM Level 2 Certification
+
+
+
+
+
+
+
+**Nice If You Have:** 
+
+
+
+* Experience with identifying information protection needs for an IS and Network environment
+* Ability to support engineering tasks
+* Bachelor's degree in Computer Science or Cybersecurity
+* Certified Information Systems Security Professional (CISSP) Certification
+
+
+
+
+
+
+
+**Clearance:** 
+  
+
+ Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.
+ 
+
+
+
+
+
+
+
+**Compensation** 
+
+
+
+
+ At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well\\-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work\\-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full\\-time and part\\-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+ 
+
+
+
+
+
+
+ Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract\\-specific affordability and organizational requirements. The projected compensation range for this position is $84,600\\.00 to $193,000\\.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.
+ 
+
+
+
+
+**Identity Statement** 
+
+
+
+
+ As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+ 
+
+
+
+
+
+
+
+**Work Model** 
+  
+
+ Our people\\-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+ 
+
+
+* If this position is listed as remote or hybrid, you'll periodically work from a Booz Allen or client site facility.
+* If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role.
+
+
+
+
+
+
+
+**Commitment to Non\\-Discrimination** 
+
+
+
+
+ All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.","","","","","","","",""
+"zr-Axw26Qo52L2R0O4sDLa2Cg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=Axw26Qo52L2R0O4sDLa2Cg","","Identity and Access Management Manager (Manager II Technology)","The Elevance Health Companies, Inc.","Norfolk, VA, USA","2025-02-12","","","","","","","","","","organic","","**Anticipated End Date:** 
+
+
+
+ 2025\\-03\\-14
+ 
+
+
+
+
+**Position Title:** 
+
+
+
+ Identity and Access Management Manager (Manager II Technology)
+ 
+
+
+
+
+**:** 
+
+
+
+
+**Identity and Access Management Manager (Manager II Technology)** 
+
+
+
+
+
+
+
+
+**Location:** 
+ This position will work a hybrid model (remote and in office 1 \\- 2 days per week). Ideal candidates will live or be willing to relocate to within 50 miles of our Pulse Point locations in Atlanta, GA, Mason, OH, Indianapolis, IN, Grand Prairie, TX, St. Louis, MO, Wallingford, CT, Wilmington, DE or Norfolk, VA.
+ 
+
+
+
+
+
+
+
+ The
+ **Identity and Access Management Manager (Manager II Technology)** 
+ is responsible for maintaining Information Technology strategies by researching and implementing technological strategic solutions and will work closely with Information Technology, security and business teams to manage and streamline the certification lifecycle and ensure the streamlined operation of the IT department. This role will also lead the Identity and Access Management (IAM) certification processes by ensuring that all user access and permissions are accurately reviewed and certified in compliance with organizational policies and industry regulations.
+ 
+
+
+
+
+
+
+
+**How you will make an impact:** 
+
+
+
+* Develops and manages the Identity and Access Management certification program, ensuring timely and thorough reviews of user access and permissions.
+* Coordinates with stakeholders to schedule and conduct certification campaigns across various platforms and applications.
+* Analyzes certification results, identifying and addressing discrepancies or potential risks in user access.
+* Collaborates with Information Technology and security teams to implement automated processes for access review and certification.
+* Ensures compliance with regulatory requirements and internal policies through regular audits and reporting.
+* Provides training and guidance to business units on IAM certification processes and best practices.
+* Reviews and improves certification methodologies, incorporating industry best practices and emerging technologies.
+* Leads a team of Identity and Access Management certification analysts, fostering a collaborative and high\\-performance environment.
+* Oversees information systems function for a site, system, or special initiatives.
+* Manages at least a single application (or the equivalent capital and/or level of responsibility and complexity).
+* Evaluates all directives, change orders, and projects as to their impact on tactical plans, budgets, and contract compliance.
+* Establishes and maintains collaborative relationships with key business partners. Hires, trains, coaches, counsels, and evaluates performance of direct reports.
+
+
+
+
+
+
+
+**Minimum Requirements:** 
+
+
+
+
+ Requires an BA/BS degree in Information Technology, Computer Science or related field of study and a minimum of 5 years of experience leading project teams, application software development, maintenance or implementation and support, including 3 years of management or leadership experience; or any combination of education and experience, which would provide an equivalent background.
+ 
+
+
+
+
+
+
+
+**Preferred Skills, Capabilities and Experiences:** 
+
+
+
+* Extensive experience in Identity and Access Management and user access management, with a focus on certification processes strongly preferred.
+* Strong understanding of access control principles, identity governance, and regulatory compliance strongly preferred.
+* Experience with Identity and Access Management tools and platforms, as well as automated certification solutions strongly preferred.
+* Excellent analytical skills with the ability to interpret and act on complex data sets strongly preferred.
+* Knowledge of security best practices and compliance regulations (e.g., GDPR, HIPAA, HI\\-Trust)preferred.
+* Experience with system administration and user account managementpreferred.
+* Excellent communication and collaboration skills to work with diverse stakeholderspreferred.
+* Analytical and problem\\-solving skills to identify and address potential security riskspreferred.
+* Relevant certifications such as CISM, CISA, or equivalent advantageous preferred.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Job Level:** 
+
+
+
+ Manager
+ 
+
+
+
+
+**Workshift:** 
+
+
+
+ 1st Shift (United States of America)
+ 
+
+
+
+
+**Job Family:** 
+
+
+
+ IFT \\> IT Tech Strategy
+ 
+
+
+
+
+ Please be advised that Elevance Health only accepts resumes for compensation from agencies that have a signed agreement with Elevance Health. Any unsolicited resumes, including those submitted to hiring managers, are deemed to be the property of Elevance Health.
+ 
+
+
+
+
+
+
+
+**Who We Are** 
+
+
+
+
+ Elevance Health is a health company dedicated to improving lives and communities \\- and making healthcare simpler. We are a Fortune 25 company with a longstanding history in the healthcare industry, looking for leaders at all levels of the organization who are passionate about making an impact on our members and the communities we serve.
+ 
+
+
+
+
+
+
+
+**How We Work** 
+
+
+
+
+ At Elevance Health, we are creating a culture that is designed to advance our strategy but will also lead to personal and professional growth for our associates. Our values and behaviors are the root of our culture. They are how we achieve our strategy, power our business outcomes and drive our shared success \\- for our consumers, our associates, our communities and our business.
+ 
+
+
+
+
+
+
+
+ We offer a range of market\\-competitive total rewards that include merit increases, paid holidays, Paid Time Off, and incentive bonus programs (unless covered by a collective bargaining agreement), medical, dental, vision, short and long term disability benefits, 401(k) \\+match, stock purchase plan, life insurance, wellness programs and financial education resources, to name a few.
+ 
+
+
+
+
+
+
+
+ Elevance Health operates in a Hybrid Workforce Strategy. Unless specified as primarily virtual by the hiring manager, associates are required to work at an Elevance Health location at least once per week, and potentially several times per week. Specific requirements and expectations for time onsite will be discussed as part of the hiring process. Candidates must reside within 50 miles or 1\\-hour commute each way of a relevant Elevance Health location.
+ 
+
+
+
+
+
+
+
+ The health of our associates and communities is a top priority for Elevance Health. We require all new candidates in certain patient/member\\-facing roles to become vaccinated against COVID\\-19 and Influenza. If you are not vaccinated, your offer will be rescinded unless you provide an acceptable explanation. Elevance Health will also follow all relevant federal, state and local laws.
+ 
+
+
+
+
+
+
+
+ Elevance Health is an Equal Employment Opportunity employer, and all qualified applicants will receive consideration for employment without regard to age, citizenship status, color, creed, disability, ethnicity, genetic information, gender (including gender identity and gender expression), marital status, national origin, race, religion, sex, sexual orientation, veteran status or any other status or condition protected by applicable federal, state, or local laws. Applicants who require accommodation to participate in the job application process may contact elevancehealthjobssupport@elevancehealth.com for assistance. Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws, including, but not limited to, the Los Angeles County Fair Chance Ordinance and the California Fair Chance Act.","","","","","","","",""
+"zr-dGuvQYXo4cjzb-aJEezV0A","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=dGuvQYXo4cjzb-aJEezV0A","","Wind Tunnel Support - Digital Twin Control System Development Intern (Summer 2025)","Analytical Mechanics Associates, Inc.","Hampton, VA, USA","2025-02-12","","","","","","","","","","organic","","**:** 
+
+
+
+
+
+
+
+
+ Position Summary:
+ 
+
+
+
+ Digital twin capability development for wind tunnel controls and training environment.
+ 
+
+
+
+
+
+
+
+ Description:
+ 
+
+
+
+ Analytical Mechanics Associates (AMA) is seeking an intern to support lead a project, with facility engineering oversite, to build and integrate a pseudo\\-physical environment of a simulated high\\-speed wind tunnel facility interfacing with a digital twin of facility controls. This digital twin control system will serve as a surrogate for operational training and troubleshooting of the programmable logic controller (PLC) interface. It will also provide the opportunity to evaluate changes to the facility controls without the need to energize the various electrical, fluid, and pressure systems; thus, providing a safe approach for assessing and validating the programming logic.
+ 
+
+
+
+
+
+
+
+ This assignment is scheduled to start on June 2, 2025 and last for 10 weeks for a total of 400 labor hours
+ 
+
+
+
+
+
+
+
+ The digital twin is a hybrid between ideal, logic\\-based behavior and model simulation of the physical environment, capturing accurate fluid flow fields, pressure drops and flow rates. MATLAB Simscape has been identified as a capable modeling environment, and the Simscape Fluids package will serve as a key component.
+ 
+
+
+
+
+
+
+
+ Requirements:
+ 
+
+
+* Relevant engineering or mathematics background in PLC development at the junior or senior level. (Graduate students are also eligible to apply).
+* Authorization to work in the United States
+
+
+
+ Familiarity with the following software will facilitate software development:
+ 
+
+
+* MATLAB
+* Simulink
+* Simscape
+* Simscape Fluids
+* Allen Bradley programmable logic controllers
+* ControlLogix Simulation Interface
+
+
+
+
+
+
+
+ Analytical Mechanics Associates (AMA) is proud of our customer relationships, our diverse and dynamic work environment, and our employees' career satisfaction. AMA is a small business with a wide reach; headquartered in Hampton, VA, AMA has operations in Greenbelt, MD; Huntsville, AL; Dallas and Houston, TX; Denver, CO; Mountain View, CA; and Edwards Air Force Base, CA. With over 60 years of experience, AMA specializes in aerospace engineering, science, analytics, information technology, and visualization solutions. AMA combines the best of engineering, science, and mathematics capabilities with the latest in information technologies, visualization, and multimedia to build creative solutions. We offer competitive salaries and a substantial benefits package, including but not limited to paid personal and federally recognized holiday leave, salary deferrals into a 401(k)\\-matching plan with immediate vesting, tuition reimbursement, short/long term disability plans, and a variety of medical, dental, and vision insurance options.
+   
+
+  
+
+ AMA is committed to the professional growth of every employee, understanding that the successes of our employees drive our success. We provide a work environment that is engaging, collaborative, and supportive. To learn more about our company, please visit our website at www.ama\\-inc.com/careers and follow us on Facebook and LinkedIn.
+ 
+
+
+
+
+
+
+
+ AMA is an Affirmative Action/Equal Opportunity Employer and does not discriminate against any applicant for employment or employee because of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other characteristic prohibited under federal, state, or local laws.","","","","","","","",""
+"zr-zgUnne3iq1__6iQMYqpUtg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=zgUnne3iq1__6iQMYqpUtg","","System Administrator","ITA International","Newport News, VA, USA","2025-02-12","","","","","","","","","","organic","","Overview
+ 
+ At ITA International, we're a tech\\-enabled professional services company. Headquartered in Newport News, Virginia, we leverage subject matter expertise, data analytics and technology to challenge boundaries and transform possibilities. 
+ 
+
+
+
+  
+ 
+
+
+
+ With a global presence and a passionate team of over 300 ITAers, we're driven by mission success for our customers, ""In The Arena."" Our expertise spans Operations, Training, Engineering, Nanotechnology, Statistics, Machine Learning and Software Engineering \\- enabling data and tech\\-enabled solutions that deliver real value. 
+ 
+
+
+
+  
+ 
+
+
+
+ Join our impactful journey at ITA International. As Theodore Roosevelt said, ""The credit belongs to the man who is actually in the arena."" We're here, standing beside our customers, ready to serve and succeed. 
+ 
+
+
+
+  
+ 
+
+
+
+ ITA is seeking a System Administrator to join the team at our Headquarters Office in Newport News, VA.
+ 
+
+
+ Responsibilities
+ 
+ We are looking for an experienced System Administrator to join our team, focusing on maintaining and optimizing ITA enterprise systems. In this role, you will manage our Office365 environment, support developers with deploying virtual systems in the Azure cloud and offer end\\-user support to both local and remote staff.  Additionally, you will work closely with the Director of Technology Operations to build and maintain the secure infrastructure, processes, and procedures necessary for a growing technology enabled professional services company.
+ 
+
+
+
+  
+ 
+
+
+
+ Key responsibilities include but are not limited to:
+ 
+
+
+* Configure, maintain, and upgrade network equipment hardware \\& software.
+* Implement, troubleshoot, diagnose, validate, and resolve hardware, software, firmware, and network problems for Windows PCs and Apple computers and document remediation steps.
+* Administer Azure Entra ID, Teams, Power Platform, Exchange and SharePoint configurations and user accounts.
+* Provide enterprise systems configuration and maintenance including Azure virtual servers and software systems.
+* Administer the policies in Microsoft Endpoint Manager, Azure Entra ID and Sophos Central to ensure the proper maintenance of security standards on ITA PC and Apple devices.
+* Develop automated solutions for Azure and Office365 administrative challenges using PowerShell.
+* Support the work of the development teams through proper creation and administration of Azure virtual resources and the administration of the Power Platforms.
+* Support the Director of Technology Operations in providing systems security management, technical analysis, and documentation support.
+* Support the Director of Technology Operations in translating business needs into viable technology solutions that meet the needs of internal customers.
+* Provide support for the organization's security strategies.
+
+
+ Qualifications
+ 
+ Required:
+ 
+
+
+* 5 years of relevant technology experience
+* 2 years of experience in installing, configuring, and troubleshooting Windows OS and hardware.
+* 1 year of experience with PowerShell for automation and management within an Azure AD and Office365
+* 1 year experience with installing, configuring, and troubleshooting Apple MacOS Support.
+* Demonstrated advanced knowledge and understanding of Microsoft Cloud architecture.
+* Demonstrated advanced knowledge and understanding of Microsoft Endpoint Management server administration, compliance policy maintenance and conditional access policies.
+* Demonstrated advanced knowledge and understanding of Office365 administration.
+* Demonstrated advanced knowledge of Microsoft Security, compliance, and identity solutions.
+* Strong verbal and written communication skills
+
+
+
+ Desired:
+ 
+
+
+* Bachelor's degree.
+* Microsoft Azure Certifications in fundamentals, security and/or office365 administration.
+* Demonstrated knowledge and understanding of Azure Virtual Machine creation and maintenance.
+* Demonstrated knowledge and understanding of Azure SQL server deployment.
+* Demonstrated knowledge and understanding of Networking protocols and support needs.
+* Demonstrated knowledge and understanding of Sophos security software.
+
+
+ Benefit and Compensation Transparency
+ 
+ ITA International proudly complies with all federal and state benefit and pay transparency laws. Employees of ITA can expect a robust benefit package, including:
+ 
+
+
+* Medical, dental and vision plans
+* Life Insurance
+* Short Term Disability insurance (where applicable)
+* Voluntary ancillary benefit options
+* 401k retirement benefits with employer matching contributions
+
+
+ Application and Employment at ITA International
+ 
+ ITA International is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+ 
+
+
+
+ In compliance with the ADA Amendments Act (ADAAA), ITA International would like to ensure that your application process goes as smoothly as possible. If you would like to preview the physical requirements for this position, or if you have a disability and would like to request an accommodation in order to apply for a currently open position with ITA, please contact us by phone at 757\\-246\\-6781 or email us at HR@ita\\-intl.com.
+ 
+
+
+ Employment Type: OTHER","","","","","","","",""
+"zr-fW6ODN9D19GhIqRWDBUoJw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=fW6ODN9D19GhIqRWDBUoJw","","Enterprise Architect","COMPQSOFT, Inc","Elizabeth City, NC, USA","2025-02-12","","","","","","","","","","organic","","**Position: Enterprise Architect** 
+
+
+
+
+**Location: Elizabeth City, NC\\- Onsite Work** 
+
+
+
+
+**Duration: Full\\-time with CompQsoft** 
+
+
+
+
+**Client: USCG (United States Coast Guard)** 
+
+
+
+
+
+
+
+
+**Job description** 
+
+
+
+* Provides high\\-level architectural expertise to managers and technical staff.
+* Develops architecture products in conjunction with business line owners, integrate architectural views in accordance with Department of Defense Architecture Framework (DODAF) and CG Enterprise Architecture (CGEA) guidance.
+* Document business systems using multiple architectural models/ views showing the current and future needs of the organization.
+* Maintain systems architecture baseline. Provides governance of framework and methodology for the architectural development and maintenance efforts
+* Develops strategy of system and the design infrastructure necessary to support that strategy.
+* Manages the integration of functional and technical requirements into the architecture.
+* Coordinate and development of process diagrams based on transformational architecture products, capabilities, and high\\-level functional requirements.
+* Advises on selection of technological purchases about processing, data storage, data access, and applications development.
+* Sets standards for the client/server relational structure for the organization (SQL SERVER, ORACLE, INGRES, etc.).
+* Advises of feasibility of potential future projects to management.
+* Capable of defining all required database administration policies, procedures, standards, guidelines, and SOP.
+
+
+
+
+
+
+
+
+**Skills:** 
+
+
+
+* Six (6\\) years of experience in the development, security, compliance, and maintenance of system architectural diagrams using DODAF.
+* Experience in using enterprise architecture tools such as Cameo, Magic Draw, System Architect.
+* Education: Bachelor's Degree or equivalent in Electrical Engineering, Mechanical Engineering, Computer Science, Management Information Systems, Systems Engineering or Electrical Engineering Technology.:
+* Candidate must be able to work both independently and as part of a team.
+* Candidate must possess strong oral communication and written comprehension capabilities.
+
+
+
+
+
+
+
+ For more open requirements, please visit https://www.compqsoft.com/current\\-openings
+ 
+
+
+
+
+
+
+
+**About Us:** 
+
+
+
+
+ CompQsoft Inc. Established in 1997, headquarters in Houston, TX and office in Leesburg, VA. CompQsoft offers a range of comprehensive Cyber Security, Infrastructure, Cloud solutions, ERP implementation, Business Intelligence, Application development, Ecommerce applications and Management consulting services. CompQsoft is Certified CMMI Level 3 practitioner for Development and Services, ISO 9001:2015, ISO 27001:2013 \\& ISO 200001:2011 Certified. CompQsoft is a fast growing company with a strategy and methodology that is strongly focused on the success of our clients, predominantly the Federal government.
+ 
+
+
+
+
+
+
+
+**CompQsoft provides equal opportunity in all aspects of employment and in the working environment to all employees and applicants. CompQsoft does not take any nonmerit factors like race, color, religion, sex (gender), mental/physical disability, and age into account for purposes of recruitment, hiring and development.** 
+
+
+
+
+
+
+
+
+ Visit www.compqsoft.com to learn more about our culture, benefits.","","","","","","","",""
+"zr-41pv2VJAY8jBa6FOU1tOJA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=41pv2VJAY8jBa6FOU1tOJA","","QUALITY CONTROL TECHNICIAN 2 PAINT & COATINGS - O63","HII","Newport News, VA, USA","2025-02-12","","","","","","","","","","direct","","**QUALITY CONTROL TECHNICIAN 2 PAINT \\& COATINGS \\- O63** 
+  
+
+  
+
+ Location:
+   
+
+ Newport News, Virginia, United States
+   
+
+  
+
+ Date: Dec 20, 2024
+   
+
+  
+
+ Req ID: 39892
+   
+
+ Team: O63 MANUF \\& QUALITY
+   
+
+ Entity: Newport News Shipbuilding
+   
+
+  
+
+ US Citizenship Required for this Position: Yes
+   
+
+  
+
+ Full\\-Time
+   
+
+ Shift: Multiple
+   
+
+ Relocation: No relocation assistance available
+   
+
+ Virtual/Telework Opportunity: No \\- Not eligible for telework
+   
+
+  
+
+ Travel Requirement: No
+   
+
+  
+
+ Clearance Required: No \\- Clearance Not Required to Start
+   
+
+  
+
+**Meet HII's Newport News Shipbuilding** 
+  
+
+ With more than 25,000 employees \\- including third\\-, fourth\\- and even fifth\\-generation shipbuilders \\- HII's Newport News Shipbuilding (NNS) division is the largest industrial employer in Virginia. We're the sole designer, builder and refueler of U.S. Navy nuclear aircraft carriers and one of two providers of U.S. Navy nuclear submarines. Our diverse and innovative team of professionals ranges from skilled trades to project managers, engineers and software developers to solution architects, technical subject matter experts, and system users. Anchored in our rich, 135\\-year history, we collaborate together at the forefront of technology, manufacturing, and integration of the most powerful and survivable naval ships in the world. Want to be part of the team? Apply today! We look forward to meeting you.
+   
+
+  
+
+****The Role****
+  
+
+  
+
+ Performs analyses, inspection, and tests of raw materials, packaging materials, quantitative assays on samples, and/or finished products from manufacturing, to ensure quality standards and compliance to customer and regulatory requirements, and tolerance specifications for the chemical or physical property. Performs a variety of qualitative tests or qualitative assays on samples, and to aid in maintenance and certification of test instruments and apparatus to ensure compliance. Performs required inspections, checks, analysis and documentation of studies. Prepares and monitors quality statistics and reports. Reviews production records for conformance to procedures. Conducts non\\-conformance tests of manufactured, packaged or tested product.
+   
+
+  
+
+****Must Have****
+  
+
+  
+
+ Associate's Degree and 1 years of relevant experience
+   
+
+  
+
+ One of the following may be used as equivalent to Associate's Degree to meet minimum qualifications:
+   
+
+* NNS Apprentice School graduate
+* Navy Nuclear Power School (NNPS) graduate
+* High School/GED and 2 years of related Manufacturing, Shipbuilding, Trades, Military experience
+* High School/GED and 4 years of non\\-related Manufacturing, Shipbuilding, Trades, Military experience
+
+
+  
+
+  
+
+****Nice to Have****
+  
+
+  
+
+ Paint \\& NBPI certified.
+   
+
+  
+
+**Why HII** 
+  
+
+ We build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. HII's diverse workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.
+   
+
+  
+
+ Recognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well\\-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.
+   
+
+  
+
+ Working at HII is more than a job \\- it's an opportunity to build a future. We offer comprehensive benefits including: medical, prescription drug, dental and vision plan choices, on\\-site health centers, tele\\-medicine, wellness resources, employee assistance programs, savings plan options (401K), financial education and planning tools, life insurance, tuition reimbursement, employee discounts, early childhood and post\\-secondary education scholarships, and more. Some benefits may vary depending on your specific division or work location.
+   
+
+  
+
+**Together we are working to ensure a future where everyone can be free and thrive.** 
+  
+
+  
+
+ Today's challenges are bigger than ever, and the nation needs the best of us. It's why we're focused on hiring, developing and nurturing our diversity. We believe that diversity among our workforce strengthens the organization, stimulates creativity, promotes the exchange of ideas and enriches the work lives of all our employees.
+   
+
+  
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law. U.S. Citizenship may be required for certain positions.
+   
+
+  
+
+**Do You Need Assistance?** 
+  
+
+ If you need a reasonable accommodation for any part of the employment process, please send an e\\-mail to buildyourcareer@hii\\-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case\\-by\\-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e\\-mail address.
+   
+
+  
+
+ Additionally, you may also call
+ **1\\-844\\-849\\-8463** 
+ for assistance. Press \\#2 for Newport News Shipbuilding.","","","","","","","",""
+"zr-py55e_sCiPVylzLg1sE1bQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=py55e_sCiPVylzLg1sE1bQ","","MGR MATL PROCESS ENGINEERING 2/METALLURICAL","HII","Newport News, VA, USA","2025-02-12","","","","","","","","","","direct","","**MGR MATL PROCESS ENGINEERING 2/METALLURICAL** 
+  
+
+  
+
+ Location:
+   
+
+ Newport News, Virginia, United States
+   
+
+  
+
+ Date: Feb 11, 2025
+   
+
+  
+
+ Req ID: 40901
+   
+
+ Team: A572 GEN FOUNDRY
+   
+
+ Entity: Newport News Shipbuilding
+   
+
+  
+
+ US Citizenship Required for this Position: Yes
+   
+
+  
+
+ Full\\-Time
+   
+
+ Shift: 1st
+   
+
+ Relocation: No relocation assistance available
+   
+
+ Virtual/Telework Opportunity: No \\- Not eligible for telework
+   
+
+  
+
+ Travel Requirement: No
+   
+
+  
+
+ Clearance Required: No \\- Clearance Not Required to Start
+   
+
+  
+
+**Meet HII's Newport News Shipbuilding** 
+  
+
+ With more than 25,000 employees \\- including third\\-, fourth\\- and even fifth\\-generation shipbuilders \\- HII's Newport News Shipbuilding (NNS) division is the largest industrial employer in Virginia. We're the sole designer, builder and refueler of U.S. Navy nuclear aircraft carriers and one of two providers of U.S. Navy nuclear submarines. Our diverse and innovative team of professionals ranges from skilled trades to project managers, engineers and software developers to solution architects, technical subject matter experts, and system users. Anchored in our rich, 135\\-year history, we collaborate together at the forefront of technology, manufacturing, and integration of the most powerful and survivable naval ships in the world. Want to be part of the team? Apply today! We look forward to meeting you.
+   
+
+  
+
+****The Role****
+  
+
+  
+
+ Analyzes, researches, designs and develops materials and their related fabrication and application processes to develop and optimize materials for use in engineering design of and/or application in structures, systems and subsystems. Applies principles of chemistry, physics, and material behavior to develop metallic, non\\-metallic and composite material and processing specifications, fabrication and assembly processes. Develops, analyzes and applies material properties and design allowables, processing processes and quality engineering specifications. Material analyses may include failure analysis of components, systems and subsystems, life predictions, and definition and requirement specifications. May review and approve subcontractor material processing procedures.
+   
+
+  
+
+****Must Have****
+  
+
+  
+
+ Bachelor's Degree and 6 years of progressive technical experience in research, engineering and design; Master's Degree and 4 years of relevant experience
+   
+
+  
+
+ Newport News Shipbuilding requires a Bachelor's Degree in engineering from an ABET accredited program.
+   
+
+  
+
+**Why HII** 
+  
+
+ We build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. HII's diverse workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.
+   
+
+  
+
+ Recognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well\\-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.
+   
+
+  
+
+ Working at HII is more than a job \\- it's an opportunity to build a future. We offer comprehensive benefits including: medical, prescription drug, dental and vision plan choices, on\\-site health centers, tele\\-medicine, wellness resources, employee assistance programs, savings plan options (401K), financial education and planning tools, life insurance, tuition reimbursement, employee discounts, early childhood and post\\-secondary education scholarships, and more. Some benefits may vary depending on your specific division or work location.
+   
+
+  
+
+**Together we are working to ensure a future where everyone can be free and thrive.** 
+  
+
+  
+
+ Today's challenges are bigger than ever, and the nation needs the best of us. It's why we're focused on hiring, developing and nurturing our diversity. We believe that diversity among our workforce strengthens the organization, stimulates creativity, promotes the exchange of ideas and enriches the work lives of all our employees.
+   
+
+  
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law. U.S. Citizenship may be required for certain positions.
+   
+
+  
+
+**Do You Need Assistance?** 
+  
+
+ If you need a reasonable accommodation for any part of the employment process, please send an e\\-mail to buildyourcareer@hii\\-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case\\-by\\-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e\\-mail address.
+   
+
+  
+
+ Additionally, you may also call
+ **1\\-844\\-849\\-8463** 
+ for assistance. Press \\#2 for Newport News Shipbuilding.","","","","","","","",""

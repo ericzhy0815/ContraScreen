@@ -1,0 +1,505 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009635871478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635871478","","DevOps Engineer","Caveon","United States","2025-02-12","","","","","","",False,"","","sponsored","","The DevOps engineer will work with the IT teams and development teams to oversee code releases of our software solutions, measure performance metrics to ensure that user expected performance goals are being met, deploying code, software, and firmware updates feature planning and resource technology planning, monthly audits and testing, end user support as needed, as well as aide in the implementation and maintenance of Caveon’s InfoSec and ISO 27001 programs.
+
+**Knowledge / Skills / Ability:**
+
+* Identify hardware and software problems and solutions
+* Troubleshooting technical issues
+* Translate development needs into scalable, secure infrastructure deployments.
+* Ability to understand Python, Flask, Node.js, React, Vue.js, and Angular.js
+* Ability to write SQL scripts to identify, troubleshoot, and correct data issues.
+* Strong knowledge of deployment pipelines and the effective implementation of Jenkins
+* Familiarity with Kubernetes environment setup, maintenance, and security, including associated management tools.
+* Familiarity with automated penetration testing solutions and processes.
+* Talking to technology users, and in some cases remoting into computers, and performing a series of actions to resolve problems
+* Participate in daily meetings with the IT team and operate independently.
+* Ability to understand multiple application technologies and provide troubleshooting and guidance to co\\-workers
+* Supporting the roll\\-out of new applications and features
+* Ability to perform security monitoring and hardening
+* Ability to establish and ensure adherence to security and process protocols
+* Collaborative team spirit
+
+**Preferred Education and Experience:**
+
+* Bachelor’s degree in IT, computer science, information systems, or a related field
+* 3\\+ years of experience working in a DevOps role or high\\-level system administration
+* Knowledge of Windows, Mac, and Linux operating systems and kernels
+* Excellent interpersonal skills
+* Excellent understanding of computer systems, security, network and systems administration, databases and data storage systems, and telecommunications systems
+
+**Other Responsibilities:**
+
+* Other duties and tasks as assigned
+* Maintain confidentiality at all times
+* Caveon takes information security seriously and requires that all employees adhere to all established policies and communicate any information system/information security concern immediately to Senior Management so it can promptly be investigated.
+
+**Miscellaneous:**
+
+* Must be eligible to work in the United States.
+* Ability to work from home with minimal direction
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Caveon is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+
+Job Type: Full\\-time
+
+Pay: $10\\.00 \\- $11\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Compensation Package:
+
+* Profit sharing
+* Yearly pay
+
+Work Location: Remote","","https://www.glassdoor.com/Overview/W-EI_IE303916.htm","https://media.glassdoor.com/sql/303916/caveon-squarelogo-1638881330042.png","","","","",""
+"li-4148909830","linkedin","https://www.linkedin.com/jobs/view/4148909830","https://grnh.se/f4f919421us&urlHash=hKRs","Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","Canonical","Anchorage, AK","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing. We are hiring
+ **Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions** 
+ to join our teams building open source solutions for public cloud and private infrastructure.
+   
+
+  
+
+ As a software engineer on the team, you'll collaborate on an end\\-to\\-end data analytics and mlops solution composed of popular, open\\-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end\\-to\\-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+   
+
+  
+
+ We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+   
+
+  
+
+**Location:** 
+ This initiative spans many teams that are home\\-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+   
+
+  
+
+**What your day will look like**
+* Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+* Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+* Master distributed systems concepts such as observability, identity, tracing
+* Work with both Kubernetes and machine\\-oriented open source applications
+* Collaborate proactively with a distributed team of engineers, designers and product managers
+* Debug issues and interact in public with upstream and Ubuntu communities
+* Generate and discuss ideas, and collaborate on finding good solutions
+
+
+**What we are looking for in you**
+* Professional or academic software delivery using Python
+* Exceptional academic track record from both high school and university
+* Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+* Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+* Track record of going above\\-and\\-beyond expectations to achieve outstanding results
+* Passion for technology evidenced by personal projects and initiatives
+* The work ethic and confidence to shine alongside motivated colleagues
+* Professional written and spoken English with excellent presentation skills
+* Experience with Linux (Debian or Ubuntu preferred)
+* Excellent interpersonal skills, curiosity, flexibility, and accountability
+* Appreciative of diversity, polite and effective in a multi\\-cultural, multi\\-national organisation
+* Thoughtfulness and self\\-motivation
+* Result\\-oriented, with a personal drive to meet commitments
+* Ability to travel twice a year, for company events up to two weeks long
+
+
+**Additional Skills That Would Be Nice To Have**
+ The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+   
+
+  
+
+* Hands\\-on experience with machine learning libraries, or tools.
+* Proven track record of building highly automated machine learning solutions for the cloud.
+* Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+* Experience with public clouds (AWS, Azure, Google Cloud)
+* Working knowledge of cloud computing
+* Passionate about software quality and testing
+* Experience working on an open source project
+
+
+ What we offer colleagues
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+**Canonical is an equal opportunity employer**
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Technology, Information and Internet","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","",""
+"zr-oRgDqRRy3PsXfqmirZX3Vw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=oRgDqRRy3PsXfqmirZX3Vw","","CIVIL ENGINEER II - Range 16E / AMEA","Municipality of Anchorage","Anchorage, AK, USA","2025-02-12","","direct_data","hourly",41.0,52.0,"USD","","","","organic","","Job Information Open to the general public and any current Municipal employee. This position is represented by the Anchorage Municipal Employee Association (AMEA) and is subject to the provisions of the current agreement between the Municipality of Anchorage and the Union. DEPARTMENT: Anchorage Water \\& Wastewater Utility HOURS OF WORK: Monday \\- Friday, 8:00 am \\- 5:00 pm LOCATION: 3000 Arctic Boulevard Remote work schedule opportunities (telecommuting) may be considered after successful completion of probation, at the discretion of management and with the approval of the department head.
+ 
+
+
+
+ Not all positions are eligible for remote work (telecommuting) per P\\&P 40\\-40\\. Example of Duties Under general supervision, the engineer will compile data, complete analysis, and create work products related to the utility asset management. The engineer will be actively involved in the development of long term planning in the form of asset management plans, facility plans, and master plans.
+ 
+
+
+
+ The engineer will also conduct short term planning by developing of the utility's 6\\-year Capital Improvement Plan (CIP) and current fiscal year Capital Improvement Budget (CIB). The engineer will develop and maintain the utility's water and sewer hydraulic models, and the condition assessment data for the utility. To complete these tasks, the engineer will conduct system analysis using water and sewer system hydraulic models; develop conceptual facility and pipeline designs; review and improve utility business and operational processes; review and improve on level of service tracking and publishing; develop engineering economic analysis looking asset life cycle costs and proposed return\\-on\\-investment (ROI) of projects; complete condition assessment data gathering and analysis; and conduct project administration and coordination with utility staff, public agencies, private contractors and consultants.
+ 
+
+
+
+ Perform other required duties as assigned. Minimum Qualifications / Substitutions / Preferences Associate's degree in Civil Engineering, Architectural Engineering, Environmental Engineering, Electrical Engineering, Geomatics, or a closely related discipline, and six (6\\) years of professional engineering or land surveying experience. OR Bachelor's degree in Civil Egineering, Architectural Engineering, Environmental Engineering, Electrical Engineering, Geomatics, or a closely related discipline, and four (4\\) years of professional engineering or land surveying experience.
+ 
+
+
+
+ Must possess and/or obtain: Satisfactory background check which includes criminal, education, and employment history at time of hire. Valid State of Alaska Driver's License with satisfactory driving record at time of hire. The ability to participate in major emergencies or disasters as outlined in AWWU's disaster plan matrix, which defines each employee's potential duties and responsibilities.
+ 
+
+
+
+ This may include 12\\-hour work shifts, which may continue for 72 hours or more starting at any time an event might occur, 7 days a week, 24 hours per day. Must possess: The experience or the knowledge in some of the following software: ESRI Products including ArcCatalog, ArcMap, ArcPro, ArcPortal; InfoWater and InfoSewer; SharePoint; Microsoft Office Products; Microsoft Power BI; and Maximo. Preference: Professional Engineer (PE) License.
+ 
+
+
+
+ Engineer\\-in\\-Training (EIT) License. Engineer Intern (EI) License. Additional Important Information Preference will be given to Anchorage Municipal Employees Association (AMEA) employees.
+ 
+
+
+
+ AMEA employees who are successful in the screening process will be forwarded to the department for consideration prior to any non\\-AMEA applicants. The Municipality of Anchorage participates in the U.S. Department of Homeland Security E\\-verify Program
+ 
+
+
+
+ For more information, please go to http://www.uscis.gov/E\\-verify. E\\-Verify is a registered trademark of the U.S. Department of Homeland Security
+ 
+
+
+
+ If selected for hire, the appointment in this position will be conditional based upon a satisfactory Municipal Employment Office conducted Background Check. A Background Check encompasses criminal history, verifying education, and verifying dates of employment. If selected for hire, appointment in this position will be conditional based upon the submission of a current copy of the applicant's Alaska Driver's License, and a current (dated within 30 days from date requested) copy of his/her Department of Motor Vehicle driving record, including a driving record from previous states, if the Alaska Driver's License was first issued within one year prior to application, documenting an acceptable driving history.
+ 
+
+
+
+ The processing fee(s) are the responsibility of the selected applicant. For information on acceptable driving history, please refer to the MOA Driving Conviction Guidelines. (Download PDF reader) All required certifications and/or licenses must remain current for the duration of employment.
+ 
+
+
+
+ Military Service Interview Preference Veterans who wish to be considered for interview preference, as permitted in Municipal Personnel Rules 3\\.30\\.031 D, must attach to the application a copy of their DD Form 214, DD Form 256, NGB Form 22, or a letter from the US Department of Veterans Affairs, recognizing the person as a veteran. The attached documentation must show an honorable discharge or general (under honorable conditions) discharge. The minimum qualifications of the position must be met for preference consideration
+ 
+
+
+
+ Individuals currently serving as a member in good standing in the National Guard or the organized military reserves who wish to be considered for interview preference, as permitted in Municipal Personnel Rules 3\\.30\\.031 D, must attach proof of current service to the application. Proof of current service can be shown by submission of a statement of service which, at a minimum, shows the full name, date of birth, Social Security Number, date service began, branch of service, rank, name of command providing the information, and unit of assignment. The statement of service must be on a form or letterhead of the individual's command organization, and shows the name, signature, title, and contact information of the signer providing the statement of service
+ 
+
+
+
+ The minimum qualifications of the position must be met for preference consideration. The Municipality of Anchorage is an Employer of National Service. Please be sure to include any volunteer work with AmeriCorps, Peace Corps, or other national service programs on your application in the work history portion.
+ 
+
+
+
+ Application Process Once an applicant selects on the ""Apply"" link underneath the header section of a vacancy announcement, they will be directed to the www.GovernmentJobs.com website to log into their existing account (or to create an account) of their application profile. Applicants will create or review their profile, make any updates necessary, and submit their application from their personal account. NOTE: The GovernmentJobs website and applicant's profile accounts are not administered by the Municipality of Anchorage
+ 
+
+
+
+ For technical assistance or customer service regarding an account profile, applicants may contact the GovernmentJobs customer support line at 1\\-855\\-524\\-5627\\. For general questions regarding Municipal vacancy announcements or the employment process with the Municipality of Anchorage, applicants may contact the Employee Relations Department at 907\\-343\\-4442 during regular business hours of Monday through Friday, 8:00 am to 5:00 pm, Alaska Standard Time. The MOA is an EO and AA Employer and complies with Title I of the ADA.
+ 
+
+
+
+ For information regarding requests for reasonable accommodations related to employment under the Americans with Disabilities Act, please contact the Municipality of Anchorage ADA Coordinator at 907\\-343\\-4571\\.","","","","","","","",""
+"zr-QNP3Fgt4QW8QXvt4WmVV2Q","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=QNP3Fgt4QW8QXvt4WmVV2Q","","Computer Service Desk Technician I","Phoenix Staff","Anchorage, AK, USA","2025-02-12","","direct_data","hourly",20.0,27.0,"USD","","","","organic","","Title: Computer Service Desk Technician I Location: Anchorage AK Duration: 3 month contract ""Have you tried turning it off and on again. Oh, you have. Let me get you go someone who can help."" If you know what to do next, this might be the job for you
+ 
+
+
+
+ We're looking for someone who can work independently to deliver high\\-quality technical support. You'll work closely with the Service Desk Support Supervisor to ensure proper application of diagnostics and outstanding customer service skills. You will also work with Network Engineers and System Administrators to develop skills necessary for advancement to those positions.
+ 
+
+
+
+ Your role: Responds to Service Desk Incidents, Major Incidents, Security Incidents, Service Requests and Work Requests that fall into his/her queue in a timely fashion. Experience managing ticketing system Defines new processes or ways of processing Service Desk tasks. May be looked to as the go\\-to technical lead at the SD.
+ 
+
+
+
+ Troubleshoots and resolves hardware/software related problems with laptop computers, desktop computers, PDAs, printers, scanners and other PC based peripherals. Repair, upgrades, builds, rebuilds and maintains laptops and PCs and other equipment. Other duties include maintenance, upgrade, installation and configuration of the equipment outlined above.
+ 
+
+
+
+ Assists Supervisor, Service Desk in training of other Computer Service Desk Technicians. Creates tickets for their work and ensures quality information is recorded in them. Works with Network Engineers and/or System Administrators to develop advanced networking and server related skills.
+ 
+
+
+
+ Configures and installs end user IP Telephony equipment (phones), as appropriate. May serve as point for Supervisor or Director on key project initiatives or improvement opportunities. What you've got: College degree (in Computer Science or related field) or equivalent is preferred.
+ 
+
+
+
+ Technical certifications are a plus. Prior Service Desk experience is required. 2\\+ years of experience in Desktop Support (DTS) in a Microsoft networking environment, knowledge of server build, repair, configuration and support.
+ 
+
+
+
+ Experience in setting up networks, maintaining accounts in Active Directory, and knowledge of security in a network environment is preferred. Demonstrated outstanding customer service skills. Detail oriented.
+ 
+
+
+
+ To find more great tech\\-centric jobs, please visit www.phoenixstaff.com.","","","","","","","",""
+"zr-7r5GSJMw4RBC8VH5v0jJOg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=7r5GSJMw4RBC8VH5v0jJOg","","CAD Operator","Computer Task Group, Inc","Anchorage, AK, USA","2025-02-12","","","","","","","","","","organic","rebecca.olan@ctg.com","**Overview** 
+
+
+
+
+**CTG is seeking to fill a CAD Operator opening for our client in Anchorage, AK.** 
+
+
+
+
+
+
+
+
+**Location:** 
+ Anchorage, AK
+   
+
+**Duration:** 
+ 12 months
+ 
+
+
+
+
+
+
+
+**Duties:** 
+
+
+
+* Modify technical drawings, schematics, and blueprints for utility projects (such as electrical, water, gas, and telecommunications).
+* Ensure all drawings comply with company and industry standards, regulations, and specifications.
+* Collaborate with engineers, project managers, and field personnel to gather design requirements and implement changes.
+* Maintain an organized library of design files and documentation.
+* Assist in site surveys, data collection, and integrating GIS/mapping data into CAD drawings.
+* Review and revise drawings based on project feedback and field conditions.
+* Create accurate 2D and 3D models using CAD software (AutoCAD, MicroStation, or other relevant tools).
+* Support project planning by generating detailed layouts and technical reports.
+
+
+
+**Skills:** 
+
+
+
+* Proficiency in AutoCAD, MicroStation, or similar CAD software.
+* Strong attention to detail with the ability to interpret engineering drawings and specifications.
+* Ability to understand utility infrastructure design, including electrical, water, gas, and telecommunications systems.
+* Experience with GIS and mapping integration into CAD drawings is a plus.
+* Ability to collaborate effectively with cross\\-functional teams (engineers, project managers, field personnel).
+* Excellent communication skills and attention to project requirements.
+* Strong organizational skills for managing multiple projects and documentation.
+
+
+
+**Experience:** 
+
+
+
+* Experience in utility design (electric, water, gas, or telecom) preferred.
+* Proven experience in creating detailed technical drawings, schematics, and blueprints for infrastructure projects.
+* Prior experience working with CAD software to generate 2D and 3D models is required.
+* Experience in utility construction practices is a plus.
+
+
+
+**Education:** 
+
+
+
+* Associate’s degree or certification in CAD drafting, engineering technology, or a related field.
+
+
+
+**Additional Requirements:** 
+
+
+
+* Excellent verbal and written English communication skills and the ability to interact professionally with a diverse group are required.
+* Must be reliable and arrive on time every day.
+
+
+
+ CTG does not accept unsolicited resumes from headhunters, recruitment agencies, or fee\\-based recruitment services for this role.
+ 
+
+
+
+
+
+
+
+**To Apply:** 
+  
+
+ To be considered, please apply directly to this requisition using the link provided. For additional information, please contact
+ **Recruiter, Rebecca Olan at rebecca.olan@ctg.com** 
+ . Kindly forward this to any other interested parties. Thank you!","","","","","","","",""
+"zr-pMoKm44s9j3x7JWyeE6t2Q","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=pMoKm44s9j3x7JWyeE6t2Q","","Transportation Planner 2","DOWL","Anchorage, AK, USA","2025-02-12","","","","","","","","","","organic","","**Summary** 
+
+ The Transportation Planner 2 provides planning services including supporting the preparation of transportation system plans, modal plans, long\\-range plans, transportation studies, transportation planning work programs, and other transportation\\-related planning documents as assigned. Duties include assisting with research, data analysis, technical writing and plan development, public meetings and outreach, preparing presentation materials and graphics, agency and stakeholder coordination, and other duties as assigned. The person in this position is expected to exercise a strong work ethic, desire to learn new skills, and have good organizational and communication skills. A Transportation Planner 2 should demonstrate a developing proficiency in applying transportation planning concepts, be able to quickly learn and apply functions including land use and transportation relationships, short\\-range and long\\-range planning, transportation system planning and analyses and evaluation, transportation public policy, traffic engineering, environmental analysis, public involvement and communications, land use planning, and community development. A Transportation Planner 2 exercises discretion and judgement in all work tasks. This person is expected to work well with others, absorb and apply constructive criticism, and seek input and guidance from more experienced members of the team as necessary. This position will work under the guidance of a more experienced Transportation Planner.
+ 
+
+
+**Job Responsibilities and Duties** 
+
+ To be successful in this position, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+ 
+
+
+
+**Software** 
+* Microsoft Office (Outlook, Word, Excel) \\- Developing
+* Market Sector Software (may include ArcGIS, TransCAD, Synchro, Vissim, Power BI, etc., dependent on position and other relevant skills and experience) \\- Developing
+
+
+**Technical Expertise** 
+* Solid understanding of technical fundamentals
+* Performs basic technical tasks within market sector with limited oversight
+* Performs quality control of basic deliverables
+* Eager to learn and expand skill set
+
+
+**Teamwork** 
+
+ Team player who follows the direction of others, asks good questions, retains information provided, and shares information with those less experienced.
+ 
+
+
+**Project Delivery** 
+
+ Produces the following under limited direction/oversight from others:
+ 
+
+
+* Transportation system analyses
+* Sections of transportation planning reports
+* Parts of white papers
+* Meeting agendas and minutes
+* Public involvement and communication materials associated with transportation planning projects
+
+
+**Understanding Budget and Schedule** 
+
+ Moderate understanding of scopes, schedules, and budgets. With guidance, predicts the level of effort for individual tasks and successfully deliver tasks within that level of effort. Monitors results on moderately complex projects.
+ 
+
+
+**Industry Standards and Regulations** 
+
+ Understands and employs the following design codes, plan documents, and federal regulations:
+ 
+
+
+* Transportation and land use plans, policies, and programs
+* Transportation funding and program delivery mechanisms, plans, policies, and opportunities
+* Transportation system analyses
+* Transportation resiliency analyses
+* Population, economic, and demographic forecasts as they relate to transportation
+* Public and agency involvement plans and communication strategies
+* Transportation planning regulations, programs, and guidance documents
+
+
+**Client Interaction** 
+
+ Limited direct interaction, commonly in group settings. Responds to emails, attends meetings, and answers questions/comments with limited autonomy.
+ 
+
+
+**Other** 
+
+ Other duties as assigned. 
+ 
+
+
+**Level of Work/Accountability** 
+
+ Performs moderately complex technical work on projects for the assigned market sector. Operates with limited autonomy – work is supervised and reviewed by more senior staff. 
+ 
+
+
+**Supervisory Duties** 
+
+ No 
+ 
+
+
+**Education and/or Experience** 
+* Bachelor's Degree in transportation planning, land use planning, civil engineering, communications, or associated field required
+* Years of experience required: 2 years
+* Years of experience required with advanced degree: 1 year
+
+
+**Certificates, Licenses, Registrations** 
+* Must have a valid driver’s license and a good driving record
+
+
+**Physical Demands** 
+
+ The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+ 
+
+
+
+ While performing the duties of this position, the employee is regularly required to sit. The employee is required to talk and hear. The employee is regularly required to stand, walk, and use hands. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this position include close vision and ability to adjust focus. 
+ 
+
+
+**Work Environment** 
+
+ The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+ 
+
+
+
+ The noise level in the work environment is usually moderate.
+ 
+
+
+
+**Geographical locations** 
+ are taken into consideration with respect to compensation.","","","","","","","",""

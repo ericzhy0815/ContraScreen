@@ -1,0 +1,3215 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009635896277","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635896277","","AZURE Site Reliability Engineer","Executive Management Associates","Las Vegas, NV","2025-02-12","","direct_data","yearly",110000.0,130000.0,"USD",False,"","","sponsored","","As our inaugural Azure Site Reliability Engineer (SRE), you will play a foundational role in building a resilient infrastructure and ensuring high availability across our systems. This position, part of IT Operations, will work closely with Network, Cloud Infrastructure, DevOps, and Cloud Architects to implement best practices in system reliability, observability, and automated response. This role emphasizes reliability, platform management, and network security.
+
+\\*\\*\\*Applicants must be US Citizen and authorized to work in the US, now and in the future.\\*\\*\\*\\*\\*\\*
+
+**Location:**
+
+* **Las Vegas Office (Preferred)**
+* **Remote candidates will be considered** but must be in the **PST time zone**.
+
+**Must\\-Have (Non\\-Negotiable) Skills:**
+
+* **Microsoft Azure** (Cloud \\& Networking) – Acts as a backup for the Cloud Engineer, managing Azure resources and infrastructure monitoring.
+* **Terraform \\& Infrastructure as Code (IaC)**
+* **Grafana Monitoring \\& Alerting**
+* **Networking** – Experience with **F5** or **Palo Alto Firewalls**
+
+**Key Responsibilities:**
+
+**Reliability and Incident Management**
+
+· Establish and track **reliability metrics** such as Latency, Traffic, Errors, and Capacity, focusing on uptime across applications and products, with plans to expand monitoring to kiosk and edge networks.
+
+· Develop and refine **monitor \\& alert systems** using Grafana to ensure comprehensive visibility, focusing on continuous improvements in reliability.
+
+· Establish robust processes for **incident response** and root cause analysis, leveraging OpsGenie to ensure timely and structured responses.
+
+· Work with TailScale, SUSE, and F5 (or Palo Alto Firewall) to support secure, resilient network connectivity and load balancing.
+
+**Platform Management and Service Objectives**
+
+· Collaborate with IT leadership to define and maintain **service level objectives** (SLOs) and monitor performance against these standards.
+
+· Structure and optimize platform management with a focus on supporting uptime in our production environment.
+
+**Automation, IaC, and CI/CD Pipelines**
+
+· Develop and maintain **Terraform configurations** for scalable, repeatable infrastructure deployment, focusing on minimizing manual tasks and ensuring resource consistency.
+
+· Work with DevOps to optimize CI/CD workflows using **Azure DevOps**, focusing on pipeline automation and deployment efficiency.
+
+· Automate repetitive tasks and enhance deployment processes within **AKS and Azure environments**, aiming to reduce potential deployment bottlenecks.
+
+**Network and Security Collaboration**
+
+· Partner with network engineers to optimize and maintain **F5 load balancers** and **Palo Alto Networks/Panorama** for secure, resilient network operations.
+
+· Collaborate with security teams to ensure network traffic and access patterns align with security best practices, integrating observability into network operations.
+
+**Requirements:**
+
+· **Technical Skills Desired:** Proficiency with SUSE, AKS, Linux, Azure Cloud, Grafana, Rancher, Terraform, Azure DevOps pipelines.
+
+· **Monitoring Tools:** Strong experience with Grafana for observability and OpsGenie for incident response, with a focus on maintaining uptime and proactive alerts.
+
+· **Automation and Scripting:** Proficiency in scripting (e.g., Bash, Python) and experience with **TailScale** for secure networking solutions.
+
+· **Problem\\-Solving Mindset:** Experience in identifying and remediating performance and security issues, focusing on proactive, long\\-term solutions.
+
+**First 90 Days:**
+
+1\\. **Understand the Product:** Deepen familiarity with our products and their interdependencies.
+
+2\\. **Develop Monitoring Structures:** Work with current Grafana structures, defining future enhancements.
+
+3\\. **Network Architecture and Monitoring:** Learn our network architecture and support basic monitoring/alerting systems currently in place.
+
+4\\. **Platform Familiarization:** Gain familiarity with platform elements, especially Terraform, CI/CD, and SLO definitions, to support a highly reliable production environment.
+
+Job Type: Full\\-time
+
+Pay: $110,000\\.00 \\- $130,000\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Application Question(s):
+
+* Will you require sponsorship now or in the future?
+* Are you located in PST time zone?
+
+Work Location: Remote","","","","","","","",""
+"gd-1009634790286","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634790286","","Senior Data Analyst","Cox Communications","Las Vegas, NV","2025-02-12","","direct_data","yearly",79400.0,119000.0,"USD",False,"","","organic","","Prepares transactional analyses and reports for the Cox Communications Sales \\& Service Department and related stakeholders. Gathers and synthesizes data from multiple sources to identify opportunities, risks, and ongoing problems. Evaluates transactional data, analyzes trends, and prepares forecasts. Translates complex data into cogent information for the Sales department and partners. Displays strong communication skills in developing actionable recommendations for leadership.  
+
+  
+
+**What You'll Do**  
+
+  
+
+* Conducts analysis at multiple levels of complexity (including those that are highly technical and complex) which may include trend recognition, explanation of variances, development of forecasts, calculation of performance metrics, and the creation of business cases
+* Communicates results effectively. Utilizes Microsoft PowerPoint, Excel, written, and verbal mediums to convey analysis in a logical sequence
+* Locates and retrieves data from company data systems and can identify when other relevant data is needed and is able to collect data from other sources including employees and within the industry to generate a comprehensive data set
+* Collaborates across company departments to produce analysis related to specific sales channels, product lines, revenue, or expenses
+* Conducts research and analysis using sales, operations, and financial data as requested by supervisors, mid\\-level sales leadership and senior sales leadership
+* Proactively pursues self\\-generated opportunities to identify value
+* Utilizes Microsoft Excel to organize, parse, and display data in tabular and graphical formats
+* Ensures quality checks are built into work to prevent errors and maintain data integrity
+* Demonstrates proficiency in Microsoft PowerPoint to communicate analytical results
+* Recommends specific actions that can be clearly reached because of following an organized, logical, analytical process
+* Contributes to departmental understanding of results post\\-production, by proactively and reactively communicating with internal clients
+May provide cross\\-functional guidance to lower\\-level analysts.  
+* 
+
+  
+
+  
+
+**What's In It For You**  
+
+  
+
+At Cox, we reward your hard work with meaningful benefits.  
+
+  
+
+First, we offer a highly competitive compensation package, 401(k) with a generous company match, comprehensive healthcare, life, and disability benefits, plus numerous other benefits, including adoption assistance, pet insurance, and discounts on travel and cars!  
+
+  
+
+We value people more than technology. That means you'll work within a culture and with a team that values your leadership, your experience, your contributions, and you \\- yes, you \\- as a person. We believe recognition is important, and Cox strives to celebrate those who help make us successful every day. We also encourage diversity and support inclusion; we want you to do you and feel comfortable doing so.  
+
+  
+
+We also offer boundless opportunities for growth; you can sharpen your skills, learn a new talent, join a mentoring program, even earn an advanced degree. You'll find the potential for lateral or upward career growth within the Cox family businesses, including the innovative startups in transportation mobility, clean tech and more.  
+
+  
+
+**Who You Are**  
+
+  
+
+**Minimum**  
+
+  
+
+* Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and up to 1 year of experience; or 8 years' experience in a related field
+* Demonstrated problem solving and analytical thinking skills
+* Requires strong knowledge of Microsoft Word, Excel, PowerPoint
+Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization  
+* 
+
+  
+
+  
+
+**Preferred**  
+
+  
+
+Master's degree in a related discipline strongly preferred  
+
+* 
+
+  
+
+  
+
+USD 79,400\\.00 \\- 119,000\\.00 per year  
+
+  
+
+**Compensation:**  
+
+  
+
+Compensation includes a base salary of $79,400\\.00 \\- $119,000\\.00\\. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.  
+
+  
+
+**Benefits:**  
+
+  
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.  
+
+  
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.  
+
+  
+
+**About Cox Communications**  
+
+  
+
+Cox Communications is the largest private telecom company in America, serving six million homes and businesses. That's a lot, but we also proudly serve our employees. Our benefits and our award\\-winning culture are just two of the things that make Cox a coveted place to work. If you're interested in bringing people closer through broadband, smart home tech and more, join Cox Communications today!  
+
+  
+
+**About Cox**  
+
+  
+
+Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses \\- which includes Cox Automotive and Cox Communications \\- is forging a better future for us all. Ready to make your mark? Join us today!  
+
+  
+
+Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .  
+
+  
+
+Cox is an Equal Employment Opportunity employer \\- All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.  
+
+  
+
+Statement to ALL Third\\-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.","","https://www.glassdoor.com/Overview/W-EI_IE4063.htm","https://media.glassdoor.com/sql/4063/cox-communications-squarelogo-1617775906639.png","","","","",""
+"gd-1009636029602","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009636029602","","Full Stack Developer (WordPress Platform - Mid / Senior Level)","The Mike Ferry Organization","Las Vegas, NV","2025-02-12","","direct_data","yearly",80000.0,90000.0,"USD",False,"","","organic","","This is an on\\-site opportunity, NOT remote.
+
+**About Us**
+
+Since 1975, The Mike Ferry Organization has been committed to providing Real Estate professionals with the very best in Real Estate sales training and coaching. Our organization provides Real Estate sales training programs and multi\\-media educational materials, DVDs, CDs, books, workbooks, reports, retreats, coaching programs, seminars, and many complimentary products for Real Estate agents.
+
+We are URGENTLY hiring a **Full Stack Developer** to be a part of our IT team and keep us moving forward in this ever\\-changing world of technology.
+
+We believe that job satisfaction is developed through training, goals, and a healthy work/life balance.
+
+**Work Hours:** 8:00 AM – 5:00 PM, Monday through Friday. No evenings, weekends, or holidays.
+
+**ESSENTIAL FUNCTIONS AND RESPONSIBILITIES**
+
+As a Web Developer, you will be responsible for design and develop website architecture for WordPress/WooCommerce platform. Implement scalable, resilient, and secure solutions in the public cloud with AWS. Database migration experience and Dynamics 360\\.
+
+Platform: WordPress
+
+Services: Git, EC2, Elastic Beanstalk, RDS, CloudFormation, CodePipeline, Route53, PHP, JavaScript, Node.js, Electron.js
+
+Database: SQL, MySQL
+
+* Design and build web applications using Laravel and PHP.
+* Design and develop front\\-end website architecture for WordPress/WooCommerce platform.
+* Troubleshoot and debug custom software builds.
+* Perform database migrations between multiple applications.
+* Testing functionality for users and the backend.
+* Maintain web\\-based applications and servers.
+* Making sure AWS production systems are reliable, secure, and scalable Design, manage, and maintain tools to automate operational processes on AWS
+* Install and perform minor repairs to hardware, software, and peripheral equipment, following design or installation specifications.
+* Oversee the daily performance of computer systems.
+* Set up equipment for employee use, performing or ensuring proper installation of cable, operating systems, and appropriate software.
+* Maintain record of problems and remedial action taken, and installation activities.
+* Read technical manuals, confer with users, and conduct computer diagnostics to investigate and resolve problems and to provide technical assistance and support.
+* Confer with staff, users, and management to establish requirements for new systems or modifications.
+* Develop training materials and procedures, and/or train users in the proper use of hardware and software.
+* Prepare evaluations of software or hardware and recommend improvements or upgrades.
+* Answer users' inquiries regarding computer software and hardware operation to resolve problems.
+* Maintains client confidence and protects operations by keeping information confidential.
+* Other network and computer related duties as assigned by management as needed.
+* Meet regularly with IT team members to address technical concerns and act as a bridge between team members and management
+* Keep up to date on the latest technologies and developments in the IT world and adjust long term IT strategies to keep in line with the changes in the industry
+
+**SKILLS AND QUALIFICATIONS:**
+
+* 5 \\+ years of Windows and Linux systems administration
+* 2\\+ years of provisioning, operating, and managing AWS environments.
+* CI/CD Pipeline knowledge
+* PHP programming skills
+* Extensive knowledge of WordPress platform
+* BS in Computer Science or related field, or equivalent experience is preferred.
+* Database experience \\- expert level
+* Must have professional appearance and attire.
+
+Technical Understanding, Process Improvement, Data Processing, Reporting Research Results, Networking Knowledge, Presenting Technical Information, Written Communication, Operating Systems, Reporting Skills, Client Relationships, Documentation Skills.
+
+**MFO employees get:**
+
+* Vacation and Personal Time
+* 7 paid holidays each year
+* Company Paid Health Insurance, Life Insurance and Long\\-term Disability Insurance
+* Options for Dental, Vision, Additional Life, Short\\-term Disability Insurance and AFLAC products
+* A fun work environment, i.e. staff lunches, holiday celebrations, contests, charity involvement, etc.
+* Healthy Work/Life Balance
+* Anniversary Bonus
+* **Paid time off between Christmas Eve and New Years Day to spend time with our families**
+
+Job Type: Full\\-time
+
+Pay: $80,000\\.00 \\- $90,000\\.00 per year
+
+Benefits:
+
+* Dental insurance
+* Health insurance
+* Life insurance
+* Paid time off
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Work Location: In person","","https://www.glassdoor.com/Overview/W-EI_IE799657.htm","https://media.glassdoor.com/sql/799657/mike-ferry-organization-squarelogo-1447672165653.png","","","","",""
+"gd-1009635871478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635871478","","DevOps Engineer","Caveon","United States","2025-02-12","","","","","","",False,"","","sponsored","","The DevOps engineer will work with the IT teams and development teams to oversee code releases of our software solutions, measure performance metrics to ensure that user expected performance goals are being met, deploying code, software, and firmware updates feature planning and resource technology planning, monthly audits and testing, end user support as needed, as well as aide in the implementation and maintenance of Caveon’s InfoSec and ISO 27001 programs.
+
+**Knowledge / Skills / Ability:**
+
+* Identify hardware and software problems and solutions
+* Troubleshooting technical issues
+* Translate development needs into scalable, secure infrastructure deployments.
+* Ability to understand Python, Flask, Node.js, React, Vue.js, and Angular.js
+* Ability to write SQL scripts to identify, troubleshoot, and correct data issues.
+* Strong knowledge of deployment pipelines and the effective implementation of Jenkins
+* Familiarity with Kubernetes environment setup, maintenance, and security, including associated management tools.
+* Familiarity with automated penetration testing solutions and processes.
+* Talking to technology users, and in some cases remoting into computers, and performing a series of actions to resolve problems
+* Participate in daily meetings with the IT team and operate independently.
+* Ability to understand multiple application technologies and provide troubleshooting and guidance to co\\-workers
+* Supporting the roll\\-out of new applications and features
+* Ability to perform security monitoring and hardening
+* Ability to establish and ensure adherence to security and process protocols
+* Collaborative team spirit
+
+**Preferred Education and Experience:**
+
+* Bachelor’s degree in IT, computer science, information systems, or a related field
+* 3\\+ years of experience working in a DevOps role or high\\-level system administration
+* Knowledge of Windows, Mac, and Linux operating systems and kernels
+* Excellent interpersonal skills
+* Excellent understanding of computer systems, security, network and systems administration, databases and data storage systems, and telecommunications systems
+
+**Other Responsibilities:**
+
+* Other duties and tasks as assigned
+* Maintain confidentiality at all times
+* Caveon takes information security seriously and requires that all employees adhere to all established policies and communicate any information system/information security concern immediately to Senior Management so it can promptly be investigated.
+
+**Miscellaneous:**
+
+* Must be eligible to work in the United States.
+* Ability to work from home with minimal direction
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Caveon is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+
+Job Type: Full\\-time
+
+Pay: $10\\.00 \\- $11\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Compensation Package:
+
+* Profit sharing
+* Yearly pay
+
+Work Location: Remote","","https://www.glassdoor.com/Overview/W-EI_IE303916.htm","https://media.glassdoor.com/sql/303916/caveon-squarelogo-1638881330042.png","","","","",""
+"gd-1009635236665","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635236665","","Economist","PLAYSTUDIOS US, LLC","Las Vegas, NV","2025-02-12","","","","","","",False,"","","organic","","We are seeking a highly skilled and versatile Economist to join our Win Zone Studio in a unique and exciting role. You will be responsible for designing and optimizing feature economies, monitoring and maintaining the overall game economy, and collaborating with cross\\-functional teams to drive engagement and retention. As a key member of the studio, you will leverage data\\-driven insights to enhance player experiences and provide strategic recommendations.
+  
+  
+
+Duties and Responsibilities
+  
+  
+
+* Monitor and tune the economics of currencies using data analysis and simulations
+* Define guidelines of currency management across departments to control \\& optimize economic inflation
+* Collaborate with Product \\& Monetization in feature planning and design.
+* Collaborate with economists from partner apps to design \\& tune cross\\-app promotions and features
+* Define and create features, live\\-ops events, loyalty reinvestment strategies, and promotions economies.
+* Plan and Monitor A/B tests to optimize new and existing features
+* Find, define, and maintain players’ segmentation for optimizing the game experience.
+* Build and analyze simulations and predictive models to proactively forecast the results of changes to content.
+
+
+Requirements
+  
+  
+
+* Bachelor’s degree in business, data science, economics, statistics, analytics, or another related degree
+* 4\\+ years prior experience in game economy preferably in a Casino/ Sweepstakes industry.
+* Advanced SQL and Excel skills \\- MUST
+* Proficient in programming languages such as Python and R for data analysis, modeling, and visualizations
+* Excellent communication skills to convey technical findings and insights to both technical and non\\-technical stakeholders.
+* Strong understanding of virtual economies, economic theories, principles, and their application to consumer behavior and/or loyalty programs.
+* Prior experience in either social gaming, casino/hospitality, or related experience.
+
+
+Benefits and Perks
+  
+* 100% health benefit premium coverage for you and your dependents!
+* 401K match and Restricted Stock Units
+* Flexible vacation policy
+* Employee\\-driven entertainment, happy hours, and team\\-building events
+* Snacks and drinks are available in the kitchen
+* Casual work environment
+
+
+About PLAYSTUDIOS
+  
+PLAYSTUDIOS is the developer and operator of award\\-winning free\\-to\\-play casual games for mobile and social platforms. The company’s collection of original and published titles is powered by its groundbreaking playAWARDS loyalty marketing platform, which enables players to earn real\\-world rewards from a portfolio of global entertainment, retail, technology, travel, leisure, and gaming brands across 17 countries and four continents. Founded by a team of veteran gaming, hospitality, and technology entrepreneurs, PLAYSTUDIOS brings together beautifully designed mobile gaming content with an innovative loyalty platform in order to provide its players with an unequaled entertainment experience and its partners with actionable business insights. To learn more about PLAYSTUDIOS, visit playstudios.com
+  
+PLAYSTUDIOS is an equal opportunity employer. Applicants will be considered regardless of their sex (includes pregnancy, childbirth, breastfeeding and related medical conditions), race, age, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sexual orientation, gender, gender identity, gender expression, military or veteran status, or other protected category under the law. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  
+**California Residents:** Please review our California HR Data Privacy Policy for information about our data practices.","","https://www.glassdoor.com/Overview/W-EI_IE649515.htm","https://media.glassdoor.com/sql/649515/playstudios-squarelogo-1580515431967.png","","","","",""
+"gd-1009634920696","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634920696","","Web Developer","BOXABL INC","Las Vegas, NV","2025-02-12","","direct_data","yearly",57375.0,96622.0,"USD",False,"","","organic","","**Job Summary**
+
+
+ Web Developer II teammates work under the supervision of senior developers or team leads and are responsible for assisting in the creation and maintenance of websites and other applications.
+
+ **Job** **Duties and Responsibilities**
+
+* Contribute to the planning and development of websites and other applications by writing clean, well\\-designed, and efficient code using HTML, CSS, JavaScript, and other relevant technologies.
+* Collaborate with designers to implement and enhance user interfaces, ensuring a seamless and visually appealing user experience across different devices and browsers.
+* Identify, plan, design, and implement back\\-end development tasks, such as database design and implementation, server\\-side scripting, and API integration.
+* Identify and resolve technical issues and bugs in websites or web applications, performing testing and debugging to ensure optimal performance.
+* Perform regular website maintenance tasks, including monitoring website performance, conducting updates and backups, and ensuring security measures are in place.
+* Collaborate with cross\\-functional teams, including designers, developers, and project managers, to contribute to project planning, timelines, and deliverables.
+* Find opportunities for improvements in workflows and deliverables. Create and execute plans to capitalize on identified opportunities.
+
+**Experience and Education**
+
+* Bachelor's degree in computer science, web development, or a related field is preferred.
+* Proficiency in HTML, CSS, JavaScript, and familiarity with front\\-end frameworks (e.g., React, Angular, Vue.js) is highly desirable. In\\-depth knowledge of back\\-end technologies (e.g., Node.js, PHP, Python, Ruby) and databases (e.g., MySQL, PostgreSQL, MongoDB) is a requirement.
+* It is beneficial to have a portfolio showcasing previous web development projects or code samples to demonstrate technical skills and capabilities.","","https://www.glassdoor.com/Overview/W-EI_IE5864824.htm","https://media.glassdoor.com/sql/5864824/boxabl-squarelogo-1647510401690.png","","","","",""
+"gd-1009635867066","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635867066","","Drupal Designer","Link Technologies","Las Vegas, NV","2025-02-12","","","","","","",False,"","","organic","","Link Technologies (LinkTechConsulting.com), a Las Vegas\\-based IT consulting firm, is currently seeking a Drupal Designer to join our team.
+
+***REQUIREMENTS***
+
+* Experience in website design using Drupal.
+* Drupal development experience *is a plus.*
+* Experience translating non\\-technical user requirements into actionable tasks.
+* Knowledgeable with making changes to a website to reflect user requirements using Drupal.
+* Ability to transfer knowledge and train current staff to make changes to website using Drupal.
+
+Link Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without discrimination based on race, color, religion, sex, gender identity/expression, sexual orientation, national origin, protected veteran status, disability, or any other factors protected by law.
+
+Job Type: Full\\-time
+
+Benefits:
+
+* Dental insurance
+* Health insurance
+* Vision insurance
+
+Schedule:
+
+* 8 hour shift
+
+Ability to Commute:
+
+* Las Vegas, NV 89134 (Preferred)
+
+Ability to Relocate:
+
+* Las Vegas, NV 89134: Relocate before starting work (Preferred)
+
+Work Location: In person","","","","","","","",""
+"go-scgYBcLMYVcJzXEtAAAAAA==","google","https://www.linkedin.com/jobs/view/data-engineering-assistant-director-at-the-venetian-resort-las-vegas-4025773358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Engineering Assistant Director","The Venetian Resort Las Vegas","Las Vegas, NV","2025-02-07","","","","","","",False,"","","","","Position Overview:
+
+The Asst Director - Data Engineering, will be responsible for continuing to build and manage a high-performing Data Engineering team. The Asst Director - Data Engineering is responsible for the implementation of the data management strategy and execution of database engineering solutions for the organization, should have a strong technical background. This person will be responsible for execution of data engineering, data lake and analytics projects and ensures close coordination with the business and associated stakeholders.
+
+All duties are to be performed in accordance with departmental and The Venetian Resort’s policies, practices, and procedures.
+
+Essential Duties & Responsibilities:
+• Manage and lead database engineering resources encompassing multiple functions (Database Development, Data Warehousing, operational data management, database administration) in an agile environment and work cross-functionally in the design and implementation of database solutions that are aligned with company strategies to achieve business goals.
+• Develop strong working relationships with functions across the organization to identify and vet Data and Analytics related priorities based on key business requirements and incorporate them into data engineering plans.
+• Responsible for on-time delivery of projects, through creating a framework of accountability, and continuously optimizing your team’s performance by promoting a culture of excellence, where best practices and industry standards are the norm.
+• Help improve engineering practices to increase velocity, productivity, and developer happiness.
+• Identifying, designing, and implementing internal process improvements including re-designing infrastructure for greater scalability, optimizing data delivery, and automating manual processes.
+• Design, maintain, and troubleshoot robust data pipelines to ingest, process, and analyze large volumes of data from various sources.
+• Collaborating with stakeholders including data, design, product, and executive teams and assisting them with data-related technical issues.
+• Articulate tactical roadmap & initiatives based upon business need and overarching strategies to help scale quickly and sustainably.
+• Coach, mentor, and further grow and develop engineers on your team.
+• Participate in architecting and implementing scalable and secure data infrastructure solutions.
+• Establish data governance practices for managing various types of data, including personable identifiable information, data quality and validation standards.
+• Establish a unified database engineering methodology across database engineering functions.
+• Promote a culture of teamwork and collaboration within the database engineering function and across the organization in support of the mission and vision of the organization.
+• Collaborating with stakeholders including the Executive, Product, Data and Design teams to support their data infrastructure needs while assisting with data-related technical issues.
+• Staying current with the latest developments in data engineering and data management technologies and best practices and providing guidance and mentorship.
+• Collaborate with data scientists to support used algorithms and analytics.
+• Help Implement and manage security controls to ensure data access aligns with organizational policies and user roles.
+• Engage in professional development activities to enhance skills and knowledge.
+• Safety is an essential function of this job.
+• Consistent and regular attendance is an essential function of this job.
+• Performs other related duties as assigned.
+
+Company Standards of Conduct
+
+All The Venetian Resort Team Members are expected to conduct and carry themselves in a professional manner at all times. Team Members are required to observe the Company’s standards, work requirements and rules of conduct.
+
+Minimum Qualifications:
+• 21 years of age.
+• Proof of authorization to work in the United States
+• Bachelor's degree in computer science, information technology, business administration, finance, or a related field. Master’s degree preferred.
+• Must be able to obtain and maintain Nevada Gaming Control Board registration and any other certification or license, as required by law or policy.
+• 4+ years of experience leading and managing teams in a similar position.
+• Deep understanding of data modeling, ETL/pipeline processes, data warehousing concepts, and best practices in data management and analytics.
+• In-depth working knowledge and demonstrated hands-on experience building out data marts, data warehouses, data lakes using modern architecture concepts (e.g.: Medallion architecture).
+• Experience with Cloud Technologies (e.g.: GCP, AWS, Microsoft Azure, Databricks, Snowflake).
+• Advanced proficiency with SQL, Big Query, and cloud systems.
+• Hands-on experience working within an enterprise-scale Data Platform, while setting best practices for security, privacy, monitoring & alerting, and CI/CD (ideally with Google Cloud Platform, Airflow, Databricks, and Tableau).
+• Experience managing cross-functional requirements in an agile environment, driving them to their full potential.
+• Excellent listening, interpersonal, communication and problem-solving skills.
+• A passion for driving innovation and continuous improvement, with a demonstrated ability to stay up to date with the latest developments in data engineering technologies and best practices.
+• Demonstrated ability to work effectively in teams, in both a lead and support role.
+• Effective time management skills, including demonstrated ability to manage and prioritize multiple tasks and projects.
+• Knowledge of ETL processes and tools for data transformation and loading. (e.g., Alteryx, SSIS, Dataflow, Informatica, etc.).
+• Ability to document processes, configurations, and best practices.
+• Demonstrated abilities to lead and positively influence teams, develop talent, and lead by example.
+• Strong critical thinking and analytical abilities.
+• Strong organizational and problem-solving technical skills.
+• Ability to communicate clearly and effectively in English, both in spoken and written form.
+• Strong interpersonal skills with the ability to communicate effectively with guests and other Team Members of different backgrounds and levels of experience.
+• Must be able to work varied shifts, including nights, weekends, and holidays.
+
+Physical Requirements:
+
+Must be able to:
+• Physically access all areas of the property and drive areas with or without reasonable accommodation.
+• Maintain composure under pressure and consistently meet deadlines with internal and external customers and contacts.
+• Ability to interact appropriately and effectively with guests, management, other team members, and outside contacts.
+• Ability for prolonged periods of time to walk, stand, stretch, bend, and kneel.
+• Work in a fast-paced and busy environment.
+• Work indoors and be exposed to various environmental factors such as, but not limited to, CRT, noise, dust, and cigarette smoke.","","","","","","","",""
+"go-PV5zP1VjjFxR5wzRAAAAAA==","google","https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-tmt-manager-consulting-location-open-at-ey-4148191623?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","AI & Machine Learning Engineer - TMT - Manager - Consulting - Location OPEN","EY","Las Vegas, NV","2025-01-20","","","","","","",False,"","","","ssc.customersupport@ey.com","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The exceptional EY experience. It's yours to build.
+
+EY focuses on high-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+
+AI/Machine Learning Engineer – TMT – Manager - Consulting
+
+The opportunity
+
+Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side-by-side with clients and diverse teams from EY to create a well-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+
+Your Key Responsibilities
+
+You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+
+You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+
+Skills And Attributes For Success
+
+This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+
+To qualify for the role you must have
+• Bachelor's degree and 6-10 years of full-time working experience in AI, Data Science, and/or Machine Learning
+• 2-4 years of experience directly managing technical teams
+• Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends.
+• Strong skills in Python.
+• Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG).
+• Experience working with popular ML packages such as scikit-learn, Pytorch and ONNX, or related ML libraries.
+• Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases.
+• Proven ability to design and implement machine learning solutions that enhance network performance and customer experience.
+• Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science.
+• Experience analyzing large-scale datasets from telecommunications networks, including call detail records and performance metrics.
+• Knowledge of streaming video and audio technologies, including analytics and content recommendation systems.
+• Experience with multi-modal models, including vision-language models.
+• Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications.
+• Knowledge of regulatory and compliance considerations specific to the TMT sector.
+• Experience with real-time data processing frameworks (e.g., Apache Kafka).
+• Familiarity with cloud-based telecommunications solutions (e.g., AWS, Azure).
+• Experience with network optimization algorithms and techniques.
+• Knowledge of emerging technologies such as edge computing and IoT.
+• A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions.
+• Experience with MLOps methods and platforms such as MLFlow.
+• Experience with CI/CD and test-driven development.
+• Experience designing, building, and maintaining ML models, frameworks, and pipelines.
+• Experience designing and deploying end to end ML workflows on at least one major cloud computing platform.
+• Understanding of data structures, data modelling and software engineering best practices.
+• Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark.
+• Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions.
+• Experience with containerization and scaling models.
+• Integrating models and feedback from downstream consumption systems - reporting and dashboards, AI driven applications.
+• Strong mathematical and quantitative skills including calculus, linear algebra, and statistics.
+• Willingness to travel to meet client obligations.
+
+Ideally, you'll also have
+• A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them.
+• Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field.
+• Experience working with diverse teams to deliver complex solutions.
+• Strong skills in languages beyond Python: R, JavaScript, Java, C++, C.
+• Experience fine-tuning Generative AI models.
+
+What We Look For
+• You have an agile, growth-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.
+• You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.
+• You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.
+
+What We Offer
+
+We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team-led and leader-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+EY accepts applications for this position on an on-going basis. If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+For those living in California, please click here for additional information.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+
+EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1-800-EY-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com","","","","","","","",""
+"in-964a67a59fb7c312","indeed","https://www.indeed.com/viewjob?jk=964a67a59fb7c312","http://www.indeed.com/job/frontend-developer-uiux-designer-vuejs-not-remote-964a67a59fb7c312","Frontend Developer & UI/UX Designer (Vue.js) (Not Remote)","POP Fit Clothing","Las Vegas, NV, US","2025-02-12","fulltime","","yearly","","","USD",True,"","","","","***This job is in\\-house in our Las Vegas HQ (No Remote Opportunities are Available)***
+
+**WHO WE ARE:**
+
+In 2020 POP Fit Clothing was the Inc. 500’s 53rd fastest growing company in America, 1st fastest growing company in Nevada, and 2nd fastest growing retail brand in America.
+
+Woman\\-owned and operated, our brands POP Fit and Cheek Boss promote body positivity, inclusion, and representation for everyBODY.
+
+**WHO YOU ARE:**
+
+We are looking for a Vue.js developer and UI/UX designer to help us improve the POP Fit and Cheek Boss e\\-commerce websites.
+
+Our e\\-commerce websites are used by millions of visitors per year. Our frontend stack is built on Vue.js with TailwindCSS. We are looking for someone who is equally comfortable designing directly in CSS as well as making mockups in tools like Figma. You will also implement your designs directly in Vue.js.
+
+You will work in collaboration with the rest of the production team to complete all projects within the department in an efficient and timely manner while maintaining quality output standards. You must have a strong attention to detail and the ability to switch between projects based on current priorities and deadlines set by the team lead. If you are flexible, stress tolerant, and motivated with the ability to work independently and/or in a team setting, you are the perfect person for this position.
+
+Our existing frontend and server\\-side API developers are remote contractors, but we are trying to bring this position into our office as a full\\-time in office position. You will have an exciting opportunity to be part of a growing in\\-office team.
+
+**HOURS \\& PAY:**
+
+* Starting at $80,000/year DOE
+* 9am\\-5:30pm M\\-F, PST
+
+**WHAT YOU’LL DO**
+
+* Use Figma (or other mockup tools), HTML, and CSS to produce new designs for our e\\-commerce websites, including both the core ecommerce shopping flows (item pages, cart, checkout process) and marketing pages such as the homepage
+* Use Vue.js and TailwindCSS to implement your designs in code.
+* Conduct testing, user testing, and A/B testing
+* Use analytics tools such as Hotjar and Google Analytics to identify opportunities to improve our shopping experience
+* Work with our graphics and customer support teams
+* Work with our server\\-side API teams to ensure efficient shopping and browsing
+* Manage your workload efficiently with the ability to have multiple on\\-going projects
+
+**YOU’RE A GREAT FIT IF:**
+
+* You work quickly and efficiently with a keen sense of urgency
+* Can take feedback well with an ability and willingness to learn
+* Enjoy working in a collaborative environment
+* Have a willingness to help where needed
+* Have an interest in the fashion industry
+
+**REQUIREMENTS:**
+
+* 5\\+ years experience with Javascript development, ideally in an e\\-commerce setting.
+* 2\\+ experience with Vue.js and associated development ecosystem
+* Accurate typing ability (35WPM or more)
+* Proficiency in Macintosh Environment
+* Excellent verbal and written communication skills
+* Fluency in both written and spoken English
+
+POP Fit Clothing is an Equal Opportunity Employer
+
+Job Type: Full\\-time
+
+Pay: From $80,000\\.00 per year
+
+Benefits:
+
+* 401(k) matching
+* Dental insurance
+* Employee discount
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Schedule:
+
+* 8 hour shift
+* Monday to Friday
+
+Work Location: In person","","https://www.indeed.com/cmp/Pop-Fit-Clothing","","","","","",""
+"in-2ab9f80fba999d0a","indeed","https://www.indeed.com/viewjob?jk=2ab9f80fba999d0a","http://www.indeed.com/job/full-stack-developer-wordpress-platform-mid-senior-level-2ab9f80fba999d0a","Full Stack Developer (WordPress Platform - Mid / Senior Level)","The Mike Ferry Organization","Las Vegas, NV, US","2025-02-12","fulltime","direct_data","yearly",80000.0,90000.0,"USD",True,"","","","","This is an on\\-site opportunity, NOT remote.
+
+**About Us**
+
+Since 1975, The Mike Ferry Organization has been committed to providing Real Estate professionals with the very best in Real Estate sales training and coaching. Our organization provides Real Estate sales training programs and multi\\-media educational materials, DVDs, CDs, books, workbooks, reports, retreats, coaching programs, seminars, and many complimentary products for Real Estate agents.
+
+We are URGENTLY hiring a **Full Stack Developer** to be a part of our IT team and keep us moving forward in this ever\\-changing world of technology.
+
+We believe that job satisfaction is developed through training, goals, and a healthy work/life balance.
+
+**Work Hours:** 8:00 AM – 5:00 PM, Monday through Friday. No evenings, weekends, or holidays.
+
+**ESSENTIAL FUNCTIONS AND RESPONSIBILITIES**
+
+As a Web Developer, you will be responsible for design and develop website architecture for WordPress/WooCommerce platform. Implement scalable, resilient, and secure solutions in the public cloud with AWS. Database migration experience and Dynamics 360\\.
+
+Platform: WordPress
+
+Services: Git, EC2, Elastic Beanstalk, RDS, CloudFormation, CodePipeline, Route53, PHP, JavaScript, Node.js, Electron.js
+
+Database: SQL, MySQL
+
+* Design and build web applications using Laravel and PHP.
+* Design and develop front\\-end website architecture for WordPress/WooCommerce platform.
+* Troubleshoot and debug custom software builds.
+* Perform database migrations between multiple applications.
+* Testing functionality for users and the backend.
+* Maintain web\\-based applications and servers.
+* Making sure AWS production systems are reliable, secure, and scalable Design, manage, and maintain tools to automate operational processes on AWS
+* Install and perform minor repairs to hardware, software, and peripheral equipment, following design or installation specifications.
+* Oversee the daily performance of computer systems.
+* Set up equipment for employee use, performing or ensuring proper installation of cable, operating systems, and appropriate software.
+* Maintain record of problems and remedial action taken, and installation activities.
+* Read technical manuals, confer with users, and conduct computer diagnostics to investigate and resolve problems and to provide technical assistance and support.
+* Confer with staff, users, and management to establish requirements for new systems or modifications.
+* Develop training materials and procedures, and/or train users in the proper use of hardware and software.
+* Prepare evaluations of software or hardware and recommend improvements or upgrades.
+* Answer users' inquiries regarding computer software and hardware operation to resolve problems.
+* Maintains client confidence and protects operations by keeping information confidential.
+* Other network and computer related duties as assigned by management as needed.
+* Meet regularly with IT team members to address technical concerns and act as a bridge between team members and management
+* Keep up to date on the latest technologies and developments in the IT world and adjust long term IT strategies to keep in line with the changes in the industry
+
+**SKILLS AND QUALIFICATIONS:**
+
+* 5 \\+ years of Windows and Linux systems administration
+* 2\\+ years of provisioning, operating, and managing AWS environments.
+* CI/CD Pipeline knowledge
+* PHP programming skills
+* Extensive knowledge of WordPress platform
+* BS in Computer Science or related field, or equivalent experience is preferred.
+* Database experience \\- expert level
+* Must have professional appearance and attire.
+
+Technical Understanding, Process Improvement, Data Processing, Reporting Research Results, Networking Knowledge, Presenting Technical Information, Written Communication, Operating Systems, Reporting Skills, Client Relationships, Documentation Skills.
+
+**MFO employees get:**
+
+* Vacation and Personal Time
+* 7 paid holidays each year
+* Company Paid Health Insurance, Life Insurance and Long\\-term Disability Insurance
+* Options for Dental, Vision, Additional Life, Short\\-term Disability Insurance and AFLAC products
+* A fun work environment, i.e. staff lunches, holiday celebrations, contests, charity involvement, etc.
+* Healthy Work/Life Balance
+* Anniversary Bonus
+* **Paid time off between Christmas Eve and New Years Day to spend time with our families**
+
+Job Type: Full\\-time
+
+Pay: $80,000\\.00 \\- $90,000\\.00 per year
+
+Benefits:
+
+* Dental insurance
+* Health insurance
+* Life insurance
+* Paid time off
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Work Location: In person","Real Estate","https://www.indeed.com/cmp/The-Mike-Ferry-Organization","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b38b2e943fa18ae9438d135468b65c55","https://www.mikeferry.com/","7220 S Cimarron Rd, Las Vegas, NV 89113","51 to 200","$5M to $25M (USD)","Since 1975, The Mike Ferry Organization has provided Real Estate professionals with the very best in Real Estate sales training."
+"in-69eaf42b336af99f","indeed","https://www.indeed.com/viewjob?jk=69eaf42b336af99f","https://evoportalus.tracker-rms.com/LinkTechnologies/apply?jobcode=7184","Drupal Designer","Link Technologies","Las Vegas, NV, US","2025-02-12","fulltime","direct_data","yearly",70593.0,97286.0,"USD",False,"","","","","Link Technologies (LinkTechConsulting.com), a Las Vegas\\-based IT consulting firm, is currently seeking a Drupal Designer to join our team.
+
+***REQUIREMENTS***
+
+* Experience in website design using Drupal.
+* Drupal development experience *is a plus.*
+* Experience translating non\\-technical user requirements into actionable tasks.
+* Knowledgeable with making changes to a website to reflect user requirements using Drupal.
+* Ability to transfer knowledge and train current staff to make changes to website using Drupal.
+
+Link Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without discrimination based on race, color, religion, sex, gender identity/expression, sexual orientation, national origin, protected veteran status, disability, or any other factors protected by law.
+
+Job Type: Full\\-time
+
+Benefits:
+
+* Dental insurance
+* Health insurance
+* Vision insurance
+
+Schedule:
+
+* 8 hour shift
+
+Ability to Commute:
+
+* Las Vegas, NV 89134 (Preferred)
+
+Ability to Relocate:
+
+* Las Vegas, NV 89134: Relocate before starting work (Preferred)
+
+Work Location: In person","","https://www.indeed.com/cmp/Link-Technologies","","","","","",""
+"in-009f7d5e76d626f5","indeed","https://www.indeed.com/viewjob?jk=009f7d5e76d626f5","https://jobs.dayforcehcm.com/en-US/playstudios/CANDIDATEPORTAL/jobs/843","Economist","PlayStudios","Las Vegas, NV, US","2025-02-12","fulltime","direct_data","yearly",62922.0,90196.0,"USD",False,"","","","","We are seeking a highly skilled and versatile Economist to join our Win Zone Studio in a unique and exciting role. You will be responsible for designing and optimizing feature economies, monitoring and maintaining the overall game economy, and collaborating with cross\\-functional teams to drive engagement and retention. As a key member of the studio, you will leverage data\\-driven insights to enhance player experiences and provide strategic recommendations.
+  
+  
+
+Duties and Responsibilities
+  
+  
+
+* Monitor and tune the economics of currencies using data analysis and simulations
+* Define guidelines of currency management across departments to control \\& optimize economic inflation
+* Collaborate with Product \\& Monetization in feature planning and design.
+* Collaborate with economists from partner apps to design \\& tune cross\\-app promotions and features
+* Define and create features, live\\-ops events, loyalty reinvestment strategies, and promotions economies.
+* Plan and Monitor A/B tests to optimize new and existing features
+* Find, define, and maintain players’ segmentation for optimizing the game experience.
+* Build and analyze simulations and predictive models to proactively forecast the results of changes to content.
+
+
+Requirements
+  
+  
+
+* Bachelor’s degree in business, data science, economics, statistics, analytics, or another related degree
+* 4\\+ years prior experience in game economy preferably in a Casino/ Sweepstakes industry.
+* Advanced SQL and Excel skills \\- MUST
+* Proficient in programming languages such as Python and R for data analysis, modeling, and visualizations
+* Excellent communication skills to convey technical findings and insights to both technical and non\\-technical stakeholders.
+* Strong understanding of virtual economies, economic theories, principles, and their application to consumer behavior and/or loyalty programs.
+* Prior experience in either social gaming, casino/hospitality, or related experience.
+
+
+Benefits and Perks
+  
+* 100% health benefit premium coverage for you and your dependents!
+* 401K match and Restricted Stock Units
+* Flexible vacation policy
+* Employee\\-driven entertainment, happy hours, and team\\-building events
+* Snacks and drinks are available in the kitchen
+* Casual work environment
+
+
+About PLAYSTUDIOS
+  
+PLAYSTUDIOS is the developer and operator of award\\-winning free\\-to\\-play casual games for mobile and social platforms. The company’s collection of original and published titles is powered by its groundbreaking playAWARDS loyalty marketing platform, which enables players to earn real\\-world rewards from a portfolio of global entertainment, retail, technology, travel, leisure, and gaming brands across 17 countries and four continents. Founded by a team of veteran gaming, hospitality, and technology entrepreneurs, PLAYSTUDIOS brings together beautifully designed mobile gaming content with an innovative loyalty platform in order to provide its players with an unequaled entertainment experience and its partners with actionable business insights. To learn more about PLAYSTUDIOS, visit playstudios.com
+  
+PLAYSTUDIOS is an equal opportunity employer. Applicants will be considered regardless of their sex (includes pregnancy, childbirth, breastfeeding and related medical conditions), race, age, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sexual orientation, gender, gender identity, gender expression, military or veteran status, or other protected category under the law. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  
+**California Residents:** Please review our California HR Data Privacy Policy for information about our data practices.","","https://www.indeed.com/cmp/Playstudios","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb5e3f609625b20b5fda7e9c0288cb8","https://playstudios.com/careers/","","201 to 500","","We believe that a company culture is not defined by a brightly colored office, a well-stocked kitchen, or amazing holiday parties."
+"in-487f2767a92c3ff9","indeed","https://www.indeed.com/viewjob?jk=487f2767a92c3ff9","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a53277ba-f8dc-418b-8466-b10a6ab318ce&ccId=19000101_000001&jobId=550930&source=IN&lang=en_US","Web Developer","Boxabl","Las Vegas, NV, US","2025-02-12","fulltime","direct_data","yearly",57612.0,82056.0,"USD",False,"","","","","**Job Summary**
+
+
+ Web Developer II teammates work under the supervision of senior developers or team leads and are responsible for assisting in the creation and maintenance of websites and other applications.
+
+ **Job** **Duties and Responsibilities**
+
+* Contribute to the planning and development of websites and other applications by writing clean, well\\-designed, and efficient code using HTML, CSS, JavaScript, and other relevant technologies.
+* Collaborate with designers to implement and enhance user interfaces, ensuring a seamless and visually appealing user experience across different devices and browsers.
+* Identify, plan, design, and implement back\\-end development tasks, such as database design and implementation, server\\-side scripting, and API integration.
+* Identify and resolve technical issues and bugs in websites or web applications, performing testing and debugging to ensure optimal performance.
+* Perform regular website maintenance tasks, including monitoring website performance, conducting updates and backups, and ensuring security measures are in place.
+* Collaborate with cross\\-functional teams, including designers, developers, and project managers, to contribute to project planning, timelines, and deliverables.
+* Find opportunities for improvements in workflows and deliverables. Create and execute plans to capitalize on identified opportunities.
+
+**Experience and Education**
+
+* Bachelor's degree in computer science, web development, or a related field is preferred.
+* Proficiency in HTML, CSS, JavaScript, and familiarity with front\\-end frameworks (e.g., React, Angular, Vue.js) is highly desirable. In\\-depth knowledge of back\\-end technologies (e.g., Node.js, PHP, Python, Ruby) and databases (e.g., MySQL, PostgreSQL, MongoDB) is a requirement.
+* It is beneficial to have a portfolio showcasing previous web development projects or code samples to demonstrate technical skills and capabilities.","","https://www.indeed.com/cmp/Boxabl","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0c4e23f89809efa422b92275ed8ffc92","https://www.boxabl.com/","5345 E. North Belt Road, Suite 115, North Las Vegas, NV 89115","51 to 200","","Our cutting-edge factories employ ingenious technology to mass-produce homes, making homeownership affordable for all."
+"in-d6c3d9b66bf89f34","indeed","https://www.indeed.com/viewjob?jk=d6c3d9b66bf89f34","https://click.appcast.io/track/lvt9589-org?cs=5c","Senior Data Analyst","Cox Communications Inc.","Las Vegas, NV, US","2025-02-11","fulltime","direct_data","yearly",79400.0,119000.0,"USD",False,"","","","","Prepares transactional analyses and reports for the Cox Communications Sales \\& Service Department and related stakeholders. Gathers and synthesizes data from multiple sources to identify opportunities, risks, and ongoing problems. Evaluates transactional data, analyzes trends, and prepares forecasts. Translates complex data into cogent information for the Sales department and partners. Displays strong communication skills in developing actionable recommendations for leadership.  
+
+  
+
+**What You'll Do**  
+
+  
+
+* Conducts analysis at multiple levels of complexity (including those that are highly technical and complex) which may include trend recognition, explanation of variances, development of forecasts, calculation of performance metrics, and the creation of business cases
+* Communicates results effectively. Utilizes Microsoft PowerPoint, Excel, written, and verbal mediums to convey analysis in a logical sequence
+* Locates and retrieves data from company data systems and can identify when other relevant data is needed and is able to collect data from other sources including employees and within the industry to generate a comprehensive data set
+* Collaborates across company departments to produce analysis related to specific sales channels, product lines, revenue, or expenses
+* Conducts research and analysis using sales, operations, and financial data as requested by supervisors, mid\\-level sales leadership and senior sales leadership
+* Proactively pursues self\\-generated opportunities to identify value
+* Utilizes Microsoft Excel to organize, parse, and display data in tabular and graphical formats
+* Ensures quality checks are built into work to prevent errors and maintain data integrity
+* Demonstrates proficiency in Microsoft PowerPoint to communicate analytical results
+* Recommends specific actions that can be clearly reached because of following an organized, logical, analytical process
+* Contributes to departmental understanding of results post\\-production, by proactively and reactively communicating with internal clients
+May provide cross\\-functional guidance to lower\\-level analysts.  
+* 
+
+  
+
+  
+
+**What's In It For You**  
+
+  
+
+At Cox, we reward your hard work with meaningful benefits.  
+
+  
+
+First, we offer a highly competitive compensation package, 401(k) with a generous company match, comprehensive healthcare, life, and disability benefits, plus numerous other benefits, including adoption assistance, pet insurance, and discounts on travel and cars!  
+
+  
+
+We value people more than technology. That means you'll work within a culture and with a team that values your leadership, your experience, your contributions, and you \\- yes, you \\- as a person. We believe recognition is important, and Cox strives to celebrate those who help make us successful every day. We also encourage diversity and support inclusion; we want you to do you and feel comfortable doing so.  
+
+  
+
+We also offer boundless opportunities for growth; you can sharpen your skills, learn a new talent, join a mentoring program, even earn an advanced degree. You'll find the potential for lateral or upward career growth within the Cox family businesses, including the innovative startups in transportation mobility, clean tech and more.  
+
+  
+
+**Who You Are**  
+
+  
+
+**Minimum**  
+
+  
+
+* Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and up to 1 year of experience; or 8 years' experience in a related field
+* Demonstrated problem solving and analytical thinking skills
+* Requires strong knowledge of Microsoft Word, Excel, PowerPoint
+Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization  
+* 
+
+  
+
+  
+
+**Preferred**  
+
+  
+
+Master's degree in a related discipline strongly preferred  
+
+* 
+
+  
+
+  
+
+USD 79,400\\.00 \\- 119,000\\.00 per year  
+
+  
+
+**Compensation:**  
+
+  
+
+Compensation includes a base salary of $79,400\\.00 \\- $119,000\\.00\\. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.  
+
+  
+
+**Benefits:**  
+
+  
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.  
+
+  
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.  
+
+  
+
+**About Cox Communications**  
+
+  
+
+Cox Communications is the largest private telecom company in America, serving six million homes and businesses. That's a lot, but we also proudly serve our employees. Our benefits and our award\\-winning culture are just two of the things that make Cox a coveted place to work. If you're interested in bringing people closer through broadband, smart home tech and more, join Cox Communications today!  
+
+  
+
+**About Cox**  
+
+  
+
+Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses \\- which includes Cox Automotive and Cox Communications \\- is forging a better future for us all. Ready to make your mark? Join us today!  
+
+  
+
+Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .  
+
+  
+
+Cox is an Equal Employment Opportunity employer \\- All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.  
+
+  
+
+Statement to ALL Third\\-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.","","https://www.indeed.com/cmp/Cox-Communications-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4437604392e00801332e7c2965803d7c","http://jobs.coxenterprises.com","Atlanta, GA","10,000+","more than $10B (USD)","At Cox Communications (part of the Cox family of businesses), we are committed to creating more moments of real human connection."
+"in-3c4884f37de5017a","indeed","https://www.indeed.com/viewjob?jk=3c4884f37de5017a","http://www.indeed.com/job/azure-site-reliability-engineer-3c4884f37de5017a","AZURE Site Reliability Engineer","Executive Management Associates","Las Vegas, NV, US","2025-02-06","fulltime","direct_data","yearly",110000.0,130000.0,"USD",True,"","","","","As our inaugural Azure Site Reliability Engineer (SRE), you will play a foundational role in building a resilient infrastructure and ensuring high availability across our systems. This position, part of IT Operations, will work closely with Network, Cloud Infrastructure, DevOps, and Cloud Architects to implement best practices in system reliability, observability, and automated response. This role emphasizes reliability, platform management, and network security.
+
+\\*\\*\\*Applicants must be US Citizen and authorized to work in the US, now and in the future.\\*\\*\\*\\*\\*\\*
+
+**Location:**
+
+* **Las Vegas Office (Preferred)**
+* **Remote candidates will be considered** but must be in the **PST time zone**.
+
+**Must\\-Have (Non\\-Negotiable) Skills:**
+
+* **Microsoft Azure** (Cloud \\& Networking) – Acts as a backup for the Cloud Engineer, managing Azure resources and infrastructure monitoring.
+* **Terraform \\& Infrastructure as Code (IaC)**
+* **Grafana Monitoring \\& Alerting**
+* **Networking** – Experience with **F5** or **Palo Alto Firewalls**
+
+**Key Responsibilities:**
+
+**Reliability and Incident Management**
+
+· Establish and track **reliability metrics** such as Latency, Traffic, Errors, and Capacity, focusing on uptime across applications and products, with plans to expand monitoring to kiosk and edge networks.
+
+· Develop and refine **monitor \\& alert systems** using Grafana to ensure comprehensive visibility, focusing on continuous improvements in reliability.
+
+· Establish robust processes for **incident response** and root cause analysis, leveraging OpsGenie to ensure timely and structured responses.
+
+· Work with TailScale, SUSE, and F5 (or Palo Alto Firewall) to support secure, resilient network connectivity and load balancing.
+
+**Platform Management and Service Objectives**
+
+· Collaborate with IT leadership to define and maintain **service level objectives** (SLOs) and monitor performance against these standards.
+
+· Structure and optimize platform management with a focus on supporting uptime in our production environment.
+
+**Automation, IaC, and CI/CD Pipelines**
+
+· Develop and maintain **Terraform configurations** for scalable, repeatable infrastructure deployment, focusing on minimizing manual tasks and ensuring resource consistency.
+
+· Work with DevOps to optimize CI/CD workflows using **Azure DevOps**, focusing on pipeline automation and deployment efficiency.
+
+· Automate repetitive tasks and enhance deployment processes within **AKS and Azure environments**, aiming to reduce potential deployment bottlenecks.
+
+**Network and Security Collaboration**
+
+· Partner with network engineers to optimize and maintain **F5 load balancers** and **Palo Alto Networks/Panorama** for secure, resilient network operations.
+
+· Collaborate with security teams to ensure network traffic and access patterns align with security best practices, integrating observability into network operations.
+
+**Requirements:**
+
+· **Technical Skills Desired:** Proficiency with SUSE, AKS, Linux, Azure Cloud, Grafana, Rancher, Terraform, Azure DevOps pipelines.
+
+· **Monitoring Tools:** Strong experience with Grafana for observability and OpsGenie for incident response, with a focus on maintaining uptime and proactive alerts.
+
+· **Automation and Scripting:** Proficiency in scripting (e.g., Bash, Python) and experience with **TailScale** for secure networking solutions.
+
+· **Problem\\-Solving Mindset:** Experience in identifying and remediating performance and security issues, focusing on proactive, long\\-term solutions.
+
+**First 90 Days:**
+
+1\\. **Understand the Product:** Deepen familiarity with our products and their interdependencies.
+
+2\\. **Develop Monitoring Structures:** Work with current Grafana structures, defining future enhancements.
+
+3\\. **Network Architecture and Monitoring:** Learn our network architecture and support basic monitoring/alerting systems currently in place.
+
+4\\. **Platform Familiarization:** Gain familiarity with platform elements, especially Terraform, CI/CD, and SLO definitions, to support a highly reliable production environment.
+
+Job Type: Full\\-time
+
+Pay: $110,000\\.00 \\- $130,000\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Application Question(s):
+
+* Will you require sponsorship now or in the future?
+* Are you located in PST time zone?
+
+Work Location: Remote","","https://www.indeed.com/cmp/Executive-Management-Associates","","http://sema4.com/","","","",""
+"li-4150540150","linkedin","https://www.linkedin.com/jobs/view/4150540150","","Machine Learning Engineer with Generative AI","PETADATA","Las Vegas, NV","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","anandinik@petadata.co","Job Title:
+ **Machine Learning Engineer with Generative AI**
+ Location:
+ **Las Vegas, NV \\- REMOTE**
+ EXPERIENCE
+ **:** 
+**12\\+ YRS**
+ Job Type:
+ **W2/C2C**
+**PETADATA** 
+ is currently hiring for the position of
+ **Machine Learning Engineer with Generative AI** 
+ for one of their clients.
+   
+
+  
+
+**Job Overview**
+ We seek a forward\\-thinking Machine Learning Engineer with a deep focus on Generative AI technologies within the Azure ecosystem. This pivotal role is dedicated to pioneering AI\\-driven solutions, mainly to deploy a state\\-of\\-the\\-art chatbot crafted through the Retrieval\\-Augmented Generation (RAG) technique to analyse and interpret customer reviews. The successful candidate will also craft an insightful analytical dashboard powered by Azure OpenAI. The successful candidate will be instrumental in harnessing the power of generative AI to revolutionize our customer interaction and data analysis methodologies.
+   
+
+  
+
+**Core Responsibilities**
+* Generative AI Chatbot Development: Spearheaded the creation of an advanced chatbot utilizing the RAG methodology to deliver nuanced interactions based on customer reviews.
+* Insightful Dashboard Engineering: Architect and develop an analytical dashboard, employing Azure OpenAI to unearth and present deep insights from complex datasets.
+* Expertise in Prompt Engineering: Masterfully apply prompt engineering strategies to optimize the quality and relevance of generative AI outputs.
+* Advanced Sentiment Analysis: Implement sophisticated sentiment analysis to deeply understand the emotional layers within customer feedback, refining the chatbot's empathetic engagement.
+
+
+**Essential Technical Proficiencies**
+* Azure Generative AI Integration: Proven expertise in integrating and leveraging Azure cloud services, strongly emphasizing Azure Databricks and Azure OpenAI for generative AI applications.
+* Proficient in Python and Spark: Exceptional skills in Python for AI development, complemented by expertise in using Spark for large\\-scale data processing and analytics.
+* Foundation in Machine Learning and NLP: A robust foundation in machine learning principles and natural language processing, with a particular focus on generative AI technologies and techniques.
+* Data Pipeline Design: Demonstrated ability to design and operationalize scalable data pipelines within Databricks, optimized for generative AI workflows.
+
+
+**Desired Attributes**
+* A proven innovator in deploying generative AI to enhance customer interactions and analytical insights
+* Creative problem\\-solving abilities, capable of translating intricate customer needs into tangible, cutting\\-edge AI solutions.
+* Exceptional analytical aptitude, meticulous attention to detail, and a commitment to excellence in all aspects of AI development and deployment.
+
+
+ This oppotunity is designed for a visionary engineer eager to define the future of AI applications in customer service and analytics, pushing the envelope of what's possible with generative AI and machine learning technologies.
+   
+
+  
+
+**Educational Qualification**
+ Bachelor's/Master's degree in Computer Science, Engineering, or a related field.
+   
+
+  
+
+ We offer a professional work environment and are given every opportunity to grow in the Information technology world.
+   
+
+  
+
+**Note**
+ Candidates must attend Phone, Video, or in\\-person interviews, and after the Selection, the candidate (He/She) should undergo all background checks on Education and Experience.
+   
+
+  
+
+ Please email your resume to
+ **anandinik@petadata.co**
+ After carefully reviewing your experience and skills, one of our HR team members will contact you to discuss the next steps.","Technology, Information and Internet","https://www.linkedin.com/company/petadata","https://media.licdn.com/dms/image/v2/C560BAQHF2RGs6M36cw/company-logo_100_100/company-logo_100_100/0/1631338831468?e=2147483647&v=beta&t=SxraEFMS_KM1YlA2w84CMIDLgLRIh2aamppPc7GAFWw","","","","",""
+"li-4148909826","linkedin","https://www.linkedin.com/jobs/view/4148909826","https://grnh.se/ed719f741us&urlHash=9qRB","Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","Canonical","Las Vegas, NV","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing. We are hiring
+ **Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions** 
+ to join our teams building open source solutions for public cloud and private infrastructure.
+   
+
+  
+
+ As a software engineer on the team, you'll collaborate on an end\\-to\\-end data analytics and mlops solution composed of popular, open\\-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end\\-to\\-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+   
+
+  
+
+ We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+   
+
+  
+
+**Location:** 
+ This initiative spans many teams that are home\\-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+   
+
+  
+
+**What your day will look like**
+* Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+* Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+* Master distributed systems concepts such as observability, identity, tracing
+* Work with both Kubernetes and machine\\-oriented open source applications
+* Collaborate proactively with a distributed team of engineers, designers and product managers
+* Debug issues and interact in public with upstream and Ubuntu communities
+* Generate and discuss ideas, and collaborate on finding good solutions
+
+
+**What we are looking for in you**
+* Professional or academic software delivery using Python
+* Exceptional academic track record from both high school and university
+* Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+* Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+* Track record of going above\\-and\\-beyond expectations to achieve outstanding results
+* Passion for technology evidenced by personal projects and initiatives
+* The work ethic and confidence to shine alongside motivated colleagues
+* Professional written and spoken English with excellent presentation skills
+* Experience with Linux (Debian or Ubuntu preferred)
+* Excellent interpersonal skills, curiosity, flexibility, and accountability
+* Appreciative of diversity, polite and effective in a multi\\-cultural, multi\\-national organisation
+* Thoughtfulness and self\\-motivation
+* Result\\-oriented, with a personal drive to meet commitments
+* Ability to travel twice a year, for company events up to two weeks long
+
+
+**Additional Skills That Would Be Nice To Have**
+ The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+   
+
+  
+
+* Hands\\-on experience with machine learning libraries, or tools.
+* Proven track record of building highly automated machine learning solutions for the cloud.
+* Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+* Experience with public clouds (AWS, Azure, Google Cloud)
+* Working knowledge of cloud computing
+* Passionate about software quality and testing
+* Experience working on an open source project
+
+
+ What we offer colleagues
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+**Canonical is an equal opportunity employer**
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Technology, Information and Internet","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","",""
+"li-4149401333","linkedin","https://www.linkedin.com/jobs/view/4149401333","https://draftkings.wd1.myworkdayjobs.com/DraftKings/job/Las-Vegas-NV/Senior-Data-Science-Engineer\\u002d\\u002dCollege-Sports_JR10747/apply?source=Applicant_Source_LinkedIn_Jobs&urlHash=T_yC","Senior Data Science Engineer, College Sports","DraftKings Inc.","Las Vegas, NV","","fulltime","","","","","","","mid-senior level","Engineering","","","We’re defining what it means to build and deliver the most extraordinary sports and entertainment experiences. Our global team is trailblazing new markets, developing cutting\\-edge products, and shaping the future of responsible gaming.
+   
+
+  
+
+ Here, “impossible” isn’t part of our vocabulary. You’ll face some of the toughest but most rewarding challenges of your career. They’re worth it. Channeling your inner grit will accelerate your growth, help us win as a team, and create unforgettable moments for our customers.
+   
+
+  
+
+ The Crown Is Yours
+   
+
+  
+
+ Our Sports Modeling team comprises sports modeling experts and data science technologists, coming together to develop innovative products that deliver incremental value across our Sportsbook platform. As a Senior Data Scientist on the Sports Modeling team, you will develop models and data\\-driven solutions that enhance the Sportsbook experience for our users. In this role, you will work on implementing advanced sports models, refining data assets, and ensuring seamless integration into applications.
+   
+
+  
+
+ What you’ll do as a Senior Data Scientist, College Sports
+   
+
+  
+
+* Create statistical and machine learning models and integrate them into data science applications.
+* Collect and engineer sports data assets to assist in model development.
+* Implement the sports models and pricing engines in Python.
+* Create automatic tests to ensure model and pricing engine accuracy.
+* Collaborate closely with Trading, Product, Engineering, and QA teams to move projects from ideation to deployment.
+* Test data flows and model integration in a larger business context.
+* Coach and support more junior data scientists within the team.
+
+
+ What you’ll bring
+   
+
+  
+
+* Demonstrated passion for sports and a strong understanding of relevant leagues and their dynamics.
+* A college degree in Statistics, Data Science, Mathematics, Computer Science, Engineering, or another related field.
+* Proficiency in Python, with experience building statistical or machine learning models across various sports.
+* Solid grasp of data science principles, statistical modeling techniques, and object\\-oriented programming concepts.
+* Familiarity with tools and practices such as Kubernetes, Kafka, version control, and MLOps principles.
+* Self\\-motivation and eagerness to expand knowledge and understanding of Sportsbook products and related technologies.
+
+
+ Join Our Team
+   
+
+  
+
+ We’re a publicly traded (NASDAQ: DKNG) technology company headquartered in Boston. As a regulated gaming company, you may be required to obtain a gaming license issued by the appropriate state agency as a condition of employment. Don’t worry, we’ll guide you through the process if this is relevant to your role.
+   
+
+  
+
+ The US base salary range for this full\\-time position is 120,800\\.00 USD \\- 151,000\\.00 USD, plus bonus, equity, and benefits as applicable. Our ranges are determined by role, level, and location. The compensation information displayed on each job posting reflects the range for new hire pay rates for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific pay range and how that was determined during the hiring process. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.","Software Development and Spectator Sports","https://www.linkedin.com/company/draftkings-inc-","https://media.licdn.com/dms/image/v2/D4E0BAQE0U7CzwyVvoQ/company-logo_100_100/company-logo_100_100/0/1690891291973/draftkings_inc__logo?e=2147483647&v=beta&t=hgXpIAQ_pwiti44fA4bihZTPRgLozJpgpLpM2Guyrc0","","","","",""
+"li-4064744114","linkedin","https://www.linkedin.com/jobs/view/4064744114","https://epic.avature.net/Careers/RegisterMethod?folderId=22296&source=LinkedIn&urlHash=24uK","Splunk Engineer","Epic","Henderson, NV","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+ Splunk is one of the key technologies Epic relies on to improve healthcare delivery to over 70% of patients in the US, and around the world. As a Splunk Engineer, you'll optimize and maintain our cloud installation and help teams realize the potential of the Splunk platform. Our deployment serves critical areas including IT operations, Security, R\\&D, and Business Intelligence. You'll have the freedom to flex your creativity as well as identify and implement new and impactful use cases for Splunk.
+   
+
+  
+
+**Desired Skills and Knowledge Areas:**
+* Bachelor's Degree
+* 1\\+ year of Splunk Administration experience. Cribl experience is a plus.
+* Experience with CI/CD concepts and technologies. GitLab experience is a plus.
+* Familiarity with Infrastructure as Code concepts and technologies. Experience with Ansible and Terraform is a plus.
+* Strong troubleshooting and customer service skills.
+
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's Degree
+* Relocation to the Madison, WI area (reimbursed).
+* A history of academic and professional success
+* Eligible to work in the U.S. without visa sponsorship.
+* COVID\\-19 vaccination","Information Services, Software Development, and Hospitals and Health Care","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","",""
+"li-4151567712","linkedin","https://www.linkedin.com/jobs/view/4151567712","https://job-boards.greenhouse.io/affirm/jobs/6356656003?gh_src=689c81d53us&urlHash=fRc8","Senior Machine Learning Engineer (Portfolio ML)","Affirm","Las Vegas, NV","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+   
+
+  
+
+ Affirm’s Portfolio ML team is looking for an exceptional machine learning engineer to build the next generation of credit opportunity management models. Sitting at the intersection of credit policy and consumer product, this role will work within a highly cross\\-functional and diverse set of work\\-streams that contribute directly to profitability. From choosing which users to engage for repeat, finding the optimal value propositions to present them, and owning unit economics libraries, the Portfolio ML team’s focus spans the entire customer lifecycle including re\\-engagement. The team is relatively new and has a number of greenfield initiatives in its mandate, an exceptional group of ICs, and strong Product leaders in partnership.
+   
+
+  
+
+**What You'll Do**
+* Use Affirm’s proprietary and other third party data to develop machine learning models that manage and optimize the flow of loan opportunities across Affirm\\-owned and \\-operated properties
+* Partner with platform and product engineering teams to build model training, decisioning, and monitoring systems
+* Research ground breaking solutions and develop prototypes that drive the future of portfolio decisioning at Affirm
+* Implement and scale data pipelines, new features, and algorithms that are essential to our production models
+* Collaborate with the engineering, credit, and product teams to define requirements for new products
+
+
+**What We Look For**
+* Proficiency in machine learning with experience in areas such as Generalized Linear Models, Gradient Boosting, Deep Learning, and Probabilistic Calibration. Domain knowledge in credit risk, portfolio management, learning to rank, and personalization is a plus
+* Strong engineering skills in Python and data manipulation skills like SQL
+* Experience using distributed systems like Spark or Ray is a plus
+* Experience using open source projects and software such as scikit\\-learn, pandas, NumPy, XGBoost, Kubeflow
+* Excellent written and oral communication skills and the capability to drive cross\\-functional requirements with product and engineering teams
+* The ability to present technical concepts and results in an audience\\-appropriate way
+* Persistence, patience and a strong sense of responsibility – we build the decision making that enables consumers and partners to place their trust in Affirm!
+
+
+**Base Pay Grade** 
+ \\- N
+   
+
+  
+
+**Equity Grade** 
+ \\- 8
+   
+
+  
+
+ Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job\\-related skills.
+   
+
+  
+
+ Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+   
+
+  
+
+ USA base pay range (CA, WA, NY, NJ, CT) per year: $190,000 \\- $240,000
+   
+
+  
+
+ USA base pay range (all other U.S. states) per year: $169,000 \\- $219,000
+   
+
+  
+
+ Affirm is proud to be a remote\\-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office\\-based due to the nature of their job responsibilities.
+   
+
+  
+
+**Benefits**
+ We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include:
+   
+
+  
+
+* Health care coverage \\- Affirm covers all premiums for all levels of coverage for you and your dependents
+* Flexible Spending Wallets \\- generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+* Time off \\- competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+* ESPP \\- An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+
+ We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+   
+
+  
+
+ \\[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.
+   
+
+  
+
+ By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.","Financial Services","https://www.linkedin.com/company/affirm","https://media.licdn.com/dms/image/v2/C560BAQEHSbORvS_jKg/company-logo_100_100/company-logo_100_100/0/1630665839795/affirm_logo?e=2147483647&v=beta&t=DTdnXfvSnUdk2QDzx2pxLSTqSBNcll6e2T8YQQGRHEk","","","","",""
+"li-4151581492","linkedin","https://www.linkedin.com/jobs/view/4151581492","https://ejpe.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5014/?utm_medium=jobshare&utm_source=External+Job+Share&urlHash=S8XK","Senior Data Engineer","AMH","Las Vegas, NV","","fulltime","","","","","","","mid-senior level","Information Technology","","","**Job Description** 
+
+
+
+
+ Since 2012, we've grown to become one of the leading single\\-family rental companies and homebuilders in the country, recently recognized as a top employer by Fortune and Great Place To Work®. At AMH, our goal is to simplify the experience of leasing a home through professional management and maintenance support, so our residents can focus on what really matters to them, wherever they are in life.
+ 
+
+
+
+  
+
+
+
+
+
+ The
+ **Senior Data Engineer** 
+ is responsible for designing, building, and managing the data platform and tools to allow for the efficient processing and analysis of large data sets. Develops and maintains scalable data pipelines, ensures data quality, and deploys machine learning models to production. Collaborates with business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data\\-driven decision\\-making across the organization. Builds real\\-time and batch pipelines to handle large volumes of data efficiently. Collaborates with cross\\-functional teams and translate business requirements into scalable data solutions.
+ 
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Design, develop, and maintain real\\-time or batch data pipelines to process and analyze large volumes of data. Designs and develops programs and tools to support ingestion, curation, and provisioning of complex first party and third\\-party data to achieve analytics, reporting, and data science. Design and develop Advanced Data Products and Intelligent API’s. Monitors the system performance by performing regular tests, troubleshoots, and integrates new features.
+* Lead in analysis of data and the design the data architecture to support BI, AI/ML and data products.
+* Designs and implements data platform architecture to meet organization analytical requirements. Ensures the solution designs address operational requirements such as scalability, maintainability, extensibility, flexibility, and integrity.
+* Provide technical leadership and mentorship to team members. Leads peer development and code reviews with focus on test driven development and Continuous Integration and Continuous Development (CICD).
+
+
+
+  
+
+
+
+
+
+**Requirements:** 
+
+
+
+* Bachelor’s degree in computer science, information systems, data science, management information systems, mathematics, physics, engineering, statistics, economics, and/or a related field required.
+* Master’s degree in computer science, information systems, data science, management information systems, mathematics, physics, engineering, statistics, economics, and/or a related field preferred.
+* Minimum of eight (8\\) years of experience as a data engineer with full\\-stack capabilities
+* Minimum of ten (10\\) years of Experience in programming
+* Minimum of five (5\\) years in Cloud technologies like Azure, Aws or Google.
+* Strong SQL Knowledge
+* Experience in ML and ML Pipeline a plus
+* Experience in real\\-time integration, developing intelligent apps and data products.
+* Proficiency in Python and experience with CI/CD practices
+* Strong background in IAAS platforms and infrastructure
+* Hands\\-on experience with Databricks, Spark, Fabric, or similar technologies
+* Experience in Agile methodologies
+* Hands\\-on experience in the design and development of data pipelines and data products
+* Experience in developing data ingestion, data processing, and analytical pipelines for big data, NoSQL, and data warehouse solutions.
+* Hands\\-on experience implementing data migration and data processing using Azure services: ADLS, Azure Data Factory, Event Hub, IoT Hub, Azure Stream Analytics, Azure Analysis Service, HDInsight, Databricks Azure Data Catalog, Cosmo Db, ML Studio, AI/ML, etc.
+* Extensive experience in Big Data technologies such as Apache Spark and streaming technologies such as Kafka, EventHub, etc.
+* Extensive experience in designing data applications in a cloud environment.
+* Intermediate experience in RESTful APIs, messaging systems, and AWS or Microsoft Azure.
+* Extensive experience in Data Architecture and data modeling
+* Expert in data analysis and data quality frameworks.
+* Knowledgeable with BI tools such as Power BI and Tableau.
+* Ability to work in a fast\\-paced, dynamic environment and manage multiple priorities effectively
+* Excellent communication and collaboration skills
+* Advanced understanding of data security best practices.
+* Advanced understanding of systems and data integration architecture
+* Critical thinking is a must.
+* Problem\\-solving skills, including the ability to look for root causes and implementable, workable solutions, as well as process improvement ability.
+* Proven ability to perform high\\-quality technical documentation and presentations.
+* Excellent organization, time management, and communication skills.
+* Ability to be an effective member of project teams.
+* Demonstrate professionalism, flexibility/adaptability, and ability to multi\\-task and work in a team environment.
+
+
+
+  
+
+
+
+
+
+**Build your career with us:** 
+
+
+
+
+ At AMH, we know what it takes to feel at home. That’s not just our product; it’s also our culture. We work to maintain a people\\-first culture of trust, belonging, and inclusion, where our employees are empowered to collaborate and take initiative. If you’re ready to elevate your career, we hope you'll consider making your home with us. Apply today and a member of our Talent Acquisition team will reach out soon! To learn more about our workplace, please visit amh.com/careers.
+ 
+
+
+
+  
+
+
+
+
+
+**CA Privacy Notice:** 
+ To learn more about what information we collect when you apply for a job, and how we use that information, please see our CA Job Applicant Privacy Notice found at http://employeeprivacy.amh.com/
+ 
+
+
+
+ \\#DICE","Real Estate","https://www.linkedin.com/company/amhliving","https://media.licdn.com/dms/image/v2/D560BAQGkPaBXVTao1A/company-logo_100_100/company-logo_100_100/0/1696443954125/amhliving_logo?e=2147483647&v=beta&t=2zU3QF1d1gMm24DH4qeZsOUTpQGNG08RJEKymb1bQyM","","","","",""
+"li-4148191623","linkedin","https://www.linkedin.com/jobs/view/4148191623","https://careers.ey.com/ey/job/New-York-AI-&-Machine-Learning-Engineer-TMT-Manager-Consulting-Location-OPEN-NY-10001-8604/1170728801/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin&urlHash=AhUk","AI & Machine Learning Engineer - TMT - Manager - Consulting - Location OPEN","EY","Las Vegas, NV","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","ssc.customersupport@ey.com","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+   
+
+  
+
+ The exceptional EY experience. It's yours to build.
+   
+
+  
+
+ EY focuses on high\\-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+   
+
+  
+
+**AI/Machine Learning Engineer – TMT – Manager \\- Consulting**
+**The opportunity**
+ Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side\\-by\\-side with clients and diverse teams from EY to create a well\\-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast\\-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+   
+
+  
+
+**Your Key Responsibilities**
+ You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+   
+
+  
+
+ You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+   
+
+  
+
+**Skills And Attributes For Success**
+ This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+   
+
+  
+
+**To qualify for the role you must have**
+* Bachelor's degree and 6\\-10 years of full\\-time working experience in AI, Data Science, and/or Machine Learning
+* 2\\-4 years of experience directly managing technical teams
+* Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends.
+* Strong skills in Python.
+* Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall\\-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG).
+* Experience working with popular ML packages such as scikit\\-learn, Pytorch and ONNX, or related ML libraries.
+* Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases.
+* Proven ability to design and implement machine learning solutions that enhance network performance and customer experience.
+* Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science.
+* Experience analyzing large\\-scale datasets from telecommunications networks, including call detail records and performance metrics.
+* Knowledge of streaming video and audio technologies, including analytics and content recommendation systems.
+* Experience with multi\\-modal models, including vision\\-language models.
+* Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications.
+* Knowledge of regulatory and compliance considerations specific to the TMT sector.
+* Experience with real\\-time data processing frameworks (e.g., Apache Kafka).
+* Familiarity with cloud\\-based telecommunications solutions (e.g., AWS, Azure).
+* Experience with network optimization algorithms and techniques.
+* Knowledge of emerging technologies such as edge computing and IoT.
+* A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions.
+* Experience with MLOps methods and platforms such as MLFlow.
+* Experience with CI/CD and test\\-driven development.
+* Experience designing, building, and maintaining ML models, frameworks, and pipelines.
+* Experience designing and deploying end to end ML workflows on at least one major cloud computing platform.
+* Understanding of data structures, data modelling and software engineering best practices.
+* Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark.
+* Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions.
+* Experience with containerization and scaling models.
+* Integrating models and feedback from downstream consumption systems \\- reporting and dashboards, AI driven applications.
+* Strong mathematical and quantitative skills including calculus, linear algebra, and statistics.
+* Willingness to travel to meet client obligations.
+
+
+**Ideally, you'll also have**
+* A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them.
+* Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field.
+* Experience working with diverse teams to deliver complex solutions.
+* Strong skills in languages beyond Python: R, JavaScript, Java, C\\+\\+, C.
+* Experience fine\\-tuning Generative AI models.
+
+
+**What We Look For**
+* You have an agile, growth\\-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.
+* You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.
+* You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.
+
+
+**What We Offer**
+ We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200\\. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600\\. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team\\-led and leader\\-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40\\-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well\\-being.
+   
+
+  
+
+* Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+* Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+* Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+* Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+
+ EY accepts applications for this position on an on\\-going basis.
+ **If you can demonstrate that you meet the criteria above, please contact us as soon as possible.**
+ EY exists to build a better working world, helping to create long\\-term value for clients, people and society and build trust in the capital markets.
+   
+
+  
+
+ Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+   
+
+  
+
+ Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+   
+
+  
+
+ For those living in California, please click here for additional information.
+   
+
+  
+
+ EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+   
+
+  
+
+ EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1\\-800\\-EY\\-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com","IT Services and IT Consulting","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","",""
+"zr-J6irLT2an6K3HX8iGQFebw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=J6irLT2an6K3HX8iGQFebw","","Senior Backend Engineer","Meltwater","Las Vegas, NV, USA","2025-02-12","","direct_data","yearly",160000.0,190000.0,"USD","","","","organic","","Description
+ 
+
+
+
+
+ What We're Looking For:
+ 
+
+
+
+
+
+
+ Join us as a Senior Backend Engineer, a pivotal role where you'll spearhead the development and optimization of our backend infrastructure, define our backend technology stack roadmap, and architect scalable systems. You'll conduct design reviews, mentor junior developers, and lead complex backend tasks while ensuring our alignment with industry\\-leading practices and technologies.
+ 
+
+ Our solutions rely on robust backend technologies. We utilize TypeScript with Node.js for backend development, and our technology stack includes tools like Serverless Framework, Kubernetes, Terraform, and GraphQL. Our databases include MongoDB, DynamoDB, and RDS, managed within AWS and Azure infrastructures. We implement CI/CD pipelines and infrastructure as code methodologies to ensure seamless deployment and scalability.
+ 
+
+ Through our innovative platform, we empower our clients to achieve their goals efficiently. As a backend engineer, you'll contribute to automating and optimizing our services, ensuring our clients receive the best possible performance and reliability.
+ 
+
+ Partner with us and become part of a diverse community that values your unique contributions, empowering you to reach new heights in backend software engineering. Join us in crafting something extraordinary.
+ 
+
+
+
+
+
+
+ What You'll Do:
+ 
+
+
+
+
+
+* Design, develop, and maintain robust and scalable backend systems using modern technologies and best practices.
+* Lead the implementation of new features and functionalities, ensuring high\\-quality code and adherence to coding standards.
+* Collaborate closely with cross\\-functional teams to deliver end\\-to\\-end solutions meeting business requirements.
+* Optimize and enhance existing backend systems for performance, scalability, and reliability.
+* Troubleshoot and debug complex technical issues, providing timely resolutions and recommendations.
+* Conduct code reviews and provide constructive feedback to maintain high coding standards and foster continuous improvement.
+* Stay updated with the latest backend development technologies, tools, and best practices, sharing knowledge with the team.
+* Mentor junior engineers, contributing to their professional growth and development.
+* Participate in architectural discussions, design reviews, and technical planning sessions to shape the future direction of our backend systems.
+* Collaborate with DevOps and infrastructure teams to ensure seamless deployment and operation of backend services in production environments.
+
+
+
+ What You'll Bring:
+ 
+
+
+
+
+
+* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+* Minimum of 5 years experience in a backend software engineering role
+* A proven track record in designing complex backend architectures.
+* Experience with NodeJS and TypeScript
+* Experience with AWS and/or Azure
+* Experience with SQL and NoSQL databases (MongoDB, DynamoDB, RDS)
+* Experience with Terraform, CloudFormation, or similar
+* Experience building services utilizing REST and/or GraphQL
+* Experience with Serverless Framework and Kubernetes
+* Experience with building and running applications in production utilizing serverless technologies
+* Experience with Agile software development and working within defined project management methodologies and timelines
+* Willingness to work in office on a team environment X days per week
+
+
+
+
+
+
+
+
+ America Compensation:
+ 
+* Total compensation range for this position: $160,000 \\-$190,000 USD per year.
+
+
+
+**Where You'll Work: 10845 Griffith Peak Drive Las Vegas, NV 89135** 
+  
+
+  
+
+
+
+
+
+  
+ 
+
+
+
+  
+ 
+
+
+
+  
+ 
+
+
+
+ Our Story
+ 
+
+ The sky's the limit at Meltwater.
+ 
+
+
+
+ At Meltwater, we believe that when you have the right people in the right working environment, great things happen. Our best\\-in\\-class technology empowers our 27,000 customers around the world to analyze over a billion pieces of data each day and make better business decisions. 
+   
+
+  
+
+
+
+ Our award\\-winning culture is our north star and drives everything we do \\- from striving to create an environment where all employees do their best work, to delivering customer value by continuously innovating our products \\- and making sure to celebrate our successes and have fun along the way.
+   
+
+  
+
+
+
+ We're proud of our diverse team of 2,300\\+ employees in 50 locations across 25 countries around the world. No matter where you are, you'll work with people who care about your success and get the support you need to reach your goals. 
+   
+
+  
+
+
+
+ So, in a nutshell, that's Meltwater. We love working here, and we think you will too. 
+ 
+
+
+
+
+
+
+ Equal Employment Opportunity Statement
+ 
+
+ Meltwater is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: At Meltwater, we are dedicated to fostering an inclusive and diverse workplace where every employee feels valued, respected, and empowered. We are committed to the principle of equal employment opportunity and strive to provide a work environment that is free from discrimination and harassment.
+ 
+
+
+
+
+
+
+ All employment decisions at Meltwater are made based on business needs, job requirements, and individual qualifications, without regard to race, color, religion or belief, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, marital status, veteran status, or any other status protected by the applicable laws and regulations.
+   
+
+  
+
+
+
+ Meltwater does not tolerate discrimination or harassment of any kind, and we actively promote a culture of respect, fairness, and inclusivity. We encourage applicants of all backgrounds, experiences, and abilities to apply and join us in our mission to drive innovation and make a positive impact in the world.","","","","","","","",""
+"zr-T7WZOXsKVooPQzCrTGsgvQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=T7WZOXsKVooPQzCrTGsgvQ","","IT Support Services III-Help Desk","Courser","Las Vegas, NV, USA","2025-02-12","fulltime","","","","","","","","","organic","","**Who we are** 
+  
+   
+
+ COURSER is a partnership platform that helps technology service companies identify and take the next step in growth. Our organization has a strong company culture built on our values of Teamwork, Service, Growth\\-Minded, Trust, and Innovative. Our team dedicates their time working together to provide phenomenal experience for our customers. Be ready to join a fast\\-paced, ever\\-evolving IT company that is bringing on new customers and team members to continue strong growth into the future. 
+   
+
+  
+   
+
+**IT Support Services III\\-Help Desk** 
+  
+
+  
+
+ We are seeking a highly skilled IT Support Engineer III to join our team and provide expert technical support to our organization. The ideal candidate will have significant experience in IT support, with the ability to troubleshoot and resolve complex issues across various systems and platforms. This role will involve collaborating with other IT team members, mentoring junior engineers, and contributing to the overall efficiency of our IT operations.
+   
+
+  
+
+**Key Responsibilities:** 
+  
+ * **Advanced Technical Support** 
+ : Provide third\\-tier support for complex hardware, software, and networking issues escalated from lower\\-tier support teams, ensuring timely resolution and minimal downtime.
+* **Problem Diagnosis and Resolution** 
+ : Utilize strong analytical skills to diagnose issues and implement effective solutions, ensuring that root causes are addressed to prevent recurrence.
+* **System Administration** 
+ : Assist in the management and administration of IT systems, including servers, databases, and cloud services, ensuring optimal performance and security.
+* **User Support and Training** 
+ : Offer high\\-level support to end\\-users, providing guidance and training on IT systems and applications to enhance user experience.
+* **Documentation and Knowledge Management** 
+ : Maintain comprehensive documentation of technical procedures, troubleshooting steps, and solutions to enhance the knowledge base for future reference.
+* **Project Participation** 
+ : Collaborate on IT projects, such as system upgrades, software deployments, and infrastructure enhancements, ensuring successful execution within project timelines.
+* **Mentorship** 
+ : Mentor and support junior IT support staff, providing technical guidance and sharing knowledge to develop their skills and capabilities.
+* **Monitoring and Maintenance** 
+ : Monitor system performance and security, proactively identifying and resolving potential issues before they impact users.
+* **Incident Management** 
+ : Participate in incident response activities, including investigating security incidents and recommending appropriate corrective actions.
+* **Collaboration** 
+ : Work closely with other IT teams, including network, security, and application support, to ensure seamless service delivery and address complex issues.
+
+
+  
+
+**Key Qualifications:** 
+* **Bachelor’s degree in Computer Science, Information Technology, or a related field** 
+ (or equivalent experience).
+* **5\\+ years of experience** 
+ in IT support or system administration, with a focus on advanced troubleshooting and complex technical issues.
+* Strong knowledge of operating systems (e.g., Windows, Linux, macOS) and enterprise applications.
+* Extensive experience with networking concepts, including TCP/IP, DNS, DHCP, and VPN configurations.
+* Proficiency with helpdesk and ticketing systems (e.g., ServiceNow, JIRA, Zendesk).
+* Excellent problem\\-solving skills, with the ability to work independently and manage multiple priorities effectively.
+* Strong communication skills, capable of conveying technical concepts to non\\-technical users.
+
+
+  
+
+**Preferred Experience:** 
+* Experience with ConnectWise
+* Relevant certifications such as CompTIA A\\+, Network\\+, or Microsoft Certified Solutions Expert (MCSE).
+* Experience with cloud platforms (e.g., AWS, Azure) and virtualization technologies (e.g., VMware, Hyper\\-V).
+* Knowledge of IT security practices and data protection regulations.
+
+
+  
+
+**What we do for you** 
+  
+   
+
+ At COURSER we prioritize our employees’ personal and professional development, offering best in class training, mentorship, and opportunities for growth through our self\\-promotion paths. We encourage innovation and challenging the status quo. With teams across the country, we have a wealth of knowledge and a team that is eager to share and grow together.  
+   
+
+  
+   
+
+**Benefit Highlights** 
+  
+ * Competitive benefits package, including medical, dental, vision, and life insurance
+* 401k match
+* Flexible PTO
+* 10 Holidays including your Birthday and a Floating Holiday!
+* Gym reimbursement
+* Amazon Prime reimbursement
+* 40 Hours for Volunteer Time
+* Paid Maternity and Paternity leave
+* Paid certifications
+* Learning and development programs
+
+
+  
+   
+
+ Courser is an equal opportunity employer.  Applications are considered for positions without regard to veteran status, uniformed service member status, race, creed, color, religion, gender, gender identity, sex, sexual orientation, citizenship status, national origin, marital status, age, physical or mental disability, genetic information, caregiver status or any other category protected by applicable federal, state, or local laws.   
+   
+
+  
+ 
+ Powered by JazzHR
+ 
+
+
+
+ baDLkyudFR","","","","","","","",""
+"zr-bQdHIorEKu12budFwXPIbw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=bQdHIorEKu12budFwXPIbw","","Security Engineer","Cherokee Federal","North Las Vegas, NV, USA","2025-02-12","","direct_data","yearly",75000.0,90000.0,"USD","","","","organic","","**Security Engineer** 
+
+
+
+
+  
+ 
+
+
+
+ As required by our governmental client, this position requires being a US Citizen AND an active
+ **DoE Q** 
+ clearance or the ability to obtain a 
+ **DoE Q** 
+ clearance to be considered. 
+ 
+
+
+
+  
+ 
+
+
+
+ We are seeking a highly skilled and motivated Security Engineer to support the maintenance, performance, and security of enterprise systems. The ideal candidate will troubleshoot technical issues, support software and hardware operations, and execute system administration tasks to ensure stable and secure system performance.
+ 
+
+
+
+  
+ 
+
+
+
+**Compensation \\& Benefits:** 
+
+
+
+
+ Estimated Starting Salary Range for
+ **Security Engineer** 
+ : $75,000 to $90,000
+ 
+
+
+
+ Pay commensurate with experience.
+ 
+
+
+
+ Full time benefits include Medical, Dental, Vision, 401K, and other possible benefits as provided.  Benefits are subject to change with or without notice.
+ 
+
+
+
+  
+ 
+
+
+
+**Security Engineer Responsibilities Include:** 
+
+
+
+* Follow up on technical issues with operations, call center teams, and stakeholders for timely resolution.
+* Support software and hardware issues to ensure stable system performance.
+* Execute system administration tasks, including performance tuning for workstations, applications, and network infrastructure on Microsoft Windows environments.
+* Partner with team members to integrate Linux/Unix services with Microsoft Windows systems.
+* Support system/server infrastructure maintenance, including patching, upgrades, backup, and configuration management.
+* Conduct problem management and root cause analysis to prevent incident recurrence.
+* Perform forensic analysis, triage, and break/fix tasks for system server\\-related issues.
+* Manage user accounts, including creation, deletion, and access control.
+* Identify and address process gaps, improving system inefficiencies.
+* Maintain up\\-to\\-date knowledge through certification and professional development.
+* Performs other job\\-related duties as assigned
+
+
+
+  
+ 
+
+
+
+**Security Engineer Experience, Education, Skills, Abilities requested:** 
+
+
+
+* Five (5\\) years of relevant experience.
+* Bachelor's degree in Computer Science, Information Technology, or a related engineering discipline (or four (4\\) years of work experience in lieu of a degree).
+* Compliance with DoD 8570 CND\\-IAT I, II, or III within 12 months of hire.
+* Minimum of 3\\+ years' experience supporting Windows/Linux servers in a hybrid enterprise environment.
+* Strong problem\\-solving and root cause analysis skills.
+* Intermediate knowledge of system security technologies.
+* Customer service focus and strong communication skills.
+* Ability to work independently and follow established procedures.
+* Must pass pre\\-employment qualifications of Cherokee Federal
+
+
+
+  
+ 
+
+
+
+**Company Information:** 
+
+
+
+
+**Criterion** 
+ is a part of Cherokee Federal \\- the division of tribally owned federal contracting companies owned by Cherokee Nation Businesses. As a trusted partner for more than 60 federal clients, Cherokee Federal LLCs are focused on building a brighter future, solving complex challenges, and
+ **serving** 
+ the government's mission with compassion and heart. To learn more about
+ **Criterion** 
+ , visit cherokee\\-federal.com.
+ 
+
+
+
+  
+ 
+
+
+
+**\\#CherokeeFederal \\#LI** 
+
+
+
+
+  
+ 
+
+
+
+ Cherokee Federal is a military friendly employer. Veterans and active military transitioning to civilian status are encouraged to apply.
+ 
+
+
+
+  
+ 
+
+
+
+ Similar searchable job titles:
+ 
+
+
+* Systems Security Engineer
+* Cybersecurity Engineer
+* Network Security Engineer
+* IT Security Specialist
+* Infrastructure Security Engineer
+
+
+
+ Keywords:
+ 
+
+
+* Systems Administration
+* Cybersecurity
+* Problem Resolution
+* Windows/Linux Integration
+* Incident Management
+
+
+
+  
+ 
+
+
+
+**Legal Disclaimer:** 
+ Cherokee Federal is an equal opportunity employer. Please visit cherokee\\-federal.com/careers for information regarding our Affirmative Action and Equal Opportunity Employer Statement, and Accommodation request.
+ 
+
+
+
+ Many of our job openings require access to government buildings or military installations. Candidates must pass pre\\-employment qualifications of Cherokee Federal.","","","","","","","",""
+"zr-ACRqIr1XoXzDD9jtce_taA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=ACRqIr1XoXzDD9jtce_taA","","Labor Analyst II - Corporate (Las Vegas)","Ceasars Entertainment","Las Vegas, NV, USA","2025-02-12","","","","","","","","","","organic","","**KEY JOB FUNCTIONS** 
+ :
+ 
+
+
+* Conduct objective, rigorous analytics to help the business improve profitability, operational processes, and customer service through identification and evaluation of labor optimization opportunities (e.g., cross\\-property benchmarking, labor productivity standards, overtime management, headcount efficiency)
+* Distill vast datasets into actionable insights and recommendations that guide decisions and strategies.  Contribute to the development of presentation materials and assist in presenting findings to senior management concisely in verbal and written formats
+* Play an active role in the development, roll\\-out, and post\\-launch evaluation of strategic projects
+* Develop and support reporting for operating departments to provide senior leaders visibility into trends and business performance drivers
+* Use technology (e.g., SQL, R, Tableau, Google BigQuery, Python) to develop analytics and reporting tools
+
+
+
+**REQUIRED QUALIFICATIONS** 
+
+
+
+* Bachelor's degree from an accredited four\\-year college
+* Experience querying, analyzing, and visualizing large data sets
+* Strength in critical thinking, problem solving, and written and verbal communication. Comfort in articulating complex information and analyses to a variety of audiences
+* Intellectual curiosity and willingness to quickly learn relevant database applications and software, as well as industry\\-specific terminology and dynamics
+* Demonstrated interest in a career in data\\- and analytics\\-driven business
+* Desire to understand a broad range of operations within the casino and hospitality industry
+* Ability to manage multiple projects simultaneously, and meet deadlines while consistently delivering accurate and high\\-quality work
+* Demonstrated ability to work effectively in a team\\-oriented environment
+* Ability to uphold and demonstrate the highest level of integrity
+* 1\\+ years of Prior experience in the Labor industry
+* Experience in working with Microsoft Excel and PowerPoint; Hyperion experience.
+* Proficiency in one or more of the following programming languages: SQL, R, VBA, Sass, Python, and/or experience in working with Google BigQuery.
+
+
+
+**PREFERRED QUALIFICATIONS** 
+
+
+
+* Bachelor's Degree in one of the following areas: Finance, Marketing, Engineering, Economics, Mathematics/Statistics, Hotel Management, Business, or Data Science
+* 2\\+ years of Prior experience in the Labor industry
+* Exposure to statistical analysis or optimization analytics
+* Proficiency in two or more of the following programming languages: SQL, R, VBA, Sass, Python, and/or experience in working with Google BigQuery.
+* Experience with data visualization tools, such as Tableau or Power BI
+
+
+ At Caesars Entertainment, Inc., our Team Members create the extraordinary. We are the largest casino\\-entertainment company in the U.S. and one of the world's most diversified casino\\-entertainment providers. Since beginning in Reno, Nevada, in 1937, Caesars Entertainment has grown through the development of new resorts, expansions and acquisitions. Our resorts operate primarily under the Caesars, Harrah's, Horseshoe and Eldorado brand names. We focus on building loyalty and value with our guests through a combination of impeccable service, operational excellence and technological leadership. The company is committed to its Team Members, suppliers, communities and the environment through its PEOPLE PLANET PLAY framework.  
+   
+
+  
+
+ Our Caesars family is driven by our Mission, Vision and Values. We take great pride in living these values \\- Together We Win, All In On Service and Blaze the Trail \\- every day. Our mission, ""Create the Extraordinary"". Our vision, ""Create spectacular worlds. That immerse, inspire and connect you. We don't perform magic; we create it with excellence. \\#WeAreCaesars"".  If you are ready to create some magic, we invite you to explore our dynamic, yet unique, career opportunities.","","","","","","","",""
+"zr-VMTQdDhWBiOD0-gtdM5ZZw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=VMTQdDhWBiOD0-gtdM5ZZw","","Systems Engineer II","Courser","Las Vegas, NV, USA","2025-02-12","fulltime","","","","","","","","","organic","","**Who we are** 
+
+
+
+
+ COURSER is a partnership platform that helps technology service companies identify and take the next step in growth. Our organization has a strong company culture built on our values of Teamwork, Service, Growth\\-Minded, Trust, and Innovative. Our team dedicates their time working together to provide phenomenal experience for our customers. Be ready to join a fast\\-paced, ever\\-evolving IT company that is bringing on new customers and team members to continue strong growth into the future.
+ 
+
+
+
+  
+
+**Systems Engineer II** 
+
+
+
+
+ An MSP Systems Engineer II (Managed Service Provider Systems Engineer) is a professional responsible for managing and supporting the IT infrastructure of client organizations within a Managed Service Provider (MSP) environment. Their primary role is to ensure the efficient, secure, and reliable operation of systems and networks, provide technical support, and implement solutions that improve the client’s IT environment. The role typically involves working with a wide range of technologies, from networking and servers to security systems and cloud services.
+ 
+
+
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Install, configure, and maintain IT infrastructure, including servers, workstations, networks, and software applications for client organizations.
+* Deploy, configure, and manage operating systems (Windows Server, Linux, etc.), virtualization technologies, and cloud services.
+* Monitor and maintain servers, network devices, and other IT infrastructure components.
+* Ensure the optimal performance and uptime of client networks by configuring routers, switches, firewalls, VPNs, and other networking equipment.
+* Troubleshoot and resolve network and server issues, such as connectivity problems, latency, or hardware failures.
+* Implement security best practices, including firewall configurations, antivirus solutions, encryption, and secure authentication mechanisms.
+* Manage vulnerability assessments, patch management, and intrusion detection/prevention systems.
+* Assist in disaster recovery planning and business continuity strategies to minimize downtime during outages.
+* Provide technical support for client systems, responding to incidents and resolving issues related to hardware, software, networking, and security.
+* Offer solutions to complex IT challenges, ensuring high availability and system performance.
+* Serve as an escalation point for complex issues that require in\\-depth technical knowledge.
+* Monitor the health and performance of client networks and systems using monitoring tools (e.g., Nagios, SolarWinds, Datto).
+* Optimize system performance through regular maintenance, updates, and improvements.
+* Proactively identify potential issues and take corrective actions to prevent system failures or performance degradation.
+* Support and manage client cloud services (e.g., Microsoft 365, AWS, Azure, Google Cloud) and virtualized environments (e.g., VMware, Hyper\\-V).
+* Assist with cloud migrations, configuration, backup, and restore processes.
+* Ensure the smooth operation of virtual machines, storage, and network configurations in cloud environments.
+* Configure and manage backup solutions for client environments to ensure business continuity.
+* Regularly test and verify backup systems and procedures to ensure data integrity and the ability to restore systems in case of failure.
+* Maintain detailed documentation of client systems, networks, configurations, and service tickets.
+* Provide periodic reports on system performance, uptime, security status, and any incidents or issues addressed.
+* Create and update SOPs (Standard Operating Procedures) for common systems and services.
+* Build strong relationships with clients by understanding their needs and providing timely technical solutions.
+* Communicate technical information in an accessible and understandable way to non\\-technical stakeholders.
+* Participate in regular meetings with clients to discuss IT needs, challenges, and opportunities for improvement.
+* Assist with or lead technical projects, such as server migrations, network upgrades, new software implementations, or cloud integrations.
+* Manage project timelines, resources, and communication to ensure successful and timely project delivery.
+* Work closely with other engineers, technicians, and support teams to resolve client issues and implement solutions
+* Collaborate with account managers to ensure client satisfaction and effective service delivery.
+
+
+
+**Key Qualifications:** 
+
+
+
+* Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+* 4\\-5 years of experience in systems engineering, IT infrastructure, or a related field, with a strong understanding of system architecture and design principles.
+* Proficiency in operating systems (e.g., Windows, Linux) and virtualization technologies (e.g., VMware, Hyper\\-V).
+* Strong knowledge of networking concepts, protocols, and security practices (e.g., TCP/IP, DNS, DHCP, VPN).
+* Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) and automation tools (e.g., Ansible, Terraform) is a plus.
+* Excellent problem\\-solving skills, with the ability to analyze complex systems and propose effective solutions.
+* Strong communication and interpersonal skills, capable of collaborating effectively with team members and stakeholders.
+
+
+
+**Preferred Experience:** 
+
+
+
+* Experience with ConnectWise
+* Relevant certifications (e.g., CompTIA Server\\+, Microsoft Certified: Azure Administrator, AWS Certified Solutions Architect) are advantageous.
+* Experience with scripting or programming languages (e.g., Python, Bash, PowerShell) for automation tasks.
+* Familiarity with database management systems (e.g., SQL Server, MySQL) and data backup and recovery solutions.
+
+
+
+**What we do for you** 
+
+
+
+
+ At COURSER we prioritize our employees’ personal and professional development, offering best in class training, mentorship, and opportunities for growth through our self\\-promotion paths. We encourage innovation and challenging the status quo. With teams across the country, we have a wealth of knowledge and a team that is eager to share and grow together.
+   
+
+  
+ 
+
+
+
+**Benefit Highlights** 
+
+
+
+* Competitive benefits package, including medical, dental, vision, and life insurance
+* 401k match
+* Unlimited Approved PTO after one year (2 weeks your first year)
+* 10 Holidays including your Birthday and a Floating Holiday
+* Gym reimbursement
+* Amazon Prime reimbursement
+* 40 Hours for Volunteer Time
+* Paid Maternity and Paternity leave
+* Paid certifications
+* Learning and development programs
+
+
+
+ Courser is an equal opportunity employer. Applications are considered for positions without regard to veteran status, uniformed service member status, race, creed, color, religion, gender, gender identity, sex, sexual orientation, citizenship status, national origin, marital status, age, physical or mental disability, genetic information, caregiver status or any other category protected by applicable federal, state, or local laws.
+ 
+
+
+
+ Powered by JazzHR
+ 
+
+
+
+ 57p6id7m0q","","","","","","","",""
+"zr-qvoMv4L7ewW0kMkmfzZ1CA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=qvoMv4L7ewW0kMkmfzZ1CA","","Supervising Developer","Link Technologies","Las Vegas, NV, USA","2025-02-12","","","","","","","","","","organic","","Link Technologies (LinkTechConsulting.com), a Las Vegas\\-based IT consulting firm, is currently seeking a Supervising Developer to join our team. REQUIREMENTS Bachelor's degree from an accredited college or university in Management Information Systems (MIS), Computer Science (CS), or a related field. Minimum of five (5\\) years of effective supervisory experience in an administrative position, successful service in a similar or related role
+ 
+
+
+
+ Minimum of four (4\\) years of experience with Student Information Systems, SQL Server, and hosted application development. Minimum of three (3\\) years of experience in application development and management of enterprise\\-level systems, including at least one (1\\) year of successful supervisory experience in a technology\\-related role. Proven technical and organizational abilities to address and resolve complex technical challenges.
+ 
+
+
+
+ Knowledge with student information systems and/or web\\-based applications. Experience with MS SQL Server and relational database management systems. Understanding of the software development life cycle (analysis, planning, development, and deployment).
+ 
+
+
+
+ Knowledge of how software is placed into production and monitored. Understanding of other key information technologies such as computers, routers, servers, and associated software. Knowledge of common error identification and cleanup methodologies.
+ 
+
+
+
+ Ability to manage multiple projects of varying priorities simultaneously. Experience maintaining information security awareness and follow good practices to keep system and data secure. Able to work cooperatively and effectively within a team and with other school, departmental, and administrative personnel as needed.
+ 
+
+
+
+ Experience solving complex problems with strong critical thinking, analysis, and troubleshooting skills. Able to break down complex technical issues for stakeholders into less\\-technical terms that they can understand. Communicate effectively in both verbal and written communications.
+ 
+
+
+
+ Ability to plan, develop, and communicate about error identification strategies and reporting. Able to work under pressure and meet deadlines. PREFERRED QUALIFICATIONS Bachelor's degree from an accredited institution in a Science, Technology, Engineering, or Math (STEM) field.
+ 
+
+
+
+ RESPONSIBILITIES Develops, coordinates, implements, and tests cross\\-functional development related to the function and use of the ECS as it pertains to Student Information Systems (SIS). Maintains system integrity, data dictionaries, knowledge sites, and associated business rules based on the needs of CCSD while ensuring compliance with state and federal laws through strong leadership, interpersonal skills, and knowledge of common system analysis techniques. Conducts analyses, develop/update documentation, and perform extensive testing, technical development support, and oversight of the ECS.
+ 
+
+
+
+ Supervises, trains, and supports staff, SIS Help Desk, and the User Support Services (USS) Help Desk to assist users in the proper usage of error reporting. Supervises Coordinators' development of ECS content to include Java Server Pages (JSP), SQL Server Reporting Services (SSRS) reporting, error check reporting, and Structured query language (SQL) queries/jobs/extracts. Manages multiple ECS projects working with vendors, internal SIS teams, and other external departments within CCSD to deliver accurate, detailed error reporting.
+ 
+
+
+
+ Plans, schedules, and performs implementation tasks for the ECS based upon system design specifications and CCSD business needs including creation of test plans and scripts, documentation of test results, and retesting, as necessary. Performs root cause analysis in troubleshooting and resolution of complex problems with business\\-of\\-education related software systems which may result in software modifications or vendor support tickets. Provides ECS assistance to departments and division leadership; this includes one\\-on\\-one training, resolving technical issues, and answering questions as assigned.
+ 
+
+
+
+ Performs other duties related to the position, as assigned. Link Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without discrimination based on race, color, religion, sex, gender identity/expression, sexual orientation, national origin, protected veteran status, disability, or any other factors protected by law.","","","","","","","",""
+"zr-xGhJOR1hEWZaQ2_pdZ1y_A","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=xGhJOR1hEWZaQ2_pdZ1y_A","","Assistant Manager - Facilities (Caesars Forum LV)","Ceasars Entertainment","Las Vegas, NV, USA","2025-02-12","","","","","","","","","","organic","","Scope:
+   
+
+ This technical leadership role requires a seasoned facilities professional to oversee convention 
+   
+
+ center operations, ensuring adherence to enterprise\\-wide performance standards. Responsibilities 
+   
+
+ encompass supervising a small team and multiple vendors, managing departmental budgets, executing preventative and 
+   
+
+ corrective maintenance, troubleshooting and repairing mechanical systems, managing special 
+   
+
+ projects, and ensuring overall facility operational efficiency. Flexibility is crucial, as hours 
+   
+
+ may vary to meet client demands. The ideal candidate possesses both strong hands\\-on maintenance 
+   
+
+ skills and proven management expertise.
+ 
+
+
+
+ Technical Responsibilities
+   
+
+  Perform routine ongoing preventive maintenance and repair work on facility mechanical, 
+   
+
+ electrical, and other installed systems, food and beverage areas and the outside perimeter of the 
+   
+
+ property including landscaped and parking areas.
+   
+
+  Operate power and hand tools to complete job assignments.
+   
+
+  Use diagnostic tools to find and determine source of power and gas issues using a voltmeter or 
+   
+
+ gauges.
+   
+
+  Read and understand blueprints, wiring schematics to install, and work on mechanical system and 
+   
+
+ components.
+   
+
+  Maintain a constant awareness of property cleanliness, safety, and accident prevention. Ensure 
+   
+
+ building infrastructure needs are being monitored, tracked, and maintained to ensure optimum 
+   
+
+ efficiency and reliability.
+   
+
+  Respond to emergencies.
+   
+
+  Support any afterhours building needs and activities as required.
+   
+
+  Perform other job\\-related duties as requested
+   
+
+  Perform facility inspections and report on conditions affecting operations, prepare and submit 
+   
+
+ summary reports and recommend actions to be taken.
+   
+
+  Utilize the Maintenance Management System to receive and track work.
+ 
+
+
+
+ Administrative Support Duties and Responsibilities
+   
+
+  Ensure complete compliance with all regulating entities affecting the field of work including 
+   
+
+ but not limited to Fire Department, Building Department, Health Department, OSHA, NLRB, EPA, NEC, 
+   
+
+ IBC and NFPA.
+   
+
+  Manage outside contractors on all outsourced projects to ensure compliance, high levels of 
+   
+
+ execution, warranties, minimized waste and budgetary compliance. Develop proposal requests and 
+   
+
+ scope of work for small projects. Hold vendors accountable for delivering agreed\\-upon scopes.
+   
+
+  Understand Building and Administrative Code requirements and permit exemptions. Must ensure full 
+   
+
+ compliance with code enforced work and the integration of permit and inspection
+   
+
+ processes.
+ 
+
+
+
+  Leverage the maintenance management software and framework to drive continuous improvement 
+   
+
+ within the facilities department by using data to improve processes and efficiency; ensuring 
+   
+
+ optimum staffing to meet peak demands; and managing inventory.
+   
+
+  Support property emergency response plan with a thoroughly trained and prepared staff, including 
+   
+
+ on site availability when necessary to direct activities during such events.
+   
+
+  Provide support to the Facilities Manager and Coordination of special projects as needed and 
+   
+
+ assigned.
+   
+
+  Represent Caesars Forum in a professional manner and act as an ambassador at all times with an 
+   
+
+ extensive knowledge of the facilities, programs, and services.
+   
+
+  Conducts staff and vendor meetings on a regular basis to review department projects, safety 
+   
+
+ programs, productivity/efficiency data and a high level of communication.
+   
+
+  Provide a friendly, inclusive, and service\\-oriented environment for all team members and 
+   
+
+ guests.
+   
+
+  Demonstrate awareness of, and appreciation for individual uniqueness and diversity.
+   
+
+  Maintain prompt hours and follow absence procedures.
+   
+
+  Provide leadership in the department to create a work environment that promotes teamwork, 
+   
+
+ efficiency and productivity, recognition and respect, employee satisfaction, high caliber staffing, 
+   
+
+ training, and an exemplary role model for the department.
+ 
+
+
+
+ Minimum Candidate Requirements
+   
+
+  Prior facility maintenance experience (minimum 5 years preferred).
+   
+
+  Experience with Maintenance, Mechanical (HVAC, Chillers, Cooling Towers, and Electrical systems 
+   
+
+ (UPS, ATS, Switch gear, Transformers) within either commercial or manufacturing facilities.
+   
+
+  Strong computer skills (MS products including Excel, building automation and electronic work 
+   
+
+ order systems).
+   
+
+  Engineering or similar degree (preferred).
+   
+
+  Awareness of safety/risk management procedures.
+   
+
+  Previous supervisory/administrative/leadership experience; preferably in a commercial facilities 
+   
+
+ environment.
+   
+
+  Excellent oral and written communication skills.
+   
+
+  Candidates should be reliable, self\\-motivated, and adept at problem solving, making decisions 
+   
+
+ based on Caesars Entertainment's mission and guiding principles.
+   
+
+  Possess thorough computer abilities using Windows based computer systems. Microsoft Office 
+   
+
+ programs, Maintenance Management Programs, and Building Automation Systems.
+   
+
+  Willingness and ability to work early morning, night, weekend, and holidays.
+ 
+
+
+
+ Work Environment
+   
+
+  Office environment
+   
+
+  Property back\\-of\\-house locations
+   
+
+  Mechanical and equipment rooms
+   
+
+  Some outdoor work including roofs with ladder access","","","","","","","",""
+"zr-a2rQJbDagly-looBUeI5OA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=a2rQJbDagly-looBUeI5OA","","Enterprise Detection Engineer","Cherokee Federal","North Las Vegas, NV, USA","2025-02-12","","direct_data","yearly",100000.0,120000.0,"USD","","","","organic","","**Enterprise Detection Engineer** 
+
+
+
+
+  
+ 
+
+
+
+ As required by our governmental client, this position requires being a US Citizen AND an active
+ **DoE Q** 
+ clearance or the ability to obtain a 
+ **DoE Q** 
+ clearance to be considered. 
+ 
+
+
+
+  
+ 
+
+
+
+ We are seeking an experienced Enterprise Detection Engineer to optimize and maintain advanced threat detection capabilities across enterprise systems. The ideal candidate will align detections with industry\\-standard frameworks, collaborate with internal and external teams to enhance detection engineering programs, and support forensic analysis and incident response to close visibility gaps.
+ 
+
+
+
+  
+ 
+
+
+
+**Compensation \\& Benefits:** 
+
+
+
+
+ Estimated Starting Salary Range for
+ **Enterprise Detection Engineer** 
+ : $100,000 to $120,000
+ 
+
+
+
+ Pay commensurate with experience.
+ 
+
+
+
+ Full time benefits include Medical, Dental, Vision, 401K, and other possible benefits as provided.  Benefits are subject to change with or without notice.
+ 
+
+
+
+  
+ 
+
+
+
+**Enterprise Detection Engineer Responsibilities Include:** 
+
+
+
+* Review and audit current data sources in enterprise detection systems to ensure accuracy and effectiveness.
+* Identify and implement improvements to enterprise detections within the SIEM.
+* Enhance and optimize detections to align with evolving threat landscapes and modern attack techniques.
+* Map detections to the MITRE ATT\\&CK Framework and other relevant frameworks.
+* Support forensic analysis, incident response, and triage to identify detection gaps.
+* Build and maintain threat detection dashboards to streamline SOC workflows.
+* Integrate and maintain SOAR workflows for automated detection and indicator analysis.
+* Partner with internal and external teams to address visibility and detection gaps.
+* Develop a comprehensive detection engineering program informed by threat intelligence.
+* Integrate threat intelligence toolsets with automated detections for enriched threat identification.
+* Provide leadership briefings on current threats and EDE alignment strategies.
+* Stay current on emerging technologies and best practices through certification and training.
+* Performs other job\\-related duties as assigned
+
+
+
+  
+ 
+
+
+
+**Enterprise Detection Engineer Experience, Education, Skills, Abilities requested:** 
+
+
+
+* Five (5\\) years of relevant experience.
+* Bachelor's degree in Computer Science, Information Technology, or a related field (or four (4\\) years of relevant work experience in lieu of a degree).
+* Ability to obtain a clearance (Active DOE Q or TS clearance preferred).
+* U.S. Citizenship required (no dual citizenship permitted).
+* Compliance with DoD 8570 CND\\-IAT I, II, or III within 12 months of hire.
+* Strong problem\\-solving and root cause analysis skills.
+* Minimum of 3\\+ years' experience supporting Windows/Linux servers in a hybrid enterprise environment.
+* Familiarity with SIEM, SOAR, and threat intelligence integration.
+* Ability to work independently and follow established procedures.
+* Excellent written and verbal communication skills.
+* Must pass pre\\-employment qualifications of Cherokee Federal
+
+
+
+  
+ 
+
+
+
+**Company Information:** 
+
+
+
+
+**Criterion** 
+ is a part of Cherokee Federal \\- the division of tribally owned federal contracting companies owned by Cherokee Nation Businesses. As a trusted partner for more than 60 federal clients, Cherokee Federal LLCs are focused on building a brighter future, solving complex challenges, and
+ **serving** 
+ the government's mission with compassion and heart. To learn more about
+ **Criterion** 
+ , visit cherokee\\-federal.com.
+ 
+
+
+
+  
+ 
+
+
+
+**\\#CherokeeFederal \\#LI** 
+
+
+
+
+  
+ 
+
+
+
+ Cherokee Federal is a military friendly employer. Veterans and active military transitioning to civilian status are encouraged to apply.
+ 
+
+
+
+  
+ 
+
+
+
+ Similar searchable job titles:
+ 
+
+
+* Threat Detection Engineer
+* Security Operations Engineer
+* SOC Detection Engineer
+* Cybersecurity Detection Engineer
+* Incident Detection Analyst
+
+
+
+ Keywords:
+ 
+
+
+* Threat Detection
+* SIEM
+* MITRE ATT\\&CK
+* SOAR
+* Forensic Analysis
+
+
+
+  
+ 
+
+
+
+**Legal Disclaimer:** 
+ Cherokee Federal is an equal opportunity employer. Please visit cherokee\\-federal.com/careers for information regarding our Affirmative Action and Equal Opportunity Employer Statement, and Accommodation request.
+ 
+
+
+
+ Many of our job openings require access to government buildings or military installations. Candidates must pass pre\\-employment qualifications of Cherokee Federal.","","","","","","","",""
+"zr-sEb2ktsuueK2fJdI5EveoQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=sEb2ktsuueK2fJdI5EveoQ","","Senior Server Infrastructure Engineer (Hybrid- Las Vegas)","CES CarMax Enterprise Services, LLC","Las Vegas, NV, USA","2025-02-12","","","","","","","","","","organic","","8127 \\- Las Vegas Data Center \\- Care of: Switch, Las Vegas, Nevada, 89139
+ 
+
+
+
+
+
+
+
+ CarMax, the way your career should be! 
+ 
+
+
+
+
+
+
+
+
+**About this job** 
+
+
+
+
+
+
+
+
+ At CarMax, we are industry disruptors. At the heart of our innovation is new digital products. We are seeking a highly experienced and skilled Senior IT Infrastructure Specialist to join our dynamic Technology department. The ideal candidate will have a strong background in IT infrastructure and server management, with a deep understanding of both physical and virtual environments. This role involves managing, optimizing, and ensuring the reliability and performance of our IT infrastructure to support the company's operational needs.
+ 
+
+
+
+ You will have an impact on ensuring that our infrastructure is reliable and resilient by using hybrid\\-cloud concepts and technologies. Through a strong partnership with other engineers, you will contribute to the overall CarMax Strategy as we build and deliver an exceptional customer experience to ensure customers can buy the vehicles they want in a way that's right for them!
+ 
+
+
+
+
+
+
+
+**Work Location: This position will be based out of Las Vegas. Nevada with a hybrid work arrangement and could require up to 10% of travel.** 
+
+
+
+
+
+
+
+
+**What you will do \\- Essential Responsibilities** 
+
+
+
+* Work with the architect team regarding design, implementation, and management of IT infrastructure projects, focusing on server management, virtualization technologies, and storage solutions.
+* Manage and optimize Azure Stack HCI, including configuration, maintenance, and performance tuning.
+* Demonstrate expertise in Hyper\\-V virtualization, including Virtual Machine Manager, and ensure efficient operation of virtual environments.
+* Manage and optimize Dell infrastructure, including Dell PowerFlex Hardware, Dell Data Domain, dHCI Storage, and APEX Cloud Management.
+* Configure and maintain SD Networking infrastructure, including Switch Embedded Teaming (SET), RDMA (RoCE, iWARP), and Network ATC and Intents.
+* Administer Windows OS clustering and utilize Windows Admin Center for system management.
+* Conduct performance and capacity planning to anticipate infrastructure growth needs and ensure high availability.
+* Perform data center rack/stack and cabling duties as required, adhering to best practices for physical infrastructure maintenance.
+* Ability to be on\\-site at data centers as required for vendor access or to address issues.
+* Automate routine and complex tasks using PowerShell to increase efficiency and reduce manual intervention.
+* Document infrastructure configurations, changes, and procedures to ensure knowledge sharing and compliance with industry standards.
+* Participate in On\\-Call rotation as required.
+
+
+
+
+
+
+
+**Purpose of the role** 
+
+
+
+
+ It takes a passion for technology to develop and iterate on innovative solutions to problems. Working collaboratively and creatively as part of the hybrid\\-cloud infrastructure team, you will partner with others in product and technology to contribute to the patterns, guidance and design for building and deploying hybrid\\-cloud infrastructure to support our customer facing applications. You should have strong communications skills, a strong sense of ownership, a passion for customer service, and the technical understanding of how the cloud platform can contribute to the overall successful of our infrastructure development.
+ 
+
+
+
+
+
+
+
+**Qualifications and Requirements** 
+
+
+
+* Bachelor's Degree in Computer Science or related Technology field or equivalent experience and 5\\+ years of work experience
+ *or*
+* Master's degree in Computer Science or related Technology field or equivalent experience and 3\\+ years of work experience.
+
+
+
+
+
+
+
+**Specific** 
+**Qualifications** 
+**and Requirements** 
+
+
+
+* Proven expertise in managing both physical and virtual server environments.
+* Deep knowledge of Azure Stack HCI, System Center Virtual Machine Manager, and Hyper\\-V virtualization technologies.
+* Strong experience in managing Dell infrastructure, including specific hardware and storage solutions listed.
+* Familiarity with SD Networking concepts and technologies.
+* Proficient in Windows OS Clustering and administration.
+* Skilled in performance and capacity planning.
+* Expertise in scripting and automating tasks using PowerShell.
+* Experience with Linux OS, particularly RHEL.
+* Knowledge of Nutanix and Ansible AWX.
+* Familiarity with CI/CD pipelines and Azure ARC.
+* Experience with Veeam Backup Platform (v12\\+).
+
+
+
+
+
+
+
+**Work Authorization: Applicants must be currently authorized to work in the United States on a full\\-time basis.** 
+
+
+
+
+
+
+
+
+**About CarMax** 
+
+
+
+
+ CarMax disrupted the auto industry by delivering the honest, transparent and high\\-integrity experience customers want and deserve. This innovative thinkingaround the way cars are bought and soldhas helped us become the nation's largest retailer of used cars, with over 200 locations nationwide.
+ 
+
+
+
+
+
+
+
+ Ouramazing team of more than 25,000 associates work together to deliver iconic customer experiences.Along the way,we help every associate grow their career and achieve their best, at work and in their community. We are recognized for our commitment to training and diversity and areone of the FORTUNE 100 Best Companies to Work For.
+ 
+
+
+
+
+
+
+
+ CarMax is an equal opportunity employer, and all qualified candidates will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, protected veteran status, disability status, or any other characteristic protected by law.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Upon an applicant's request, CarMax will consider reasonable accommodation to complete the CarMax Job Application.","","","","","","","",""
+"zr--w6wS7hCkR0B0yv55jO88w","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=-w6wS7hCkR0B0yv55jO88w","","IT Service Delivery Manager","Kalosys, LLC","Las Vegas, NV, USA","2025-02-12","fulltime","","","","","","","","","organic","","Salary:
+   
+
+
+**Job Summary:** 
+
+  
+
+ We are seeking an experienced IT Service Delivery Manager to join our team. The ideal candidate will be responsible for optimizing our service ticket management process, handling complex technical issues, and leading our customer support efforts. This role requires a deep understanding of various technologies, exceptional communication skills, and the ability to manage and resolve high\\-priority customer issues efficiently.
+ 
+
+
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+1. Lead and optimize the service ticket management process to improve efficiency and customer satisfaction.
+2. Handle complex technical issues and provide expert\\-level support for a wide range of technologies.
+3. Develop and implement strategies to improve ticket resolution times and quality.
+4. Mentor and guide junior team members in ticket handling and resolution techniques.
+5. Collaborate with cross\\-functional teams to address recurring issues and implement long\\-term solutions.
+6. Analyze ticket data and trends to identify areas for improvement in our support processes.
+7. Maintain up\\-to\\-date knowledge of supported technologies and industry best practices.
+8. Build andmaintain strong relationships with key clients, understanding their needs and ensuring high levels of satisfaction.
+9. Demonstrate experience in contract negotiations, service level agreements (SLAs), and vendor management.
+10. Apply a strong understanding of ITIL framework and managed services best practices.
+11. Implement and maintain KPIs and reporting mechanisms to track and improve service quality and operational efficiency.
+12. Participate in financial performance aspects of the Managed Services Practice, including budgeting, forecasting, and profit/loss analysis.
+13. Participate in on\\-call rotations to provide 24/7 support when needed.
+
+
+
+**Required Skills and Experience:** 
+
+
+
+
+1. Bachelor's degree in Computer Science, Information Technology, or related field.
+2. 7\\+ years of experience in IT support or customer service roles, with at least 3 years in a senior or leadership position.
+3. Exceptional communication skills, both written and verbal, with the ability to explain complex technical concepts to both technical and non\\-technical audiences.
+4. Strong technical knowledge and hands\\-on experience with the following technologies:
+	* Data Domain, Dell/EMC IDPA, Power Protect, VNX
+	* Cisco UCS\\-FI, UCS Fabric Interconnects, VBLOCK, UCS xseries, Cisco HyperFlex
+	* HCI Products: VxRail, VSAN, Azure HCI
+	* Storage Spaces Ready Nodes with Hyper\\-V and Storage Spaces Direct
+	* Brocade switches
+	* Nutanix NX \\& XC
+	* Kubernetes
+	* Linux operating systems and administration
+5. Experience with ticket management systems and process optimization.
+6. Excellent problem\\-solving and analytical skills.
+7. Ability to work under pressure and manage multiple priorities.
+8. ITIL certification preferred.
+
+
+
+**Additional Desirable Skills:** 
+
+
+
+
+
+ 1\\. Experience with VMware products and virtualization technologies.
+ 
+
+
+
+ 2\\. Knowledge of cloud technologies, particularly Azure, AWS and GCP
+ 
+
+
+
+ 3\\. Familiarity with software\\-defined networking (SDN) solutions.
+ 
+
+
+
+ 4\\. Experience in a managed services or IT consulting environment.
+ 
+
+
+
+ 5\\. Certifications related to Kubernetes.
+ 
+
+
+
+ 6\\. Certifications related to Linux.
+ 
+
+
+
+
+
+
+
+ This position requires the ability to work in a fast\\-paced environment, handle escalated customer issues, and provide leadership in improving our support processes. The ideal candidate will be passionate about technology, customer service, and continuous improvement.
+ 
+
+
+
+
+
+
+
+**Why Join Team Kalosys?** 
+
+
+
+
+
+ At Kalosys, you'll have the opportunity to:
+ 
+
+
+
+ 1\\. Work with cutting\\-edge AI, cloud, and cybersecurity technologies.
+ 
+
+
+
+ 2\\. Work with cutting\\-edge AI, cloud, and cybersecurity technologies.
+ 
+
+
+
+ 3\\. Make a real impact on businesses across various industries.
+ 
+
+
+
+ 4\\. Grow your expertise through partnerships with industry leaders.
+ 
+
+
+
+ 5\\. Join a diverse team that values innovation and collaboration.
+ 
+
+
+
+ 6\\. Contribute to meaningful projects with tangible client outcomes.
+ 
+
+
+
+ 7\\. Enjoy a flexible remote work environment with growth opportunities.
+ 
+
+
+
+ 8\\. Be part of a rapidly expanding company shaping the future of business.
+ 
+
+
+
+
+
+
+
+ Join us in driving digital transformation and tackling exciting challenges in the tech industry!
+ 
+
+
+
+
+
+
+
+**Company Culture at** 
+
+**Kalosys** 
+
+
+
+
+
+ At Kalosys, we foster a culture of:
+ 
+
+
+
+ 1\\. Innovation: We encourage creative thinking and embrace new ideas.
+ 
+
+
+
+ 2\\. Collaboration: Teamwork is at the heart of our success.
+ 
+
+
+
+ 3\\. Continuous Learning: We support professional growth and skill development.
+ 
+
+
+
+ 4\\. Client\\-Centric Approach: Our clients success drives our decisions.
+ 
+
+
+
+ 5\\. Diversity and Inclusion: We value different perspectives and experiences.
+ 
+
+
+
+ 6\\. Work\\-Life Balance: We promote flexibility and employee well\\-being.
+ 
+
+
+
+ 7\\. Ethical Practices: Integrity and transparency guide our operations.
+ 
+
+
+
+
+
+
+
+ Join a dynamic environment where your contributions are valued, and your potential is nurtured.
+ 
+
+
+  
+
+ remote work","","","","","","","",""
+"zr-IFNF-nD8NZCCtUu56LsYNw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=IFNF-nD8NZCCtUu56LsYNw","","Technical Project Supervisor - Boulder","Station Casinos","Las Vegas, NV, USA","2025-02-12","","","","","","","","","","organic","","Description:
+ 
+
+
+
+ Plan, coordinate, implement and supervise all activities on the Slot Floor including but not limited to slot installations, slot removals, slot relocations, slot conversions, hardware, firmware and software upgrades and all other programs and projects associated with slot gaming devices and the slot accounting and Player Tracking System. Adhere to all Company policies and carry out instructions of management. Maintain clear and open communication with Team Members and Management. Ensure strict compliance with current Internal Control Measures set forth by Gaming Control Board and the Company, as well as local Internal Control Measures as evaluated by the Property Level Internal Auditor. Maintain the Slot Data Base in Acres regarding changes, conversions, and updates. Ensure the Slot Technicians are trained, updated, and properly following safety procedures.
+ 
+
+
+
+  
+ 
+
+
+
+  Qualifications:
+ 
+
+
+
+ Must be at least 21 years of age. Minimum three years Slot Technician experience preferred.  Ability to communicate effectively with Guests, Team Members and Management.  Must have thorough computer skills and knowledge of slot equipment.  Familiarity with set up and programming of all slot video poker games and player tracking systems. Must be able to obtain gaming work card. Must have basic math skills.","","","","","","","",""

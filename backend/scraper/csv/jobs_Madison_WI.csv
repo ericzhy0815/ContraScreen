@@ -1,0 +1,2927 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009636033576","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009636033576","","Healthcare Economic Data Strategist","Medica Services Company LLC","Madison, WI","2025-02-12","","direct_data","yearly",98400.0,168600.0,"USD",False,"","","organic","","We are seeking a dynamic and experienced Healthcare Strategist to join Medica’s healthcare economics team. This role is pivotal in developing and implementing data strategies that drive key business decisions within our organization. The ideal candidate will leverage data from various sources to enhance the use of healthcare data, industry standards, benchmarks to inform key stakeholders and partners to support key business decisions focused on cost optimization, ultimately improving financial performance and patient outcomes. The strategist will also focus on industry trends in pharmacy and medical services, incorporating benchmarking practices to ensure competitive positioning.
+
+
+**Responsibilities:**
+
+
+* Data Analysis and Insight
+	+ Analyze complex healthcare data to identify trends, patterns, and key performance indicators (KPIs) related to utilization, cost, quality, and member health status.
+	+ Monitor and evaluate industry trends in pharmacy and medical services, including drug pricing, formulary management, and adherence strategies.
+	+ Develop data\\-driven insights to recommend strategic decisions regarding network development, product design, and risk adjustment strategies.
+* Benchmarking and Performance Metrics
+	+ Conduct regular assessments of industry trends in pharmacy and medical services, (e.g., regulatory changes, payer strategies, and emerging therapies).
+	+ Benchmark organizational performance against industry standards and best practices to identify opportunities for improvement and innovation.
+	+ Conduct comparative analyses of Medica’s performance against competitors and industry standards, providing insights on core performance KPI’s (e.g. cost, rates, utilization, quality, utilization, NPS, and others)
+* Business Impact and Reporting
+	+ Create customized reports and dashboards to visualize key metrics, including benchmarking data against industry standards, and communicate actionable insights to stakeholders at various organizational levels.
+	+ Collaborate with business teams to translate data insights into actionable strategies that improve patient care and enhance financial performance.
+* Reporting and Technology
+	+ Stay updated on emerging data technologies and analytics tools to enhance analytical capabilities.
+	+ Evaluate and implement new data sources and platforms to support strategic initiatives, particularly in pharmacy and medical benchmarking.
+	+ Present complex analytical concepts and results to both technical and non\\-technical audiences, ensuring clarity and actionable insights.
+* Collaboration and Partnerships
+	+ Manage the lifecycle of data strategy and benchmarking projects and initiatives, including requirements gathering, scoping, resource planning and delivery.
+	+ Collaborate with the key stakeholders to define benchmarking projects and initiatives, deliverables, timing and identify opportunity to include in normal business cycles.
+	+ Partner and represent Medica with key vendors on analytical benchmarking initiatives and projects.
+* Continuous Improvement
+	+ Stay abreast of healthcare trends, best practices and regulatory changes affecting benchmarking and healthcare analytics.
+	+ Identify opportunities for process enhancements and promote data\\-driven culture within the organization.
+* Population Health Management
+	+ Identify high\\-risk patient populations through data analysis and partner internally to develop targeted interventions to improve health outcomes.
+	+ Monitor and evaluate the effectiveness of population health management programs using data analytics.
+* Business Acumen
+	+ Develop, document, and maintain operating playbooks, workflows, and standard operating procedures for analytics processes, ensuring consistent and well documented methodologies.
+	+ Ensure compliance with all applicable laws and regulations in analytics practices.
+	+ Perform other duties as assigned.
+  
+
+
+**Qualifications:**
+
+
+* Bachelor's degree in Data Science, Healthcare Analytics, Healthcare Economics or equivalent experience in related field, Masters preferred
+* 8 years of work experience beyond degree in healthcare analytics or data driven roles within the healthcare or insurance industries with a focus on leveraging benchmarking tools and methodologies.
+* Highly advanced working knowledge and skill of professional field with ability to provide direction on very complex projects
+* Strong proficiently in data analysis tools (e.g., SQL, Python, R, Excel) and visualization techniques/software (e.g. Power BI, Tableau)
+* Proven experience in developing and implementing data standards and best practices within an analytical environment.
+* Proficiency in Microsoft Office applications including Word, PowerPoint, Excel, and Access.
+* Demonstrated ability to design, evaluate, and interpret complex data sets, with strong analytical and problem\\-solving skills.
+* Excellent written and verbal communication skills, capable of conveying complex information clearly and concisely to diverse audiences.
+* Experience working both independently and collaboratively in cross functional teams, engaging with individuals from diverse professional backgrounds.
+
+  
+
+
+
+This position is an Office role, which requires an employee to work from the designated office –Minnetonka, MN, Madison, WI, or Omaha, NE – , on average, 2\\+ times per week.
+
+
+
+The full salary range for this position is ($98,400 \\- $168,600\\). Annual salary range placement will depend on a variety of factors including, but not limited to, education, work experience, applicable certifications and/or licensure, the position's scope and responsibility, internal pay equity and external market salary data. In addition to base compensation, this position may be eligible for incentive plan compensation in addition to base salary. Medica offers a generous total rewards package that includes competitive medical, dental, vision, PTO, Holidays, paid volunteer time off, 401K contributions, caregiver services and many other benefits to support our employees.
+
+
+
+The compensation and benefits information is provided as of the date of this posting. Medica’s compensation and benefits are subject to change at any time, with or without notice, subject to applicable law.
+
+
+
+Medica's commitment to diversity, equity and inclusion (DEI) includes unifying our workforce through learning and development, recruitment and retention. We consistently communicate the importance of DEI, celebrate achievements, and seek out community partnerships and diverse suppliers that are representative of everyone in our community. We are developing sustainable programs and investing time, talent and resources to ensure that we are living our values. We are an Equal Opportunity/Affirmative Action employer, where all qualified candidates receive consideration for employment indiscriminate of race, religion, ethnicity, national origin, citizenship, gender, gender identity, sexual orientation, age, veteran status, disability, genetic information, or any other protected characteristic.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60\\-1\\.35(c)","","https://www.glassdoor.com/Overview/W-EI_IE110030.htm","https://media.glassdoor.com/sql/110030/medica-squarelogo-1398110642910.png","","","","",""
+"gd-1009635871478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635871478","","DevOps Engineer","Caveon","United States","2025-02-12","","","","","","",False,"","","sponsored","","The DevOps engineer will work with the IT teams and development teams to oversee code releases of our software solutions, measure performance metrics to ensure that user expected performance goals are being met, deploying code, software, and firmware updates feature planning and resource technology planning, monthly audits and testing, end user support as needed, as well as aide in the implementation and maintenance of Caveon’s InfoSec and ISO 27001 programs.
+
+**Knowledge / Skills / Ability:**
+
+* Identify hardware and software problems and solutions
+* Troubleshooting technical issues
+* Translate development needs into scalable, secure infrastructure deployments.
+* Ability to understand Python, Flask, Node.js, React, Vue.js, and Angular.js
+* Ability to write SQL scripts to identify, troubleshoot, and correct data issues.
+* Strong knowledge of deployment pipelines and the effective implementation of Jenkins
+* Familiarity with Kubernetes environment setup, maintenance, and security, including associated management tools.
+* Familiarity with automated penetration testing solutions and processes.
+* Talking to technology users, and in some cases remoting into computers, and performing a series of actions to resolve problems
+* Participate in daily meetings with the IT team and operate independently.
+* Ability to understand multiple application technologies and provide troubleshooting and guidance to co\\-workers
+* Supporting the roll\\-out of new applications and features
+* Ability to perform security monitoring and hardening
+* Ability to establish and ensure adherence to security and process protocols
+* Collaborative team spirit
+
+**Preferred Education and Experience:**
+
+* Bachelor’s degree in IT, computer science, information systems, or a related field
+* 3\\+ years of experience working in a DevOps role or high\\-level system administration
+* Knowledge of Windows, Mac, and Linux operating systems and kernels
+* Excellent interpersonal skills
+* Excellent understanding of computer systems, security, network and systems administration, databases and data storage systems, and telecommunications systems
+
+**Other Responsibilities:**
+
+* Other duties and tasks as assigned
+* Maintain confidentiality at all times
+* Caveon takes information security seriously and requires that all employees adhere to all established policies and communicate any information system/information security concern immediately to Senior Management so it can promptly be investigated.
+
+**Miscellaneous:**
+
+* Must be eligible to work in the United States.
+* Ability to work from home with minimal direction
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Caveon is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+
+Job Type: Full\\-time
+
+Pay: $10\\.00 \\- $11\\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Compensation Package:
+
+* Profit sharing
+* Yearly pay
+
+Work Location: Remote","","https://www.glassdoor.com/Overview/W-EI_IE303916.htm","https://media.glassdoor.com/sql/303916/caveon-squarelogo-1638881330042.png","","","","",""
+"gd-1009634957583","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009634957583","","Analyst , Medical Cost Analytics / Utilization Management - Remote","CVS Health","Madison, WI","2025-02-12","","direct_data","yearly",83430.0,222480.0,"USD",False,"","","organic","","Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human\\-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.  
+
+  
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+
+Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human\\-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+ **Position Summary**
+
+
+The Analyst, Medical Cost Analytics / Utilization Management role will analytics to evaluate scenarios and make predictions on future outcomes to solve highly complex business problems and support decision making. The Analyst will be regarded as a specialist, analyzing large data sets in real\\-time databases and developing mathematical approaches to save medical costs. This role will share ideas and drive initiatives for medical cost savings.
+
+
+Responsibilities include:
+
+* Consulting on the creation of analytics solutions that effectively weigh business and technical tradeoffs using an advanced understanding of business strategy as well as relevant big data environment topics.
+* Translating business needs into analytics projects and actions.
+* Collaborating with business partners to understand their problems and goals, performing statistical analysis, developing data reports and performance metrics.
+* Consulting with internal clients to identify opportunities to implement data science solutions to business problems.
+* Structuring data analysis, driving analytics insights and analytical solutions to help data scientists determine the best analytical solution.
+* Understanding key drivers of business value.
+* Translating business problems into analytical solutions by knowing appropriate models to suggest to data scientists.
+* Presenting recommendations to senior staff and internal clients.
+
+**Required Qualifications**
+
+* 5\\+ years' experience consulting with internal clients, identifying opportunities to implement data science and analytics solutions to make a business impact
+* 4\\+ years' experience using SQL to extract, manipulate and analyze large datasets
+* 3\\+ years experience working in Healthcare industry, with Healthcare data
+* 3\\+ years' experience in strategic consulting or on strategy teams in a large company, providing actionable insights and recommendations to senior leaders and stakeholders to support strategic decision making
+* 3\\+ years' experience with the Microsoft Office Suite including MS Excel and PowerPoint
+* 2\\+ years' experience identifying trends and opportunities for cost savings initiatives and evaluating the effectiveness of programs
+* 2\\+ year experience communicating and presenting complex data findings to a variety of stakeholders
+* 2\\+ year experience organizing and managing multiple projects simultaneously
+
+**Preferred Qualifications**
+
+* Collaborative with a growth mindset and excellent interpersonal skills
+* Demonstrated ability to communicate technical concepts and implications to business partners
+* Knowledge of healthcare industry trends and regulatory changes
+* Demonstrated proficiency in most areas of mathematical analysis methods, machine learning, statistical analyses, and predictive modeling and in\\-depth specialization in some areas
+* Anticipates and prevents problems and roadblocks before they occur
+
+**Education**
+
+* Bachelor's degree in Finance, Economics, Medical Economics, Math, Actuarial Science, Data Science or related field required.
+* Master's degree in quantitative field or MBA strongly preferred.
+
+**Anticipated Weekly Hours**
+
+
+40**Time Type**
+
+
+Full time**Pay Range**
+
+
+The typical pay range for this role is:
+
+
+$83,430\\.00 \\- $222,480\\.00
+This pay range represents the base hourly rate or base annual full\\-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short\\-term incentive program in addition to the base pay range listed above.  
+
+  
+
+In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company’s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully\\-paid term life insurance plan to eligible employees, and short\\-term and long term disability benefits. CVS Health also offers numerous well\\-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (“PTO”) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.  
+
+  
+
+For more detailed information on available benefits, please visit Benefits \\| CVS Health
+
+
+We anticipate the application window for this opening will close on: 02/22/2025
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.","","https://www.glassdoor.com/Overview/W-EI_IE437.htm","https://media.glassdoor.com/sql/437/cvs-health-squareLogo-1613508257835.png","","","","",""
+"gd-1009635633378","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009635633378","","iOS Developer","Hudson Manpower","Madison, WI","2025-02-12","","direct_data","yearly",81051.0,111489.0,"USD",False,"","","organic","","* We are looking for an iOS Engineer to work on a brand\\-new banking application using Swift and Swift UI.
+
+* You will be working in a collaborative small team environment with the stability of a global parent company.
+
+
+Skill Set:
+
+* Bachelor’s degree in computer science or equivalent.
+
+* Experience with iOS SDK
+
+* Experience in Swift, and Swift Package Manager
+
+* Experience with UI and Unit testing, preferably XCTest
+
+* Experience with UIKit, Swift UI: Foundation, Core Location, Combine, and other iOS related core libraries
+
+* Experience in Design using Storyboards
+
+* Experience with Accessibility Inspector
+
+* Experience in preparing and submitting iOS applications to TestFlight and App store
+
+* Strong knowledge in Memory management using ARC
+
+* Knowledge of Apple's Human Interface Guidelines
+
+* Understanding of MVVM Architecture and Coordinator Pattern
+
+* Good understanding of software design concepts and patterns
+
+* Good understanding of RESTful APIs, GraphQL, and how to connect iOS applications to those services using AFNetworking, AlamoFire libraries.
+
+* Good understanding in debugging strategies and tools: UI Debugger, Memory leaks etc.
+
+* Good knowledge in App Profiling to fine tune mobile applications using Instruments
+
+* Demonstrated experience in Agile development, application design, software development, and testing
+
+* Aptitude for learning and applying programming concepts
+
+* Ability to effectively communicate with stakeholders, product, and experience owners
+
+* Familiarity with CICD tools. Familiarity with version controls tools, preferably Git
+
+* Interest in mobile security
+
+* Experience with banking is a plus
+
+* Experience working in enterprise modular apps is a plus","","https://www.glassdoor.com/Overview/W-EI_IE5004046.htm","","","","","",""
+"gd-1009636122806","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009636122806","","Business Intelligence Developer","University of Wisconsin–Madison","Madison, WI","2025-02-12","","direct_data","yearly",79500.0,79500.0,"USD",False,"","","organic","asholt@medicine.wisc.edu","### **Job Summary:**
+
+
+The Department of Medicine is looking for a Business Intelligence Developer to design, develop, and deliver analytics solutions to administration, faculty and staff within the Department of Medicine, leveraging a variety of analytic methods, tools, visualizations, and modeling techniques. This includes consultation and the development of trusted advisor relationships with leadership to assess analytics needs and facilitation of solution development by managing multiple concurrent efforts, including projects of significant complexity and risk. The candidate will work closely with a variety of stakeholders, coordinating analytic activities across the entire enterprise.  
+
+  
+
+The selected candidate will work within the Clinical Business Intelligence and Data Analytics team to design, develop, test, and maintain performance\\-optimized Business Intelligence (BI) solutions based on underlying data warehouse structures and the optimal match of user requirements and available data presentation methods and tools. The BI Developer will develop and maintain solution documentation. The BI Developer will coach lower\\-level BI Developers and perform mid\\- to high\\-level complexity assignments that require a deep understanding of underlying data structures and associated tools. Through a matrix arrangement with the UW Health Enterprise Analytics (EA) department, the BI Developer will have access to clinical, financial, and operational data in order to provide the department with dashboards, quality assurance and clinical operations reporting.
+
+
+### **Responsibilities:**
+
+
+BI Developer II (IT097\\)  
+
+BI Developer III (IT098\\)
+### **Institutional Statement on Diversity:**
+
+
+Diversity is a source of strength, creativity, and innovation for UW\\-Madison. We value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich the university community. We commit ourselves to the pursuit of excellence in teaching, research, outreach, and diversity as inextricably linked goals.  
+
+  
+
+The University of Wisconsin\\-Madison fulfills its public mission by creating a welcoming and inclusive community for people from every background \\- people who as students, faculty, and staff serve Wisconsin and the world.
+
+  
+
+### **Education:**
+
+
+Preferred  
+
+Bachelor's Degree  
+
+Preferred focus in Healthcare, Information Systems, Engineering, Business, Data Science or related field.
+
+
+### **Qualifications:**
+
+
+Required:  
+
+* Demonstrated success creating analytic solutions such as reports, dashboards, and business plans.
+* Demonstrated success identifying needs and requirements of clients seeking analytic solutions.
+* Demonstrated ability to synthesize end user needs to create solutions.
+* Demonstrated success using quantitative and qualitative methods to identify opportunity.
+* Demonstrated success applying relational thinking in writing and validating queries against multiple data sources.
+* Demonstrates professional maturity surrounding data access, data security, data sensitivity and data confidentiality.
+* Demonstrated ability to leverage knowledge and skill with a variety of query tools (e.g. SQL, R, Python), analytic techniques, tools and platforms, to analyze large quantities of data, from multiple sources, to design, create, and maintain, dashboards, business plans, forecasts, projections and presentations, models, algorithms, and statistical and financial analyses.
+
+  
+
+Preferred:  
+
+* Minimum of three (3\\) years of relevant data analysis or analytics experience in healthcare (provider or payor).
+* Minimum of one (1\\) year of experience using Epic Chronicles, Epic Registries, Epic Clarity and/or Epic Caboodle Data Warehouse.
+* Prior experience serving in a consulting role, working with end users to develop data solutions.
+
+  
+
+Competency in the following areas:  
+
+* Strong written and verbal communication skills
+* Strong attention to detail
+* Critical thinking
+
+  
+
+Emerging competency in at least three data and analytic competencies such as:  
+
+* Analytic methods and tools
+* Business intelligence
+* Data management
+* Data architecture
+* Data querying
+* Analysis and critical thinking skills
+* Data governance
+* Analytics education/learning
+* Metadata
+* Subject matter expertise in domains such as:
+* Cost accounting
+* Financial modeling/analysis
+* Quality measurement
+* Health outcomes
+* Social determinants of health
+* Hospital or ambulatory operations
+* Population health management
+* Patient satisfaction
+* Strategic planning
+* Labor and productivity analytics
+* Revenue cycle management
+* Survey design/development
+
+### **Work Type:**
+
+
+Full Time: 100%  
+
+  
+
+It is anticipated this position will be remote and requires work be performed at an offsite, non\\-campus work location.
+
+
+### **Appointment Type, Duration:**
+
+
+Ongoing/Renewable
+
+
+### **Salary:**
+
+
+**Minimum** $79,500 ANNUAL (12 months)
+  
+
+Depending on Qualifications
+  
+
+The starting salary for the BI Dev II position is $79,500 and BI Dev III position is $96,200, but is negotiable based on experience and qualifications. Employees in this position can expect to receive benefits such as generous vacation, holidays, and sick leave; competitive insurances and savings accounts; retirement benefits. Benefits information can be found at (https://hr.wisc.edu/benefits/).
+
+
+### **Additional Information:**
+
+
+Applicants for this position will be considered for the titles listed in this posting. The title is determined by the experience and qualifications of the finalist.  
+
+  
+
+University sponsorship is not available for this position, including transfers of sponsorship. The selected applicant will be responsible for ensuring their continuous eligibility to work in the United States (i.e. a citizen or national of the United States, a lawful permanent resident, a foreign national authorized to work in the United States without the need of an employer sponsorship) on or before the effective date of appointment. This position is an ongoing position that will require continuous work eligibility. If you are selected for this position, you must provide proof of work authorization and eligibility to work.
+
+
+### **How to Apply:**
+
+
+To apply for this position, please click on the ""Apply Now"" button. You will be asked to upload a current resume/CV and a cover letter briefly describing your qualifications and experience. You will also be asked to provide contact information for three (3\\) references, including your current/most recent supervisor during the application process. References will not be contacted without prior notice.
+
+
+### **Contact:**
+
+
+Andy Holt  
+
+asholt@medicine.wisc.edu  
+
+608\\-264\\-1996  
+
+Relay Access (WTRS): 7\\-1\\-1\\. See RELAY\\_SERVICE for further information.
+
+
+### **Official Title:**
+
+
+BI Developer II(IT097\\) or BI Developer III(IT098\\)
+
+
+### **Department(s):**
+
+
+A53\\-MEDICAL SCHOOL/MEDICINE/MEDICINE
+
+
+### **Employment Class:**
+
+
+Academic Staff\\-Renewable
+
+
+### **Job Number:**
+
+
+310347\\-AS
+
+  
+
+### **The University of Wisconsin\\-Madison is an Equal Opportunity and Affirmative Action Employer.**
+
+
+Qualified applicants will receive consideration for employment without regard to, including but not limited to, race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, disability, or status as a protected veteran and other bases as defined by federal regulations and UW System policies. We promote excellence through diversity and encourage all qualified individuals to apply.  
+
+  
+
+Employment may require a criminal background check. It may also require you and your references to answer questions regarding sexual violence and sexual harassment.  
+
+  
+
+The University of Wisconsin System will not reveal the identities of applicants who request confidentiality in writing, except that the identity of the successful candidate will be released. See Wis. Stat. sec. 19\\.36(7\\).  
+
+  
+
+The Annual Security and Fire Safety Report contains current campus safety and disciplinary policies, crime statistics for the previous 3 calendar years, and on\\-campus student housing fire safety policies and fire statistics for the previous 3 calendar years. UW\\-Madison will provide a paper copy upon request; please contact the University of Wisconsin Police Department.","","https://www.glassdoor.com/Overview/W-EI_IE2960688.htm","https://media.glassdoor.com/sql/2960688/university-of-wisconsin-madison-division-of-recreation-and-wellbeing-squarelogo-1582113509531.png","","","","",""
+"go-Aec8uDffHihmr3UeAAAAAA==","google","https://www.linkedin.com/jobs/view/associate-data-engineer-at-baker-tilly-us-4148942897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Associate Data Engineer","Baker Tilly US","Madison, WI","2025-02-07","","","","","","",False,"","","","","Overview
+
+Baker Tilly is a leading advisory, tax and assurance firm, providing clients with a genuine coast-to-coast and global advantage in major regions of the U.S. and in many of the world’s leading financial centers – New York, London, San Francisco, Los Angeles, Chicago and Boston. Baker Tilly Advisory Group, LP and Baker Tilly US, LLP (Baker Tilly) provide professional services through an alternative practice structure in accordance with the AICPA Code of Professional Conduct and applicable laws, regulations and professional standards. Baker Tilly US, LLP is a licensed independent CPA firm that provides attest services to its clients. Baker Tilly Advisory Group, LP and its subsidiary entities provide tax and business advisory services to their clients. Baker Tilly Advisory Group, LP and its subsidiary entities are not licensed CPA firms.
+
+Baker Tilly Advisory Group, LP and Baker Tilly US, LLP, trading as Baker Tilly, are independent members of Baker Tilly International, a worldwide network of independent accounting and business advisory firms in 141 territories, with 43,000 professionals and a combined worldwide revenue of $5.2 billion. Visit bakertilly.com or join the conversation on LinkedIn, Facebook and Instagram.
+
+Please discuss the work location status with your Baker Tilly talent acquisition professional to understand the requirements for an opportunity you are exploring.
+
+Baker Tilly is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or protected veteran status, gender identity, sexual orientation, or any other legally protected basis, in accordance with applicable federal, state or local law.
+
+Any unsolicited resumes submitted through our website or to Baker Tilly Advisory Group, LP, employee e-mail accounts are considered property of Baker Tilly Advisory Group, LP, and are not subject to payment of agency fees. In order to be an authorized recruitment agency (""search firm"") for Baker Tilly Advisory Group, LP, there must be a formal written agreement in place and the agency must be invited, by Baker Tilly's Talent Attraction team, to submit candidates for review via our applicant tracking system.
+
+Responsibilities
+
+Job Description:
+
+Baker Tilly has an incredible career opportunity for an Associate Data Engineer to join our growing Enterprise Technology team.
+
+The Associate Data Engineer role will be focused specifically on Data Warehousing, Data Management, BI and Data Analytics. All supporting the need to define the businesses strategy and bring light and understanding to the vast amounts of data that Baker Tilly utilizes.
+• Assemble large, complex data sets that meet functional / non-functional business requirements.
+• Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Azure technologies
+• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc
+• Utilize development best practices including technical design reviews, implementing test plans, monitoring/alerting, peer code reviews, and documentation
+• Work with our developers to implement data solutions in SQL Server (both on-premises and Azure instances)
+• Work with the team to develop our Databricks data lakehouse environment for firmwide usage within applications, data integrations, and reporting solutions.
+
+Qualifications
+• Strong understanding of data modeling, algorithms, and data transformation techniques.
+• Well versed in BI and data analytics, SQL, Python, R, the MS Stack, Azure and other cloud services
+• Databricks Lakehouse Platform and Boomi MDH skills are preferred
+• Experience developing, deploying and supporting high-quality, fault-tolerant data pipelines
+• Have hands on experience in Microsoft business intelligence technologies.
+• Exhibit responsibility and accountability toward quality completion of projects and consistently hitting project timelines.
+• Outstanding customer service skills following proper business requirements and human resources expectations
+• Disciplined to be able to work in a variety of business environments.
+• Maintained a Bachelor’s degree in Computer Science, Engineering, Math, Information Technology, or other related discipline or 4 + years of commensurate experience.","","","","","","","",""
+"go-xN4E4h2zmZtjkQK1AAAAAA==","google","https://us.bebee.com/job/c6b29ceffddc996462939b5161697d21?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Product Security Researcher","Verve Industrial Protection","Madison, WI","2025-01-30","","","","","","",False,"","","","","Responsibilities
+
+The selected candidate will be responsible for:
+• Developing and executing manual and automated security tests to identify vulnerabilities in Verve's software products.
+• Collaborating with the development organization to verify and articulate findings.
+• Working with development and software QA teams to stay aware of changes being made to the Verve products.
+• Coordinating with development and security leadership regarding findings, areas of concern, and opportunities for improvement related to product security.
+• Writing detailed bug and vulnerability finding reports.","","","","","","","",""
+"go-WczUWQXNA1dMCtL7AAAAAA==","google","https://us.bebee.com/job/e322e77297c8058aa81ef6f17478fe99?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist, Infra Capacity Planning","META","Madison, WI","2025-01-26","","","","","","",False,"","","","","Summary:
+
+As a Data Scientist, you will collaborate with cross-functional partners to address various product and technical challenges. You will utilize data and analysis to identify and solve complex problems across Meta's Infrastructure organization, influencing product strategy and investment decisions. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth.
+
+Meta is seeking a highly skilled and experienced Data Scientist to lead the development of data-driven solutions for its Infrastructure organization. This organization provides the backbone on which the company operates, including data centers, servers, network infrastructure, and power infrastructure needed to run products and services.
+
+The ideal candidate will be responsible for planning and optimizing the company's infrastructure needs, ensuring timely delivery and efficient operation. In addition to tackling complex optimization problems, the successful candidate will expertly execute across the company, contributing to nearly every org at Meta.
+Responsibilities:
+• Work with large and complex data sets to solve challenging problems using analytical and statistical approaches.
+• Apply technical expertise with quantitative analysis, experimentation, data mining, and presenting data to develop strategies for products serving billions of people and hundreds of millions of businesses.
+• Identify and measure success through goal setting, forecasting, and monitoring key product metrics to understand trends.
+• Define, understand, and test opportunities to improve products and drive roadmaps through insights and recommendations.
+• Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions.
+
+Qualifications:
+• Bachelor's degree in Computer Science, Computer Engineering, or relevant technical field, or equivalent practical experience.
+• 12+ years of work experience leading analytics work, collaborating with Engineering and cross-functional partners, and guiding data-influenced product planning, prioritization, and strategy development.
+• Experience with data querying languages (e.g., SQL), scripting languages (e.g., Python), and/or statistical/mathematical software (e.g., R).
+• Experience framing and communication skills.
+• Proven intellectual curiosity and drive, decisiveness, with ambiguity and complexity.
+PREFERRED QUALIFICATIONS:
+• Experience in infrastructure planning, operations research, or a related field.
+• Familiarity with cloud computing platforms and infrastructure management systems.
+• Masters or Ph.D. Degree in a quantitative field.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know.","","","","","","","",""
+"go-z6B-6RttLGK346haAAAAAA==","google","https://us.bebee.com/job/5d8997bb78b3c247fa6d51106ba36c99?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Junior Data Science Role","SynergisticIT","Madison, WI","2025-01-25","","","","","","",False,"","","","","SynergisticIT is committed to helping job seekers achieve their career goals in the IT industry. Since 2010, we have helped thousands of candidates get jobs at top tech clients, including Apple, Google, and PayPal. Our team understands the challenges faced by job seekers and is dedicated to providing personalized support and guidance.
+Job Details
+
+This Junior Data Scientist position is perfect for recent graduates in computer science, engineering, mathematics, statistics, or science who are eager to start their careers in the IT industry. As a member of our team, you will have access to exciting projects, training programs, and mentorship opportunities to help you grow professionally.
+What We Offer
+• Opportunity to work on real-world projects and develop your skills in data analysis, machine learning, and software development
+• Training programs and mentorship opportunities to enhance your professional growth
+• Chance to work with top tech clients and build a strong network in the industry
+• A supportive team environment that fosters personal and professional growth
+
+Candidates with all visa types and US citizens are encouraged to apply. We also offer skill enhancement programs to help candidates gain the required skills and project work experience.","","","","","","","",""
+"in-9519a85747f7e84e","indeed","https://www.indeed.com/viewjob?jk=9519a85747f7e84e","https://jobs.wisc.edu/jobs/business-intelligence-developer-madison-wisconsin-united-states-049e542f-6a48-48ff-896f-a57b74f763b8","Business Intelligence Developer","University of Wisconsin–Madison","Madison, WI, US","2025-02-12","fulltime","","yearly","","","USD",True,"","","","asholt@medicine.wisc.edu","### **Job Summary:**
+
+
+The Department of Medicine is looking for a Business Intelligence Developer to design, develop, and deliver analytics solutions to administration, faculty and staff within the Department of Medicine, leveraging a variety of analytic methods, tools, visualizations, and modeling techniques. This includes consultation and the development of trusted advisor relationships with leadership to assess analytics needs and facilitation of solution development by managing multiple concurrent efforts, including projects of significant complexity and risk. The candidate will work closely with a variety of stakeholders, coordinating analytic activities across the entire enterprise.  
+
+  
+
+The selected candidate will work within the Clinical Business Intelligence and Data Analytics team to design, develop, test, and maintain performance\\-optimized Business Intelligence (BI) solutions based on underlying data warehouse structures and the optimal match of user requirements and available data presentation methods and tools. The BI Developer will develop and maintain solution documentation. The BI Developer will coach lower\\-level BI Developers and perform mid\\- to high\\-level complexity assignments that require a deep understanding of underlying data structures and associated tools. Through a matrix arrangement with the UW Health Enterprise Analytics (EA) department, the BI Developer will have access to clinical, financial, and operational data in order to provide the department with dashboards, quality assurance and clinical operations reporting.
+
+
+### **Responsibilities:**
+
+
+BI Developer II (IT097\\)  
+
+BI Developer III (IT098\\)
+### **Institutional Statement on Diversity:**
+
+
+Diversity is a source of strength, creativity, and innovation for UW\\-Madison. We value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich the university community. We commit ourselves to the pursuit of excellence in teaching, research, outreach, and diversity as inextricably linked goals.  
+
+  
+
+The University of Wisconsin\\-Madison fulfills its public mission by creating a welcoming and inclusive community for people from every background \\- people who as students, faculty, and staff serve Wisconsin and the world.
+
+  
+
+### **Education:**
+
+
+Preferred  
+
+Bachelor's Degree  
+
+Preferred focus in Healthcare, Information Systems, Engineering, Business, Data Science or related field.
+
+
+### **Qualifications:**
+
+
+Required:  
+
+* Demonstrated success creating analytic solutions such as reports, dashboards, and business plans.
+* Demonstrated success identifying needs and requirements of clients seeking analytic solutions.
+* Demonstrated ability to synthesize end user needs to create solutions.
+* Demonstrated success using quantitative and qualitative methods to identify opportunity.
+* Demonstrated success applying relational thinking in writing and validating queries against multiple data sources.
+* Demonstrates professional maturity surrounding data access, data security, data sensitivity and data confidentiality.
+* Demonstrated ability to leverage knowledge and skill with a variety of query tools (e.g. SQL, R, Python), analytic techniques, tools and platforms, to analyze large quantities of data, from multiple sources, to design, create, and maintain, dashboards, business plans, forecasts, projections and presentations, models, algorithms, and statistical and financial analyses.
+
+  
+
+Preferred:  
+
+* Minimum of three (3\\) years of relevant data analysis or analytics experience in healthcare (provider or payor).
+* Minimum of one (1\\) year of experience using Epic Chronicles, Epic Registries, Epic Clarity and/or Epic Caboodle Data Warehouse.
+* Prior experience serving in a consulting role, working with end users to develop data solutions.
+
+  
+
+Competency in the following areas:  
+
+* Strong written and verbal communication skills
+* Strong attention to detail
+* Critical thinking
+
+  
+
+Emerging competency in at least three data and analytic competencies such as:  
+
+* Analytic methods and tools
+* Business intelligence
+* Data management
+* Data architecture
+* Data querying
+* Analysis and critical thinking skills
+* Data governance
+* Analytics education/learning
+* Metadata
+* Subject matter expertise in domains such as:
+* Cost accounting
+* Financial modeling/analysis
+* Quality measurement
+* Health outcomes
+* Social determinants of health
+* Hospital or ambulatory operations
+* Population health management
+* Patient satisfaction
+* Strategic planning
+* Labor and productivity analytics
+* Revenue cycle management
+* Survey design/development
+
+### **Work Type:**
+
+
+Full Time: 100%  
+
+  
+
+It is anticipated this position will be remote and requires work be performed at an offsite, non\\-campus work location.
+
+
+### **Appointment Type, Duration:**
+
+
+Ongoing/Renewable
+
+
+### **Salary:**
+
+
+**Minimum** $79,500 ANNUAL (12 months)
+  
+
+Depending on Qualifications
+  
+
+The starting salary for the BI Dev II position is $79,500 and BI Dev III position is $96,200, but is negotiable based on experience and qualifications. Employees in this position can expect to receive benefits such as generous vacation, holidays, and sick leave; competitive insurances and savings accounts; retirement benefits. Benefits information can be found at (https://hr.wisc.edu/benefits/).
+
+
+### **Additional Information:**
+
+
+Applicants for this position will be considered for the titles listed in this posting. The title is determined by the experience and qualifications of the finalist.  
+
+  
+
+University sponsorship is not available for this position, including transfers of sponsorship. The selected applicant will be responsible for ensuring their continuous eligibility to work in the United States (i.e. a citizen or national of the United States, a lawful permanent resident, a foreign national authorized to work in the United States without the need of an employer sponsorship) on or before the effective date of appointment. This position is an ongoing position that will require continuous work eligibility. If you are selected for this position, you must provide proof of work authorization and eligibility to work.
+
+
+### **How to Apply:**
+
+
+To apply for this position, please click on the ""Apply Now"" button. You will be asked to upload a current resume/CV and a cover letter briefly describing your qualifications and experience. You will also be asked to provide contact information for three (3\\) references, including your current/most recent supervisor during the application process. References will not be contacted without prior notice.
+
+
+### **Contact:**
+
+
+Andy Holt  
+
+asholt@medicine.wisc.edu  
+
+608\\-264\\-1996  
+
+Relay Access (WTRS): 7\\-1\\-1\\. See RELAY\\_SERVICE for further information.
+
+
+### **Official Title:**
+
+
+BI Developer II(IT097\\) or BI Developer III(IT098\\)
+
+
+### **Department(s):**
+
+
+A53\\-MEDICAL SCHOOL/MEDICINE/MEDICINE
+
+
+### **Employment Class:**
+
+
+Academic Staff\\-Renewable
+
+
+### **Job Number:**
+
+
+310347\\-AS
+
+  
+
+### **The University of Wisconsin\\-Madison is an Equal Opportunity and Affirmative Action Employer.**
+
+
+Qualified applicants will receive consideration for employment without regard to, including but not limited to, race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, disability, or status as a protected veteran and other bases as defined by federal regulations and UW System policies. We promote excellence through diversity and encourage all qualified individuals to apply.  
+
+  
+
+Employment may require a criminal background check. It may also require you and your references to answer questions regarding sexual violence and sexual harassment.  
+
+  
+
+The University of Wisconsin System will not reveal the identities of applicants who request confidentiality in writing, except that the identity of the successful candidate will be released. See Wis. Stat. sec. 19\\.36(7\\).  
+
+  
+
+The Annual Security and Fire Safety Report contains current campus safety and disciplinary policies, crime statistics for the previous 3 calendar years, and on\\-campus student housing fire safety policies and fire statistics for the previous 3 calendar years. UW\\-Madison will provide a paper copy upon request; please contact the University of Wisconsin Police Department.","Education And Schools","https://www.indeed.com/cmp/University-of-Wisconsin%E2%80%93madison","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1775fc45474ca74be312c13faf87d86d","https://jobs.wisc.edu","500 Lincoln Drive, Madison, WI, United States, Wisconsin","10,000+","$100M to $500M (USD)","Join a world-class educational and research institution, located in one of America's best places to live! To launch you career with UW–Madison, visit jobs.wisc.edu #WorkWithBucky"
+"in-ffc3c3c8ca6de554","indeed","https://www.indeed.com/viewjob?jk=ffc3c3c8ca6de554","https://recruiting2.ultipro.com/MED1007MHP/JobBoard/ffa5492f-9175-4dab-891d-a6a5d6dced2f/OpportunityDetail?opportunityId=f0192e42-c256-4004-85cf-9ed9b6ed24bc&postingId=91baae54-e4c9-4910-973d-9687b02a931d","Healthcare Economic Data Strategist","Medica Services Company LLC","Madison, WI, US","2025-02-12","fulltime","direct_data","yearly",98400.0,168600.0,"USD",False,"","","","","We are seeking a dynamic and experienced Healthcare Strategist to join Medica’s healthcare economics team. This role is pivotal in developing and implementing data strategies that drive key business decisions within our organization. The ideal candidate will leverage data from various sources to enhance the use of healthcare data, industry standards, benchmarks to inform key stakeholders and partners to support key business decisions focused on cost optimization, ultimately improving financial performance and patient outcomes. The strategist will also focus on industry trends in pharmacy and medical services, incorporating benchmarking practices to ensure competitive positioning.
+
+
+**Responsibilities:**
+
+
+* Data Analysis and Insight
+	+ Analyze complex healthcare data to identify trends, patterns, and key performance indicators (KPIs) related to utilization, cost, quality, and member health status.
+	+ Monitor and evaluate industry trends in pharmacy and medical services, including drug pricing, formulary management, and adherence strategies.
+	+ Develop data\\-driven insights to recommend strategic decisions regarding network development, product design, and risk adjustment strategies.
+* Benchmarking and Performance Metrics
+	+ Conduct regular assessments of industry trends in pharmacy and medical services, (e.g., regulatory changes, payer strategies, and emerging therapies).
+	+ Benchmark organizational performance against industry standards and best practices to identify opportunities for improvement and innovation.
+	+ Conduct comparative analyses of Medica’s performance against competitors and industry standards, providing insights on core performance KPI’s (e.g. cost, rates, utilization, quality, utilization, NPS, and others)
+* Business Impact and Reporting
+	+ Create customized reports and dashboards to visualize key metrics, including benchmarking data against industry standards, and communicate actionable insights to stakeholders at various organizational levels.
+	+ Collaborate with business teams to translate data insights into actionable strategies that improve patient care and enhance financial performance.
+* Reporting and Technology
+	+ Stay updated on emerging data technologies and analytics tools to enhance analytical capabilities.
+	+ Evaluate and implement new data sources and platforms to support strategic initiatives, particularly in pharmacy and medical benchmarking.
+	+ Present complex analytical concepts and results to both technical and non\\-technical audiences, ensuring clarity and actionable insights.
+* Collaboration and Partnerships
+	+ Manage the lifecycle of data strategy and benchmarking projects and initiatives, including requirements gathering, scoping, resource planning and delivery.
+	+ Collaborate with the key stakeholders to define benchmarking projects and initiatives, deliverables, timing and identify opportunity to include in normal business cycles.
+	+ Partner and represent Medica with key vendors on analytical benchmarking initiatives and projects.
+* Continuous Improvement
+	+ Stay abreast of healthcare trends, best practices and regulatory changes affecting benchmarking and healthcare analytics.
+	+ Identify opportunities for process enhancements and promote data\\-driven culture within the organization.
+* Population Health Management
+	+ Identify high\\-risk patient populations through data analysis and partner internally to develop targeted interventions to improve health outcomes.
+	+ Monitor and evaluate the effectiveness of population health management programs using data analytics.
+* Business Acumen
+	+ Develop, document, and maintain operating playbooks, workflows, and standard operating procedures for analytics processes, ensuring consistent and well documented methodologies.
+	+ Ensure compliance with all applicable laws and regulations in analytics practices.
+	+ Perform other duties as assigned.
+  
+
+
+**Qualifications:**
+
+
+* Bachelor's degree in Data Science, Healthcare Analytics, Healthcare Economics or equivalent experience in related field, Masters preferred
+* 8 years of work experience beyond degree in healthcare analytics or data driven roles within the healthcare or insurance industries with a focus on leveraging benchmarking tools and methodologies.
+* Highly advanced working knowledge and skill of professional field with ability to provide direction on very complex projects
+* Strong proficiently in data analysis tools (e.g., SQL, Python, R, Excel) and visualization techniques/software (e.g. Power BI, Tableau)
+* Proven experience in developing and implementing data standards and best practices within an analytical environment.
+* Proficiency in Microsoft Office applications including Word, PowerPoint, Excel, and Access.
+* Demonstrated ability to design, evaluate, and interpret complex data sets, with strong analytical and problem\\-solving skills.
+* Excellent written and verbal communication skills, capable of conveying complex information clearly and concisely to diverse audiences.
+* Experience working both independently and collaboratively in cross functional teams, engaging with individuals from diverse professional backgrounds.
+
+  
+
+
+
+This position is an Office role, which requires an employee to work from the designated office –Minnetonka, MN, Madison, WI, or Omaha, NE – , on average, 2\\+ times per week.
+
+
+
+The full salary range for this position is ($98,400 \\- $168,600\\). Annual salary range placement will depend on a variety of factors including, but not limited to, education, work experience, applicable certifications and/or licensure, the position's scope and responsibility, internal pay equity and external market salary data. In addition to base compensation, this position may be eligible for incentive plan compensation in addition to base salary. Medica offers a generous total rewards package that includes competitive medical, dental, vision, PTO, Holidays, paid volunteer time off, 401K contributions, caregiver services and many other benefits to support our employees.
+
+
+
+The compensation and benefits information is provided as of the date of this posting. Medica’s compensation and benefits are subject to change at any time, with or without notice, subject to applicable law.
+
+
+
+Medica's commitment to diversity, equity and inclusion (DEI) includes unifying our workforce through learning and development, recruitment and retention. We consistently communicate the importance of DEI, celebrate achievements, and seek out community partnerships and diverse suppliers that are representative of everyone in our community. We are developing sustainable programs and investing time, talent and resources to ensure that we are living our values. We are an Equal Opportunity/Affirmative Action employer, where all qualified candidates receive consideration for employment indiscriminate of race, religion, ethnicity, national origin, citizenship, gender, gender identity, sexual orientation, age, veteran status, disability, genetic information, or any other protected characteristic.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60\\-1\\.35(c)","","https://www.indeed.com/cmp/Medica-Services-Company-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9efa682c647f269dfad04fe5ea70108d","https://www.medica.com/","Headquarters
+401 Carlson Pkwy
+Minnetonka, MN 55305","1,001 to 5,000","","Medica is a non-profit health plan that serves communities in Minnesota, Iowa, Kansas, Missouri, Nebraska, North Dakota, Oklahoma, South Dakota and Wisconsin."
+"in-752c373e0be796e7","indeed","https://www.indeed.com/viewjob?jk=752c373e0be796e7","https://hudsonmanpower.recruitee.com/o/ios-developer-3?source=Indeed","iOS Developer","Hudson Manpower","Madison, WI, US","2025-02-12","fulltime","direct_data","yearly",114026.0,150412.0,"USD",False,"","","","","* We are looking for an iOS Engineer to work on a brand\\-new banking application using Swift and Swift UI.
+
+* You will be working in a collaborative small team environment with the stability of a global parent company.
+
+
+Skill Set:
+
+* Bachelor’s degree in computer science or equivalent.
+
+* Experience with iOS SDK
+
+* Experience in Swift, and Swift Package Manager
+
+* Experience with UI and Unit testing, preferably XCTest
+
+* Experience with UIKit, Swift UI: Foundation, Core Location, Combine, and other iOS related core libraries
+
+* Experience in Design using Storyboards
+
+* Experience with Accessibility Inspector
+
+* Experience in preparing and submitting iOS applications to TestFlight and App store
+
+* Strong knowledge in Memory management using ARC
+
+* Knowledge of Apple's Human Interface Guidelines
+
+* Understanding of MVVM Architecture and Coordinator Pattern
+
+* Good understanding of software design concepts and patterns
+
+* Good understanding of RESTful APIs, GraphQL, and how to connect iOS applications to those services using AFNetworking, AlamoFire libraries.
+
+* Good understanding in debugging strategies and tools: UI Debugger, Memory leaks etc.
+
+* Good knowledge in App Profiling to fine tune mobile applications using Instruments
+
+* Demonstrated experience in Agile development, application design, software development, and testing
+
+* Aptitude for learning and applying programming concepts
+
+* Ability to effectively communicate with stakeholders, product, and experience owners
+
+* Familiarity with CICD tools. Familiarity with version controls tools, preferably Git
+
+* Interest in mobile security
+
+* Experience with banking is a plus
+
+* Experience working in enterprise modular apps is a plus","","https://www.indeed.com/cmp/Hudson-Manpower","","","","","",""
+"in-51dc45c92fc30e68","indeed","https://www.indeed.com/viewjob?jk=51dc45c92fc30e68","https://yahara.bamboohr.com/careers/68?source=indeed&src=indeed&postedDate=2025-02-11","Software Development Internship- Summer 2025","Yahara Software","Madison, WI, US","2025-02-11","fulltime, internship","direct_data","yearly",39554.0,51691.0,"USD",False,"","","","hradmin@yaharasoftware.com","*At Yahara, we put people first. Whether it's our clients or our employees, we recognize that software empowers life, not the other way around. Join a team recognized as one of Madison Magazine’s Best Places to Work, where innovation thrives, collaboration drives success, and your work makes a real\\-world impact—because at Yahara, we don’t just build software; we empower people and transform industries.*
+
+
+**About the Role:**
+
+
+
+We are seeking interns who are interested in developing their skills in Software Development related roles.
+
+
+
+As a Software Development Intern at Yahara Software, you will build a solid foundation for your career by gaining hands\\-on experience developing custom software applications using React with Typescript, the Microsoft .NET stack, Python, and next\\-gen AI tooling. You'll learn valuable teamwork skills, and practice Agile development.
+
+
+
+Yahara Software has an experienced team of software development professionals, and we leverage our extensive background in life sciences, education, and transportation domains to provide comprehensive process optimization, system integration and business intelligence solutions to our partners.
+
+
+**Resources for Interns:**
+
+
+
+Our interns partner with our software development teams to help develop high\\-priority company projects and day\\-to\\-day operational activities. As an intern, Yahara offers you:
+
+
+* 1:1 mentorship and guidance
+* Real\\-life/direct experience working with cutting edge technology to develop meaningful solutions for the community and beyond
+* At the end of the internship, the internship team will have the opportunity to present their experience at the company\\-wide meeting (Ted\\-talk style!)
+* Students from this internship will be eligible for consideration for full\\-time employment or/and offers to future internships
+
+  
+
+**What You’ll Do:**
+
+
+
+In this position you will have the opportunity to work in a fast\\-paced, high\\-tech learning environment to design, build, test and deliver software applications for Yahara in areas ranging from internal support applications to our products in the transportation logistics and life sciences industries in an Agile development environment. Your existing problem\\-solving, communication, and organizational skills will be expanded by learning to use a broad spectrum of leading\\-edge technologies that will build a solid foundation for your career.
+
+  
+
+
+**Who You Are:**
+
+
+* Excited to learn how to help develop and design custom applications
+* Ready to participate in all aspects of the software development life cycle
+* Comfortable addressing issues and finding creative solutions
+* Currently enrolled in computer sciences or related fields at an accredited college program (Junior/Senior preferred)
+* Able to work locally in Madison\\-based office during the core business hours (M\\-F 8\\-5pm) for the duration of the internship
+
+
+* Eager to offer original solutions to complex problems, especially when collaborating with others
+
+
+* Passionate about exploring new ideas in Computer Science and applying your knowledge
+
+  
+
+
+**What You’ll Bring:**
+
+
+* Microsoft .NET (C\\#)
+
+
+* React, TypeScript, JavaScript
+
+
+* Python
+
+
+* Experience in or knowledge of large language models and AI tooling
+
+
+* Microsoft SQL Server, Postgres and other relational databases
+* Vector databases (Ex: Pinecone, Faiss)
+
+
+* Cloud Platforms\\- Microsoft Azure/Amazon Web Services
+* Web Service/API development
+* DevOps tools (i.e., Continuous Integration, Terraform, Ansible, Docker, Kubernetes)
+
+  
+
+
+
+If you need an accommodation as part of the employment process, please contact Human Resources via email at hradmin@yaharasoftware.com
+
+  
+
+
+*At Yahara Software, we embrace Equal Employment Opportunity by valuing our differences and consider all qualified applicants without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran or any other status protected by law.*","","https://www.indeed.com/cmp/Yahara-Software","","https://www.yaharasoftware.com","Madison, WI","11 to 50","$1M to $5M (USD)",""
+"in-7ec9df66ff728bc6","indeed","https://www.indeed.com/viewjob?jk=7ec9df66ff728bc6","https://jsv3.recruitics.com/redirect?rx_cid=998&rx_jobId=R0459151_1046&rx_url=https%3A%2F%2Fjobs.cvshealth.com%2Fus%2Fen%2Fjob%2FR0459151_1046%2FAnalyst-Medical-Cost-Analytics-Utilization-Management-Remote%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D103511%26rx_job%3DR0459151_1046%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20250213T000206Z%26rx_vp%3Dcpc%26utm_campaign%3D%26utm_source%3DIndeedPPCOrg","Analyst , Medical Cost Analytics / Utilization Management - Remote","CVS Health","Madison, WI, US","2024-12-29","fulltime","direct_data","yearly",83430.0,222480.0,"USD",True,"","","","","Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human\\-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.  
+
+  
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+
+Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human\\-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+ **Position Summary**
+
+
+The Analyst, Medical Cost Analytics / Utilization Management role will analytics to evaluate scenarios and make predictions on future outcomes to solve highly complex business problems and support decision making. The Analyst will be regarded as a specialist, analyzing large data sets in real\\-time databases and developing mathematical approaches to save medical costs. This role will share ideas and drive initiatives for medical cost savings.
+
+
+Responsibilities include:
+
+* Consulting on the creation of analytics solutions that effectively weigh business and technical tradeoffs using an advanced understanding of business strategy as well as relevant big data environment topics.
+* Translating business needs into analytics projects and actions.
+* Collaborating with business partners to understand their problems and goals, performing statistical analysis, developing data reports and performance metrics.
+* Consulting with internal clients to identify opportunities to implement data science solutions to business problems.
+* Structuring data analysis, driving analytics insights and analytical solutions to help data scientists determine the best analytical solution.
+* Understanding key drivers of business value.
+* Translating business problems into analytical solutions by knowing appropriate models to suggest to data scientists.
+* Presenting recommendations to senior staff and internal clients.
+
+**Required Qualifications**
+
+* 5\\+ years' experience consulting with internal clients, identifying opportunities to implement data science and analytics solutions to make a business impact
+* 4\\+ years' experience using SQL to extract, manipulate and analyze large datasets
+* 3\\+ years experience working in Healthcare industry, with Healthcare data
+* 3\\+ years' experience in strategic consulting or on strategy teams in a large company, providing actionable insights and recommendations to senior leaders and stakeholders to support strategic decision making
+* 3\\+ years' experience with the Microsoft Office Suite including MS Excel and PowerPoint
+* 2\\+ years' experience identifying trends and opportunities for cost savings initiatives and evaluating the effectiveness of programs
+* 2\\+ year experience communicating and presenting complex data findings to a variety of stakeholders
+* 2\\+ year experience organizing and managing multiple projects simultaneously
+
+**Preferred Qualifications**
+
+* Collaborative with a growth mindset and excellent interpersonal skills
+* Demonstrated ability to communicate technical concepts and implications to business partners
+* Knowledge of healthcare industry trends and regulatory changes
+* Demonstrated proficiency in most areas of mathematical analysis methods, machine learning, statistical analyses, and predictive modeling and in\\-depth specialization in some areas
+* Anticipates and prevents problems and roadblocks before they occur
+
+**Education**
+
+* Bachelor's degree in Finance, Economics, Medical Economics, Math, Actuarial Science, Data Science or related field required.
+* Master's degree in quantitative field or MBA strongly preferred.
+
+**Anticipated Weekly Hours**
+
+
+40**Time Type**
+
+
+Full time**Pay Range**
+
+
+The typical pay range for this role is:
+
+
+$83,430\\.00 \\- $222,480\\.00
+This pay range represents the base hourly rate or base annual full\\-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short\\-term incentive program in addition to the base pay range listed above.  
+
+  
+
+In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company’s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully\\-paid term life insurance plan to eligible employees, and short\\-term and long term disability benefits. CVS Health also offers numerous well\\-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (“PTO”) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.  
+
+  
+
+For more detailed information on available benefits, please visit Benefits \\| CVS Health
+
+
+We anticipate the application window for this opening will close on: 02/22/2025
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.","","https://www.indeed.com/cmp/CVS-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ef487bd4918a595f3e86081a6c389d41","https://jobs.cvshealth.com","Woonsocket, RI","10,000+","more than $10B (USD)","CVS Health is a pharmacy innovation company with a simple and clear purpose: Helping people on their path to better health."
+"li-4148912427","linkedin","https://www.linkedin.com/jobs/view/4148912427","https://grnh.se/1612665d1us&urlHash=Ugp1","Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","Canonical","Madison, WI","","fulltime","","","","","","","entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing. We are hiring
+ **Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions** 
+ to join our teams building open source solutions for public cloud and private infrastructure.
+   
+
+  
+
+ As a software engineer on the team, you'll collaborate on an end\\-to\\-end data analytics and mlops solution composed of popular, open\\-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end\\-to\\-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+   
+
+  
+
+ We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+   
+
+  
+
+**Location:** 
+ This initiative spans many teams that are home\\-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+   
+
+  
+
+**What your day will look like**
+* Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+* Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+* Master distributed systems concepts such as observability, identity, tracing
+* Work with both Kubernetes and machine\\-oriented open source applications
+* Collaborate proactively with a distributed team of engineers, designers and product managers
+* Debug issues and interact in public with upstream and Ubuntu communities
+* Generate and discuss ideas, and collaborate on finding good solutions
+
+
+**What we are looking for in you**
+* Professional or academic software delivery using Python
+* Exceptional academic track record from both high school and university
+* Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+* Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+* Track record of going above\\-and\\-beyond expectations to achieve outstanding results
+* Passion for technology evidenced by personal projects and initiatives
+* The work ethic and confidence to shine alongside motivated colleagues
+* Professional written and spoken English with excellent presentation skills
+* Experience with Linux (Debian or Ubuntu preferred)
+* Excellent interpersonal skills, curiosity, flexibility, and accountability
+* Appreciative of diversity, polite and effective in a multi\\-cultural, multi\\-national organisation
+* Thoughtfulness and self\\-motivation
+* Result\\-oriented, with a personal drive to meet commitments
+* Ability to travel twice a year, for company events up to two weeks long
+
+
+**Additional Skills That Would Be Nice To Have**
+ The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+   
+
+  
+
+* Hands\\-on experience with machine learning libraries, or tools.
+* Proven track record of building highly automated machine learning solutions for the cloud.
+* Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+* Experience with public clouds (AWS, Azure, Google Cloud)
+* Working knowledge of cloud computing
+* Passionate about software quality and testing
+* Experience working on an open source project
+
+
+ What we offer colleagues
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+**Canonical is an equal opportunity employer**
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Technology, Information and Internet","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","",""
+"li-4148942897","linkedin","https://www.linkedin.com/jobs/view/4148942897","https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/Madison-WI/Associate-Data-Engineer_JR101971?source=LinkedIn&urlHash=0AeZ","Associate Data Engineer","Baker Tilly US","Madison, WI","","fulltime","","","","","","","entry level","Information Technology","","","**Overview**
+ Baker Tilly is a leading advisory, tax and assurance firm, providing clients with a genuine coast\\-to\\-coast and global advantage in major regions of the U.S. and in many of the world’s leading financial centers – New York, London, San Francisco, Los Angeles, Chicago and Boston. Baker Tilly Advisory Group, LP and Baker Tilly US, LLP (Baker Tilly) provide professional services through an alternative practice structure in accordance with the AICPA Code of Professional Conduct and applicable laws, regulations and professional standards. Baker Tilly US, LLP is a licensed independent CPA firm that provides attest services to its clients. Baker Tilly Advisory Group, LP and its subsidiary entities provide tax and business advisory services to their clients. Baker Tilly Advisory Group, LP and its subsidiary entities are not licensed CPA firms.
+   
+
+  
+
+ Baker Tilly Advisory Group, LP and Baker Tilly US, LLP, trading as Baker Tilly, are independent members of Baker Tilly International, a worldwide network of independent accounting and business advisory firms in 141 territories, with 43,000 professionals and a combined worldwide revenue of $5\\.2 billion. Visit bakertilly.com or join the conversation on LinkedIn, Facebook and Instagram.
+   
+
+  
+
+ Please discuss the work location status with your Baker Tilly talent acquisition professional to understand the requirements for an opportunity you are exploring.
+   
+
+  
+
+*Baker Tilly is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or protected veteran status, gender identity, sexual orientation, or any other legally protected basis, in accordance with applicable federal, state or local law.*
+*Any unsolicited resumes submitted through our website or to Baker Tilly Advisory Group, LP, employee e\\-mail accounts are considered property of Baker Tilly Advisory Group, LP, and are not subject to payment of agency fees. In order to be an authorized recruitment agency (""search firm"") for Baker Tilly Advisory Group, LP, there must be a formal written agreement in place and the agency must be invited, by Baker Tilly's Talent Attraction team, to submit candidates for review via our applicant tracking system.*
+**Responsibilities**
+**Job Description:**
+ Baker Tilly has an incredible career opportunity for an Associate Data Engineer to join our growing Enterprise Technology team.
+   
+
+  
+
+ The Associate Data Engineer role will be focused specifically on Data Warehousing, Data Management, BI and Data Analytics. All supporting the need to define the businesses strategy and bring light and understanding to the vast amounts of data that Baker Tilly utilizes.
+   
+
+  
+
+* Assemble large, complex data sets that meet functional / non\\-functional business requirements.
+* Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Azure technologies
+* Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re\\-designing infrastructure for greater scalability, etc
+* Utilize development best practices including technical design reviews, implementing test plans, monitoring/alerting, peer code reviews, and documentation
+* Work with our developers to implement data solutions in SQL Server (both on\\-premises and Azure instances)
+* Work with the team to develop our Databricks data lakehouse environment for firmwide usage within applications, data integrations, and reporting solutions.
+
+
+**Qualifications**
+* Strong understanding of data modeling, algorithms, and data transformation techniques.
+* Well versed in BI and data analytics, SQL, Python, R, the MS Stack, Azure and other cloud services
+* Databricks Lakehouse Platform and Boomi MDH skills are preferred
+* Experience developing, deploying and supporting high\\-quality, fault\\-tolerant data pipelines
+* Have hands on experience in Microsoft business intelligence technologies.
+* Exhibit responsibility and accountability toward quality completion of projects and consistently hitting project timelines.
+* Outstanding customer service skills following proper business requirements and human resources expectations
+* Disciplined to be able to work in a variety of business environments.
+* Maintained a Bachelor’s degree in Computer Science, Engineering, Math, Information Technology, or other related discipline or 4 \\+ years of commensurate experience.","Accounting","https://www.linkedin.com/company/bakertillyus","https://media.licdn.com/dms/image/v2/D560BAQHUBE3MLgOmHg/company-logo_100_100/company-logo_100_100/0/1719839655576/bakertillyus_logo?e=2147483647&v=beta&t=i4IPjEtfFfNKRHc2bJhXIk1_bssK6oFQvBCdlfqQpZ8","","","","",""
+"li-4115343125","linkedin","https://www.linkedin.com/jobs/view/4115343125","https://swib.wd12.myworkdayjobs.com/EXT/job/Madison-Wisconsin/Cloud-Software-Engineer_R001140?source=LinkedIn&urlHash=FIs5","Cloud Software Engineer","State of Wisconsin Investment Board","Madison, WI","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","**Making a Difference**
+ The State of Wisconsin Investment Board (SWIB), founded in 1951, is a premier global investment organization responsible for managing the more than $156 billion of assets of the fully funded Wisconsin Retirement System (WRS), the State Investment Fund and other state funds. Through SWIB’s effective and innovative investment management, WRS remains one of the only fully funded US public pensions. We are the 9th largest public pension fund in the U.S. and the 25th largest public or private pension fund in the world. SWIB is recognized by the investment industry for our teamwork and innovation. SWIB pursues sophisticated global investment strategies across the asset and risk allocation spectrum. Providers across the investment ecosystem seek to partner with SWIB.
+   
+
+  
+
+ Serving more than 691,000 beneficiaries of the WRS, SWIB is a mission\\-driven organization focused on providing a strong financial future to those who committed their careers to public service. For public employees and the 1,500 Wisconsin employers who contribute on their behalf, we are a trusted partner. Our team innovates continuously to meet the challenges of an evolving investment landscape while growing and protecting the assets of the WRS.
+   
+
+  
+
+ SWIB provides a strong, steady economic pillar for the state of Wisconsin by growing the trust funds under its management, managing risk, and optimizing costs of the long term. We are a mission\\-driven organization and the participants we serve are our mission. By bringing a disciplined, prudent, and innovative approach to market opportunities, SWIB has been successful in generating required returns and maintaining the trust of the beneficiaries and stakeholders of the funds we oversee.
+   
+
+  
+
+**Home To Top Talent**
+ Our high\\-performing staff is key to what makes us a premier investment manager. SWIB is committed to investing in talented professionals to implement our robust, sophisticated investment strategies and to keep the organization at the forefront of the investment industry. We encourage innovation and offer professional development opportunities to help staff sharpen and expand their skills. Approximately 61 percent of SWIB’s investment professionals are Chartered Financial Analyst (CFA) charterholders.
+   
+
+  
+
+**Job Description**
+ About the Team
+   
+
+  
+
+ Data Services \\& Engineering Teams at SWIB supports, implements \\& develops industry\\-leading systems and platforms to support SWIB’s diverse and complex set of investment portfolios and strategies. The team at SWIB strives to be a trusted advisor and partner to the business that is valued as a critical contributor to SWIB’s continued growth and success. We effectively leverage technology to derive the maximum value from it and achieve SWIB’s business goals. We keep technology aligned with SWIB’s future direction and operate SWIB’s technology according to industry standards.
+   
+
+  
+
+ Position Overview
+   
+
+  
+
+**Essential Activities**
+* Enable data\\-driven decision\\-making through innovative analytical solutions and models.
+* Convey complex data concepts to technical and non\\-technical stakeholders.
+* Utilize programming languages such as Python and SQL for data manipulation, analysis, and model development.
+* Act as a liaison between investment personnel and the supporting infrastructure regarding business process change management (IT, Operations, Legal, HR, Strategic Planning, etc.)
+* Implements data quality frameworks and conducting data validation ensuring accuracy of analysis.
+* Develop and deploy models, utilizing techniques such as regression, classification, and clustering.
+* Create interactive visualizations (e.g. Power BI, Streamlit) to effectively communicate data findings.
+* Deploy data solutions in cloud environments (e.g. Azure, AWS).
+* Utilize data warehousing technologies and platforms (e.g. Snowflake) to support analytics initiatives.
+
+
+**The Ideal Candidate**
+* Bachelor’s degree or advanced degree in finance, business, engineering, computer science, computational economics, math, data science or a related program.
+* 3\\+ years of experience with data science, data analytics, investment analysis, or similar.
+* Proactively drives data\\-driven decision\\-making through innovative analytical solutions and models.
+* Exceptional verbal and written communication skills, adept at conveying complex data concepts to technical and non\\-technical stakeholders.
+* Proficient in programming languages such as Python, SQL, or R for data manipulation, analysis, and model development.
+* Experience implementing data quality frameworks and conducting data validation ensuring accuracy of analysis.
+* Skilled in developing and deploying machine learning models, utilizing techniques such as regression, classification, and clustering.
+* Knowledge of cloud platforms (e.g. Azure, AWS) for data storage and processing, with experience in deploying data solutions in cloud environments.
+* Experience with data warehousing technologies and platforms (e.g. Snowflake) to support analytics initiatives.
+* Experience deploying reports utilizing automated processes Continuous Integration and Continuous Deployment techniques (CICD).
+* Experience implementing testing tools and data quality metrics/processes to ensure overall data quality of reports that are supported and developed.
+* Superb work ethic, attention to detail, team orientation, collaborative disposition, and commitment to excellence.
+* Interest or experience in investment management, quantitative finance and technology. Progress toward or completion of the CFA designation is preferred
+* Ability to follow rigor in creating/updating documentation, maintain process (i.e. JIRA tickets) and following technology and business best practices.
+
+
+**SWIB Offers**
+* Competitive total cash compensation, based on AON (formerly McLagan) industry benchmarks
+* Comprehensive benefits package
+* Educational and training opportunities
+* Tuition reimbursement
+* Challenging work in a professional environment
+* Hybrid work environment
+
+
+ The position requires U.S. work authorization.
+   
+
+  
+
+ Pursuant to our Hybrid Remote Work Policy, all staff have the flexibility to work remotely, but are required to have a weekly presence in our offices, the frequency of which is dependent on their distance from office. Staff are not required to reside locally; however, we offer relocation reimbursement to the Dane County area per our policy.
+   
+
+  
+
+ All SWIB employees are subject to SWIB’s Ethics Policy and Personal Trade Approvals Policy. These policies include restrictions on outside business activities and employment and have limits on personal trading. You may request copies of these policies from SWIB’s talent acquisition team and any questions can be answered by SWIB’s compliance team.","Financial Services","https://www.linkedin.com/company/the-state-of-wisconsin-investment-board","https://media.licdn.com/dms/image/v2/C4D0BAQGYDZ614Jxe2g/company-logo_100_100/company-logo_100_100/0/1631303787597?e=2147483647&v=beta&t=wN8m1yS5Blm7_Wvj0T2CVbuR9jIVov5NE0z7TTtq9fA","","","","",""
+"li-4149977402","linkedin","https://www.linkedin.com/jobs/view/4149977402","https://jobs.wisc.edu/jobs/data-integration-engineer-madison-wisconsin-united-states?source=11340&urlHash=_9Ir","Data Integration Engineer","UW School of Medicine and Public Health","Madison, WI","","fulltime","","","","","","","mid-senior level","Information Technology","","croekle@wisc.edu","**Job Summary:**
+ About Us: The UW School of Medicine and Public Health (SMPH) is a leader in research and innovation, dedicated to improving patient outcomes through advanced data science and analytics. We are seeking an experienced Data Integration Engineer for the Wisconsin Health Data Hub (WHDH), recently funded by the EDA as part of the Tech Hub (https://news.wisc.edu/federal\\-funds\\-awarded\\-for\\-biohealth\\-with\\-uw\\-madison\\-leading\\-the\\-way/) initiative, and drive transformative data science projects to enhance healthcare and research at SMPH.
+   
+
+  
+
+ Job Summary: Are you passionate about improving patient health outcomes, optimizing healthcare processes, and advancing science? Join our dynamic Informatics and Information Technology team at the University of Wisconsin School of Medicine and Public Health in Madison, Wisconsin. We are committed to revolutionizing healthcare through implementation of advanced data science approaches, conducting cutting\\-edge data\\-centric research, and generating real\\-world evidence to improve patient health outcomes at UW Health and beyond. The Data Integration Engineer will be responsible for integrating multifaceted biomedical data and designing/ implementing end\\-to\\-end data solutions using Azure.
+   
+
+  
+
+ On a day\\-to\\-day basis, the incumbent could expect to engage in the following activities in supporting researchers that use WHDH services:
+   
+
+  
+
+* Design, develop, and maintain data integration pipelines to aggregate and harmonize biomedical data from various sources.
+* Collaborate with cross\\-functional teams, including data scientists, bioinformaticians, and software engineers, to ensure seamless data integration and accessibility.
+* Implement and optimize ETL (Extract, Transform, Load) processes to support data analysis and reporting.
+* Develop and maintain data models, schemas, and documentation to ensure data consistency and integrity.
+* Develop/Implement privacy preserving linkage data pipelines as needed for research projects to integrate data from multiple sources.
+* Perform data quality assessments and implement data validation procedures to ensure accuracy and reliability.
+* Troubleshoot and resolve data integration issues, ensuring timely and accurate data delivery.
+* Stay up to date with the latest advancements in biomedical data integration technologies and best practices.
+* Work closely with data governance and security to ensure compliance with privacy regulations (e.g., NIST, HIPAA) when working with healthcare data; and address bias and fairness issues in AI models when dealing with sensitive health data.
+
+
+**Responsibilities:** 
+ Technical Integration Engineer II (IT042\\)
+   
+
+  
+
+ Technical Integration Engineer III (IT043\\)
+ **Institutional Statement on Diversity:**
+ Diversity is a source of strength, creativity, and innovation for UW\\-Madison. We value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich the university community. We commit ourselves to the pursuit of excellence in teaching, research, outreach, and diversity as inextricably linked goals.
+   
+
+  
+
+ The University of Wisconsin\\-Madison fulfills its public mission by creating a welcoming and inclusive community for people from every background \\- people who as students, faculty, and staff serve Wisconsin and the world.
+   
+
+  
+
+ For more information on diversity and inclusion on campus, please visit: Diversity and Inclusion
+   
+
+  
+
+**Education:**
+**Preferred**
+ Associate's Degree
+   
+
+  
+
+**Qualifications:**
+ Required:
+   
+
+  
+
+* Proven experience as a Data Architect or in a similar role.
+* Expert knowledge of Microsoft Azure data services (e.g., Synapse, Data Factory, Data Lake Storage, Azure SQL Database).
+* Proven experience in data integration, ETL processes, and database management.
+* Proficiency in programming languages such as Python, R, or SQL.
+* Experience with data integration tools and platforms (e.g., Talend, Informatica).
+* Strong understanding of data modeling, data warehousing, and ETL processes.
+* Knowledge of data governance and data quality principles.
+* Strong understanding of biomedical data standards and formats (e.g., HL7, FHIR, DICOM).
+* Excellent problem\\-solving skills and attention to detail.
+* Strong communication and collaboration skills.
+
+
+ Preferred:
+   
+
+  
+
+* Knowledge of machine learning and data analytics techniques.
+* Familiarity with regulatory requirements and data privacy standards in the biomedical field.
+
+
+ Additionally required to be considered for level III:
+   
+
+  
+
+* Demonstrated ability in mentoring colleagues in best practices regarding data use and data integrations
+* Examples of a proactive approach to handling data integration issues
+
+
+**Work Type:**
+ Full Time: 100%
+   
+
+  
+
+ This position may require some work to be performed in\\-person, onsite, at a designated campus work location. Some work may be performed remotely, at an offsite, non\\-campus work location.
+   
+
+  
+
+**Appointment Type, Duration:**
+ Ongoing/Renewable
+   
+
+  
+
+**Salary:**
+**Minimum** 
+ $90,000 ANNUAL (12 months)
+   
+
+  
+
+**Depending On Qualifications**
+ The starting salary for the position is $90,000 but is negotiable based on experience and qualifications.
+   
+
+  
+
+ Employees in this position can expect to receive benefits such as generous vacation, holidays, and sick leave; competitive insurances and savings accounts; retirement benefits. Benefits information can be found at (https://hr.wisc.edu/benefits/).
+   
+
+  
+
+ SMPH Academic Staff Benefits flyer: (https://uwmadison.box.com/s/r50myohfvfd15bqltljn0g4laubuz7t0\\)
+   
+
+  
+
+**Additional Information:**
+ University sponsorship is not available for this position, including transfers of sponsorship. The selected applicant will be responsible for ensuring their continuous eligibility to work in the United States (i.e. a citizen or national of the United States, a lawful permanent resident, a foreign national authorized to work in the United States without the need of an employer sponsorship) on or before the effective date of appointment. This position is an ongoing position that will require continuous work eligibility. If you are selected for this position you must provide proof of work authorization and eligibility to work.
+   
+
+  
+
+ Applicants for this position will be considered for the titles listed in this posting. The title is determined by the experience and qualifications of the finalist.
+   
+
+  
+
+**How to Apply:**
+ To apply for this position, please click on the ""Apply Now"" button. You will be asked to upload a current resume/CV and a cover letter briefly describing your qualifications and experience.
+   
+
+  
+
+**Contact:**
+ Cody Roekle
+   
+
+  
+
+ croekle@wisc.edu
+   
+
+  
+
+ 608\\-263\\-7676
+   
+
+  
+
+ Relay Access (WTRS): 7\\-1\\-1\\. See RELAY\\_SERVICE for further information.
+   
+
+  
+
+**Official Title:**
+ Technical Integration Eng II(IT042\\) or Technical Integration Eng III(IT043\\)
+   
+
+  
+
+**Department(s):**
+ A53\\-MEDICAL SCHOOL/Informatics and IT
+   
+
+  
+
+**Employment Class:**
+ Academic Staff\\-Renewable
+   
+
+  
+
+**Job Number:**
+ 310826\\-AS
+   
+
+  
+
+**The University of Wisconsin\\-Madison is an Equal Opportunity and Affirmative Action Employer.** 
+ Qualified applicants will receive consideration for employment without regard to, including but not limited to, race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, disability, or status as a protected veteran and other bases as defined by federal regulations and UW System policies. We promote excellence through diversity and encourage all qualified individuals to apply. For more information regarding applicant and employee rights and to view federal and state required postings, click here
+   
+
+  
+
+ If you need to request an accommodation because of a disability, you can find information about how to make a request at the following website: https://employeedisabilities.wisc.edu/disability\\-accommodation\\-information\\-for\\-applicants/
+   
+
+  
+
+ Employment may require a criminal background check. It may also require you and your references to answer questions regarding sexual violence and sexual harassment.
+   
+
+  
+
+ The University of Wisconsin System will not reveal the identities of applicants who request confidentiality in writing, except that the identity of the successful candidate will be released. See Wis. Stat. sec. 19\\.36(7\\).
+   
+
+  
+
+ The Annual Security and Fire Safety Report contains current campus safety and disciplinary policies, crime statistics for the previous 3 calendar years, and on\\-campus student housing fire safety policies and fire statistics for the previous 3 calendar years. UW\\-Madison will provide a paper copy upon request; please contact the University of Wisconsin Police Department .","Higher Education","https://www.linkedin.com/school/uw-school-of-medicine-and-public-health/","https://media.licdn.com/dms/image/v2/D560BAQGPMyrfokoLsQ/company-logo_100_100/company-logo_100_100/0/1667068010110/uw_school_of_medicine_and_public_health_logo?e=2147483647&v=beta&t=DaWMLvmWdBMJcGNSYbdnrKYQwjJSAEM2eZj7jm2EJiw","","","","",""
+"li-4151564935","linkedin","https://www.linkedin.com/jobs/view/4151564935","https://job-boards.greenhouse.io/affirm/jobs/6356656003?gh_src=689c81d53us&urlHash=fRc8","Senior Machine Learning Engineer (Portfolio ML)","Affirm","Madison, WI","","fulltime","","","","","","","not applicable","Engineering and Information Technology","","","Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+   
+
+  
+
+ Affirm’s Portfolio ML team is looking for an exceptional machine learning engineer to build the next generation of credit opportunity management models. Sitting at the intersection of credit policy and consumer product, this role will work within a highly cross\\-functional and diverse set of work\\-streams that contribute directly to profitability. From choosing which users to engage for repeat, finding the optimal value propositions to present them, and owning unit economics libraries, the Portfolio ML team’s focus spans the entire customer lifecycle including re\\-engagement. The team is relatively new and has a number of greenfield initiatives in its mandate, an exceptional group of ICs, and strong Product leaders in partnership.
+   
+
+  
+
+**What You'll Do**
+* Use Affirm’s proprietary and other third party data to develop machine learning models that manage and optimize the flow of loan opportunities across Affirm\\-owned and \\-operated properties
+* Partner with platform and product engineering teams to build model training, decisioning, and monitoring systems
+* Research ground breaking solutions and develop prototypes that drive the future of portfolio decisioning at Affirm
+* Implement and scale data pipelines, new features, and algorithms that are essential to our production models
+* Collaborate with the engineering, credit, and product teams to define requirements for new products
+
+
+**What We Look For**
+* Proficiency in machine learning with experience in areas such as Generalized Linear Models, Gradient Boosting, Deep Learning, and Probabilistic Calibration. Domain knowledge in credit risk, portfolio management, learning to rank, and personalization is a plus
+* Strong engineering skills in Python and data manipulation skills like SQL
+* Experience using distributed systems like Spark or Ray is a plus
+* Experience using open source projects and software such as scikit\\-learn, pandas, NumPy, XGBoost, Kubeflow
+* Excellent written and oral communication skills and the capability to drive cross\\-functional requirements with product and engineering teams
+* The ability to present technical concepts and results in an audience\\-appropriate way
+* Persistence, patience and a strong sense of responsibility – we build the decision making that enables consumers and partners to place their trust in Affirm!
+
+
+**Base Pay Grade** 
+ \\- N
+   
+
+  
+
+**Equity Grade** 
+ \\- 8
+   
+
+  
+
+ Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job\\-related skills.
+   
+
+  
+
+ Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+   
+
+  
+
+ USA base pay range (CA, WA, NY, NJ, CT) per year: $190,000 \\- $240,000
+   
+
+  
+
+ USA base pay range (all other U.S. states) per year: $169,000 \\- $219,000
+   
+
+  
+
+ Affirm is proud to be a remote\\-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office\\-based due to the nature of their job responsibilities.
+   
+
+  
+
+**Benefits**
+ We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include:
+   
+
+  
+
+* Health care coverage \\- Affirm covers all premiums for all levels of coverage for you and your dependents
+* Flexible Spending Wallets \\- generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+* Time off \\- competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+* ESPP \\- An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+
+ We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+   
+
+  
+
+ \\[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.
+   
+
+  
+
+ By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.","Financial Services","https://www.linkedin.com/company/affirm","https://media.licdn.com/dms/image/v2/C560BAQEHSbORvS_jKg/company-logo_100_100/company-logo_100_100/0/1630665839795/affirm_logo?e=2147483647&v=beta&t=DTdnXfvSnUdk2QDzx2pxLSTqSBNcll6e2T8YQQGRHEk","","","","",""
+"li-4148412536","linkedin","https://www.linkedin.com/jobs/view/4148412536","https://boards.greenhouse.io/fetchrewards/jobs/6394439003?gh_src=35a8a54c3us&urlHash=5DKM","Frontend Engineering Apprentice","Fetch","Madison, WI","","internship","","","","","","","internship","Engineering and Information Technology","","","**What we’re building and why we’re building it.**
+ Every month, millions of people use America’s Rewards App, earning rewards for buying brands they love – and a whole lot more. Whether shopping in the grocery aisle, grabbing a bite at the drive\\-through or playing a favorite mobile game, Fetch empowers consumers to live rewarded throughout their day. To date, we’ve delivered more than $1 billion in rewards and earned more than 5 million five\\-star reviews from happy users.
+   
+
+  
+
+ It’s not just our users who believe in Fetch: with investments from SoftBank, Univision, and Hamilton Lane, and partnerships ranging from challenger brands to Fortune 500 companies, Fetch is reshaping how brands and consumers connect in the marketplace. When you work at Fetch, you play a vital role in a platform that drives brand loyalty and creates lifelong consumers with the power of Fetch points. User and partner success are at the heart of everything we do, and we extend that same commitment to our employees.
+   
+
+  
+
+ Ranked as one of America’s Best Startup Employers by Forbes for two years in a row, Fetch fosters a people\\-first culture rooted in trust, accountability, and innovation. We encourage our employees to challenge ideas, think bigger, and always bring the fun to Fetch.
+   
+
+  
+
+*Fetch is an equal employment opportunity employer.*
+**Meet Fetch Engineering:** 
+ At Fetch, our engineering philosophy emphasizes innovation, adaptability, and informed decision making. Our engineers thrive in complex environments, making decisions based on critical thinking and data, even in uncertain situations. We value proactive problem\\-solving and focus on driving impactful results while maintaining high technical standards. You will work alongside talented engineers who are dedicated to pushing the boundaries of technology and encouraging each other to excel. We understand that Fetch may not be the right fit for everyone, but if you're passionate about solving challenging problems and navigating intricate systems, Fetch could be a great place for you.
+   
+
+  
+
+**About The Role**
+ As a Front\\-end Engineering Apprentice, you will build and maintain world class web applications for our customer and external partners working directly with our backend services. You’ll be working on a small, multi\\-functional team that may include other engineers, a designer, product manager, data scientist and other roles. Success in this role requires the ability to take on challenging problems while designing and developing amazing solutions with a user\\-centric focus.
+   
+
+  
+
+ You will build amazing products focused on reimagining the shopping experience. Join us in transforming the way that brands reach their customers and empowering consumers to Live Rewarded through the power of Fetch Points!
+   
+
+  
+
+*This is a full\\-time role that can be held from one of our US offices or remotely in the United States* 
+ .
+   
+
+  
+
+**What You’ll Do At Fetch (Role Responsibilities)**
+* Tackle challenging and ambiguous problems requiring the right balance of product design and technology while weighing both short and long term tradeoffs.
+* Build and implement features ranging from those with highly specific wireframes and designs to barebones ideas which can require generating an MVP and ongoing iterations.
+* Create responsive designs to ensure a consistent and seamless user experience across devices.
+* Reduce technical debt by optimizing poor\\-performing code, writing quality tests, and creating clear documentation.
+
+
+**In Your Toolbox (Minimum Requirements)**
+* Extensive experience building web applications using JavaScript and proficiency in TypeScript
+* Experience with React and Svelte frameworks
+* Experience with front\\-end styling and layout languages (e.g. CSS, HTML, Sass, Less)
+* A solid foundation of functional and/or object\\-oriented programming
+* Experience with design system implementation
+* Experience with application state management
+* Experience with version control systems (e.g. Git)
+* Effective communication, including the ability to translate and explain technical issues to non\\-technical team members
+
+
+**Program Eligibility** 
+  
+
+  
+
+* Ability to work full\\-time (40 hours per week) from either the Chicago or Madison Fetch office for a fixed term of 12\\-16 weeks
+* While a degree is not required for this position, the apprenticeship program is not intended for students who are actively enrolled in a full\\-time, degree\\-seeking program.
++ In order to be eligible for this program, full\\-time students must be within one month of their anticipated graduation date.
+
+* Due to the short\\-term nature of this role, we are not able to transfer existing H1Bs or support new applications for the FY 2026 lottery.
+
+
+**Compensation**
+ This is a nonexempt role with a rate of $50/ hour.","Technology, Information and Internet","https://www.linkedin.com/company/fetch-rewards","https://media.licdn.com/dms/image/v2/D560BAQF6PjbCaQXOfQ/company-logo_100_100/company-logo_100_100/0/1739375467153/fetch_rewards_logo?e=2147483647&v=beta&t=fYqh0Gfe05FULAJjOv6I_AkIX4avIWBD2k6QMid0SiA","","","","",""
+"li-4149984047","linkedin","https://www.linkedin.com/jobs/view/4149984047","https://newresources.com/career-portal/wp-content/plugins/bullhorn-oscp/#/14681&urlHash=gPXe","Power BI Developer","New Resources Consulting","Fox Lake, WI","","contract","","","","","","","mid-senior level","Information Technology","","","**Title:** 
+ Power BI Developer
+   
+
+  
+
+**Location:** 
+ Hybrid in the Fox Valley area
+   
+
+  
+
+**Type:** 
+ Full\\-Time
+   
+
+  
+
+**Experience:** 
+ Mid\\-to\\-Senior Level
+   
+
+  
+
+ Our direct client is looking to hire a skilled Power BI Developer to join their growing team. This individual will be responsible for developing, testing, and deploying Power BI reports and dashboards to meet the organization's business intelligence needs.
+   
+
+  
+
+**Responsibilities:**
+* Develop, test, and deploy Power BI reports and dashboards that provide actionable insights.
+* Collaborate with business stakeholders to gather requirements and translate them into actionable data solutions.
+* Optimize and maintain existing Power BI reports to ensure they are effective and scalable.
+* Work closely with IT and other departments to ensure seamless integration of Power BI with various data sources.
+
+
+**Qualifications:**
+* 2\\+ years of experience as a Power BI Developer with a strong background in developing reports, dashboards, and data models using Power BI.
+* Familiarity with data warehousing and ETL processes.
+* Knowledge of SQL and experience with data integration tools is a plus.
+* Strong problem\\-solving skills and attention to detail.
+
+
+ New Resources Consulting is committed to providing our consultants with a better experience. We invest in relationships to better understand your career goals and aspirations. Through our Educate and Connect initiative, we offer multiple professional growth and thought leadership opportunities, including a comprehensive Consultant Education Reimbursement program for most roles, and actively connect you with our technical and charitable communities. Our efforts are acknowledged through our continued recognition as a Best Places to Work, Top Workplaces, and Best and Brightest award winner. Our company is governed by core values: Accountable, Passionate, Respectful, Innovative, and Collaborative. These fundamentals guide our business practices, employment standards, and our continued willingness to give back.
+   
+
+  
+
+**3rd Party Disclaimer:** 
+ New Resources Consulting does not accept unsolicited resumes or candidate submissions from third\\-party recruiting firms. Any resumes received from such agencies will be considered the property of New Resources Consulting.
+   
+
+  
+
+ We look forward to receiving your application!
+   
+
+  
+
+ IND\\_123
+   
+
+  
+
+ IND123\\_","IT Services and IT Consulting","https://www.linkedin.com/company/new-resources-consulting","https://media.licdn.com/dms/image/v2/D560BAQGj02hYq5GVSw/company-logo_100_100/company-logo_100_100/0/1693406370537/new_resources_consulting_logo?e=2147483647&v=beta&t=WPGw6MiqyfAIx5GReGABgXzFqWj-yYuQjCcZOyT3YUY","","","","",""
+"zr-g5bLfTESKGGl5aPZYimHbg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=g5bLfTESKGGl5aPZYimHbg","","Data Analyst Statistical Senior","Intermountain Health","Madison, WI, USA","2025-02-12","","direct_data","hourly",43.0,68.0,"USD","","","","job_board","","**:** 
+
+
+
+
+ This Senior level Statistical Data Analyst position is focused on generating impactful solutions for customers within Clinical Excellence function at Intermountain. This Senior level analyst works within a team of analysts and serves as a leader, mentoring junior caregivers, providing statistical and technical guidance, and adhering to best practices. They have a strong understanding of how to get the right story from the right data and present it in the right way.
+ 
+
+
+
+ In partnership with analytic leadership, they facilitate regular meetings with customer stakeholders to provide work updates, set project priorities and establish deliverable timelines. They have a deep understanding of the clinical and operating data for the areas they support to ensure the integrity and accuracy of customer data. They drive information insights through data exploration, advanced statistical testing and analysis, interpretation, report development and visual storytelling.
+ 
+
+
+
+ This position is part of the Clinical Excellence analytics team at Intermountain. This team provides expertise in leveraging healthcare data to improve patient safety, quality, and experience. This team reports to senior analytics leaders and work in strong partnership with the Chief Quality and Patient Safety Officer and the Clinical Excellence department. This team provides ongoing training, maintenance, monitoring and promotion of data applications and reports to ensure data insights are widely known, accessible, and used to its fullest potential.
+ 
+
+
+
+ In brief, this position will analyze and interpret data using statistical modeling software (e.g. R, Python) and expertly apply statistical methods, analysis and models (i.e. hypothesis testing, logistic and linear regression, correlation, parametric and non\\-parametric methods) to detect improvement opportunities. This position will mentor Staff and Associate team members, detect and facilitate opportunities for intra/inter team collaboration to enhance analytic services and contribute statistical acumen and thought leadership to the success of the team and work to advance your professional skills though structured and personal learning opportunities.
+ 
+
+
+
+*Minimum Qualifications:* 
+
+
+
+
+ Experience with Python and/or R are essential.
+ 
+
+
+
+ Experience scraping data from APIs is essential.
+ 
+
+
+
+ Must meet one of the following:
+ 
+
+
+
+ Bachelor's degree in an analytics related field such as statistics, mathematics, information systems, computer science, finance, business management, or economics and four years of relevant experience performing data analysis.
+ 
+
+
+
+ Or
+ 
+
+
+
+ Bachelor’s degree in another area of study with six years of relevant work experience in a role performing data analysis.
+ 
+
+
+
+ Experience without a related degree will be considered if skill set and experience are robust.
+ 
+
+
+
+ Plus:
+ 
+
+
+
+ Demonstration of these skills:
+ 
+
+
+
+ Advanced SQL ability, knowledge of database design, data modeling and standardized data structures
+ 
+
+
+
+ Practiced ability in creating visually appealing, content rich and consumer centric reports and dashboards (i.e. Cognos, Tableau)
+ 
+
+
+
+ Proficiency in using word processing, spreadsheet, internet, e\\-mail, and scheduling applications
+ 
+
+
+
+ Highly effective verbal, written and interpersonal communication skills
+ 
+
+
+
+ Subject matter expertise in healthcare or related data (Clinical Programs, Clinical Services, Compliance, Quality, Revenue Cycle, Strategic Planning, Population Health, etc.)
+ 
+
+
+
+ Lifelong learner with a creative, collaborative approach.
+ 
+
+
+
+ Temperament to thrive in scaled agile teams (SAFe®) or similar product management practice
+ 
+
+
+
+*Preferred Qualifications* 
+
+
+
+
+ Bachelor's degree in an analytics related field such as statistics, mathematics, information systems, computer science, finance, business management, or economics.
+ 
+
+
+
+ Familiarity working with patient safety, quality, and experience related metrics across the acute and ambulatory settings is preferred (e.g. 30\\-day readmissions, mortality, LOS, patient satisfaction, HEDIS, CMS MIPS, HCAHPs, etc.). Familiarity working with Cerner and Epic Clarity and Caboodle environments is preferred.
+ 
+
+
+
+**Physical Requirements:** 
+
+
+
+
+ Interact with others requiring the employee to verbally communicate information.
+ 
+
+
+* and \\-
+
+
+
+ Operate computers and other IT equipment requiring the ability to move fingers and hands.
+ 
+
+
+* and \\-
+
+
+
+ See and read computer monitors and documents
+ 
+
+
+* and \\-
+
+
+
+ Remain sitting or standing for long periods of time to perform work on a computer, telephone, or other equipment.
+ 
+
+
+* and \\-
+
+
+
+ Remain sitting or standing for long periods of time to perform work on a computer, telephone, or other equipment.
+ 
+
+
+* and \\-
+
+
+
+**Location:** 
+
+
+
+
+ Key Bank Tower
+ 
+
+
+
+**Work City:** 
+
+
+
+
+ Salt Lake City
+ 
+
+
+
+**Work State:** 
+
+
+
+
+ Utah
+ 
+
+
+
+**Scheduled Weekly Hours:** 
+
+
+
+
+ 40
+ 
+
+
+
+ The hourly range for this position is listed below. Actual hourly rate dependent upon experience.
+ 
+
+
+
+ $43\\.49 \\- $68\\.48
+ 
+
+
+
+ We care about your well\\-being – mind, body, and spirit – which is why we provide our caregivers a generous benefits package that covers a wide range of programs to foster a sustainable culture of wellness that encompasses living healthy, happy, secure, connected, and engaged.
+ 
+
+
+
+ Learn more about our comprehensive benefits packages for our Idaho, Nevada, and Utah based caregivers (https://intermountainhealthcare.org/careers/working\\-for\\-intermountain/employee\\-benefits/) , and for our Colorado and Montana based caregivers (http://www.sclhealthbenefits.org) .
+ 
+
+
+
+ Intermountain Health is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+ 
+
+
+
+ All positions subject to close without notice.","","","","","","","",""
+"zr-KA7hjf94ty4a9im1BMV0Vw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=KA7hjf94ty4a9im1BMV0Vw","","Structural Designer | Engineer-in-Training","Flad Architects","Madison, WI, USA","2025-02-12","","","","","","","","","","organic","","If you enjoy solving complex challenges in a collaborative environment that celebrates each person's ideas, experience, and creativity, this might be the opportunity for you. Flad is a national architectural firm, with ten offices across the country, specializing in science, healthcare, academic, and workplace spaces. Our in\\-house structural engineering team provides support to architectural teams to enable project vision and design objectives with unique and integrated structural solutions. The Structural Designer \\- an Engineer\\-in\\-Training \\- converts structural system design concepts into specific layouts by utilizing and interpreting information from team members, clients, and consultants. Flad is a team of creative, intelligent, energetic people who help our clients tackle the issues that change people’s lives.
+ 
+
+
+  
+
+* This position will work on a variety of projects of different sizes and complexity.
+* Prepare structural analysis and design models using engineering software.
+* Provide detailed design to structural team members based on framing layout under the supervision of experienced engineers.
+* Perform calculations and design structural systems utilizing data generated from software programs, hand calculations, and building code criteria.
+* Work with Structural Technicians to provide appropriate information and details to develop construction documents.
+* Assist in the development of structural project details and schedules.
+* Review shop drawings and submittals for conformance with contract documents.
+* Attend construction phase site observation visits.
+
+
+  
+
+
+**Experience:** 
+
+
+
+* Previous internship and/or experience designing structural systems for buildings preferred.
+
+
+
+**Software:** 
+
+
+
+* Proficiency in Revit and Microsoft Office required.
+* Experience with structural analysis software (e.g., RAM, RISA, etc.) preferred.
+
+
+
+**Education:** 
+
+
+
+* Bachelor's degree in structural engineering or civil engineering with a focus on structural engineering required. Master's degree preferred.
+* Successful completion of the FE exam preferred.
+* Sustainability accreditation preferred.
+
+
+
+  
+ 
+
+
+
+**Flad offers a wide range of benefits including:** 
+
+
+
+* Health, dental, and vision insurance
+* Generous paid time off and paid holidays
+* Financial health and wellness benefits \\- retirement savings plan; fiduciary advisor; identity theft plan; Section 125 flexible benefits; income protection – life insurance, short\\-term disability, long\\-term disability; Employee Assistance Program (EAP)
+* Continuing education and career development – internal programs; funds set aside for external programs, licensure and sustainability support, annual professional registration and organization reimbursement
+* Hybrid work environment
+
+
+
+ Flad Architects is an Equal Opportunity Employer. Flad will provide equal opportunity to all individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+ 
+
+
+
+  
+ 
+
+
+
+ If you need a reasonable accommodation to apply for a position, please contact Human Resources at 608\\-238\\-2661 or email us at humanresources@flad.com.","","","","","","","",""
+"zr-1z2fwd-0OqIdXnFt5TGZZw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=1z2fwd-0OqIdXnFt5TGZZw","","QA Auditor I - Labs","Thermo Fisher Scientific","Middleton, WI, USA","2025-02-12","","","","","","","","","","organic","","**Work Schedule** 
+
+
+
+ First Shift (Days)
+ 
+
+
+
+
+**Environmental Conditions** 
+
+
+
+ Office
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ At Thermo Fisher Scientific, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life \\- enabling our customers to make the world healthier, cleaner, and safer. We provide our teams with the resources needed to achieve individual career goals while taking science a step beyond through research, development, and delivery of life\\-changing therapies. With clinical trials conducted in 100\\+ countries and ongoing development of novel frameworks for clinical research through our PPD clinical research portfolio, our work spans laboratory, digital and decentralized clinical trial services. Your determination to deliver quality and accuracy will improve health outcomes that people and communities depend on – now and in the future.
+ 
+
+
+
+
+
+
+
+ Our PPD® Laboratory Services team has a direct impact on improving patient health through the expertise of scientists, industry thought leaders and therapeutic experts. As the world leader in serving science, our laboratory professionals bring their commitment to accuracy and quality to deliver groundbreaking innovations.
+ 
+
+
+ Discover Impactful Work:
+ 
+ Conducts internal and/or external audits to ensure compliance with established quality assurance processes, standards, global regulatory guidelines and/or client contractual obligations. Identifies and applies company policies and procedures to resolve routine issues. Delivers billable quality services for clients and projects. This role assures the quality of lab data and reports.
+ 
+
+
+ A day in the Life:
+ * Audits laboratory data for compliance with methods and standard operating procedures and report findings
+* Audit sample result tables and analytical reports for completeness and accurate representation of the data and findings
+* Serves as support to operational departments on audit or quality assurance subject matter
+* Assists in the preparation of audit findings and/or other related information
+
+
+ Keys to Success:
+ **Education** 
+* Bachelor’s degree or equivalent and relevant formal academic / vocational qualification
+
+
+**Experience** 
+* Previous QA experience that provides the knowledge, skills, and abilities to perform the job (comparable to 1\\-2 years’)
+
+
+
+
+
+
+
+*In some cases, an equivalency, consisting of a combination of appropriate education, training and/or directly related experience, will be considered sufficient for an individual to meet the requirements of the role.* 
+
+
+
+**Knowledge, Skills, Abilities** 
+* Familiar with applicable GxP and appropriate regional regulations
+* Detailed understanding of SOPs and WPDs
+* Excellent oral and written communication skills (including appropriate use of medical and scientific terminology)
+* Strong attention to detail
+* Able to work independently or in a team environment
+* Strong problem\\-solving abilities
+* Strong interpersonal and time management skills
+* Computer experience and ability to learn and become proficient with appropriate software
+* Flexibility and adaptability
+* Valid driver’s license and ability to qualify for and maintain a corporate credit card with sufficient credit line for business travel
+
+
+**Work Environment** 
+
+ Thermo Fisher Scientific values the health and wellbeing of our employees. We support and encourage individuals to create a healthy and balanced environment where they can thrive. Below is listed the working environment/requirements for this role:
+ 
+
+
+* Able to communicate, receive, and understand information and ideas with diverse groups of people in a comprehensible and reasonable manner.
+* Able to work upright and stationary and/or standing for typical working hours.
+* Able to lift and move objects up to 25 pounds.
+* Able to work in non\\-traditional work environments.
+* Able to use and learn standard office equipment and technology with proficiency.
+* May have exposure to potentially hazardous elements, including infectious agents, typically found in healthcare or laboratory environments.
+* Able to perform successfully under pressure while prioritizing and handling multiple projects or activities.
+
+
+
+
+
+
+
+ Our Mission is to enable our customers to make the world healthier, cleaner and safer. Watch as our colleagues explain 5 reasons to work with us. As one team of 100,000\\+ colleagues, we share a common set of values \\- Integrity, Intensity, Innovation and Involvement \\- working together to accelerate research, solve complex scientific challenges, drive technological innovation and support patients in need. \\#StartYourStory with PPD, part of Thermo Fisher Scientific, where diverse experiences, backgrounds and perspectives are valued.
+ 
+
+
+ Apply today! http://jobs.thermofisher.com
+ 
+
+
+
+
+ Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.
+ 
+
+
+ Accessibility/Disability Access
+ 
+ Job Seekers with a Disability: Thermo Fisher Scientific offers accessibility service for job seekers requiring accommodations in the job application process. For example, this may include individuals requiring assistance because of hearing, vision, mobility, or cognitive impairments. If you are a job seeker with a disability, or assisting a person with a disability, and require accessibility assistance or an accommodation to apply for one of our jobs, please submit a request by telephone at 1\\-855\\-471\\-2255\\*. Please include your contact information and specific details about your required accommodation to support you during the job application process.
+ 
+
+
+
+
+
+
+
+ \\*This telephone line is reserved solely for job seekers with disabilities requiring accessibility assistance or an accommodation in the job application process. Messages left for other purposes, such as not being able to get into the career website, following up on an application, or other non\\-disability related technical issues will not receive a response.","","","","","","","",""
+"zr-ZxtQ3SJjf_GO2KHT204W_Q","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=ZxtQ3SJjf_GO2KHT204W_Q","","Sr. Site Specialist - Manufacturing Media/Buffer Prep Specialist","Thermo Fisher Scientific","Madison, WI, USA","2025-02-12","","","","","","","","","","organic","","**Work Schedule** 
+
+
+
+ Standard (Mon\\-Fri)
+ 
+
+
+
+
+**Environmental Conditions** 
+
+
+
+ Able to lift 40 lbs. without assistance, Laboratory Setting, Office, Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs etc.), Strong Odors (chemical, lubricants, biological products etc.)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ At Thermo Fisher Scientific, you'll contribute to meaningful work, such as assisting customers in cancer research, environmental protection, and food safety. Your efforts will make a tangible difference and align with your professional aspirations.
+ 
+
+
+ Location/Division Specific Information
+ 
+ This role is passionate about service delivery excellence for Unity Lab Services. A division of Thermo Fisher responsible for providing onsite services at customer locations. We provide services at over 400 customer sites globally.
+ 
+
+
+ This position is located in Madison, WI
+ 
+ How will you make an impact
+ 
+
+
+* Prepare high quality specialized media/buffer solutions in different quantities and specifications
+* Share technical expertise with peers and provide training and mentorship to others
+* Drive excellence in the day\\-to\\-day operations in the Pilot Plant
+* Ensure laboratory compliance and customer happiness
+* Champion innovation and practical process improvement in the laboratory
+
+
+
+ A day in the life:
+ 
+
+
+* Follows well\\-defined procedures as outlined by Best Practices, SOP’s \\& work instructions
+* Makes decisions and applies available resources to meet customer requirements
+* Verification, calibration, and use of common and specialized lab equipment including, but not limited to, floor mixer, pressurized vessels, peristaltic pump, floor scales, fume hoods, pH and conductivity meters
+* Promote a safe work environment through various safety initiatives within the functional area.
+* Provide technical expertise and training to ULS staff
+* Works effectively with a diverse cross\\-functional team
+* Positively represent Thermo Fisher Scientific throughout customer locations
+* Prepare high quality specialized buffers/media in variety of different qualities and specifications. Perform tasks such as pH measurements, conductivity measurements, and sterile filtration techniques
+* Assemble/disassemble and operate media manufacturing equipment, filter housing assemblies
+* Media tote and bag installations
+* Verify calculations, technical documentation, equipment logbooks, and approval of completed documents.
+* Scan batch records, archive documents
+
+
+
+ How can one get here?
+ 
+
+
+ Education
+ * High school diploma or equivalent required
+* Associate Degree in a scientific field preferred
+
+
+ Knowledge, Skills and Abilities:
+ * Ability to read, write and speak English
+* Have proven initiative in previous work experience
+* Displays a high level of confidentiality for both customer and Thermo Fisher
+* Experience in laboratory setting or services preferred; experience in GLP/GMP environment preferred
+* Confirmed excellence in customer service skills
+* Detail oriented, problem solver, promotes team environment
+* Computer/software skills. (Outlook, Excel, Word, PowerPoint)
+* Must possess the operating skills to use handheld scanners and learn to enter data in various systems as necessary
+
+
+ Working Conditions:
+ * Works primarily at customer locations, in laboratory environments, office environment, around shipping/receiving docks, stock rooms, and other storage locations
+* May be required to work independently at customer location
+* Extensive walking
+* May pass through areas where chemical based allergens may be in use (such as penicillin, tetracycline, etc)
+* Ability to lift, push and pull 30\\-40 pounds consistently; ability to lift 50 lbs
+* Ability to use material handling equipment such as push carts, hand trucks, and pallet jacks
+* Depending on area of building, personal protective equipment is required to be worn including lab coats, steel toe shoes, safety glasses, coveralls, hood, facemask, hairnets and/or safety gloves
+* One should be able to work a flexible shift to meet client and production needs which may include evenings, days, weekends, rotating shifts, etc
+
+
+
+ Each one of our 75,000 outstanding minds has a distinct story to tell. Join us and contribute to our remarkable mission—enabling our customers to make the world healthier, cleaner and safer.
+ 
+
+
+
+
+
+
+ Apply today! http://jobs.thermofisher.com
+ 
+ Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.","","","","","","","",""
+"zr-bb-ECKkDRoR7y2kWdHdw_Q","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=bb-ECKkDRoR7y2kWdHdw_Q","","Senior Mechanical Engineer","Bruker Corporation","Madison, WI, USA","2025-02-12","","direct_data","yearly",80000.0,142000.0,"USD","","","","organic","","Bruker is one of the world’s leading analytical instrumentation companies enabling scientist to make breakthrough discoveries and develop new application that improve the quality of human life.  Our high\\-performance products and high\\-value life science and diagnostic solutions are trusted by leading businesses, institutes, and scientists worldwide.  Today, more than 8,500 employees at over 90 locations are working on this permanent challenge to make the world a better place.
+ 
+
+
+  
+
+
+ The FM Mechanical group of the Nano Surfaces Business of Bruker Corporation in Madison, WI is looking for a Mechanical Engineer to be an integral contributor in the design and development of our world leading Fluoroscopy Microscopes. As a member of the mechanical team, you will work closely with other engineering and manufacturing disciplines to design, develop and test new and custom products.  This position requires the demonstration of cooperative teamwork, initiative, and innovation along with strong communication skills and ability to work with cross\\-functional teams.
+ 
+
+
+  
+
+
+**ESSENTIAL FUNCTIONS:** 
+
+
+
+1. Design opto\\-mechanical and mechanical products and parts. Apply principles of mechanics, materials, and optics.
+2. Assemble, align, and test complex electro\\-optical systems.
+3. Assist support, service, and manufacturing team members in learning new features/products as well as identify, troubleshoot, and correct any defects.
+4. Fabricate prototypes utilizing equipment such as mills, lathes, and 3D printers.
+5. Research and identify customer issues.
+
+
+
+**ADDED CONSIDERATION:** 
+
+
+
+1. Experience in high precision instrumentation used in metrology, physics, chemistry, neuroscience, or microbiology.
+2. Domain knowledge of Fluorescence Microscopy.
+3. Proficient with SolidWorks and/or AutoCAD Inventor software
+4. Strong knowledge of physics, optics, electronics, \\& materials.
+
+
+
+**EDUCATIONAL/EXPERIENCE REQUIREMENTS:** 
+
+
+
+
+ Position requires a minimum of 3 years of relevant experience with a Bachelor’s degree; or a Master’s degree in the field of Mechanical Engineering, physics or equivalent.
+ 
+
+
+
+  
+ 
+
+
+
+ Knowledge or experience in microscopy, physics, chemistry, or microbiology considered a plus. Should be hard working, team oriented, bright, creative, cooperative, and exceptionally good at problem solving.
+ 
+
+
+
+  
+ 
+
+
+
+**PHYSICAL/ENVIRONMENTAL REQUIREMENTS:** 
+
+
+
+1. The ability to lift and move equipment up to 50 pounds.
+
+
+
+ At Bruker, the base salary is part of our total compensation. The estimated base salary range for this full\\-time position is between $80,000\\.00 and $142,000\\.00 and provides an opportunity to progress as you grow and develop within a role. The base salary for the role will depend on several job\\-related factors, including, but not limited to, education, training, experience, the geographic location of the successful candidate, skills, competencies, job\\-related knowledge, and travel requirements for this position. Full\\-time employees may also be eligible for a performance\\-related incentive in addition to a full range of benefits, including 401(k) with company match, an employee stock purchase plan, medical and dental plans, life insurance, short\\-term and long\\-term disability insurance, employee assistance program and paid time off including vacation, sick time and holidays, and more..","","","","","","","",""
+"zr-wQn4ODjZZIK5MlrjyKhRhw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=wQn4ODjZZIK5MlrjyKhRhw","","Financial System Analyst","Data Dimensions","Janesville, WI, USA","2025-02-12","","","","","","","","","","organic","","**Purpose:** 
+ The Financial System Analyst will develop financial and operational dashboards and report on key performance indicators (KPIs). The ideal candidate will have a strong financial background and be proficient in SQL, data extraction, and financial reporting tools. This role requires close collaboration with the IT and Finance teams to validate data completeness and accuracy and will provide valuable insights to support the team in making high quality, data driven decisions.
+ 
+
+
+
+
+
+
+
+
+**Essential Duties and Responsibilities:** 
+
+
+
+* Write, optimize and troubleshoot complex SQL queries to extract and analyze data
+* Develop and maintain custom financial and operational dashboards and metrics to support business objectives, ensuring they align with financial data and reports
+* Collaborate with technical and finance teams to validate data accuracy, completeness and integrity
+* Develop and monitor metrics related to client data quality and day\\-to\\-day operations
+* Utilize reporting and automation tools to streamline financial reporting and analysis
+* Analyze financial data to identify trends, variances, and opportunities for cost savings or process improvement
+* Design and implement automation solutions to streamline workflows and reduce manual efforts
+* Support financial system integration projects, including requirement gathering, testing, and training
+* Partner with Finance and Operations teams to align system capabilities with business needs
+* Collaborate with stakeholders to define reporting needs and deliver actionable insights.
+* Required to attend mandatory meetings and trainings, work scheduled overtime with minimal notice, and perform other duties as assigned per business needs.
+
+
+
+**Qualification Requirements –** 
+
+
+
+
+
+*To perform the job successfully, an individual should demonstrate the following:* 
+
+
+
+* Must be at least 18 years of age.
+* Able to read, write and speak English.
+* Successfully pass and maintain acceptable background checks and security clearances.
+* Bachelor’s degree in Finance, Accounting, Computer Science or related field.
+* 3\\+ years’ experience in financial system analysis, financial reporting, systems management, or a related role.
+* Strong SQL skills, ability to aggregate and analyze large data sets involving multiple tables and subqueries.
+* Experience working with reporting tools to create and maintain dashboards/reports.
+* Experience with databases, data analysis tools and scripting languages along with advanced Excel skills (e.g., SQL, VBA, Python).
+* Experience with ERP systems, financial software, and system implementations.
+* Strong understanding of financial processes and business needs to effectively design and implement systems.
+* A demonstrated track record of accomplishing goals, managing numerous processes and projects simultaneously, meeting deadlines, and holding yourself and others to a high standard.
+* Strong analytical, problem\\-solving, and communication skills with attention to detail.
+
+
+
+**Certificates and Licenses:** 
+
+
+
+* No certificates or licenses needed.
+
+
+
+**Computer Skills:** 
+
+
+
+* Must have knowledge of and work experience with Microsoft technologies, including SQL Server (2012 and higher), SSIS (or other ETL technologies), SSRS, PowerBI, and Office tools (Word, Excel, Outlook).
+* Understanding of HA technologies including Availability Groups and SQL Clustering.","","","","","","","",""
+"zr-ejZBWk283SmQP1LXV3FQ7w","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=ejZBWk283SmQP1LXV3FQ7w","","Design Project Manager","exp","Madison, WI, USA","2025-02-12","","","","","","","","","","organic","","At EXP, we're driven to provide innovative solutions for the world's built and natural environments. As a team of engineers, architects, designers, scientists, creators and a community of professionals, we bring diverse and talented people together to solve the world's most complex challenges. Here, you join a team that leverages differences, harnesses their entrepreneurial spirit in an employee\\-owned company, that believes diversity is what gives us strength, seeks sustainable results and shares ambitions for each other, our clients and the communities we are part of and serve. To be a part of EXP means to have your own experience, while staying connected to a global network of professionals, who believe we are a part of something bigger. Together, we are EXP.
+ 
+
+
+
+  
+ 
+
+
+
+ Are you ready to design your future?
+ 
+
+
+
+  
+ 
+
+
+
+ Be our next 
+ **Design Project Manager** 
+ .
+ 
+
+
+
+  
+ 
+
+
+
+**Your work environment at EXP** 
+
+
+
+
+ EXP's Infrastructure \\& Transportation Practice provides comprehensive planning, design and construction engineering services for all types of roadway, bridge, water resource, rail, transit and aviation projects. With a unique multidisciplinary team approach, we have a history of successfully delivering some of the most complex infrastructure projects in the Midwest.  We are currently looking to grow and enhance our practice and are seeking a highly motivated and dynamic Project Manager for our Wisconsin Operations (Madison, WI office). The ideal candidate will work directly under the supervision of the Practice Leader and focus on delivering transportation projects for wide variety of clients including WisDOT, Counties, and Municipalities.
+ 
+
+
+
+  
+ 
+
+
+
+**What a day at EXP has in store for you** 
+
+
+
+* Manage a wide variety and complexity of highway related projects
+* Maintain project schedules and manage project financials including profit/loss responsibility and targeted direct margin
+* Coordinate staff required for internal project teams, including directing, coordinating and reviewing work by others
+* Perform design computations, oversee report, plan and specification development and sign and seal construction documents as necessary
+* Oversee and approve invoicing/billing and manage project scope and secure change orders as necessary
+* Work with other senior staff within Infrastructure \\& Transportation and other practices groups, as necessary, to execute project delivery
+* Act as EXP's representative with the client and selected subcontractors during project execution
+* Assist in the preparation of proposal and presentations for project pursuits
+* Develop and maintain client relationships
+
+
+
+  
+ 
+
+
+
+**What your experience looks like** 
+
+
+
+* BS in Civil Engineering from an Accredited University
+* 7\\+ years of progressively responsible relevant experience
+* Licensed PE in the State of Wisconsin
+* Demonstrated ability to manage and lead diverse project teams with a strong track record of project delivery from both a technical and financial perspective
+* Knowledge of work related to delivering transportation projects in Wisconsin
+* Experience in geometrics and design, environmental and design report preparation, public involvement, and WisDOT project delivery
+* Proficient with AutoDesk Civil3D as well as MS Office software
+* Excellent interpersonal, verbal and written communication skills
+* Excellent organizational skills and ability to direct and supervise staff engineers and technicians
+* Strong leadership, project management skills and the ability to work in a team environment
+* Ability to mentor engineering staff
+* Experience in business development and client relationships desirable
+* Industry participation in professional societies preferred
+
+
+
+ EXP is proud to be an Equal Opportunity Employer who fully and actively supports equal access for all people regardless of Race, Color, Sex, Religion, Gender, Age, National Origin, Veteran Status, Disability, Genetic Information or Testing, Family and Medical Leave, Sexual Orientation and Gender Identity or Expression. 
+ 
+
+
+
+
+
+
+
+ Should you need any special accommodations, please feel free to contact us at hrsupport@exp.com and we will arrange for the most suitable accommodations based on your needs.
+ 
+
+
+
+**Our story** 
+
+  
+
+ With a mission to understand, innovate, partner and deliver, EXP provides engineering, architecture, design and consulting services to the world's built and natural environments.
+ 
+
+
+
+ Our heritage dates back to 1906, when the earliest of EXP's predecessor companies started its engineering infrastructure practice. Today, thousands of creative professionals across EXP work together to deliver extraordinary experiences year after year.
+ 
+
+
+
+**What makes us different** 
+
+
+
+
+ The passion, enthusiasm, diversity and industry\\-leading capabilities of our employees make us who we are. We're committed to providing a challenging work environment that cultivates career growth, encourages creativity and rewards excellence.
+ 
+
+
+
+ Find out more about life at EXP by visiting www.exp.com.","","","","","","","",""
+"zr-6sPRmhBxyzD4m_LntkkvtQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=6sPRmhBxyzD4m_LntkkvtQ","","Project Manager - Manufacturing","Stoughton Trailers","Stoughton, WI, USA","2025-02-12","","","","","","","","","","organic","","**Essential Duties and Responsibilities** 
+
+
+
+1. Project Planning:
+	* Collaborating with stakeholders to define project scope, objectives, and deliverables.
+	* Creating a detailed project plan, including timelines, resources, and milestones.
+	* Identifying and assessing potential risks and developing contingency plans.
+	* Setting project goals and objectives and communicating them to the team.
+
+
+1. Project Execution:
+	* Managing and coordinating project activities, ensuring adherence to the project plan.
+	* Assigning tasks and responsibilities to team members and monitoring their progress.
+	* Conducting regular team meetings to track project status, resolve issues, and provide updates.
+	* Implementing project management best practices, methodologies, and tools.
+	* Ensuring effective communication and collaboration among team members and stakeholders.
+	* Managing project budgets and resource allocation to ensure optimal utilization.
+
+
+
+  
+ 
+
+
+1. Project Monitoring and Control:
+	* Monitoring project progress, identifying deviations from the plan, and taking corrective actions.
+	* Conducting regular quality assurance reviews to ensure project deliverables meet standards.
+	* Tracking and reporting project metrics, such as budget, schedule, and resource utilization.
+	* Managing changes to project scope, assessing their impact, and obtaining necessary approvals.
+	* Resolving conflicts and addressing issues or concerns raised by team members or stakeholders.
+	* Conducting project post\\-mortems to identify lessons learned and areas for improvement.
+	*
+2. Stakeholder Management:
+	* Building and maintaining strong relationships with stakeholders, clients, and vendors.
+	* Collaborating with stakeholders to define project requirements and obtain necessary approvals.
+	* Managing stakeholder expectations and ensuring effective communication throughout the project lifecycle.
+	* Providing regular project updates and status reports to stakeholders.
+
+
+
+  
+ 
+
+
+1. Team Leadership:
+	* Providing guidance, support, and coaching to project team members.
+	* Promoting a collaborative and positive work environment.
+	* Facilitating effective teamwork and resolving conflicts within the project team.
+	* Motivating and inspiring team members to achieve project goals.
+
+
+
+ Note: Travel is to be expected with this position up to 30% based on current projects
+ 
+
+
+
+*Above is a list of the most important responsibilities and functions, which are essential to the position.  Employees must be able to perform these essential functions satisfactorily with or without a reasonable accommodation.  Accommodations will be evaluated and provided to eligible employees on a case by case basis, depending on the employee's medical restrictions, work availability, the nature of the position, the position's essential functions and other relevant factors.* 
+
+
+
+
+**Qualifications** 
+
+
+
+* **Education:** 
+ Bachelor’s degree in a manufacturing, engineering, operations management, or other scientific field.
+* **Licenses/Certifications:** 
+	+ PMP, Master Black Belt or Lean certification desirable
+* **Knowledge, Skills, \\& Abilities:** 
+	+ Proven experience as a Project Manager or similar role in manufacturing.
+	+ Strong understanding of project management principles, methodologies, and tools.
+	+ Excellent organizational, time management, and prioritization skills.
+	+ Strong leadership and interpersonal skills.
+	+ Excellent communication and negotiation skills.
+	+ Ability to manage multiple projects concurrently.
+	+ Proficiency in project management software and tools.
+	+ Computer aptitude in Microsoft Office, Excel, Access, Powerpoint, along with working knowledge of company software systems such as ERP system (Syteline) and HRIS system (Kronos) as project needs dictate.
+
+
+
+
+
+**Working Conditions \\& Physical Requirements** 
+
+
+
+
+ Please refer to the general office physical demands checklist for more information regarding the working conditions and physical requirements for this job.","","","","","","","",""
+"zr-4FPF4a395lrAmdmjimMfbw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=4FPF4a395lrAmdmjimMfbw","","Product Manager, Operations Systems","Whisker","Juneau, WI, USA","2025-02-12","","","","","","","","","","organic","","Description
+ 
+
+
+
+ Whisker is the maker of Litter\\-Robot, Feeder\\-Robot, and Litterbox.com. At Whisker, we believe pet parenthood can always get better.
+ 
+
+
+
+  
+
+
+
+
+
+ As leading innovators in pet tech and refined pet accessories, we work tirelessly to solve problems and deliver smarter insights for pet parents while enriching the lives of pets. Whether it's a self\\-cleaning litter box that automates scooping, an automatic feeder that helps pets develop healthier eating habits, or a modern cat tree that delights both humans and felines, we strive to deliver better solutions for consumers while transforming pet care along the way. To us, having a pet is the best thing ever. At Whisker, life together just keeps getting better.
+ 
+
+
+
+  
+
+
+
+
+
+ Whisker is based in Auburn Hills, Michigan and Juneau, Wisconsin with 600\\+ passionate team members.
+ 
+
+
+
+  
+
+
+
+
+
+**What You'll Do** 
+ :
+ 
+
+
+
+ The Product Manager \\- Operations Systems partners with the manufacturing and logistics stakeholders at our production facility to define the roadmap for platforms and prioritizes work based on ROI and benefit to the business. The role documents and communicates the vision and business requirements to IT leadership and project managers; facilitates change management, and delivers new functionality IT develops to move the business forward.
+ 
+
+
+
+  
+
+
+
+
+
+**Essential Duties and Responsibilities:** 
+
+
+
+
+*This list of duties and responsibilities is not all\\-inclusive and may be expanded to include other duties and responsibilities as deemed necessary.* 
+
+
+
+* Develop deep expertise in Whisker's Order Management System (OMS), Enterprise Resource Planning (ERP), and related integrations
+* Owns the vision for technical operational systems used by our production facility, including our ERP and Production/Order Management System
+* Conducts research, analyzes data, and provides data\\-driven recommendations for investing in new systems or enhancing existing tools to optimize the experience for planning, production, and logistics teams.
+* Partners with operations leadership to identify inefficiencies where systems do not support existing processes. Works with IT and operations to ideate solutions to reduce those inefficiencies
+* Develops and maintains a roadmap and prioritized list of projects for operational systems
+* Works with project managers and development team to develop estimates and timelines for projects
+* Documents and diagrams existing and future processes and business requirements describing enhancements or new functionality
+* Understands operational processes and supports product development of tools and technology to support them
+* Leads product implementation and roll\\-out to the business. Coordinates meetings with stakeholders and participates in the user\\-acceptance testing process. Ensures new tools are implemented seamlessly and deliver on expected outcomes
+* Partners with IT and Operations to identify and implement changes to our fulfillment system (Whisker Ops), ERP (SAP), and integration platform (Magic XPI) to support the ever\\-evolving needs of the production facility
+* Will perform additional duties as required
+
+
+
+ Requirements
+ 
+
+
+
+**What You'll Bring** 
+ :
+ 
+
+
+* BA/BS in Computer Science, Business or Logistics and/or equivalent years of experience
+* 3\\+ years experience working in operations and logistics at a manufacturing facility
+* Proven experience developing, operating, and maintaining manufacturing and logistics systems and processes
+* Experience debating and influencing Build vs. Buy discussions, researching potential vendors, and the RFP process
+* Ability to remain calm under pressure, focused on the end goal, remaining positive
+* Strong understanding of the Software Development Lifecycle and Agile methodology
+* Maintains confidentiality of proprietary information
+* Ability to maintain a professional atmosphere in a fast\\-paced environment with numerous interactions and interruptions
+* A high degree of initiative, self\\-motivation, and ability to motivate others
+* Ability to establish and maintain cooperative working relationships with Team Members and colleagues
+* Comfortable with office pets (cats, dogs)
+
+
+
+**Not Required but Nice to Have!** 
+
+
+
+* Experience working in and configuring SAP Business One
+* Experience and understanding of Magic XPI or similar integration platform
+
+
+
+**Benefits \\& Purrks:** 
+
+
+
+
+ Join a tenacious, inventive company that empowers team members to chart their own path, lead by grounding decisions in the ""why"", and has a strong sense of empathy and openness to new perspectives. Be a part of exciting growth, work with incredible people, and create tomorrow's pet products\\-plus a whole lot of extras. You will also be provided with:
+ 
+
+
+* Premium Medical/Dental/Vision insurance
+* Paid parental leave
+* Whisker Parents Program
+* 1 day ""pawternity"" leave for new pet adoption
+* Pet Insurance Discount
+* 401K match
+* Flexible spending accounts
+* Company\\-paid short\\-term disability and life insurance
+* Employee Assistance Program (EAP)
+* Generous paid time off
+* 14 Paid Holidays
+* Top of the line equipment
+* Pet\\-friendly office
+* Whisker products and swag
+* Continuing education Support
+* On\\-site gym with Peloton
+* Referral program
+
+
+
+**Statement of Inclusivity:** 
+
+
+
+
+ We believe different perspectives make Whisker better and strive to create a place where everyone has equal opportunities to thrive.
+ 
+
+
+
+  
+
+
+
+
+
+ Please ensure to regularly check your email spam folder for any communication from Whisker to avoid missing important updates regarding your application status.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ \\#onsite1","","","","","","","",""
+"zr-DMe8b0XiYNCUhKDBVkJ2ww","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=DMe8b0XiYNCUhKDBVkJ2ww","","Cloud Security Architect","Central Arizona Project","Madison, WI, USA","2025-02-12","fulltime","direct_data","yearly",125777.0,150904.0,"USD","","","","subs_fulfillment","","Position is located in Phoenix, Arizona. Relocation benefits are available.
+ 
+
+
+
+**About the Pay** 
+
+
+
+
+ Note: The salary range listed ($125,777 \\- $150,904\\) reflects the HIRING RANGE and does not represent the full pay range for this position.
+ 
+
+
+
+**About Central Arizona Project** 
+
+
+
+
+ Central Arizona Project (CAP) is a 336\\-mile system that supplies Colorado River water to central and southern Arizona. More than 6 million people rely on this supply.
+ 
+
+
+
+ CAP employs nearly 500 people who enjoy a team\\-oriented and safety\\-focused work culture. The close community of a small company is driven to help fulfill our extremely valuable mission.
+ 
+
+
+
+**Compensation \\& Benefits Package includes:** 
+
+
+
+* Competitive Salaries
+* Arizona State Retirement System – Pension
+* 401(k)
+* Medical, Dental and Vision
+* Life insurance, LTD, Short\\-term disability
+* **4\\-10 (Mon\\-Thur) work schedule**
+* **Option for part\\-time remote work after successful onboarding**
+* Paid training \\& tuition reimbursement
+* 9 paid holidays
+* Paid vacation \\& sick time
+* Wellness programs
+* No benefits waiting period
+* Relocation benefits
+* Significant training and development opportunities
+* Public Student Loan Forgiveness eligible employer
+* 6\\-week paid Maternity/Paternity leave
+
+
+
+  
+ 
+
+
+
+**About the Responsibilities** 
+
+
+
+
+ As a
+ **Cloud Security Architect** 
+ , you will provide technical thought leadership and guidance for technology teams on all matters related to cloud security from strategy to implementation. This critical role will report to the Enterprise Security Manager and partner with leaders across the business to develop and deliver solutions that meet requirements, support business strategies, and protect Central Arizona Project’s property and data, and ensure all cloud security tools (Azure, AWS, OCI, and SaaS) are in\\-scope as well as numerous best of breed technologies to fortify the layers of defense to ensure a secure enterprise with repeatable/automated processes that align with modern methodologies and best practices.
+ 
+
+
+
+  
+ 
+
+
+
+**Some of the specific duties include:** 
+
+
+
+1. Designing security services in cloud\\-based programs based on pre\\-defined architecture frameworks and risk appropriate controls.
+2. Collaborate with stakeholders, software architects, and DevOps teams to design and implement security solutions in Microsoft Azure, AWS. and OCI.
+3. Collaborate with development teams to ensure secure coding practices, vulnerability assessments, and regular security testing.
+4. Develop and maintain comprehensive diagrams and updated system documentation of the organization's cloud infrastructures, applications, and data flows.
+5. Lead threat modelling and risk assessments to identify potential security threats and vulnerabilities. Develop and execute strategies to mitigate and address these risks.
+6. Evaluate and recommend security tools, technologies, and services that enhance our cloud security posture.
+7. Stay up to date with emerging cloud security threats, vulnerabilities, and best practices, and apply this knowledge to continuously enhance our security strategies.
+
+
+
+  
+ 
+
+
+
+**About the Qualifications** 
+
+
+
+* Bachelor's Degree from an accredited university with a technology\\-based emphasis plus ten (10\\) years relevant experience OR Associates Degree with 12 years’ experience OR High School Diploma or equivalent with 14 years’ experience.
+* Experience in either cloud computing or IT security recommending software and other tools to protect company assets and conducting tests and analysis of procedures and systems to prepare for emergencies.
+* Excellent analytical, organizational, time management, and problem\\-solving skills are essential, including the capture and mapping of the relationships between architecture components.
+* Ability to collaborate with various teams while managing multiple projects at once.
+
+
+
+**Required Certifications or Licenses (one or more of the following):** 
+
+
+
+
+ Certified Information Systems Security Professional, Certified Cloud Security Professional, CompTIA Advanced Security Practitioner, Microsoft Cybersecurity Architect, or Amazon Web Services Certified Security.
+ 
+
+
+
+**PREFERRED QUALIFICATIONS:** 
+
+
+
+* Experience designing and implementing security solutions for cloud\\-based systems, including IAM, network security, data protection, DevSecOps and compliance.
+* Ability to collaborate with various teams to develop policies and procedures.
+
+
+
+  
+ 
+
+
+
+ If you are experienced and highly skilled in the responsibilities of this job (mentioned above), have a team\\-focused positive approach to work, and are looking for a rewarding career with a stable organization in the North Phoenix area, then we encourage you to apply online today! www.cap\\-az.com/jobs. Your Water, Your Future! EOE
+ 
+
+
+
+
+
+### About Central Arizona Project:
+
+
+
+
+ Central Arizona Project (CAP) is a 336\\-mile system that supplies Colorado River water to central and southern Arizona. More than 6 million people rely on this supply.","","","","","","","",""
