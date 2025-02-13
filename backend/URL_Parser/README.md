@@ -1,5 +1,8 @@
 # ATS Job Listing and Application Form URL Parsing
 
+## ATS Platforms Compilation:
+https://everyats.com/
+
 ## Overview
 This document provides information on different Applicant Tracking Systems (ATS) and their job listing URL structures. It categorizes ATSs based on their ability to backtrace application form URLs to job listing URLs and highlights specific URL examples for each ATS.
 
