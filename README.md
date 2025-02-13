@@ -4,6 +4,7 @@
 
 ```bash
 cd backend
+python3 -m venv venv
 # On Mac/Linux
 source venv/bin/activate
 # On Windows
